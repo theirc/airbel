@@ -1,0 +1,10 @@
+@mixin transition($duration: .3s, $property: all, $effect: ease-in-out) {
+  transition: $property $duration $effect;
+}
+
+@mixin animation($effect: fadeIn, $duration: .5s, $delay: 0s) {
+  animation-name: $effect;
+  animation-duration: $duration;
+  animation-fill-mode: both;
+  animation-delay: ($delay);
+}

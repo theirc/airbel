@@ -1,0 +1,34 @@
+@charset 'utf-8';
+@import "custom_settings";
+@import "./node_modules/bootstrap/scss/bootstrap";
+
+// // Required
+// @import "./node_modules/scss/functions";
+// @import "./node_modules/scss/variables";
+// @import "./node_modules/scss/mixins";
+
+// // Optional
+// @import "./node_modules/scss/reboot";
+// @import "./node_modules/scss/type";
+// @import "./node_modules/scss/images";
+// @import "./node_modules/scss/code";
+// @import "./node_modules/scss/grid";
+
+
+@import 'mixins';
+@import 'utilities';
+@import 'fonts';
+
+
+// Import layout / global styles
+@import 'layout/page_header';
+@import 'layout/page_content';
+@import 'layout/page_footer';
+
+// Import additional elements or project specific styles
+@import 'elements/blockquotes';
+@import 'elements/bg_video';
+@import 'elements/tab_collapse';
+
+// Animations
+@import 'animations';

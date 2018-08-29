@@ -1,0 +1,22 @@
+
+%clearfix {
+  zoom: 1;
+
+  &::before,
+  &::after {
+    content: '';
+    display: table;
+  }
+
+  &::after {
+    clear: both;
+  }
+}
+
+// Spacing
+.content {
+  @extend %clearfix;
+  padding: 20px;
+  position: relative;
+}
+

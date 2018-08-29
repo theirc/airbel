@@ -1,0 +1,50 @@
+# Site settings
+title: Airbel
+email: dev@ocupop.com
+description: ''
+url: "https://icy-ship.cloudvent.net"
+permalink: pretty
+# analytics_code:
+
+# Collections
+collections:
+  projects:
+    output: true
+    layout: default
+    permalink: /projects/:path/
+
+# defaults:
+#   - 
+#     scope:
+#       type: 'examples'
+#     values:
+#       layout: default
+#       variable_name: value
+
+# Build settings
+safe: false
+source: src
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# feed:
+#   title: Client Name
+#   description: Description of feed
+#   url: primary url
+#   path: alternate path
+
+_options:
+  layout:
+    hidden: true
+
+project_statuses:
+  - 1. Identify
+  - 2. Design / Research
+  - 3. Design / Solution Generation
+  - 4. Design / Prototype
+  - 5. Test / Pilot
+  - 6. Test / Rigorous evaluation
+  - 7. Scale

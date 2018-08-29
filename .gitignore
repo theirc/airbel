@@ -1,0 +1,13 @@
+.DS-Store
+.sass-cache
+.bundle
+.jekyll-metadata
+
+# Site build
+_site
+
+# Logs
+*.log
+
+# Packages
+node_modules
