@@ -1,10 +1,10 @@
 ---
 layout: project
 title: 
+status:
 description:
 featured_image:
 featured_video_url:
-status:
 milestones:
   - date:
     title:

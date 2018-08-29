@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Coach Everu
+status: 5. Test / Pilot
 description: >-
   A virtual coaching program for refugee teachers on how to promote students’
   social and emotional wellbeing. Social-emotional learning, or “SEL”, can help
@@ -11,7 +12,6 @@ description: >-
   solution can be implemented as separate components or one holistic approach.
 featured_image: /uploads/coach-everu.jpg
 featured_video_url: 'https://youtu.be/-2R3tuNr47g'
-project_status: 5. Test / Pilot
 milestones:
   - date: 2016-03-01 00:00:00
     title: “Project Dandelion” begins
