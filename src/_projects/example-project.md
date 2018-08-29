@@ -7,7 +7,7 @@ description: >-
   ab quaerat, pariatur debitis, porro quam, nisi sit totam.
 featured_image: /uploads/dsc-2837.jpg
 featured_video_url: 'https://youtu.be/gIqZNUOZyw0'
-project_status: 6. Test / Rigorous evaluation
+status: 6. Test / Rigorous evaluation
 milestones:
   - date: 2018-08-08 00:00:00
     title: Moved to Hawaii

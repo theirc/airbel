@@ -40,7 +40,7 @@ _options:
   layout:
     hidden: true
 
-project_statuses:
+statuses:
   - 1. Identify
   - 2. Design / Research
   - 3. Design / Solution Generation

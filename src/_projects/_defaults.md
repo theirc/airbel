@@ -4,7 +4,7 @@ title:
 description:
 featured_image:
 featured_video_url:
-project_status:
+status:
 milestones:
   - date:
     title:
