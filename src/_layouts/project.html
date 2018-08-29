@@ -6,6 +6,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-12 col-md-8">
+        <p><small><a href="/">&lt; project list</a></small></p>
         <h1>{{ project.title }}</h1>
         {{ content }}
         <hr>
@@ -13,7 +14,7 @@ layout: default
           {% for milestone in project.milestones %}
             <li class="list-group-item">
               <p><strong>{{ milestone.date | date: "%B %Y" }} - {{ milestone.title }}</strong></p>
-              {{ milestone.description_markdown }}
+              {{ milestone.description_markdown | markdownify }}
             </li>
           {% endfor %}
         </ul>
