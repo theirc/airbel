@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Becoming One
-status:
+status: 5. Test / Pilot
 description:
 featured_image:
 featured_video_url:
@@ -10,3 +10,4 @@ milestones:
     title:
     description_markdown:
 ---
+
