@@ -19,7 +19,7 @@ module.exports = {
     firebase: true,
   },
   tasks: {
-    webpack:  true,
+    // webpack:  true,
     imagemin: true,
     sass:     true,
     jekyll:   true,
