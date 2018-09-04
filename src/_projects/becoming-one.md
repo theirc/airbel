@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Becoming One
+visible: true
 status:
 description:
 featured_image:

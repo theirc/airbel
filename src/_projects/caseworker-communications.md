@@ -1,6 +1,7 @@
 ---
 layout: project
-title: 
+title:
+visible: true 
 status:
 description:
 featured_image:
