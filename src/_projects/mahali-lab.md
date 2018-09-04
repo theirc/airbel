@@ -2,7 +2,7 @@
 layout: project
 title: 
 status:
-description:
+description: innovation lab in jordan 
 featured_image:
 featured_video_url:
 milestones:
