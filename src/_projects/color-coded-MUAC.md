@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 
+title: Color-coded MUAC
 status:
 description:
 featured_image:
@@ -10,3 +10,4 @@ milestones:
     title:
     description_markdown:
 ---
+
