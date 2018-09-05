@@ -25,3 +25,27 @@ iframe {
   width: 100%;
   height: auto;
 }
+
+// Background images
+.bg-image {
+  display: block;
+  height: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  &.aspect-5x7 {
+    padding-top: 120%;
+  }
+  &.aspect-1x1 {
+    padding-top: 100%;
+  }
+  &.aspect-4x3 {
+    padding-top: 75%;
+  }
+  &.aspect-16x9 {
+    padding-top: 56.25%;
+  }
+  &.aspect-wide {
+    padding-top: 33%;
+  }
+}

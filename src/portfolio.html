@@ -1,0 +1,48 @@
+---
+layout: default
+title: Portfolio
+---
+
+
+<div class="bg-image aspect-wide" style="background-image: url(https://via.placeholder.com/1800x500?text=Hero+image)"></div>
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <h1>Our Project Portfolio</h1>
+          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam</p>
+          <img src="https://via.placeholder.com/1400x500?text=Design+Test+Scale+Grid" class="img-fluid" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <h2>All Projects</h2>
+        </div>
+      </div>
+    </div>
+    {% for project in site.projects %}
+      <div class="row align-items-center">
+        <div class="col-md-6">
+          <div class="content">
+            <a href="{{ project.url }}" class="bg-image aspect-4x3" style="background-image: url(https://via.placeholder.com/768x768)"></a>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="content">
+            <h3>{{ project.title }}</h3>
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis</p>
+            <a href="{{ project.url }}" class="btn btn-dark">Explore Project</a>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+{% include bring-together.html %}
