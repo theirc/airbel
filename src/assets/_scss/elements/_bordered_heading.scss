@@ -1,0 +1,16 @@
+.bordered-heading {
+  display: inline-block;
+  position: relative;
+  &::before {
+    content: '';
+    display: block;
+    width: 500%;
+    height: 40px;
+    background: $white;
+    border-top: 10px solid $blue;
+    border-right: 10px solid $blue;
+    position: absolute;
+    top: -60px;
+    left: -385%;
+  }
+}

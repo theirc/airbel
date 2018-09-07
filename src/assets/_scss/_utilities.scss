@@ -33,6 +33,9 @@ iframe {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
+  &.bg-image-section {
+    height: auto;
+  }
   &.aspect-5x7 {
     padding-top: 120%;
   }
@@ -49,3 +52,5 @@ iframe {
     padding-top: 33%;
   }
 }
+
+
