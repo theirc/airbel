@@ -1,0 +1,77 @@
+.timeline {
+  padding: 100px 0;
+  position: relative;
+  overflow: hidden;
+  &::before {
+    content: '';
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    margin-left: -2px;
+    display: block;
+    height: 100%;
+    width: 5px;
+    background-color: $black;
+  }
+  .content {
+    margin-bottom: 100px;
+    background-color: $white;
+    z-index: 1;
+    &::before {
+      content: '';
+      position: absolute;
+      left: -145px;
+      top: 0;
+      width: 15px;
+      height: 15px;
+      border-radius: 50%;
+      background-color: $yellow;
+      border: 1px solid $black;
+    }
+    &::after {
+      content: '';
+      position: absolute;
+      left: -40px;
+      top: -7px;
+      width: 0; 
+      height: 0; 
+      border-left: 40px solid transparent;
+      border-right: 40px solid transparent;
+      border-bottom: 40px solid white;
+      transform: rotate(45deg);
+      z-index: 0;
+    }
+  }
+}
+
+@media (min-width: $screen-md-min) {
+  .timeline {
+    &::before {
+      left: 10px;
+    }
+    .content {
+      &::before {
+        left: -117px;
+      }
+    }
+  }
+}
+
+@media (min-width: $screen-lg-min) {
+  .timeline {
+    &::before {
+      left: 50px;
+    }
+  }
+}
+
+@media (min-width: $screen-xl-min) {
+  .timeline {
+    .content {
+      &::before {
+        left: -147px;
+      }
+    }
+  }
+}
+
