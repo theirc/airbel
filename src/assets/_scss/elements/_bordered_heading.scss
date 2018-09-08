@@ -1,16 +1,52 @@
 .bordered-heading {
   display: inline-block;
   position: relative;
+  padding-right: 20px;
+  
   &::before {
     content: '';
     display: block;
     width: 500%;
     height: 40px;
     background: $white;
-    border-top: 10px solid $blue;
-    border-right: 10px solid $blue;
     position: absolute;
     top: -60px;
     left: -385%;
+  }
+  &.bordered-blue {
+    &::before {
+      border-top: 10px solid $blue;
+      border-right: 10px solid $blue;
+    }
+  }
+  .border-blue-dark {
+    &::before {
+      border-top: 10px solid $blue;
+      border-right: 10px solid $blue;
+    }
+  }
+  &.bordered-green {
+    &::before {
+      border-top: 10px solid $green;
+      border-right: 10px solid $green;
+    }
+  }
+  &.bordered-orange {
+    &::before {
+      border-top: 10px solid $orange;
+      border-right: 10px solid $orange;
+    }
+  }
+  &.bordered-purple {
+    &::before {
+      border-top: 10px solid $purple;
+      border-right: 10px solid $purple;
+    }
+  }
+  &.bordered-yellow {
+    &::before {
+      border-top: 10px solid $yellow;
+      border-right: 10px solid $yellow;
+    }
   }
 }

@@ -9,4 +9,6 @@ import App from './App';
 
 $(function() {
   console.log('jQuery loaded');
+
+  $('#myTab').tabCollapse();
 });

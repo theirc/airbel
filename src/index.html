@@ -2,12 +2,12 @@
 layout: default
 title: Home
 ---
-
+<App></App>
 <div class="container-fluid">
-  <section>
+  <section class="bg-image bg-image-section" style="background-image: url(/assets/img/bg-graphics.png)">
     <div class="row">
-      <div class="col-md-7">
-        <div class="content bg-light">
+      <div class="col-md-8 bordered-col">
+        <div class="content">
           <h1>Innovation in the face of crisis</h1>
           <p>The Airbel Center is the innovation center at the International Rescue Committee. We design, test, and drive large-scale adoption of innovations for people affected by crisis, focusing on projects that have the potential for reaching the most people with the most effective breakthrough products, services, and systems.</p>
         </div>
@@ -16,13 +16,13 @@ title: Home
   </section>
 </div>
 <div class="bg-image aspect-wide" style="background-image: url(https://via.placeholder.com/1800x500?text=Hero+image)"></div>
-<section>
+<section class="bg-plus bg-right bg-no-repeat">
   <div class="container">
     <div class="row">
       <div class="col">
         <div class="content">
-          <h2>What is Airbel?</h2>
-          <p>The Airbel Center's mission is to design and test life-changing, scalable solutions for people affected by crisis across the globe.</p>
+          <h2 class="bordered-heading bordered-blue">What is Airbel?</h2>
+          <p><mark class="bg-warning">The Airbel Center's mission is to design and test life-changing, scalable solutions for people affected by crisis across the globe.</mark></p>
         </div>
       </div>
     </div>
@@ -84,7 +84,7 @@ title: Home
     <div class="row">
       <div class="col">
         <div class="content">
-          <h2>What do we focus on?</h2>
+          <h2 class="bordered-heading bordered-orange">What do we focus on?</h2>
         </div>
       </div>
     </div>
@@ -171,7 +171,7 @@ title: Home
         <div class="content">
           <h2>Where are we making an impact?</h2>
           <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod</p>
-          <img src="https://via.placeholder.com/1400x600?text=World+Map" class="img-fluid" alt="">
+          {% include map.html %}
           <a href="#" class="btn btn-warning">See all Airbel projects</a>
         </div>
       </div>

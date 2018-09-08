@@ -15,13 +15,14 @@ $gray-900: #212529 !default;
 $black:    #000000 !default;
 
 $blue:    #25b0e8;
+$blue-dark:#196baf;
 $indigo:  #6610f2 !default;
-$purple:  #6f42c1 !default;
+$purple:  #a135c9;
 $pink:    #e83e8c !default;
 $red:     #dc3545 !default;
 $orange:  #fd7e14 !default;
 $yellow:  #fec938;
-$green:   #87a63e;
+$green:   #69ad3d;
 $teal:    #20c997 !default;
 $cyan:    #7dd0e8 !default;
 
@@ -38,8 +39,14 @@ $dark:          $gray-700;
 $body-bg:               $white;
 $body-color:            $dark;
 
+$roboto-condensed: "roboto-condensed", sans-serif;
+$azo: "azo-sans-web", sans-serif;
+$motiva-sans: "motiva-sans", sans-serif;
+$commuter-sans: "commuters-sans", sans-serif;
+$proxima-nova:  "proxima-nova", sans-serif;
+$font-family-base: $proxima-nova;
 
-$font-family-base: 'Open Sans', sans-serif;
+
 
 $font-size-base:              1rem !default; // Assumes the browser default, typically `16px`
 $font-size-lg:                ($font-size-base * 1.25) !default;
@@ -59,8 +66,8 @@ $h4-font-size:                $font-size-base * 1.5 !default;
 $h5-font-size:                $font-size-base * 1.25 !default;
 $h6-font-size:                $font-size-base !default;
 
-$headings-font-family:        'Open Sans', sans-serif;
-$headings-font-weight:        400;
+$headings-font-family:        $commuter-sans;
+$headings-font-weight:        800;
 $headings-line-height:        1.2 !default;
 $headings-color:              inherit !default;
 

@@ -2,7 +2,42 @@
 layout: default
 ---
 {% assign project = page %}
-<section class="mt-5">
+<div class="bg-image aspect-wide" style="background-image: url({{project.featured_image | default: site.placeholders.hero }})"></div>
+<section class="bg-plus bg-right bg-no-repeat">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <h1 class="bordered-heading bordered-blue">{{ project.title }} | <small><em>Category</em></small></h1>
+          <p><mark class="bg-warning">Lorem highlighted text ipsum dolor sit amet consectetur adipisicing elit. Commodi, aperiam!</mark></p>
+          {{ project.description }}
+        </div>
+      </div>
+    </div>
+    {% include project-grid-nav.html %}
+  </div>
+</section>
+{% include timeline.html %}
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <iframe style="height: 500px;" src="{{ project.featured_video_url | replace: 'https://youtu.be/', 'https://www.youtube.com/embed/' }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <p><mark class="bg-warning">Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nisi alias eos, vel quod accusantium.</mark></p>
+          {{content}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- <section class="mt-5">
   <div class="container">
     <div class="row">
       <div class="col-12 col-md-8">
@@ -42,4 +77,31 @@ layout: default
       </div>
     </div>
   </div>
+</section> -->
+<section class="bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="content">
+          <h2>Related Articles</h2>
+          <ul>
+            <li>Related Blog Article Title goes here</li>
+            <li>Related Blog Article Title goes here</li>
+            <li>Related Blog Article Title goes here</li>
+            <li>Related Blog Article Title goes here</li>
+            <li>Related Blog Article Title goes here</li>
+            <li>Related Blog Article Title goes here</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="content">
+          <h2>Github Resources</h2>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, qui.</p>
+          <a href="#" class="btn btn-dark">View Github</a>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
+{% include bring-together.html %}

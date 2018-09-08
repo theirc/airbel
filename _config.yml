@@ -6,6 +6,11 @@ url: "https://icy-ship.cloudvent.net"
 permalink: pretty
 # analytics_code:
 
+placeholders:
+  hero: https://via.placeholder.com/1800x500?text=Hero+image
+  thumbnail_4x3: https://via.placeholder.com/768x500?text=4x3
+  thumbnail_1x1:  https://via.placeholder.com/768x768?text=1x1
+
 # Collections
 collections:
   projects:

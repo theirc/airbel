@@ -3,18 +3,19 @@ layout: default
 title: Portfolio
 ---
 
-
 <div class="bg-image aspect-wide" style="background-image: url(https://via.placeholder.com/1800x500?text=Hero+image)"></div>
 <section>
   <div class="container">
     <div class="row">
       <div class="col">
         <div class="content">
-          <h1>Our Project Portfolio</h1>
+          <h1 class="bordered-heading bordered-yellow">Our Project Portfolio</h1>
           <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam</p>
-          <img src="https://via.placeholder.com/1400x500?text=Design+Test+Scale+Grid" class="img-fluid" alt="">
         </div>
       </div>
+    </div>
+    <div class="container">
+      {% include project-grid.html %}
     </div>
   </div>
 </section>
@@ -31,7 +32,7 @@ title: Portfolio
       <div class="row align-items-center">
         <div class="col-md-6">
           <div class="content">
-            <a href="{{ project.url }}" class="bg-image aspect-4x3" style="background-image: url(https://via.placeholder.com/768x768)"></a>
+            <a href="{{ project.url }}" class="bg-image aspect-4x3" style="background-image: url({{ project.featured_image | default: site.placeholders.thumbnail_4x3 }})"></a>
           </div>
         </div>
         <div class="col-md-6">

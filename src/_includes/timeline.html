@@ -1,0 +1,18 @@
+<section class="bg-light bg-image bg-image-section" style="background-image: url(/assets/img/bg-graphics.png)">
+  <div class="container">
+    <div class="timeline">
+      {% for milestone in project.milestones %}
+      <div class="row">
+        <div class="col-md-10 ml-auto">
+          <div class="content">
+            <div class="timeline-item">
+              <h2>{{ milestone.date | date: "%B %Y" }} | <small>{{ milestone.title }}</small></h2>
+              {{ milestone.description_markdown | markdownify }}
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
