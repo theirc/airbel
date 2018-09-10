@@ -1,8 +1,8 @@
 ---
 layout: project
 title: Becoming One
-status:
-stage: 
+status: active
+stage:
 description:
 featured_image:
 featured_video_url:
@@ -11,3 +11,4 @@ milestones:
     title:
     description_markdown:
 ---
+
