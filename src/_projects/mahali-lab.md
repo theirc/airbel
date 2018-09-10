@@ -1,8 +1,8 @@
 ---
 layout: project
 title: 
-visible: true
 status:
+stage: 
 description: innovation lab in jordan 
 featured_image:
 featured_video_url:

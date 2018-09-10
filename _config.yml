@@ -41,6 +41,12 @@ _options:
     hidden: true
 
 statuses:
+  - active
+  - hidden
+  - discontinued
+  - graduated
+
+stages:
   - 1. Identify
   - 2. Design / Research
   - 3. Design / Solution Generation

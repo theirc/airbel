@@ -23,10 +23,12 @@ layout: default
         <dl>
           <dt>Title</dt>
           <dd>{{ project.title }}</dd>
-          <dt>Visible (Portfolio Visualizer)</dt>
-          <dd>{{ project.visible }}</dd>
           <dt>Status</dt>
           <dd>{{ project.status }}</dd>
+          <dt>Visible (Portfolio Visualizer)</dt>
+          <dd>{% if project.status == 'hidden' %}false{% else %}true{% endif %}</dd>
+          <dt>Stage</dt>
+          <dd>{{ project.stage }}</dd>
           <dt>Description</dt>
           <dd>{{ project.description }}</dd>  
           <dt>Featured Image</dt>
