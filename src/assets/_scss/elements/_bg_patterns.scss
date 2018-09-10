@@ -1,8 +1,18 @@
+.bg-top {
+  background-position-y: top;
+}
 
+.bg-bottom {
+  background-position-y: bottom;
+}
 
 .bg-right {
-  background-position: right top;
-} 
+  background-position-x: right;
+}
+
+.bg-left {
+  background-position-x: left;
+}
 
 .bg-no-repeat {
   background-repeat: no-repeat;

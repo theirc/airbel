@@ -14,14 +14,16 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black:    #000000 !default;
 
-$blue:    #25b0e8;
+$blue:    #81e2f3;
 $blue-dark:#196baf;
 $indigo:  #6610f2 !default;
 $purple:  #a135c9;
 $pink:    #e83e8c !default;
 $red:     #dc3545 !default;
-$orange:  #fd7e14 !default;
+$orange:  #ef8f11;
 $yellow:  #fec938;
+$yellow-mid: #e5af28;
+$yellow-dark: #d19b13;
 $green:   #69ad3d;
 $teal:    #20c997 !default;
 $cyan:    #7dd0e8 !default;
@@ -30,13 +32,13 @@ $primary:       $blue;
 $secondary:     #23405e;
 $success:       $green !default;
 $info:          $cyan !default;
-$warning:       $yellow !default;
+$warning:       $yellow;
 $danger:        $red !default;
 $light:         $gray-100;
 $dark:          $gray-700;
 
 
-$body-bg:               $white;
+$body-bg:               $gray-400;
 $body-color:            $dark;
 
 $roboto-condensed: "roboto-condensed", sans-serif;

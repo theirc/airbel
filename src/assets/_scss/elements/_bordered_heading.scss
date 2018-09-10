@@ -1,52 +1,55 @@
 .bordered-heading {
   display: inline-block;
   position: relative;
-  padding-right: 20px;
+  padding-right: 40px;
+  margin-top: -50px;
+  padding-top: 45px;
+  background-color: $white;
   
   &::before {
     content: '';
     display: block;
     width: 500%;
-    height: 40px;
+    height: 30px;
     background: $white;
     position: absolute;
-    top: -60px;
-    left: -385%;
+    top: 0;
+    right: 0;
   }
   &.bordered-blue {
     &::before {
-      border-top: 10px solid $blue;
-      border-right: 10px solid $blue;
+      border-top: 12px solid $blue;
+      border-right: 12px solid $blue;
     }
   }
   .border-blue-dark {
     &::before {
-      border-top: 10px solid $blue;
-      border-right: 10px solid $blue;
+      border-top: 12px solid $blue;
+      border-right: 12px solid $blue;
     }
   }
   &.bordered-green {
     &::before {
-      border-top: 10px solid $green;
-      border-right: 10px solid $green;
+      border-top: 12px solid $green;
+      border-right: 12px solid $green;
     }
   }
   &.bordered-orange {
     &::before {
-      border-top: 10px solid $orange;
-      border-right: 10px solid $orange;
+      border-top: 12px solid $orange;
+      border-right: 12px solid $orange;
     }
   }
   &.bordered-purple {
     &::before {
-      border-top: 10px solid $purple;
-      border-right: 10px solid $purple;
+      border-top: 12px solid $purple;
+      border-right: 12px solid $purple;
     }
   }
   &.bordered-yellow {
     &::before {
-      border-top: 10px solid $yellow;
-      border-right: 10px solid $yellow;
+      border-top: 12px solid $yellow;
+      border-right: 12px solid $yellow;
     }
   }
 }

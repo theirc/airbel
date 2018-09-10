@@ -2,9 +2,8 @@
 layout: default
 title: Home
 ---
-<App></App>
-<div class="container-fluid">
-  <section class="bg-image bg-image-section" style="background-image: url(/assets/img/bg-graphics.png)">
+<section class="bg-image bg-image-section overflow-hidden" style="background-image: url(/assets/img/bg-graphics.png)">
+  <div class="container">
     <div class="row">
       <div class="col-md-8 bordered-col">
         <div class="content">
@@ -13,10 +12,11 @@ title: Home
         </div>
       </div>
     </div>
-  </section>
-</div>
+  </div>
+</section>
+
 <div class="bg-image aspect-wide" style="background-image: url(https://via.placeholder.com/1800x500?text=Hero+image)"></div>
-<section class="bg-plus bg-right bg-no-repeat">
+<section class="bg-plus bg-right bg-top bg-no-repeat">
   <div class="container">
     <div class="row">
       <div class="col">
@@ -34,7 +34,7 @@ title: Home
         </div>
       </div>
       <div class="col-lg-6">
-        <div class="bg-image aspect-1x1" style="background-image: url(https://via.placeholder.com/768x768?text=Mosaic+image)"></div>
+        <div class="bg-image aspect-1x1 underlay underlay-orange" style="background-image: url(https://via.placeholder.com/768x768?text=Mosaic+image)"></div>
       </div>
     </div>
   </div>
@@ -88,6 +88,7 @@ title: Home
         </div>
       </div>
     </div>
+    {% include focus-tabs.html %}
   </div>
 </section>
 <div class="bg-image aspect-wide" style="background-image: url(https://via.placeholder.com/1800x500?text=Hero+image)"></div>
@@ -153,11 +154,11 @@ title: Home
         </div>
       </div>
     </div>
+    {% include project-grid.html %}
     <div class="row">
       <div class="col">
         <div class="content">
-          <img src="https://via.placeholder.com/1400x500?text=Design+Test+Scale+Grid" class="img-fluid" alt="">
-          <a href="" class="btn btn-warning">See all Airbel Projects</a>
+          <a href="/portfolio" class="btn btn-warning">See all Airbel Projects</a>
         </div>
       </div>
     </div>

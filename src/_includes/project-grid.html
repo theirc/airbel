@@ -1,104 +1,127 @@
-<div class="project-grid">
-    <div class="row no-gutters">
-      <div class="col-md-6">
-        <div class="row">
-          <div class="col">
-            <div class="phase-heading">
-              Design
-            </div>
-          </div>
-        </div>
-        <div class="row no-gutters align-items-center">
-          <div class="col-md-4">
-            <div class="phase-sub-heading">
-              Research
-            </div>
-            <div class="box-container"></div>
-          </div>
-          <div class="col-md-4">
-            <div class="phase-sub-heading">
-              Generate<br>Solutions
-            </div>
-            <div class="box-container">
-              <div class="box bg-primary"></div>
-              <div class="box bg-warning"></div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="phase-sub-heading">
-              Prototype
-            </div>
-            <div class="box-container">
-              <div class="box bg-primary"></div>
-              <div class="box bg-warning"></div>
-              <div class="box bg-success"></div>
-              <div class="box bg-primary"></div>
-              <div class="box bg-warning"></div>
-              <div class="box bg-success"></div>
-            </div>
+<div class="project-visualizer grid-view">
+  <div class="row no-gutters">
+    <div class="col-md-6">
+      <div class="row">
+        <div class="col">
+          <div class="phase-heading">
+            Design
           </div>
         </div>
       </div>
-      <div class="col-md-4">
-        <div class="row">
-          <div class="col">
-            <div class="phase-heading">
-              Test
-            </div>
+      <div class="row no-gutters align-items-center">
+        <div class="col-md-4">
+          <div class="phase-sub-heading">
+            Research
+          </div>
+          <div class="box-container"></div>
+        </div>
+        <div class="col-md-4">
+          <div class="phase-sub-heading">
+            Generate<br>Solutions
+          </div>
+          <div class="box-container">
+            <div class="box bg-primary"></div>
+            <div class="box bg-warning"></div>
           </div>
         </div>
-        <div class="row align-items-center no-gutters">
-          <div class="col-md-6">
-            <div class="phase-sub-heading">
-              Pilot
-            </div>
-            <div class="box-container">
-              <div class="box bg-primary"></div>
-              <div class="box bg-warning"></div>
-            </div>
+        <div class="col-md-4">
+          <div class="phase-sub-heading">
+            Prototype
           </div>
-          <div class="col-md-6">
-            <div class="phase-sub-heading">
-              Rigorous<br>Evaluation
-            </div>
-            <div class="box-container">
-              <div class="box bg-primary"></div>
-              <div class="box bg-warning"></div>
-              <div class="box bg-success"></div>
-              <div class="box bg-primary"></div>
-              <div class="box bg-warning"></div>
-              <div class="box bg-success"></div>
-            </div>
+          <div class="box-container">
+            <div class="box bg-orange"></div>
+            <div class="box bg-warning"></div>
+            <div class="box bg-success"></div>
+            <div class="box bg-primary"></div>
+            <div class="box bg-warning"></div>
+            <div class="box bg-success"></div>
           </div>
         </div>
       </div>
-      <div class="col-md-2">
-        <div class="row">
-          <div class="col">
-            <div class="phase-heading">
-              Scale
-            </div>
+    </div>
+    <div class="col-md-4">
+      <div class="row">
+        <div class="col">
+          <div class="phase-heading">
+            Test
           </div>
         </div>
-        <div class="row">
-          <div class="col">
-            <div class="phase-sub-heading ">
-              Scale
-            </div>
-            <div class="box-container">
-              <div class="box bg-primary"></div>
-              <div class="box bg-warning"></div>
-            </div>
+      </div>
+      <div class="row align-items-center no-gutters">
+        <div class="col-md-6">
+          <div class="phase-sub-heading">
+            Pilot
+          </div>
+          <div class="box-container">
+            <div class="box bg-primary"></div>
+            <div class="box bg-warning"></div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="phase-sub-heading">
+            Rigorous<br>Evaluation
+          </div>
+          <div class="box-container">
+            <div class="box bg-primary"></div>
+            <div class="box bg-warning"></div>
+            <div class="box bg-success"></div>
+            <div class="box bg-primary"></div>
+            <div class="box bg-warning"></div>
+            <div class="box bg-success"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-2">
+      <div class="row">
+        <div class="col">
+          <div class="phase-heading">
+            Scale
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <div class="phase-sub-heading ">
+            Scale
+          </div>
+          <div class="box-container">
+            <div class="box bg-primary"></div>
+            <div class="box bg-warning"></div>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="grid-key">
-    {% for i in (1..7) %}
-    <div class="key-item">
-      <div class="box bg-primary"></div>
-      Education
-    </div>
-    {% endfor %}
+</div>
+<div class="grid-key">
+  <div class="key-item">
+    <div class="box bg-primary"></div>
+    Education
   </div>
+  <div class="key-item">
+    <div class="box bg-orange"></div>
+    Resettlement
+  </div>
+  <div class="key-item">
+    <div class="box bg-blue-dark"></div>
+    Employment
+  </div>
+  <div class="key-item">
+    <div class="box bg-primary"></div>
+    Nutrition
+  </div>
+  <div class="key-item">
+    <div class="box bg-danger"></div>
+    Safety
+  </div>
+  <div class="key-item">
+    <div class="box bg-warning"></div>
+    Financing
+  </div>
+  <div class="key-item">
+    <div class="box bg-purple"></div>
+    Other
+  </div>
+</div>
+

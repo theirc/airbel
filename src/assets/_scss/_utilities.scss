@@ -51,6 +51,27 @@ iframe {
   &.aspect-wide {
     padding-top: 33%;
   }
+  &.underlay {
+    z-index: 10;
+    position: relative;
+    box-shadow: 11px 14px 0 $orange;
+  }
 }
 
+.overflow-hidden {
+  overflow: hidden;
+}
+
+//color utilities
+.bg-blue-dark {
+  background-color: $blue-dark;
+}
+
+.bg-orange {
+  background-color: $orange;
+}
+
+.bg-purple {
+  background-color: $purple;
+}
 

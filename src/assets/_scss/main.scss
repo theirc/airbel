@@ -19,19 +19,21 @@
 @import 'utilities';
 @import 'fonts';
 
+//import base / global styles
+@import 'base/global';
 
-// Import layout / global styles
+// Import layout styles
 @import 'layout/page_header';
+@import 'layout/page';
 @import 'layout/page_content';
 @import 'layout/page_footer';
 
 // Import additional elements or project specific styles
 @import 'elements/bg_patterns';
-@import 'elements/bg_video';
 @import 'elements/bordered_col';
 @import 'elements/bordered_heading';
-@import 'elements/hero';
-@import 'elements/project_grid';
+@import 'elements/focus_tabs';
+@import 'elements/project_visualizer';
 @import 'elements/tab_collapse';
 @import 'elements/timeline';
 

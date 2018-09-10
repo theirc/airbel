@@ -1,0 +1,16 @@
+#focus-tabs {
+  border: 0;
+  .nav-item {
+    background-color: $gray-100;
+    margin-bottom: 5px;
+    .nav-link {
+      color: $black;
+      padding-left: 30px;
+      &.active {
+        background-color: $gray-100;
+        border: 0;
+        border-left: 10px solid;
+      }
+    }
+  }
+}
