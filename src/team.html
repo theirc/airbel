@@ -4,7 +4,7 @@ title: Team
 ---
 
 <div class="bg-image aspect-wide" style="background-image: url(https://via.placeholder.com/1800x500?text=Hero+image)"></div>
-<section class="bg-plus bg-right bg-no-repeat">
+<section class="bg-plus bg-right bg-no-repeat pt-0">
   <div class="container">
     <div class="row">
       <div class="col">
@@ -17,12 +17,12 @@ title: Team
     <div class="row">
       {% for i in (1..16) %}
       <div class="col-md-6">
-        <div class="media content align-items-center">
+        <div class="media content align-items-center team-member">
           <div class="w-25">
             <div class="bg-image aspect-1x1" style="background-image: url(https://via.placeholder.com/500x500)"></div>
           </div>
           <div class="media-body pl-4">
-            <h4>Firstname Lastname</h4>
+            <h3 class="mb-0">Firstname Lastname</h3>
             <p><em>Role</em></p>
           </div>
         </div>
@@ -39,7 +39,7 @@ title: Team
     <div class="row">
       {% for i in (1..2) %}
       <div class="col-md-6">
-        <div class="media content align-items-center">
+        <div class="media content align-items-center team-member">
           <div class="w-25">
             <div class="bg-image aspect-1x1" style="background-image: url(https://via.placeholder.com/500x500)"></div>
           </div>
@@ -59,7 +59,7 @@ title: Team
   </div>
 </section>
 <div class="bg-image aspect-wide" style="background-image: url(https://via.placeholder.com/1800x500?text=Hero+image)"></div>
-<section>
+<section class="pt-0"> 
   <div class="container">
     <div class="row">
       <div class="col">
@@ -73,7 +73,9 @@ title: Team
       <div class="col">
         <div class="content">
           {% include map.html %}
-          <a href="#" class="btn btn-warning">See all Airbel projects</a>
+        </div>
+        <div class="content text-center">
+          <a href="/portfolio" class="btn btn-warning mt-5">See all Airbel projects</a>
         </div>
       </div>
     </div>

@@ -3,12 +3,12 @@ layout: default
 ---
 {% assign project = page %}
 <div class="bg-image aspect-wide" style="background-image: url({{project.featured_image | default: site.placeholders.hero }})"></div>
-<section class="bg-plus bg-right bg-no-repeat">
+<section class="bg-plus bg-right bg-no-repeat pt-0">
   <div class="container">
     <div class="row">
       <div class="col">
         <div class="content">
-          <h1 class="bordered-heading bordered-blue">{{ project.title }} | <small><em>Category</em></small></h1>
+          <h1 class="bordered-heading bordered-blue">{{ project.title }}<small><em> | Focus</em></small></h1>
           <p><mark class="bg-warning">Lorem highlighted text ipsum dolor sit amet consectetur adipisicing elit. Commodi, aperiam!</mark></p>
           {{ project.description }}
         </div>
@@ -37,47 +37,6 @@ layout: default
     </div>
   </div>
 </section>
-<!-- <section class="mt-5">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 col-md-8">
-        <p><small><a href="/">&lt; project list</a></small></p>
-        <h1>{{ project.title }}</h1>
-        {{ content }}
-        <hr>
-        <ul class="list-group">
-          {% for milestone in project.milestones %}
-            <li class="list-group-item">
-              <p><strong>{{ milestone.date | date: "%B %Y" }} - {{ milestone.title }}</strong></p>
-              {{ milestone.description_markdown | markdownify }}
-            </li>
-          {% endfor %}
-        </ul>
-      </div>
-      <div class="col-12 col-md-4">
-        <dl>
-          <dt>Title</dt>
-          <dd>{{ project.title }}</dd>
-          <dt>Visible (Portfolio Visualizer)</dt>
-          <dd>{{ project.visible }}</dd>
-          <dt>Status</dt>
-          <dd>{{ project.status }}</dd>
-          <dt>Description</dt>
-          <dd>{{ project.description }}</dd>  
-          <dt>Featured Image</dt>
-          <dd>
-            <img src="{{ project.featured_image }}" alt="{{ project.title }}" class="img-fluid">
-          </dd>
-          <dt>Video</dt>
-          <dd>
-            <a href="{{ project.featured_video_url }}">{{ project.featured_video_url }}</a>
-            <iframe width="560" height="315" src="{{ project.featured_video_url | replace: 'https://youtu.be/', 'https://www.youtube.com/embed/' }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-          </dd>
-        </dl>
-      </div>
-    </div>
-  </div>
-</section> -->
 <section class="bg-light">
   <div class="container">
     <div class="row">

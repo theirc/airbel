@@ -1,0 +1,24 @@
+.card {
+  border: 0;
+  background-color: $light;
+  .card-title {
+    
+  }
+  .card-body {
+    em {
+      font-family: $roboto-condensed;
+      font-size: 15px;
+    }
+  }
+  .card-footer {
+    border: 0;
+    text-align: right;
+    background-color: transparent;
+    padding: 0;
+    .btn {
+      border-style: solid;
+      border-color: $white;
+      border-width: 10px 0 0 10px;
+    }
+  }
+}

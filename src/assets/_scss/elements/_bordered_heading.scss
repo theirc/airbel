@@ -22,10 +22,10 @@
       border-right: 12px solid $blue;
     }
   }
-  .border-blue-dark {
+  &.bordered-blue-dark {
     &::before {
-      border-top: 12px solid $blue;
-      border-right: 12px solid $blue;
+      border-top: 12px solid $blue-dark;
+      border-right: 12px solid $blue-dark;
     }
   }
   &.bordered-green {

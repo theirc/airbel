@@ -1,5 +1,8 @@
 #page-footer {
-
+  color: $white;
+  a {
+    color: $white;
+  }
 }
 
 
@@ -7,7 +10,11 @@
 @media (min-width: $screen-sm-min) {}
 
 // Medium devices (tablets, 768px and up)
-@media (min-width: $screen-md-min) {}
+@media (min-width: $screen-md-min) {
+  #page-footer {
+    padding: 75px 0;
+  }
+}
 
 // Large devices (desktops, 992px and up)
 @media (min-width: $screen-lg-min) {}

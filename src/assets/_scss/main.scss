@@ -21,6 +21,7 @@
 
 //import base / global styles
 @import 'base/global';
+@import 'base/typography';
 
 // Import layout styles
 @import 'layout/page_header';
@@ -32,10 +33,18 @@
 @import 'elements/bg_patterns';
 @import 'elements/bordered_col';
 @import 'elements/bordered_heading';
+@import 'elements/bring_together';
+@import 'elements/buttons';
+@import 'elements/card';
+@import 'elements/cognito';
 @import 'elements/focus_tabs';
 @import 'elements/project_visualizer';
 @import 'elements/tab_collapse';
 @import 'elements/timeline';
+
+// Import view specific styles
+@import 'views/home.scss';
+@import 'views/team';
 
 // Animations
 @import 'animations';

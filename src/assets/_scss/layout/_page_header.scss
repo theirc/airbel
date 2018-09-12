@@ -1,5 +1,19 @@
 #page-header {
-
+  .nav-item {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  .nav-link {
+    font-family: $motiva-sans;
+    color: $dark;
+    padding-top: 5px;
+    padding-bottom: 5px; 
+    &.bg-dark {
+      color: $white;
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+  }
 }
 
 
@@ -7,7 +21,12 @@
 @media (min-width: $screen-sm-min) {}
 
 // Medium devices (tablets, 768px and up)
-@media (min-width: $screen-md-min) {}
+@media (min-width: $screen-md-min) {
+  #page-header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
 
 // Large devices (desktops, 992px and up)
 @media (min-width: $screen-lg-min) {}

@@ -6,11 +6,26 @@
     .nav-link {
       color: $black;
       padding-left: 30px;
+      border: 0;
       &.active {
         background-color: $gray-100;
-        border: 0;
         border-left: 10px solid;
       }
+    }
+  }
+}
+
+#focus-tab-content {
+  .tab-pane {
+    padding: 30px 30px 50px;
+    color: $white;
+    .btn {
+      position: absolute;
+      bottom: 20px;
+      right: 20px;
+      border-style: solid;
+      border-color: $white;
+      border-width: 10px 0 0 10px;
     }
   }
 }

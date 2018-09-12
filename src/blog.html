@@ -4,7 +4,7 @@ title: Blog
 ---
 
 <div class="bg-image aspect-wide" style="background-image: url(https://via.placeholder.com/1800x500?text=Hero+image)"></div>
-<section class="bg-plus bg-left bg-bottom bg-no-repeat">
+<section class="bg-plus bg-left bg-bottom bg-no-repeat pt-0">
   <div class="container">
     <div class="row">
       <div class="col">
@@ -23,14 +23,21 @@ title: Blog
       </div>
       <div class="col-md-6">
         <div class="content">
-          <h2>Blog Title</h2>
-          <p><em>Aug 16 | Team Airbel</em></p>
+          <h3>Blog Title</h3>
+          <p class="mb-0"><em>Aug 16 | Team Airbel</em></p>
           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam tempora placeat sint iste repellat non magnam unde facilis obcaecati natus dignissimos optio labore quia beatae sed adipisci neque, numquam, libero sunt aperiam earum. Reprehenderit, laudantium.</p>
           <a href="#" class="btn btn-dark">Explore article</a>
         </div>
       </div>
     </div>
     {% endfor %}
+    <div class="row">
+      <div class="col">
+        <div class="content text-center">
+          <a href="#" class="btn btn-warning mt-lg-5">See all posts on Medium</a>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 {% include bring-together.html %}

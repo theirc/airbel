@@ -67,11 +67,35 @@ iframe {
   background-color: $blue-dark;
 }
 
+.border-blue-dark {
+  border-color: $blue-dark !important;
+}
+
 .bg-orange {
   background-color: $orange;
+}
+
+.border-orange {
+  border-color: $orange !important;
 }
 
 .bg-purple {
   background-color: $purple;
 }
 
+.border-purple {
+  border-color: $purple !important;
+}
+
+
+
+mark {
+  font-family: $commuter-sans;
+  padding: 5px 0;
+  &.bg-warning {
+    box-shadow: 4px 0px 0px $yellow, -4px 0px 0px $yellow;
+  }
+  &.bg-dark {
+    box-shadow: 4px 0px 0px $dark, -4px 0px 0px $dark;
+  }
+}
