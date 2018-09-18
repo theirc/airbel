@@ -2,9 +2,9 @@
 layout: project
 title: Becoming One
 status: active
-stage:
+stage: 5. Test / Pilot
 description:
-featured_image:
+featured_image: /uploads/header-palava-couple.png
 featured_video_url:
 milestones:
   - date:
