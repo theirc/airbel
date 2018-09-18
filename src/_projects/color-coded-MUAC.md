@@ -1,8 +1,8 @@
 ---
 layout: project
 title: Color-coded MUAC
-status:
-stage: 
+status: graduated
+stage: 5. Test / Pilot
 description:
 featured_image:
 featured_video_url:
