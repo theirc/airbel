@@ -15,15 +15,15 @@ title: Team
       </div>
     </div>
     <div class="row">
-      {% for i in (1..16) %}
+      {% for member in site.data.team %}
       <div class="col-md-6">
         <div class="media content align-items-center team-member">
           <div class="w-25">
-            <div class="bg-image aspect-1x1" style="background-image: url(https://via.placeholder.com/500x500)"></div>
+            <div class="bg-image aspect-1x1" style="background-image: url({{ member.profile_image | default: site.placeholders.thumbnail_1x1 }})"></div>
           </div>
           <div class="media-body pl-4">
-            <h3 class="mb-0">Firstname Lastname</h3>
-            <p><em>Role</em></p>
+            <h3 class="mb-0">{{ member.name }}</h3>
+            <p><em>{{ member.title }}</em></p>
           </div>
         </div>
       </div>
@@ -37,15 +37,15 @@ title: Team
       </div>
     </div>
     <div class="row">
-      {% for i in (1..2) %}
+      {% for member in site.data.advisors %}
       <div class="col-md-6">
         <div class="media content align-items-center team-member">
           <div class="w-25">
-            <div class="bg-image aspect-1x1" style="background-image: url(https://via.placeholder.com/500x500)"></div>
+            <div class="bg-image aspect-1x1" style="background-image: url({{ member.profile_image | default: site.placeholders.thumbnail_1x1 }})"></div>
           </div>
           <div class="media-body pl-4">
-            <h4>Firstname Lastname</h4>
-            <p><em>Role</em></p>
+            <h3>{{ member.name }}</h3>
+            <p><em>{{ member.title }}</em></p>
           </div>
         </div>
       </div>
@@ -56,29 +56,6 @@ title: Team
 <section class="bg-light">
   <div class="container">
     {% include work-with-us.html %}
-  </div>
-</section>
-<div class="bg-image aspect-wide" style="background-image: url(https://via.placeholder.com/1800x500?text=Hero+image)"></div>
-<section class="pt-0"> 
-  <div class="container">
-    <div class="row">
-      <div class="col">
-        <div class="content">
-          <h2 class="bordered-heading bordered-orange">Where we work</h2>
-          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod</p>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col">
-        <div class="content">
-          {% include map.html %}
-        </div>
-        <div class="content text-center">
-          <a href="/portfolio" class="btn btn-warning mt-5">See all Airbel projects</a>
-        </div>
-      </div>
-    </div>
   </div>
 </section>
 {% include bring-together.html %}
