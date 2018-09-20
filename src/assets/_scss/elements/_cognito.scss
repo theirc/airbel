@@ -1,43 +1,62 @@
 .cognito {
+  max-width: 100% !important;
   .c-forms-form {
     max-width: 100% !important;
     .c-forms-heading {
       display: none;
     }
-  }
-
-  .c-label {
-    @extend .sr-only;
-  }
-  .c-editor {
-    padding-left: 0;
-  }
-  input[type="text"],
-  input[type="email"],
-  select,
-  textarea {
-    padding: 15px;
-    border: 0;
-    color: $gray-600;
-  }
-
-  .c-validation {
-    border-radius: 0;
-    margin: 0 8px 0 0;
-    padding: 3px 5px;
+    .c-label {
+      @extend .sr-only;
+    }
+    .c-editor {
+      padding-left: 0;
+    }
+    input[type="text"],
+    input[type="email"],
+    select,
+    textarea {
+      padding: 15px;
+      border: 0;
+      color: $gray-600;
+      font-family: $commuter-sans;
+      font-weight: 600;
+      border: 1px solid $dark;
+    }
+    ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+      color: $dark;
+      font-family: $commuter-sans;
+    }
+    ::-moz-placeholder { /* Firefox 19+ */
+      color: $dark;
+      font-family: $commuter-sans;
+    }
+    :-ms-input-placeholder { /* IE 10+ */
+      color: $dark;
+      font-family: $commuter-sans;
+    }
+    :-moz-placeholder { /* Firefox 18- */
+      color: $dark;
+      font-family: $commuter-sans;
+    }
+    .c-validation {
+      border-radius: 0;
+      margin: 0 8px 0 0;
+      padding: 3px 5px;
+      background-color: $yellow !important;
+    }
   }
 
   .c-forms-confirmation-message {
     padding: 30px !important;
     text-align: center;
-    color: $gray-600;
-    background-color: $gray-300;
+    color: $dark;
+    background-color: $yellow;
     font-size: 21px !important;
   }
 
   #c-submit-button {
     @extend .btn;
-    background-color: transparent;
+    @extend .btn-warning;
     margin-left: 0;
     margin-right: 0;
   }
