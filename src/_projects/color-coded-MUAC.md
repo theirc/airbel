@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Color-coded MUAC
+tagline:
 status: graduated
 stage: 5. Test / Pilot
 description:

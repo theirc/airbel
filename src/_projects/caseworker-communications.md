@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Caseworker Communications
+tagline:
 status: active
 stage: 4. Design / Prototype
 description:

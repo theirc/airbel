@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Becoming One
+tagline:
 status: active
 stage: 5. Test / Pilot
 description: >-

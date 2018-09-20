@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Becoming One
+tagline:
 status:
 stage: 
 description:

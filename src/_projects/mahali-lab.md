@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Mahali Lab
+tagline:
 status: hidden
 stage:
 description: innovation lab in jordan

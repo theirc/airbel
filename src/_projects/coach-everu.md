@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Coach Everu
+tagline:
 status:
 stage: 5. Test / Pilot
 description: >-

@@ -1,6 +1,7 @@
 ---
 layout: project
 title: 
+tagline:
 status:
 stage: 
 description:
