@@ -1,8 +1,9 @@
 ---
 layout: project
 title: Becoming One
-visible: true
+tagline:
 status:
+stage: 
 description:
 featured_image:
 featured_video_url:

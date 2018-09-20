@@ -1,8 +1,8 @@
 ---
 layout: project
 title: 
-visible: true
-status:
+status: active
+stage: 1. Identify
 description:
 featured_image:
 featured_video_url:

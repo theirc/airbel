@@ -1,9 +1,10 @@
 ---
 layout: project
-title: 
-visible: true
-status:
-description: innovation lab in jordan 
+title: Mahali Lab
+tagline:
+status: hidden
+stage:
+description: innovation lab in jordan
 featured_image:
 featured_video_url:
 milestones:
@@ -11,3 +12,4 @@ milestones:
     title:
     description_markdown:
 ---
+
