@@ -8,4 +8,9 @@
     padding: 7px 10px;
     color: $white;
   }
+  .bg-image {
+    background-size: contain;
+    margin: -20px auto;
+    max-width: 70%;
+  }
 }

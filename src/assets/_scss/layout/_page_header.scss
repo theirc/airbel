@@ -1,4 +1,7 @@
 #page-header {
+  .navbar-brand {
+    width: 200px;
+  }
   .nav-item {
     padding-left: 8px;
     padding-right: 8px;
@@ -25,6 +28,9 @@
   #page-header {
     padding-top: 20px;
     padding-bottom: 20px;
+    .navbar-brand {
+      width: 275px;
+    }
   }
 }
 
