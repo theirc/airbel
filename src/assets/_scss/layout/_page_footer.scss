@@ -3,6 +3,31 @@
   a {
     color: $white;
   }
+  .nav-link {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+}
+
+.social-nav {
+  display: flex;
+  align-items: center;
+  a {
+    width: 35px;
+    margin-left: 10px;
+    margin-right: 10px;
+    @include transition(.4s);
+    &:hover {
+      opacity: .7;
+    }
+    &:nth-of-type(1) {
+      margin-left: 20px;
+    }
+  }
+}
+
+.footer-logo {
+  width: 415px;
 }
 
 

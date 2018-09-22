@@ -12,6 +12,7 @@
     height: 100%;
     width: 5px;
     background-color: $black;
+    
   }
   h3 {
     margin-bottom: 20px;
@@ -24,12 +25,13 @@
       content: '';
       position: absolute;
       left: -145px;
-      top: 0;
-      width: 15px;
-      height: 15px;
-      border-radius: 50%;
-      background-color: $yellow;
-      border: 1px solid $black;
+      top: -7px;
+      width: 20px;
+      height: 20px;
+      background-image: url(/assets/img/timeline_circle.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
     }
     &::after {
       content: '';
@@ -54,7 +56,7 @@
     }
     .content {
       &::before {
-        left: -117px;
+        left: -119px;
       }
     }
   }
@@ -72,7 +74,7 @@
   .timeline {
     .content {
       &::before {
-        left: -147px;
+        left: -149px;
       }
     }
   }

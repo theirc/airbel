@@ -1,10 +1,15 @@
 <section id="bring-together" class="bg-warning bg-image bg-image-section" style="background-image: url(/assets/img/airbel-pencil-cta.jpg)">
   <div class="container">
-    <div class="row justify-content-center align-items-center">
-      <div class="col-md-6">
+    <div class="row justify-content-end align-items-center">
+      <div class="col-md-8">
         <div class="content">
-          <p>Airbel brings together multidisciplinary teams of experts drawn from inside and outside of the IRC - <mark class="bg-dark text-white">blending human-centered design, machine-learning, and behavioral insights with on-the-ground expertise</mark> - to have a meaningful impact in some of the most challenging places around the world.</p>
+          <p>Airbel brings together multidisciplinary teams of experts drawn from inside and outside of the IRC blending human-centered design, machine-learning, and behavioral insights with on-the-ground expertise to have a meaningful impact in some of the most challenging places around the world.</p>
         </div>
+        {% unless page.title == 'Get In Touch' %}
+        <div class="content text-lg-right">
+          <a href="/get-in-touch" class="btn btn-dark">Contact us to get involved</a>
+        </div>
+        {% endunless %}
       </div>
     </div>
   </div>

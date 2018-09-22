@@ -1,13 +1,13 @@
 - name: Ravi Gurumurthy
   title: Chief Innovation Officer
-  profile_image:
+  profile_image: /uploads/ravi.jpg
 - name: Jeannie Annan
   title: Senior Director of Research & Evaluation
   profile_image:
 - name: Bryce Perry
   title: Director of Program Delivery
-  profile_image:
-  - name: Grant Gordon
+  profile_image: /uploads/alex.jpg
+- name: Grant Gordon
   title: Director of Innovation Strategy
   profile_image:
 - name: Ben Moskowitz
