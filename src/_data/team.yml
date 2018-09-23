@@ -1,45 +1,42 @@
 - name: Ravi Gurumurthy
   title: Chief Innovation Officer
-  profile_image:
+  profile_image: /uploads/ravi-bw-hs.jpg
 - name: Jeannie Annan
   title: Senior Director of Research & Evaluation
   profile_image:
 - name: Bryce Perry
-  title: Director of Program Delivery
-  profile_image:
-  - name: Grant Gordon
   title: Director of Innovation Strategy
-  profile_image:
-- name:Ben Moskowitz
+  profile_image: /uploads/bryce-bw-2.jpg
+- name: Ben Moskowitz
   title: Director of Development
-  profile_image: 
-- name:Eva Kaplan
-  title: Regional Innovation Director, Middle East
-  profile_image: 
+  profile_image: /uploads/ben-bw-headshot.jpg
+- name: Eva Kaplan
+  title: 'Regional Innovation Director, Middle East'
+  profile_image:
 - name: Rachel Lehrer
   title: Design Innovation Lead
-  profile_image: 
+  profile_image: /uploads/rachel-bw-headshot.jpg
 - name: Carla Lopez
   title: Design Innovation Lead
-  profile_image: 
+  profile_image:
 - name: Laura de Reynal
   title: Design Innovation Lead
-  profile_image: 
+  profile_image: /uploads/laura-bw-1.jpg
 - name: Sylvia Sable
   title: Project Manager
-  profile_image: 
+  profile_image: /uploads/sylvia-bw-sq-1.jpg
 - name: Nick Wilson
-  title: Senior Coordinator, Grants & Operations
-  profile_image: 
+  title: 'Senior Coordinator, Grants & Operations'
+  profile_image: /uploads/nick-bw-1.jpg
 - name: Robert Rutherford
   title: Grants and Program Manager
-  profile_image: 
+  profile_image: /uploads/rob-bw-sq-4.jpg
 - name: Logan Cummings
-  title: Advisor, Innovation Strategy
-  profile_image: 
+  title: 'Advisor, Innovation Strategy'
+  profile_image: /uploads/headshot-logan-bw.jpg
 - name: Alex Bandea
   title: Communications Associate
-  profile_image: 
+  profile_image: /uploads/alex-bw-sq-1.jpg
 - name: Chelsea Graham
   title: Knowledge Manager
-  profile_image:   
+  profile_image:
