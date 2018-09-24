@@ -1,4 +1,5 @@
 #page-header {
+  
   .navbar-brand {
     width: 200px;
   }
@@ -9,19 +10,38 @@
       .nav-link {
         padding: 0;
         width: 38px;
+        margin-left: auto;
       }
     }
   }
   .nav-link {
     font-family: $motiva-sans;
-    color: $dark;
+    color: $white;
     padding-top: 5px;
     padding-bottom: 5px; 
-    &.bg-dark {
-      color: $white;
-      margin-left: 10px;
-      margin-right: 10px;
-    }
+  }
+}
+
+#primarynav {
+  margin-left: -20px;
+  margin-right: -20px;
+  background-image: url(/assets/img/airbel-footer-illustration.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-color: $dark;
+  padding: 20px;
+  text-align: right;
+}
+
+.navbar-toggler {
+  border: 0;
+  .bar {
+    width: 21px;
+    height: 4px;
+    background-color: $dark;
+    display: block;
+    margin: 3px auto;
   }
 }
 
@@ -29,19 +49,56 @@
 // Small devices (landscape phones, 576px and up)
 @media (min-width: $screen-sm-min) {}
 
+@media (max-width: $screen-sm-max) {
+  #page-header {
+    .container {
+      padding-left: 0;
+      padding-right: 0;
+      max-width: 100%;
+    }
+  }
+}
+
 // Medium devices (tablets, 768px and up)
 @media (min-width: $screen-md-min) {
   #page-header {
     padding-top: 20px;
     padding-bottom: 20px;
     .navbar-brand {
-      width: 275px;
+      width: 200px;
     }
+    .nav-item {
+      &:last-of-type {
+        margin-left: 0;
+      }
+    }
+    .nav-link {
+      color: $dark;  
+      &.bg-dark {
+        color: $white;
+        margin-left: 10px;
+        margin-right: 10px;
+      }
+    }
+  }
+  #primarynav {
+    margin-left: 0;
+    margin-right: 0;
+    background-image: none;
+    background-color: transparent;
+    padding: 0;
+    text-align: left;
   }
 }
 
 // Large devices (desktops, 992px and up)
-@media (min-width: $screen-lg-min) {}
+@media (min-width: $screen-lg-min) {
+  #page-header {
+    .navbar-brand {
+      width: 275px;
+    }
+  }
+}
 
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: $screen-xl-min) {}

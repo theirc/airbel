@@ -10,7 +10,18 @@
   }
   .bg-image {
     background-size: contain;
-    margin: -20px auto;
+    margin: -40px auto;
     max-width: 70%;
+  }
+}
+
+@media (min-width: $screen-md-min) {
+  #how {
+    .bg-image {
+      margin: -20px auto;
+    }
+  }
+  #focus {
+    background-image: url(/assets/img/airbel-focus-illustration.png);
   }
 }

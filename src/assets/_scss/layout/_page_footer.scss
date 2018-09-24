@@ -1,11 +1,11 @@
 #page-footer {
   color: $white;
+  padding: 30px 0;
   a {
     color: $white;
   }
   .nav-link {
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 5px 0;
   }
 }
 
@@ -30,6 +30,12 @@
   width: 415px;
 }
 
+.footer-irc-logo {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
 
 // Small devices (landscape phones, 576px and up)
 @media (min-width: $screen-sm-min) {}
@@ -38,11 +44,20 @@
 @media (min-width: $screen-md-min) {
   #page-footer {
     padding: 75px 0;
+    .nav-link {
+      padding: 5px;
+    }
   }
+  
 }
 
 // Large devices (desktops, 992px and up)
-@media (min-width: $screen-lg-min) {}
+@media (min-width: $screen-lg-min) {
+  .footer-irc-logo {
+    width: 100%;
+    margin-left: auto;
+  }
+}
 
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: $screen-xl-min) {}
