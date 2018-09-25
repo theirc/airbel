@@ -2,13 +2,14 @@
   margin-left: -3px;
   margin-right: -3px;
   .phase-heading {
-    height: 50px;
+    height: 60px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: $yellow;
     margin-left: 3px;
     margin-right: 3px;
+    font-family: $commuter-sans;
+    color: $white;
   }
   .phase-sub-heading {
     height: 120px;
@@ -20,6 +21,7 @@
     padding-right: 15px;
     margin-left: 3px;
     margin-right: 3px;
+    font-weight: 600;
   }
   .box-container {
     display: flex;

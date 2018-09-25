@@ -1,69 +1,16 @@
-.project-visualizer {
-  margin-left: -3px;
-  margin-right: -3px;
-  .phase-heading {
-    height: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: $yellow;
-    margin-left: 3px;
-    margin-right: 3px;
-  }
-  .phase-sub-heading {
-    height: 120px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: $gray-200;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin-left: 3px;
-    margin-right: 3px;
-  }
-  .box-container {
-    display: flex;
-    flex-wrap: wrap;
-    align-content: flex-start;
-    min-height: 120px;
-    background-color: $gray-100;
-    padding: 10px;
-    margin-left: 3px;
-    margin-right: 3px;
-  }
-}
 
-.box {
-  width: 30px;
-  height: 30px;
-  margin: 5px;
-  border: 1px solid $gray-200;
-}
-
-.grid-key {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 20px 0;
-  .key-item {
-    display: flex;
-    align-items: center;
-    .box {
-      margin-left: 0;
-    }
-  }
-}
 
 #phase-headings {
   display: flex;
   justify-content: space-between;
   span {
-    height: 50px;
+    height: 60px;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: $yellow;
     color: $white;
+    font-family: $commuter-sans;
     &:nth-of-type(1) {
       width: 49.6%;
       background-color: $yellow;
@@ -94,6 +41,7 @@
     padding-right: 15px;
     color: $dark;
     border: 0;
+    font-weight: 600;
     &.active {
       background-color: $yellow;
       border: 0;
