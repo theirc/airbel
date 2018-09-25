@@ -12,7 +12,7 @@ description: >-
   experimenting with 3 distinct approaches, which include improving the storage
   practices of crops, a wide range of behavior-change interventions, and cash
   transfers.
-featured_image:
+featured_image: /uploads/dsc00457-2.jpg
 featured_video_url:
 milestones:
   - date: 2018-05-01 00:00:00
@@ -35,3 +35,5 @@ milestones:
 Over 16 million children under the age of 3 are afflicted by severe acute malnutrition, a condition that significantly increases their chance of dying. Current prevention efforts range from breastfeeding exclusively to multi-pronged approaches that include a dizzying number of interventions like home gardens, cash transfers, and feeding practices all together - but none have proven to be effective and scalable prevention methods.
 
 To pinpoint the most impactful methods, Sprout is experimenting with 3 distinct approaches, which include improving the storage practices of crops, a wide range of behavior-change interventions, and cash transfers.
+
+&nbsp;
