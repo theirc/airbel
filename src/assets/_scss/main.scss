@@ -37,6 +37,7 @@
 @import 'elements/buttons';
 @import 'elements/card';
 @import 'elements/cognito';
+@import 'elements/dropdown';
 @import 'elements/focus_tabs';
 @import 'elements/project_visualizer';
 @import 'elements/project_visualizer_grid';
@@ -46,6 +47,7 @@
 
 // Import view specific styles
 @import 'views/home.scss';
+@import 'views/portfolio';
 @import 'views/team';
 
 // Animations

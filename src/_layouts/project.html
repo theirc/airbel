@@ -52,21 +52,34 @@ layout: default
       <div class="col-md-6">
         <div class="content">
           <h2>Related Articles</h2>
+          {% assign num_articles = project.articles | size %}
+          {% if num_articles < 1 %}  
+            <p>No related articles currently available</p>
+          {% else %}  
           <ul>
-            <li>Related Blog Article Title goes here</li>
-            <li>Related Blog Article Title goes here</li>
-            <li>Related Blog Article Title goes here</li>
-            <li>Related Blog Article Title goes here</li>
-            <li>Related Blog Article Title goes here</li>
-            <li>Related Blog Article Title goes here</li>
+            {% for article in project.articles %}
+            <li><a href="{{ article.url}}"></a> {{ article.title }}</li>
+            {% endfor %}
           </ul>
+          {% endif %}
         </div>
       </div>
       <div class="col-md-6">
         <div class="content">
-          <h2>Github Resources</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, qui.</p>
-          <a href="#" class="btn btn-dark">View Github</a>
+          <h2>Resources</h2>
+          {% assign num_resources = project.resources | size %}
+          {% if num_resources < 1 %}
+            <p>No related resources currently available</p>
+          {% else %}
+            <ul>
+              {% for resource in project.resources %}
+              <li>
+                <p>{{ resource.description }}</p>
+                <a href="{{ resource.url }}" class="btn btn-dark">View {{ resource.title }}</a>
+              </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
         </div>
       </div>
     </div>

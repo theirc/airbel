@@ -28,28 +28,54 @@ title: Portfolio
 <section class="bg-light">
   <div class="container">
     <div class="row">
-      <div class="col">
+      <div class="col-md-6">
         <div class="content">
           <h2>All Projects</h2>
         </div>
       </div>
-    </div>
-    {% for project in site.projects %}
-      <div class="row align-items-center">
-        <div class="col-md-6">
-          <div class="content">
-            <a href="{{ project.url }}" class="bg-image aspect-4x3" style="background-image: url({{ project.featured_image | default: site.placeholders.thumbnail_4x3 }})"></a>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="content">
-            <h3>{{ project.title }} {% if project.focus %}| <small><em>{{ project.focus }}</em></small>{% endif %}</h3>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis</p>
-            <a href="{{ project.url }}" class="btn btn-dark">Explore Project</a>
-          </div>
+      <div class="col-md-6">
+        <div class="content">
+            <div class="select-by">Filter by focus 
+              <div class="dropdown" role="group">
+                <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <span id="filter-text">All</span>
+                  <span class="arrow-down"></span>
+                </button>
+                <ul id="project-sort" class="dropdown-menu">
+                  <li class="dropdown-item">
+                    <a class="filter" data-filter="all">All</a>
+                  </li>
+                  {% for focus in site.focuses %}
+                    <li class="dropdown-item">
+                      <a class="filter" data-filter=".{{ focus | slugify }}">{{ focus }}</a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
         </div>
       </div>
-    {% endfor %}
+    </div>
+    <div class="projects">
+      {% for project in site.projects %}
+        <span class="mix {{ project.focus | slugify }} {% cycle 'education', 'resettlement', 'employment', 'nutrition', 'safety', 'financing', 'other' %}">
+          <div class="row align-items-center">
+            <div class="col-md-6">
+              <div class="content">
+                <a href="{{ project.url }}" class="bg-image aspect-4x3" style="background-image: url({{ project.featured_image | default: site.placeholders.thumbnail_4x3 }})"></a>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="content">
+                <h3>{{ project.title }} {% if project.focus %}| <small><em>{{ project.focus }}</em></small>{% endif %}</h3>
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis</p>
+                <a href="{{ project.url }}" class="btn btn-dark">Explore Project</a>
+              </div>
+            </div>
+          </div>
+        </span>
+      {% endfor %}
+    </div>
   </div>
 </section>
 {% include bring-together.html %}
