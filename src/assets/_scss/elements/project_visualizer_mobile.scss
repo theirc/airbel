@@ -1,0 +1,57 @@
+.accordion-project-heading {
+  padding: 20px 35px;
+  background-color: $yellow;
+  color: $white;
+  margin-top: 5px;
+}
+
+.project-accordion {
+  .card {
+    background-color: transparent;
+  }
+  .card-header {
+    margin-bottom: 5px;
+    border: 0;
+    background-color: $light;
+    color: $white;
+    
+    .btn-link {
+      color: $dark;
+      display: block;
+      width: 100%;
+      text-align: left;
+      &::after {
+        content: "";
+        border: solid $dark;
+        border-width: 0 3px 3px 0;
+        display: inline-block;
+        padding: 3px;
+        position: absolute;
+        top: 25px;
+        right: 25px;
+        transform: rotate(-135deg);
+        pointer-events: none;
+        @include transition(.4s);
+      }
+      &:hover {
+        text-decoration: none;
+      }
+      &.collapsed {
+        &::after {
+          transform: rotate(45deg);
+        }
+      }
+    }
+  }
+  .card-body {
+    background-color: transparent;
+    ul {
+      li {
+        a {
+          color: $dark;
+        }
+      }
+    }
+  }
+}
+

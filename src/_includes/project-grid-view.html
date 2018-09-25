@@ -13,15 +13,20 @@
           <div class="phase-sub-heading">
             Research
           </div>
-          <div class="box-container"></div>
+          <div class="box-container">
+            {% for project in research_projects %}
+              <div class="box bg-{{ project.focus | slugify }}"></div>
+            {% endfor %}
+          </div>
         </div>
         <div class="col-md-4">
           <div class="phase-sub-heading">
             Generate<br>Solutions
           </div>
           <div class="box-container">
-            <div class="box bg-primary"></div>
-            <div class="box bg-warning"></div>
+            {% for project in solution_projects %}
+            <div class="box bg-{{ project.focus | slugify }}"></div>
+            {% endfor %}
           </div>
         </div>
         <div class="col-md-4">
@@ -29,12 +34,9 @@
             Prototype
           </div>
           <div class="box-container">
-            <div class="box bg-orange"></div>
-            <div class="box bg-warning"></div>
-            <div class="box bg-success"></div>
-            <div class="box bg-primary"></div>
-            <div class="box bg-warning"></div>
-            <div class="box bg-success"></div>
+            {% for project in prototype_projects %}
+              <div class="box bg-{{ project.focus | slugify }}"></div>
+            {% endfor %}
           </div>
         </div>
       </div>
@@ -53,8 +55,9 @@
             Pilot
           </div>
           <div class="box-container">
-            <div class="box bg-primary"></div>
-            <div class="box bg-warning"></div>
+            {% for project in pilot_projects %}
+            <div class="box bg-{{ project.focus | slugify }}"></div>
+            {% endfor %}
           </div>
         </div>
         <div class="col-md-6">
@@ -62,12 +65,9 @@
             Rigorous<br>Evaluation
           </div>
           <div class="box-container">
-            <div class="box bg-primary"></div>
-            <div class="box bg-warning"></div>
-            <div class="box bg-success"></div>
-            <div class="box bg-primary"></div>
-            <div class="box bg-warning"></div>
-            <div class="box bg-success"></div>
+            {% for project in evaluation_projects %}
+              <div class="box bg-{{ project.focus | slugify }}"></div>
+            {% endfor %}
           </div>
         </div>
       </div>
@@ -86,8 +86,9 @@
             Scale
           </div>
           <div class="box-container">
-            <div class="box bg-primary"></div>
-            <div class="box bg-warning"></div>
+            {% for project in scale_projects %}
+              <div class="box bg-{{ project.focus | slugify }}"></div>
+            {% endfor %}
           </div>
         </div>
       </div>
@@ -108,7 +109,7 @@
     Employment
   </div>
   <div class="key-item">
-    <div class="box bg-primary"></div>
+    <div class="box bg-success"></div>
     Nutrition
   </div>
   <div class="key-item">

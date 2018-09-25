@@ -63,27 +63,59 @@ iframe {
 }
 
 //color utilities
-.bg-blue-dark {
-  background-color: $blue-dark;
+.bg-education {
+  background-color: $primary;
 }
 
-.border-blue-dark {
-  border-color: $blue-dark !important;
+.border-education {
+  border-color: $primary !important;
 }
 
-.bg-orange {
+.bg-orange, .bg-resettlement {
   background-color: $orange;
 }
 
-.border-orange {
+.border-orange, .border-resettlement {
   border-color: $orange !important;
 }
 
-.bg-purple {
+.bg-blue-dark, .bg-employment {
+  background-color: $blue-dark;
+}
+
+.border-blue-dark, .border-employment {
+  border-color: $blue-dark !important;
+}
+
+.bg-nutrition {
+  background-color: $success;
+}
+
+.border-nutrition {
+  border-color: $success;
+}
+
+.bg-safety {
+  background-color: $danger;
+}
+
+.border-safety {
+  border-color: $danger !important;
+}
+
+.bg-financing {
+  background-color: $warning;
+}
+
+.border-financing {
+  border-color: $warning !important;
+}
+
+.bg-purple, .bg-other {
   background-color: $purple;
 }
 
-.border-purple {
+.border-purple, .border-other {
   border-color: $purple !important;
 }
 
