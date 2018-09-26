@@ -1,7 +1,7 @@
 # Site settings
 title: Airbel
 email: dev@ocupop.com
-description: ''
+description: 'The Airbel Center is the innovation center at the International Rescue Committee. We design, test, and drive large-scale adoption of innovations for people affected by crisis, focusing on projects that have the potential for reaching the most people with the most effective breakthrough products, services, and systems.'
 url: "https://icy-ship.cloudvent.net"
 permalink: pretty
 # analytics_code:
@@ -18,28 +18,12 @@ collections:
     layout: default
     permalink: /projects/:path/
 
-# defaults:
-#   - 
-#     scope:
-#       type: 'examples'
-#     values:
-#       layout: default
-#       variable_name: value
-
 # Build settings
 safe: false
 source: src
 
 plugins:
   - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# feed:
-#   title: Client Name
-#   description: Description of feed
-#   url: primary url
-#   path: alternate path
 
 _options:
   layout:
