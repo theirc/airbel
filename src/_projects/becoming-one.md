@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Becoming One
-tagline:
+tagline: Strengthening relationships to prevent violence against women
 status: active
 stage: 5. Test / Pilot
 description: >-
