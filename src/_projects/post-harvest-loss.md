@@ -91,7 +91,7 @@ To pinpoint the most impactful methods, Sprout is experimenting with 3 distinct 
 
 &nbsp;
 
-Sprout is built on 3 components:
+Sprout is built on 3 components and we aim to test which combination demonstrates most impact in preventing SAM:
 
 1. **Positive Practices:** Identify and promote existing practices in communities, like hand washing and diversifying the foods children eat, that are associated with SAM prevention, and then introducing new ones to fill gaps and provide households with options.
 2. **Post-Harvest Loss:** Offer an alternative to current storage practices that better protects against losses of crops from rodents, insects, and fungus; and that may generate revenue.
