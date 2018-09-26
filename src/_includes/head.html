@@ -1,5 +1,4 @@
 <head>
-  <!-- Adding SEO: https://github.com/jekyll/jekyll-seo-tag -->
   <meta name="google" content="notranslate" />
   <meta http-equiv="Content-Language" content="en_US" />
   <meta charset="utf-8">
@@ -7,8 +6,23 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!-- Adding feed.xml: https://github.com/jekyll/jekyll-feed -->
-  {% feed_meta %}
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ site.description }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+  <meta property="og:image" content="{{ 'assets/img/facebook-share.png' | absolute_url }}" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="foodfuelfuture" />
+  <meta name="twitter:creator" content="foodfuelfuture" />
+  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta name="twitter:description" content="{{ page.title }}" />
+  <meta name="twitter:text:description" content="{{ site.description }}" />
+  <meta name="twitter:image" content="{{ 'assets/img/twitter-share.png' | absolute_url }}" />
+  <meta name="twitter:image:alt" content="Sustainable America" />
 
   <!-- Fav and Touch Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

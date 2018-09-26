@@ -55,7 +55,8 @@
     color: $dark;
     opacity: .4;
     border: 0;
-    &.active, &:hover {
+    &.active,
+    &:hover {
       opacity: 1;
       background-color: transparent;
       border: 0;

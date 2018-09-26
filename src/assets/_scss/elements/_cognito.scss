@@ -16,25 +16,12 @@
     select,
     textarea {
       padding: 15px;
-      border: 0;
       color: $gray-600;
       font-family: $commuter-sans;
       font-weight: 600;
       border: 1px solid $dark;
     }
-    ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-      color: $dark;
-      font-family: $commuter-sans;
-    }
-    ::-moz-placeholder { /* Firefox 19+ */
-      color: $dark;
-      font-family: $commuter-sans;
-    }
-    :-ms-input-placeholder { /* IE 10+ */
-      color: $dark;
-      font-family: $commuter-sans;
-    }
-    :-moz-placeholder { /* Firefox 18- */
+    ::placeholder {
       color: $dark;
       font-family: $commuter-sans;
     }

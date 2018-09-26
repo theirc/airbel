@@ -8,8 +8,12 @@ title: Portfolio
     <div class="row">
       <div class="col">
         <div class="content">
-          <h1>Our Project Portfolio</h1>
-          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam</p>
+          <div class="editable">
+            <h1>Our Project Portfolio</h1>
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore
+              magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetuer adipiscing
+              elit, sed diam</p>
+          </div>
         </div>
       </div>
     </div>
@@ -30,34 +34,37 @@ title: Portfolio
     <div class="row">
       <div class="col-md-6">
         <div class="content">
-          <h2>All Projects</h2>
+          <div class="editable">
+            <h2>All Projects</h2>
+          </div>
         </div>
       </div>
       <div class="col-md-6">
         <div class="content">
-            <div class="select-by">Filter by focus 
-              <div class="dropdown" role="group">
-                <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  <span id="filter-text">All</span>
-                  <span class="arrow-down"></span>
-                </button>
-                <ul id="project-sort" class="dropdown-menu">
+          <div class="select-by">Filter by focus 
+            <div class="dropdown" role="group">
+              <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <span id="filter-text">All</span>
+                <span class="arrow-down"></span>
+              </button>
+              <ul id="project-sort" class="dropdown-menu">
+                <li class="dropdown-item">
+                  <a class="filter" data-filter="all" data-mixitup-control>All</a>
+                </li>
+                {% for focus in site.focuses %}
                   <li class="dropdown-item">
-                    <a class="filter" data-filter="all" data-mixitup-control>All</a>
+                    <a class="filter" data-filter=".{{ focus | slugify }}" data-mixitup-control>{{ focus }}</a>
                   </li>
-                  {% for focus in site.focuses %}
-                    <li class="dropdown-item">
-                      <a class="filter" data-filter=".{{ focus | slugify }}" data-mixitup-control>{{ focus }}</a>
-                    </li>
-                  {% endfor %}
-                </ul>
-              </div>
+                {% endfor %}
+              </ul>
             </div>
+          </div>
         </div>
       </div>
     </div>
     <div id="projects">
       {% for project in site.projects %}
+        {% unless project.status == 'discontinued' or project.status == 'graduated' %}
         <div class="row align-items-center mix {{ project.focus | slugify }} {% cycle 'education', 'resettlement', 'employment', 'nutrition', 'safety', 'financing', 'other' %}">
           <div class="col-md-6">
             <div class="content">
@@ -72,6 +79,7 @@ title: Portfolio
             </div>
           </div>
         </div>
+        {% endunless %}
       {% endfor %}
     </div>
   </div>

@@ -17,7 +17,6 @@
 
 @import 'mixins';
 @import 'utilities';
-@import 'fonts';
 
 //import base / global styles
 @import 'base/global';
@@ -46,8 +45,7 @@
 @import 'elements/timeline';
 
 // Import view specific styles
-@import 'views/home.scss';
-@import 'views/portfolio';
+@import 'views/home';
 @import 'views/team';
 
 // Animations

@@ -17,7 +17,7 @@
     font-family: $motiva-sans;
     color: $white;
     padding-top: 5px;
-    padding-bottom: 5px; 
+    padding-bottom: 5px;
   }
 }
 
@@ -28,7 +28,7 @@
 #primarynav {
   margin-left: -20px;
   margin-right: -20px;
-  background-image: url(/assets/img/airbel-footer-illustration.png);
+  background-image: url('/assets/img/airbel-footer-illustration.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -76,7 +76,7 @@
       }
     }
     .nav-link {
-      color: $dark;  
+      color: $dark;
       &.bg-dark {
         color: $white;
         margin-left: 10px;

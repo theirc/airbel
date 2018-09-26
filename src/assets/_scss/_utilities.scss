@@ -35,6 +35,10 @@ iframe {
   background-position: center center;
   &.bg-image-section {
     height: auto;
+    &.repeat-y {
+      background-repeat: repeat-y;
+      background-size: auto;
+    }
   }
   &.aspect-5x7 {
     padding-top: 120%;
@@ -71,19 +75,23 @@ iframe {
   border-color: $primary !important;
 }
 
-.bg-orange, .bg-resettlement {
+.bg-orange,
+.bg-resettlement {
   background-color: $orange;
 }
 
-.border-orange, .border-resettlement {
+.border-orange,
+.border-resettlement {
   border-color: $orange !important;
 }
 
-.bg-blue-dark, .bg-employment {
+.bg-blue-dark,
+.bg-employment {
   background-color: $blue-dark;
 }
 
-.border-blue-dark, .border-employment {
+.border-blue-dark,
+.border-employment {
   border-color: $blue-dark !important;
 }
 
@@ -111,11 +119,13 @@ iframe {
   border-color: $warning !important;
 }
 
-.bg-purple, .bg-other {
+.bg-purple,
+.bg-other {
   background-color: $purple;
 }
 
-.border-purple, .border-other {
+.border-purple,
+.border-other {
   border-color: $purple !important;
 }
 
@@ -127,15 +137,13 @@ iframe {
   background-color: $yellow-dark;
 }
 
-
-
 mark {
   font-family: $commuter-sans;
   padding: 5px 0;
   &.bg-warning {
-    box-shadow: 4px 0px 0px $yellow, -4px 0px 0px $yellow;
+    box-shadow: 4px 0 0 $yellow, -4px 0 0 $yellow;
   }
   &.bg-dark {
-    box-shadow: 4px 0px 0px $dark, -4px 0px 0px $dark;
+    box-shadow: 4px 0 0 $dark, -4px 0 0 $dark;
   }
 }

@@ -1,18 +1,19 @@
 .bordered-col {
   h1 {
-    border-top: 20px solid rgba(254, 201, 56, .8);
-    border-right: 20px solid rgba(254, 201, 56, .8);
+    border-top: 20px solid rgba($yellow, .9);
+    border-right: 20px solid rgba($yellow, .9);
     margin-bottom: 0;
     margin-left: -35px;
     display: inline-block;
     width: 85%;
   }
-  h1, p {
+  h1,
+  p {
     background-color: $white;
     padding: 20px 30px;
   }
   p {
-    margin: 0 -35px 0;
+    margin: 0 -35px;
   }
   .content {
     padding-bottom: 0;
@@ -57,16 +58,15 @@
         font-family: $motiva-sans;
         font-weight: 900;
         font-size: 40px;
-        // margin-bottom: 30px;
         border-top: 0;
         border-right: 0;
       }
-      h1, p {
+      h1,
+      p {
         background-color: transparent;
         margin-left: 0;
         margin-right: 0;
       }
     }
-    
   }
 }
