@@ -1,0 +1,12 @@
+---
+layout: none
+---
+[
+  {% for project in site.projects %}{% if project.geolocation.latitude and project.geolocation.longitude %}{
+    "name":"{{ project.title }}",
+    "url":"{{ project.url | absolute_url }}",
+    "image":"{{ project.featured_image | absolute_url }}",
+    "latitude":{{ project.geolocation.latitude }},
+    "longitude":{{ project.geolocation.longitude }}
+  }{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}
+]
