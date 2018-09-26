@@ -68,6 +68,7 @@
   "dependencies": {
     "bootstrap": "^4.1.0",
     "jquery": "^3.2.1",
+    "mixitup": "^3.3.0",
     "popper.js": "^1.14.1",
     "webfontloader": "^1.6.28"
   }
