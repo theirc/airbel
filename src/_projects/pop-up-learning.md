@@ -15,3 +15,10 @@ milestones:
     description_markdown:
 ---
 
+33 million children are displaced, 10.1 million of whom are primary-school aged and 39% of whom are out of school. Despite this, it often takes over a year or more until children can return to formal schooling. Education in this window is particularly important because it reduces exposure to trauma, stress, and generates positive norms around going to school.
+
+To ensure children don’t fall behind during this critical gap, Pop-Up Learning is envisioned as computer-assisted learning, aimed to mobilize within the first 8 weeks of displacement, Pop-Up Learning includes:
+
+* A computer assisted learning program with offline support and culturally-adapted content to supplement in-person learning
+* Adapted safe spaces, such as homes, for learning
+* Trained facilitators recruited from the community to lead lessons
