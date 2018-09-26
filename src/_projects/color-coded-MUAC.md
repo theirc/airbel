@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Color-coded MUAC
+title: Low-Literacy Malnutrition Tools
 tagline: >-
   Empowering low-literate community health workers to treat severe acute
   malnutrition in children under five
