@@ -19,6 +19,8 @@ milestones:
     title: >-
       How likely we will meet our goal of treating 6 M children for SAM per
       year?
+    link:
+    link_title:
     description_markdown: >-
       * Conducted expert interviews and desk reviews to understand the potential
       for impact on SAM treatment and cost at scale of innovations in SAM
@@ -56,6 +58,8 @@ milestones:
     title: >-
       How might reducing post-harvest loss contribute to SAM risk-reduction
       among smallholder farming families?
+    link:
+    link_title:
     description_markdown: >-
       * Spent time with caregivers in remote villages in western Tanzania to
       understand:
@@ -68,6 +72,8 @@ milestones:
       * https://rescue.box.com/s/ib1p86u4z423m4czf0gwrg4obbxp29lu
   - date: 2018-06-01 00:00:00
     title: Sprout 2.0 Begins
+    link:
+    link_title:
     description_markdown: >-
       Developed a prototype to understand how post-harvest loss reduction, small
       cash transfers, and promotion of locally-relevant positive practices meets
@@ -77,6 +83,8 @@ milestones:
       https://medium.com/airbel/three-approaches-were-testing-to-prevent-malnutrition-9f4c73c59b3f
   - date: 2018-07-01 00:00:00
     title: Kicked off prototype
+    link:
+    link_title:
     description_markdown: |-
       Kicked off testing the prototype in three separate villages in Niger.
 

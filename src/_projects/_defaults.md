@@ -22,5 +22,7 @@ articles:
 milestones:
   - date:
     title:
+    link:
+    link_title:
     description_markdown:
 ---

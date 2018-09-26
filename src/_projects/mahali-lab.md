@@ -10,6 +10,8 @@ featured_video_url:
 milestones:
   - date:
     title:
+    link:
+    link_title:
     description_markdown:
 ---
 

@@ -17,12 +17,16 @@ featured_video_url: 'https://youtu.be/-2R3tuNr47g'
 milestones:
   - date: 2016-03-01 00:00:00
     title: “Project Dandelion” begins
+    link:
+    link_title:
     description_markdown: >-
       Goal: “Design a flexible and durable learning and teaching experience that
       dramatically improves a child’s acquisition of Social and Emotional
       Learning (SEL) and literacy in their primary school years”
   - date: 2016-06-01 00:00:00
     title: Initial field research in Niger and Tanzania
+    link:
+    link_title:
     description_markdown: >-
       * The team conducts field research and generates sacrificial concepts for
       discussion.
@@ -32,11 +36,15 @@ milestones:
       target="_blank"}
   - date: 2016-08-01 00:00:00
     title: Finalized design brief for 3 concepts
+    link:
+    link_title:
     description_markdown: >-
       [Design Brief](https://rescue.box.com/s/kyu9relvusm8w19fv80cd05ek0h9w5wi
       ){: target="_blank"}
   - date: 2017-06-01 00:00:00
     title: Finalized product requirements and project plan
+    link:
+    link_title:    
     description_markdown: >-
       [Project
       Plan](https://docs.google.com/document/d/1zwd5hLbtIU84QLclauvrawK87TXwGmPMPb08wPCS0s4/edit?usp=sharing){:
@@ -45,23 +53,31 @@ milestones:
     title: >-
       Testing SMS-based cognitive behavioral therapy with teachers in Nyarugusu,
       Tanzania
+    link:
+    link_title:
     description_markdown: >-
       We learn that delivering SMS curriculum and training won’t work; must
       pivot to new approach
   - date: 2017-08-01 00:00:00
     title: Refined approach to prototyping
+    link:
+    link_title:
     description_markdown: >-
       [Project
       Plan](https://docs.google.com/presentation/d/1fGaALulK7mndt273WQ91YH9HK3OrvnsptHQ2HVwSxCo/edit?usp=sharing){:
       target="_blank"}
   - date: 2017-09-01 00:00:00
     title: Finalized prototyping plan for teacher concept
+    link:
+    link_title:
     description_markdown: >-
       [Project
       Plan](https://docs.google.com/presentation/d/11BgROyeG5LeNzI_aOyrfxRFJfXFPDbUWxx-s75gxNUc/edit?usp=sharing){:
       target="_blank"}
   - date: 2017-09-01 00:00:00
     title: Prototyping sprint in Tanzania
+    link:
+    link_title:
     description_markdown: >-
       Prototyping mobile-based concepts with caregivers, youth and teachers.
 
@@ -71,6 +87,8 @@ milestones:
       ){: target="_blank"}
   - date: 2017-11-01 00:00:00
     title: Second round of prototyping with caregivers
+    link:
+    link_title:
     description_markdown: >-
       Caregiver video club in churches & schools design sprint
 
@@ -80,6 +98,8 @@ milestones:
       ){: target="_blank"}
   - date: 2017-12-01 00:00:00
     title: Insights from field research with caregivers
+    link:
+    link_title:
     description_markdown: >-
       We learned that video-club model could be an effective...
 
@@ -89,6 +109,8 @@ milestones:
       target="_blank"}
   - date: 2017-12-01 00:00:00
     title: Incorporation of behavioural science into design
+    link:
+    link_title:
     description_markdown: >-
       We learned that video-club model could be an effective...
 
@@ -98,21 +120,29 @@ milestones:
       target="_blank"}
   - date: 2018-02-01 00:00:00
     title: 'Second round of prototyping with teachers in Mtendeli, Tanzania'
+    link:
+    link_title:
     description_markdown: >-
       [Field
       Notes](https://docs.google.com/presentation/d/15IPOI_Z_yOiThBoIWomxNAHCPihMcZQBU4Yqkwvur9I/edit#slide=id.g3244717204_0_5){:
       target="_blank"}
   - date: 2018-05-01 00:00:00
     title: 'Refinement of teacher design: introduction of "Coach Erevu" concept'
+    link:
+    link_title:
     description_markdown: |-
       Mtendeli, Tanzania
 
       [Design Document](MJa0mx6g/edit){: target="_blank"}
   - date: 2018-05-01 00:00:00
     title: Rapid prototyping of Coach Erevu system
+    link:
+    link_title:
     description_markdown: '[Github](https://github.com/theirc/coach-erevu){: target="_blank"}'
   - date: 2018-06-01 00:00:00
     title: Synthesis of 4 week pilot of Coach Erevu
+    link:
+    link_title:
     description_markdown: >-
       Mtendeli, Tanzania
 
@@ -126,6 +156,8 @@ milestones:
       ){: target="_blank"}
   - date: 2018-09-01 00:00:00
     title: Pilot Coach Erevu in Tanzania
+    link:
+    link_title:
     description_markdown: Currently in-progress...
 ---
 
