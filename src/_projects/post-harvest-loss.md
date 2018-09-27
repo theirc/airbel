@@ -58,27 +58,21 @@ milestones:
       drivers of SAM
   - date: 2017-06-01 00:00:00
     title: What new ideas can design thinking generate for preventing SAM?
+    link: >-
+      https://medium.com/airbel/cracking-the-combination-in-effectively-preventing-malnutrition-f7f87dc4d145
+    link_title:
     description_markdown: >-
       * Met with regional and national nutrition experts in Senegal to
       understand current best practices, constraints, and which new directions
       for SAM prevention they are most excited by
 
-
       * Spent time with families along the Liberia-Guinea border to understand
       their priorities, interests, and current investments in caring for their
       children
 
-
       * Conducted observations in clinics to observe interactions between
       providers and caregivers to understand current practices and opportunities
       for prevention
-
-
-      * Findings from design research into SAM prevention (Senegal and Liberia)
-
-
-      *
-      https://medium.com/airbel/cracking-the-combination-in-effectively-preventing-malnutrition-f7f87dc4d145&nbsp;
   - date: 2017-05-01 00:00:00
     title: >-
       How likely we will meet our goal of treating 6 M children for SAM per
