@@ -3,8 +3,8 @@ layout: project
 title: Mahali Lab
 tagline:
 status: hidden
-stage: Research
-focuses: 
+stage:
+focuses:
 geolocation:
   region:
   latitude:
