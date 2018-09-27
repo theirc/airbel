@@ -31,7 +31,25 @@ plugins:
 
 _options:
   layout:
-    hidden: true
+    hidden: true    
+  _block:
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    bold: true
+    italic: true
+    removeformat: true
+    link: true
+    undo: true
+    underline: true
+    blockquote: true
+    numberedlist: true
+    bulletedlist: true
+    image: true
+    embed: true
+    code: false
+    table: false
+    right: text-right
+    left: text-left
+    center: text-center
 
 statuses:
   - active
