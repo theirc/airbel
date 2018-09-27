@@ -1,4 +1,15 @@
-h1,
-h2 { margin-bottom: 30px; }
+body {
+  font-size: 18px;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: $font-family-base;
+  line-height: 1.8;
+}
+
+h1 {
+  font-family: $motiva-sans;
+  font-weight: 900;
+  margin-bottom: 2rem;
+}
 
 h3 { font-weight: 400; }
