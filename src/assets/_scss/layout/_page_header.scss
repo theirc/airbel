@@ -8,14 +8,18 @@
     &:last-of-type {
       .nav-link {
         padding: 0;
-        width: 38px;
+        width: 43px;
         margin-left: auto;
+        &::after {
+          display: none;
+        }
       }
     }
   }
   .nav-link {
     font-family: $motiva-sans;
     color: $white;
+    font-weight: 600;
     padding-top: 5px;
     padding-bottom: 5px;
   }
@@ -73,10 +77,35 @@
     }
     .nav-link {
       color: $dark;
+      @include transition(.4s);
+      position: relative;
+      overflow: hidden;
+      &::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        height: 2px;
+        background-color: $dark;
+        @include transition(.4s);
+      }
+      &.active,
+      &:hover {
+        &::after {
+          left: 0;
+        }
+      }
       &.bg-dark {
         color: $white;
         margin-left: 10px;
         margin-right: 10px;
+        &::after {
+          display: none;
+        }
+        &:hover {
+          background-color: $yellow !important;
+        }
       }
     }
   }
@@ -97,7 +126,7 @@
 @media (min-width: $screen-lg-min) {
   #page-header {
     .navbar-brand {
-      width: 275px;
+      width: 350px;
     }
   }
 }

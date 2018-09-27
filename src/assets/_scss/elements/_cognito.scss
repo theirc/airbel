@@ -44,6 +44,7 @@
   #c-submit-button {
     @extend .btn;
     @extend .btn-warning;
+    font-family: $proxima-nova;
     margin-left: 0;
     margin-right: 0;
   }
