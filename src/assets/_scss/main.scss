@@ -2,33 +2,16 @@
 @import "custom_settings";
 @import "./node_modules/bootstrap/scss/bootstrap";
 
-// // Required
-// @import "./node_modules/scss/functions";
-// @import "./node_modules/scss/variables";
-// @import "./node_modules/scss/mixins";
-
-// // Optional
-// @import "./node_modules/scss/reboot";
-// @import "./node_modules/scss/type";
-// @import "./node_modules/scss/images";
-// @import "./node_modules/scss/code";
-// @import "./node_modules/scss/grid";
-
-
-@import 'mixins';
-@import 'utilities';
-
-//import base / global styles
+@import 'base/mixins';
+@import 'base/utilities';
+@import 'base/animations';
 @import 'base/global';
 @import 'base/typography';
 
-// Import layout styles
-@import 'layout/page_header';
 @import 'layout/page';
-@import 'layout/page_content';
+@import 'layout/page_header';
 @import 'layout/page_footer';
 
-// Import additional elements or project specific styles
 @import 'elements/bg_patterns';
 @import 'elements/bordered_col';
 @import 'elements/bordered_heading';
@@ -39,14 +22,10 @@
 @import 'elements/dropdown';
 @import 'elements/focus_tabs';
 @import 'elements/project_visualizer';
-@import 'elements/project_visualizer_grid';
-@import 'elements/project_visualizer_mobile';
 @import 'elements/tab_collapse';
 @import 'elements/timeline';
 
-// Import view specific styles
 @import 'views/home';
 @import 'views/team';
 
-// Animations
-@import 'animations';
+

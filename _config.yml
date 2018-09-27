@@ -58,9 +58,15 @@ statuses:
   - graduated
 
 stages:
-  - 1. Design / Research
-  - 2. Design / Solution Generation
-  - 3. Design / Prototype
-  - 4. Test / Pilot
-  - 5. Test / Rigorous evaluation
-  - 6. Scale
+  - name: 1. Design / Research
+    label: Research
+  - name: 2. Design / Solution Generation
+    label: Generate Solutions
+  - name: 3. Design / Prototype
+    label: Prototype
+  - name: 4. Test / Pilot
+    label: Pilot
+  - name: 5. Test / Rigorous evaluation
+    label: Rigorous Evaluation
+  - name: 6. Scale
+    label: Scale

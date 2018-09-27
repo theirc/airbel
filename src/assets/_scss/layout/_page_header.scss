@@ -49,9 +49,6 @@
 }
 
 
-// Small devices (landscape phones, 576px and up)
-@media (min-width: $screen-sm-min) {}
-
 @media (max-width: $screen-sm-max) {
   #page-header {
     .container {
@@ -62,7 +59,6 @@
   }
 }
 
-// Medium devices (tablets, 768px and up)
 @media (min-width: $screen-md-min) {
   #page-header {
     padding-top: 20px;
@@ -98,7 +94,6 @@
   }
 }
 
-// Large devices (desktops, 992px and up)
 @media (min-width: $screen-lg-min) {
   #page-header {
     .navbar-brand {
@@ -106,6 +101,3 @@
     }
   }
 }
-
-// Extra large devices (large desktops, 1200px and up)
-@media (min-width: $screen-xl-min) {}

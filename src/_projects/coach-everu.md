@@ -12,7 +12,7 @@ description: >-
   Coach Erevu aims to build the SEL skills of teachers through weekly video
   clubs, timely habit triggers, and bite-sized localized teaching materials. Our
   solution can be implemented as separate components or one holistic approach.
-featured_image: /uploads/coach-everu.jpg
+featured_image:
 featured_video_url: 'https://youtu.be/-2R3tuNr47g'
 milestones:
   - date: 2016-03-01 00:00:00
