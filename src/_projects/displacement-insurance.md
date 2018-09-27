@@ -6,6 +6,11 @@ tagline: >-
   cost-effectively
 status: active
 stage: 1. Design / Research
+focus: 
+geolocation:
+  region:
+  latitude:
+  longitude:
 description: >-
   The Airbel Center is conducting a feasibility study of a market for
   large-scale displacement insurance to address that, in response to crises,
@@ -15,6 +20,15 @@ description: >-
   as crises happen, rather than after.
 featured_image:
 featured_video_url:
+
+resources:
+  - title:
+    description:
+    url:
+articles:
+  - title:
+    url:
+
 milestones:
   - date:
     title:

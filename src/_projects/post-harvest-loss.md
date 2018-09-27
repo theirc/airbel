@@ -6,6 +6,11 @@ tagline: >-
   malnutrition in children
 status: active
 stage: 3. Design / Prototype
+focus: 
+geolocation:
+  region:
+  latitude:
+  longitude:
 description: >-
   Over 16 million children under the age of 3 are afflicted by severe acute
   malnutrition. To pinpoint the most impactful prevention methods, Sprout is
@@ -14,6 +19,15 @@ description: >-
   transfers.
 featured_image: /uploads/dsc00457-2.jpg
 featured_video_url:
+
+resources:
+  - title:
+    description:
+    url:
+articles:
+  - title:
+    url:
+
 milestones:
   - date: 2018-05-01 00:00:00
     title: >-

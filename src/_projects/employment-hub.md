@@ -4,12 +4,26 @@ title: Match
 tagline: 'Combining data, networks and policy to get refugees into work'
 status: active
 stage: 4. Test / Pilot
+focus: 
+geolocation:
+  region:
+  latitude:
+  longitude:
 description: >-
   Working to counter the high rates of unemployment that follow mass
   displacement, the Employment Hub in Jordan is testing a set of new innovations
   for matching employers and job seekers.
 featured_image: /uploads/dscf7917-01.jpg
 featured_video_url:
+
+resources:
+  - title:
+    description:
+    url:
+articles:
+  - title:
+    url:
+
 milestones:
   - date:
     title:

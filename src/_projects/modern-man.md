@@ -4,6 +4,11 @@ title: Modern Man
 tagline: Transforming perceptions of masculinity to prevent violence against women
 status: active
 stage: 5. Test / Rigorous evaluation
+focus: 
+geolocation:
+  region:
+  latitude:
+  longitude:
 description: >-
   Modern Man is a mobile messaging campaign that facilitates dialogue among men,
   challenging harmful gender norms to prevent intimate partner violence. It
@@ -11,6 +16,15 @@ description: >-
   healthy relationships.
 featured_image: /uploads/img-20170202-153612.jpg
 featured_video_url:
+
+resources:
+  - title:
+    description:
+    url:
+articles:
+  - title:
+    url:
+
 milestones:
   - date:
     title:

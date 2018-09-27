@@ -6,11 +6,25 @@ tagline: >-
   malnutrition in children under five
 status: graduated
 stage: 4. Test / Pilot
+focus: 
+geolocation:
+  region:
+  latitude:
+  longitude:
 description: >-
   Adapting tools for low-literate community health workers to more effectively
   treat children suffering from or at risk of malnutrition.
 featured_image: /uploads/nutrition-1-1.JPG
 featured_video_url:
+
+resources:
+  - title:
+    description:
+    url:
+articles:
+  - title:
+    url:
+
 milestones:
   - date:
     title:

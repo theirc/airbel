@@ -4,6 +4,11 @@ title: Becoming One
 tagline: Strengthening relationships to prevent violence against women
 status: active
 stage: 4. Test / Pilot
+focus: 
+geolocation:
+  region:
+  latitude:
+  longitude:
 description: >-
   Becoming One is a counseling program designed to bring couples closer and
   prevent intimate partner violence. The program is delivered in partnership
@@ -12,6 +17,15 @@ description: >-
   over finances and household duties, sexual consent and pleasure.
 featured_image: /uploads/header-palava-couple.png
 featured_video_url:
+
+resources:
+  - title:
+    description:
+    url:
+articles:
+  - title:
+    url:
+
 milestones:
   - date:
     title:

@@ -4,12 +4,26 @@ title: Tunakujenga
 tagline: Using edu-tainment to support children's social and emotional learning at home
 status: active
 stage: 4. Test / Pilot
+focus: 
+geolocation:
+  region:
+  latitude:
+  longitude:
 description: >-
   In partnership with Ubongo, Africa’s leading children's edutainment and media
   company, Tunakujenga empowers caregivers to practice social and emotional
   learning (SEL) activities with their children at home.
 featured_image: /uploads/screen-shot-2018-09-23-at-20-12-41.png
 featured_video_url:
+
+resources:
+  - title:
+    description:
+    url:
+articles:
+  - title:
+    url:
+
 milestones:
   - date:
     title:

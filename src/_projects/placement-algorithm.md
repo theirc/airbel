@@ -6,6 +6,11 @@ tagline: >-
   most likely to thrive
 status: active
 stage: 2. Design / Solution Generation
+focus: 
+geolocation:
+  region:
+  latitude:
+  longitude:
 description: >-
   Developed in partnership with Stanford University’s Immigration Policy Lab,
   the placement algorithm suggests an ideal resettlement location for refugees.
@@ -14,6 +19,15 @@ description: >-
   integrate and succeed.
 featured_image: /uploads/20170310-seattle-nhall-1078.jpg
 featured_video_url:
+
+resources:
+  - title:
+    description:
+    url:
+articles:
+  - title:
+    url:
+
 milestones:
   - date:
     title:
