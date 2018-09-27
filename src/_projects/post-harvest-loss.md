@@ -30,8 +30,8 @@ articles:
 milestones:
   - date: 2018-07-01 00:00:00
     title: Kicked off prototype
-    link:
-    link_title: 'https://medium.com/airbel/field-notes-cash-cash-cash-ba1029d22b74'
+    link: 'https://medium.com/airbel/field-notes-cash-cash-cash-ba1029d22b74'
+    link_title:
     description_markdown: Kicked off testing the prototype in three separate villages in Niger.
   - date: 2018-06-01 00:00:00
     title: Sprout 2.0 Begins
