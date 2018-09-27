@@ -5,7 +5,7 @@ tagline: >-
   Insuring against humanitarian crisis to service those in need faster and more
   cost-effectively
 status: active
-stage: 2. Design / Research
+stage: 1. Design / Research
 description: >-
   The Airbel Center is conducting a feasibility study of a market for
   large-scale displacement insurance to address that, in response to crises,

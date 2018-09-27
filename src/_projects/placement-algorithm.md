@@ -5,7 +5,7 @@ tagline: >-
   Using machine learning to predict the communities where resettled refugees are
   most likely to thrive
 status: active
-stage: 3. Design / Solution Generation
+stage: 2. Design / Solution Generation
 description: >-
   Developed in partnership with Stanford University’s Immigration Policy Lab,
   the placement algorithm suggests an ideal resettlement location for refugees.

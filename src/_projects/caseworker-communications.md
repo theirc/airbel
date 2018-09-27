@@ -5,7 +5,7 @@ tagline: >-
   Streamlining communication between resettlement caseworkers and newly arrived
   refugees
 status: active
-stage: 4. Design / Prototype
+stage: 3. Design / Prototype
 description: >-
   In partnership with Twilio.org, Airbel is developing an SMS-based system to
   streamline communication between caseworkers and newly-settled refugees as

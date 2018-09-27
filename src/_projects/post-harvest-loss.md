@@ -5,7 +5,7 @@ tagline: >-
   Working alongside communities to prevent the root causes of severe acute
   malnutrition in children
 status: active
-stage: 4. Design / Prototype
+stage: 3. Design / Prototype
 description: >-
   Over 16 million children under the age of 3 are afflicted by severe acute
   malnutrition. To pinpoint the most impactful prevention methods, Sprout is

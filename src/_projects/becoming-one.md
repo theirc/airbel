@@ -3,7 +3,7 @@ layout: project
 title: Becoming One
 tagline: Strengthening relationships to prevent violence against women
 status: active
-stage: 5. Test / Pilot
+stage: 4. Test / Pilot
 description: >-
   Becoming One is a counseling program designed to bring couples closer and
   prevent intimate partner violence. The program is delivered in partnership

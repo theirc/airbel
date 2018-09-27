@@ -1,0 +1,36 @@
+<div id="project-nav" class="nav nav-tabs">
+  {% for stage in site.stages %}
+    <a class="phase-sub-heading nav-link {% if forloop.first %}active{% endif %}" href="#tab_{{ forloop.index }}" data-toggle="tab">{{ stage }}</a>
+  {% endfor %}
+</div>
+<div id="project-tab-content" class="tab-content">
+  {% for stage in site.stages %}
+    <div id="tab_{{ forloop.index }}" class="tab-pane fade show {% if forloop.first %}active{% endif %}">
+      {% assign current_projects = site.projects | where: "stage", stage %}
+      {% if current_projects.size < 1 %}
+        <div class="d-flex align-items-center justify-content-center bg-light p-5">There are currently no projects in this phase</div>
+      {% else %}
+        {% for project in current_projects %}
+          {% unless project.status == 'graduated' or project.status == 'discontinued' %}
+            <div class="row no-gutters bg-light project-summary-row border-{{ project.focus | slugify }}">
+              <div class="col-md-4">
+                <div class="content">
+                  <p class="mb-0"><em>{{ project.focus }}</em></p>
+                  <h4 class="mb-0">{{ project.title }}</h4>
+                  <p class="mb-0">{{ project.geolocation.region }}</p>
+                  <p>{{ project.stage }}</p>
+                </div>
+              </div>
+              <div class="col-md-5">
+                <div class="content">
+                  <p class="mb-0">{{ project.description | truncatewords: 30 }}</p>
+                </div>
+              </div>
+              <a href="{{ project.url }}" class="btn">Find out more</a>
+            </div>
+          {% endunless%}
+        {% endfor %}
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>

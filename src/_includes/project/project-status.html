@@ -1,3 +1,4 @@
+<!-- TODO - TEst -->
 <div class="project-visualizer grid-view">
   <div class="row no-gutters">
     <div class="col-md-6">
@@ -10,17 +11,17 @@
       </div>
       <div class="row no-gutters align-items-center">
         <div class="col-md-4">
-          <div class="phase-sub-heading {% if project.stage ==  '2. Design / Research' %}bg-warning{% endif %}">
+          <div class="phase-sub-heading {% if project.stage contains 'Research' %}bg-warning{% endif %}">
             Research
           </div>
         </div>
         <div class="col-md-4">
-          <div class="phase-sub-heading {% if project.stage ==  '3. Design / Solution Generation' %}bg-warning{% endif %}">
+          <div class="phase-sub-heading {% if project.stage contains 'Solution Generation' %}bg-warning{% endif %}">
             Generate<br>Solutions
           </div>
         </div>
         <div class="col-md-4">
-          <div class="phase-sub-heading {% if project.stage ==  '4. Design / Prototype' %}bg-warning{% endif %}">
+          <div class="phase-sub-heading {% if project.stage contains 'Prototype' %}bg-warning{% endif %}">
             Prototype
           </div>
         </div>
@@ -36,12 +37,12 @@
       </div>
       <div class="row align-items-center no-gutters">
         <div class="col-md-6">
-          <div class="phase-sub-heading {% if project.stage ==  '5. Test / Pilot' %}bg-warning{% endif %}">
+          <div class="phase-sub-heading {% if project.stage contains 'Pilot' %}bg-warning{% endif %}">
             Pilot
           </div>
         </div>
         <div class="col-md-6">
-          <div class="phase-sub-heading {% if project.stage ==  '6. Test / Rigorous evaluation' %}bg-warning{% endif %}">
+          <div class="phase-sub-heading {% if project.stage contains 'evaluation' %}bg-warning{% endif %}">
             Rigorous<br>Evaluation
           </div>
         </div>
@@ -57,7 +58,7 @@
       </div>
       <div class="row">
         <div class="col">
-          <div class="phase-sub-heading {% if project.stage ==  '7. Scale' %}bg-warning{% endif %}">
+          <div class="phase-sub-heading {% if project.stage contains 'Scale' %}bg-warning{% endif %}">
             Scale
           </div>
         </div>

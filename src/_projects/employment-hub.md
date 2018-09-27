@@ -3,7 +3,7 @@ layout: project
 title: Match
 tagline: 'Combining data, networks and policy to get refugees into work'
 status: active
-stage: 5. Test / Pilot
+stage: 4. Test / Pilot
 description: >-
   Working to counter the high rates of unemployment that follow mass
   displacement, the Employment Hub in Jordan is testing a set of new innovations

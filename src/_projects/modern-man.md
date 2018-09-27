@@ -3,7 +3,7 @@ layout: project
 title: Modern Man
 tagline: Transforming perceptions of masculinity to prevent violence against women
 status: active
-stage: 6. Test / Rigorous evaluation
+stage: 5. Test / Rigorous evaluation
 description: >-
   Modern Man is a mobile messaging campaign that facilitates dialogue among men,
   challenging harmful gender norms to prevent intimate partner violence. It

@@ -1,0 +1,34 @@
+<ul class="nav nav-tabs" id="nav-project-views" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="list-tab" data-toggle="tab" href="#list" role="tab" aria-controls="list" aria-selected="true"><img src="/assets/img/airbel-list-icon.svg" class="img-fluid" alt="List Icon"></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="grid-tab" data-toggle="tab" href="#grid" role="tab" aria-controls="grid" aria-selected="false"><img src="/assets/img/airbel-grid-icon.svg" class="img-fluid" alt="Grid Icon"></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="graduated-tab" data-toggle="tab" href="#graduated" role="tab" aria-controls="graduated" aria-selected="false">Graduated</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="discontinued-tab" data-toggle="tab" href="#discontinued" role="tab" aria-controls="discontinued" aria-selected="false">Discontinued</a>
+  </li>
+</ul>
+  
+<div class="tab-content">
+  <div class="tab-pane active" id="list" role="tabpanel" aria-labelledby="list-tab">
+    <div id="phase-headings">
+      <span>Design</span>
+      <span>Test</span>
+      <span>Scale</span>
+    </div>
+    {% include project-visualizer/list.html %}
+  </div>
+  <div class="tab-pane" id="grid" role="tabpanel" aria-labelledby="grid-tab">
+    {% include project-visualizer/grid.html %}
+  </div>
+  <div class="tab-pane" id="graduated" role="tabpanel" aria-labelledby="graduated-tab">
+    {% include project-visualizer/graduated.html %}
+  </div>
+  <div class="tab-pane" id="discontinued" role="tabpanel" aria-labelledby="discontinued-tab">
+    {% include project-visualizer/discontinued.html %}
+  </div>
+</div>

@@ -40,19 +40,9 @@ statuses:
   - graduated
 
 stages:
-  - 1. Identify
-  - 2. Design / Research
-  - 3. Design / Solution Generation
-  - 4. Design / Prototype
-  - 5. Test / Pilot
-  - 6. Test / Rigorous evaluation
-  - 7. Scale
-
-focuses:
-  - Education
-  - Resettlement
-  - Employment
-  - Nutrition
-  - Safety
-  - Financing
-  - Other
+  - 1. Design / Research
+  - 2. Design / Solution Generation
+  - 3. Design / Prototype
+  - 4. Test / Pilot
+  - 5. Test / Rigorous evaluation
+  - 6. Scale
