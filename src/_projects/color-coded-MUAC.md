@@ -5,8 +5,8 @@ tagline: >-
   Empowering low-literate community health workers to treat severe acute
   malnutrition in children under five
 status: graduated
-stage: 4. Test / Pilot
-focus: 
+stage: Pilot
+focuses: 
 geolocation:
   region:
   latitude:

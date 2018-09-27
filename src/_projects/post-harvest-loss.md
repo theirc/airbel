@@ -5,8 +5,8 @@ tagline: >-
   Working alongside communities to prevent the root causes of severe acute
   malnutrition in children
 status: active
-stage: 3. Design / Prototype
-focus: 
+stage: Prototype
+focuses: 
 geolocation:
   region:
   latitude:

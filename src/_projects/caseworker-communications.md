@@ -5,8 +5,8 @@ tagline: >-
   Streamlining communication between resettlement caseworkers and newly arrived
   refugees
 status: active
-stage: 3. Design / Prototype
-focus: 
+stage: Prototype
+focuses: 
 geolocation:
   region:
   latitude:

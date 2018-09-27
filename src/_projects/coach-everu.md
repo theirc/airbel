@@ -3,8 +3,8 @@ layout: project
 title: Coach Everu
 tagline:
 status: active
-stage: 4. Test / Pilot
-focus: 
+stage: Pilot
+focuses: 
 geolocation:
   region:
   latitude:

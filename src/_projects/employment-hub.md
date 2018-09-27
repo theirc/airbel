@@ -3,8 +3,8 @@ layout: project
 title: Match
 tagline: 'Combining data, networks and policy to get refugees into work'
 status: active
-stage: 4. Test / Pilot
-focus: 
+stage: Pilot
+focuses: 
 geolocation:
   region:
   latitude:

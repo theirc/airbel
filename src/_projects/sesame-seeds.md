@@ -3,8 +3,8 @@ layout: project
 title: Becoming One
 tagline:
 status:
-stage: 
-focus: 
+stage: Research
+focuses: 
 geolocation:
   region:
   latitude:

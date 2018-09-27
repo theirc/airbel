@@ -3,8 +3,8 @@ layout: project
 title: 
 tagline:
 status: active
-stage:
-focus: 
+stage: Research
+focuses: 
 geolocation:
   region:
   latitude:
