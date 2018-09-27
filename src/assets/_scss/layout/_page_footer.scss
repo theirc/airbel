@@ -7,38 +7,36 @@
   .nav-link {
     padding: 5px 0;
   }
-}
 
-.social-nav {
-  display: flex;
-  align-items: center;
-  a {
-    width: 35px;
-    margin-left: 10px;
-    margin-right: 10px;
-    @include transition(.4s);
-    &:hover {
-      opacity: .7;
+  .social-nav {
+    display: flex;
+    align-items: center;
+    a {
+      width: 35px;
+      margin-left: 10px;
+      margin-right: 10px;
+      @include transition(.4s);
+      &:hover {
+        opacity: .7;
+      }
+      &:nth-of-type(1) {
+        margin-left: 20px;
+      }
     }
-    &:nth-of-type(1) {
-      margin-left: 20px;
-    }
+  }
+  
+  .footer-logo {
+    width: 415px;
+  }
+  
+  .footer-irc-logo {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
   }
 }
 
-.footer-logo {
-  width: 415px;
-}
 
-.footer-irc-logo {
-  width: 50%;
-  display: block;
-  margin: 0 auto;
-}
-
-
-// Small devices (landscape phones, 576px and up)
-@media (min-width: $screen-sm-min) {}
 
 // Medium devices (tablets, 768px and up)
 @media (min-width: $screen-md-min) {
@@ -57,6 +55,3 @@
     margin-left: auto;
   }
 }
-
-// Extra large devices (large desktops, 1200px and up)
-@media (min-width: $screen-xl-min) {}
