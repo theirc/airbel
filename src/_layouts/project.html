@@ -9,7 +9,7 @@ layout: default
       <div class="col">
         <div class="content">
           <h1 class="bordered-heading bordered-blue">{{ project.title }}{% if project.focus %} |<small><em>  {{ project.focus }}</em></small>{% endif %}</h1>
-          <p><mark class="bg-warning">Lorem highlighted text ipsum dolor sit amet consectetur adipisicing elit. Commodi, aperiam!</mark></p>
+          <p><mark class="bg-warning">{{ project.tagline }}</mark></p>
           {{ project.description }}
         </div>
       </div>
