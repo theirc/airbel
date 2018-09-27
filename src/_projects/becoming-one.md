@@ -19,18 +19,30 @@ description: >-
 featured_image: /uploads/header-palava-couple.png
 featured_video_url:
 resources:
-  - title:
+  - title: Case Study
     description:
-    url:
+    url: >-
+      https://docs.google.com/presentation/d/1ukYYh8DYMhnDxsl7E8VN7wYyEARJeYUOXGydJ5fDxQw/edit?usp=sharing
 articles:
   - title:
     url:
 milestones:
-  - date:
-    title:
-    link:
+  - date: 2017-11-01 00:00:00
+    title: Piloted a new version of the booklet in Uganda
+    link: >-
+      https://docs.google.com/presentation/d/1Yc75x_xlG93Zp7DJb7VC81vXO85IW654GkSbp4nnmg0/edit?usp=sharing
     link_title:
     description_markdown:
+  - date: 2017-08-01 00:00:00
+    title: Protoyped an app for Faith Leaders in Uganda and Ethiopa
+    link: >-
+      https://medium.com/airbel/field-notes-gaining-clarity-in-premaritial-counseling-through-prototyping-38bfed667310
+    link_title:
+    description_markdown: >-
+      * Tested a 50+ page booklet with Faith Leaders in Uganda and Ethiopa.
+
+      * Rapidly prototype an app version of the booklet while in the field to
+      see whether it was more desireable
 ---
 
 Humanitarian disasters leave affected populations with severe post-conflict trauma resulting in a myriad of mental health issues, high rates of poverty and reinforced gender inequality, under these circumstances, Intimate Partner Violence (IPV) becomes both systemic and pervasive.
