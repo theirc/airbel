@@ -3,8 +3,8 @@ layout: project
 title: Resettlement Finance
 tagline: Restructuring refugee resettlement as an investment
 status: active
-stage: 1. Design / Research
-focus: 
+stage: Research
+focuses: 
 geolocation:
   region:
   latitude:

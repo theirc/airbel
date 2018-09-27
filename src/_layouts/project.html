@@ -2,43 +2,22 @@
 layout: default
 ---
 {% assign project = page %}
-<div class="bg-image aspect-wide" style="background-image: url({{project.featured_image | default: site.placeholders.hero }})"></div>
+
+{% include project/hero.html %}
+
 <section class="bg-plus bg-right bg-no-repeat pt-0">
-  <div class="container">
-    <div class="row">
-      <div class="col">
-        <div class="content">
-          <h1 class="bordered-heading bordered-blue">{{ project.title }}{% if project.focus %} |<small><em>  {{ project.focus }}</em></small>{% endif %}</h1>
-          <p><mark class="bg-warning">{{ project.tagline }}</mark></p>
-          {{ project.description }}
-        </div>
-      </div>
-    </div>
-    <div class="d-none d-md-block">
-      <div class="row">
-        <div class="col">
-          <div class="content">
-            {% include project/project-status.html %}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  {% include project/details.html %}
 </section>
-{% include timeline.html %}
+
+{% include project/timeline.html %}
+
 <section>
   <div class="container">
-    {% if project.featured_video_url %}
+
+    {% include project/featured_video.html %}
+
     <div class="row">
-      <div class="col">
-        <div class="content">
-          <iframe style="height: 500px;" src="{{ project.featured_video_url | replace: 'https://youtu.be/', 'https://www.youtube.com/embed/' }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-        </div>
-      </div>
-    </div>
-    {% endif %}
-    <div class="row">
-      <div class="col">
+      <div class="col-12">
         <div class="content">
           {{content}}
         </div>
@@ -46,43 +25,9 @@ layout: default
     </div>
   </div>
 </section>
+
 <section class="bg-light">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6">
-        <div class="content">
-          <h2>Related Articles</h2>
-          {% assign num_articles = project.articles | size %}
-          {% if num_articles < 1 %}  
-            <p>No related articles currently available</p>
-          {% else %}  
-          <ul>
-            {% for article in project.articles %}
-            <li><a href="{{ article.url}}"></a> {{ article.title }}</li>
-            {% endfor %}
-          </ul>
-          {% endif %}
-        </div>
-      </div>
-      <div class="col-md-6">
-        <div class="content">
-          <h2>Resources</h2>
-          {% assign num_resources = project.resources | size %}
-          {% if num_resources < 1 %}
-            <p>No related resources currently available</p>
-          {% else %}
-            <ul>
-              {% for resource in project.resources %}
-              <li>
-                <p>{{ resource.description }}</p>
-                <a href="{{ resource.url }}" class="btn btn-dark">View {{ resource.title }}</a>
-              </li>
-              {% endfor %}
-            </ul>
-          {% endif %}
-        </div>
-      </div>
-    </div>
-  </div>
+  {% include project/resources.html %}
 </section>
+
 {% include bring-together.html %}

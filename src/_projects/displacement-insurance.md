@@ -5,8 +5,8 @@ tagline: >-
   Insuring against humanitarian crisis to service those in need faster and more
   cost-effectively
 status: active
-stage: 1. Design / Research
-focus: 
+stage: Research
+focuses: 
 geolocation:
   region:
   latitude:

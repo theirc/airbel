@@ -3,8 +3,8 @@ layout: project
 title: Becoming One
 tagline: Strengthening relationships to prevent violence against women
 status: active
-stage: 4. Test / Pilot
-focus: 
+stage: Pilot
+focuses: 
 geolocation:
   region:
   latitude:

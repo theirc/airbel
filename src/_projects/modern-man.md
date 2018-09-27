@@ -3,8 +3,8 @@ layout: project
 title: Modern Man
 tagline: Transforming perceptions of masculinity to prevent violence against women
 status: active
-stage: 5. Test / Rigorous evaluation
-focus: 
+stage: Rigorous Evaluation
+focuses: 
 geolocation:
   region:
   latitude:

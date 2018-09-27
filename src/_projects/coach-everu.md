@@ -3,8 +3,9 @@ layout: project
 title: Coach Everu
 tagline:
 status: active
-stage: 4. Test / Pilot
-focus: 
+stage: Pilot
+focuses:
+  - education
 geolocation:
   region:
   latitude:
@@ -19,7 +20,6 @@ description: >-
   solution can be implemented as separate components or one holistic approach.
 featured_image:
 featured_video_url: 'https://youtu.be/-2R3tuNr47g'
-
 resources:
   - title:
     description:
@@ -27,7 +27,6 @@ resources:
 articles:
   - title:
     url:
-
 milestones:
   - date: 2016-03-01 00:00:00
     title: “Project Dandelion” begins
@@ -58,7 +57,7 @@ milestones:
   - date: 2017-06-01 00:00:00
     title: Finalized product requirements and project plan
     link:
-    link_title:    
+    link_title:
     description_markdown: >-
       [Project
       Plan](https://docs.google.com/document/d/1zwd5hLbtIU84QLclauvrawK87TXwGmPMPb08wPCS0s4/edit?usp=sharing){:
@@ -175,7 +174,7 @@ milestones:
     description_markdown: Currently in-progress...
 ---
 
-A virtual coaching program for refugee teachers on how to promote students’ social and emotional wellbeing. Social-emotional learning, or “SEL”, can help children develop the skills needed to regulate their emotional responses, positively interact with others and better persevere in adverse situations. Coach Erevu aims to build the SEL skills of teachers through weekly video clubs, timely habit triggers, and bite-sized localized teaching materials. Our solution can be implemented as separate components or one holistic approach.&nbsp;
+A virtual coaching program for refugee teachers on how to promote students’ social and emotional wellbeing. Social-emotional learning, or “SEL”, can help children develop the skills needed to regulate their emotional responses, positively interact with others and better persevere in adverse situations. Coach Erevu aims to build the SEL skills of teachers through weekly video clubs, timely habit triggers, and bite-sized localized teaching materials. Our solution can be implemented as separate components or one holistic approach. 
 
 #### How does it work?
 

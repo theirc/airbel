@@ -88,34 +88,25 @@ iframe {
 .bg-employment {
   background-color: $blue-dark;
 }
-
 .border-blue-dark,
 .border-employment {
   border-color: $blue-dark !important;
 }
 
+.bg-green,
 .bg-nutrition {
   background-color: $green;
 }
-
 .border-nutrition {
   border-color: $green;
 }
 
+.bg-red,
 .bg-safety {
   background-color: $red;
 }
-
 .border-safety {
   border-color: $red !important;
-}
-
-.bg-financing {
-  background-color: $yellow;
-}
-
-.border-financing {
-  border-color: $yellow !important;
 }
 
 .bg-purple,
@@ -126,6 +117,15 @@ iframe {
 .border-purple,
 .border-other {
   border-color: $purple !important;
+}
+
+.bg-yellow,
+.bg-financing {
+  background-color: $yellow;
+}
+
+.border-financing {
+  border-color: $yellow !important;
 }
 
 .bg-yellow-mid {

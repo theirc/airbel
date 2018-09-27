@@ -5,8 +5,8 @@ tagline: >-
   Using machine learning to predict the communities where resettled refugees are
   most likely to thrive
 status: active
-stage: 2. Design / Solution Generation
-focus: 
+stage: Generate Solutions
+focuses: 
 geolocation:
   region:
   latitude:
