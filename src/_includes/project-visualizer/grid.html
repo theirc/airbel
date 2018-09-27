@@ -1,108 +1,25 @@
-<div class="project-visualizer grid-view">
-  <div class="row no-gutters">
-    <div class="col-md-6">
-      <div class="row no-gutters align-items-center">
-        <div class="col-md-4">
-          <div class="phase-sub-heading">
-            Research
-          </div>
-          <div class="box-container">
-            {% for project in research_projects %}
-              <div class="box bg-{{ project.focus | slugify }}"></div>
-            {% endfor %}
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="phase-sub-heading">
-            Generate<br>Solutions
-          </div>
-          <div class="box-container">
-            {% for project in solution_projects %}
-            <div class="box bg-{{ project.focus | slugify }}"></div>
-            {% endfor %}
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="phase-sub-heading">
-            Prototype
-          </div>
-          <div class="box-container">
-            {% for project in prototype_projects %}
-              <div class="box bg-{{ project.focus | slugify }}"></div>
-            {% endfor %}
-          </div>
-        </div>
+<div class="d-flex justify-content-between">
+  {% for stage in site.stages %}
+    <div class="stage stage-{{ stage }}">
+      <div class="stage-sub-heading">
+        {{ stage }}
+      </div>
+      <div class="stage-projects">
+        {% assign stage_projects = site.projects | where: "stage", stage %}
+        {% for project in stage_projects %}
+          <div class="project-focus bg-{{ project.focuses.first }}"></div>
+        {% endfor %}
       </div>
     </div>
-    <div class="col-md-4">
-      <div class="row align-items-center no-gutters">
-        <div class="col-md-6">
-          <div class="phase-sub-heading">
-            Pilot
-          </div>
-          <div class="box-container">
-            {% for project in pilot_projects %}
-            <div class="box bg-{{ project.focus | slugify }}"></div>
-            {% endfor %}
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="phase-sub-heading">
-            Rigorous<br>Evaluation
-          </div>
-          <div class="box-container">
-            {% for project in evaluation_projects %}
-              <div class="box bg-{{ project.focus | slugify }}"></div>
-            {% endfor %}
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-2">
-      <div class="row">
-        <div class="col">
-          <div class="phase-sub-heading ">
-            Scale
-          </div>
-          <div class="box-container">
-            {% for project in scale_projects %}
-              <div class="box bg-{{ project.focus | slugify }}"></div>
-            {% endfor %}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  {% endfor %}
 </div>
 
-<div class="grid-key">
-  <div class="key-item">
-    <div class="box bg-primary"></div>
-    Education
+<div class="focus-key">
+  {% for focus in site.focuses %}
+  <div class="key">
+    <div class="project-focus bg-{{ focus.title | slugify }}"></div>
+    {{ focus.title }}
   </div>
-  <div class="key-item">
-    <div class="box bg-orange"></div>
-    Resettlement
-  </div>
-  <div class="key-item">
-    <div class="box bg-blue-dark"></div>
-    Employment
-  </div>
-  <div class="key-item">
-    <div class="box bg-success"></div>
-    Nutrition
-  </div>
-  <div class="key-item">
-    <div class="box bg-danger"></div>
-    Safety
-  </div>
-  <div class="key-item">
-    <div class="box bg-warning"></div>
-    Financing
-  </div>
-  <div class="key-item">
-    <div class="box bg-purple"></div>
-    Other
-  </div>
+  {% endfor %}
 </div>
 

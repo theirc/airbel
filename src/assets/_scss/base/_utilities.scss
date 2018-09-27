@@ -67,7 +67,7 @@ iframe {
 
 //color utilities
 .bg-education {
-  background-color: $blue;
+  background-color: $blue !important;
 }
 
 .border-education {
@@ -76,7 +76,7 @@ iframe {
 
 .bg-orange,
 .bg-resettlement {
-  background-color: $orange;
+  background-color: $orange !important;
 }
 
 .border-orange,
@@ -95,15 +95,15 @@ iframe {
 
 .bg-green,
 .bg-nutrition {
-  background-color: $green;
+  background-color: $green !important;
 }
 .border-nutrition {
-  border-color: $green;
+  border-color: $green !important;
 }
 
 .bg-red,
 .bg-safety {
-  background-color: $red;
+  background-color: $red !important;
 }
 .border-safety {
   border-color: $red !important;
@@ -111,7 +111,7 @@ iframe {
 
 .bg-purple,
 .bg-other {
-  background-color: $purple;
+  background-color: $purple !important;
 }
 
 .border-purple,
@@ -121,7 +121,7 @@ iframe {
 
 .bg-yellow,
 .bg-financing {
-  background-color: $yellow;
+  background-color: $yellow !important;
 }
 
 .border-financing {
@@ -129,11 +129,11 @@ iframe {
 }
 
 .bg-yellow-mid {
-  background-color: $yellow-mid;
+  background-color: $yellow-mid !important;
 }
 
 .bg-yellow-dark {
-  background-color: $yellow-dark;
+  background-color: $yellow-dark !important;
 }
 
 mark {
