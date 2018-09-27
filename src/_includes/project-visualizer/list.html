@@ -1,25 +1,25 @@
 <div id="project-nav" class="nav nav-tabs">
   {% for stage in site.stages %}
-    <a class="phase-sub-heading nav-link {% if forloop.first %}active{% endif %}" href="#{{ stage.label | slugify }}" data-toggle="tab">{{ stage.label }}</a>
+    <a class="phase-sub-heading nav-link {% if forloop.first %}active{% endif %}" href="#{{ stage | slugify }}" data-toggle="tab">{{ stage }}</a>
   {% endfor %}
 </div>
 
 <div id="project-tab-content" class="tab-content">
   {% for stage in site.stages %}
-    <div id="{{ stage.label | slugify }}" class="tab-pane fade show {% if forloop.first %}active{% endif %}">
-      {% assign current_projects = site.projects | where: "stage", stage.name %}
+    <div id="{{ stage | slugify }}" class="tab-pane fade show {% if forloop.first %}active{% endif %}">
+      {% assign current_projects = site.projects | where: "stage", stage %}
       {% if current_projects.size < 1 %}
-        <div class="d-flex align-items-center justify-content-center bg-light p-5">There are currently no projects in the {{ stage.label }} phase</div>
+        <div class="d-flex align-items-center justify-content-center bg-light p-5">There are currently no projects in the {{ stage }} phase</div>
       {% else %}
         {% for project in current_projects %}
           {% unless project.status == 'graduated' or project.status == 'discontinued' %}
-            <div class="row no-gutters bg-light project-summary-row border-{{ project.focus | slugify }}">
+            <div class="row no-gutters bg-light project-summary-row border-{{ project.focuses.first }}">
               <div class="col-md-4">
                 <div class="content">
-                  <p class="mb-0"><em>{{ project.focus }}</em></p>
+                  <p class="mb-0"><em>{{ project.focuses }}</em></p>
                   <h4 class="mb-0">{{ project.title }}</h4>
                   <p class="mb-0">{{ project.geolocation.region }}</p>
-                  <p>{{ stage.label }}</p>
+                  <p>{{ stage }}</p>
                 </div>
               </div>
               <div class="col-md-5">
