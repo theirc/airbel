@@ -74,9 +74,7 @@ milestones:
       providers and caregivers to understand current practices and opportunities
       for prevention
   - date: 2017-05-01 00:00:00
-    title: >-
-      How likely we will meet our goal of treating 6 M children for SAM per
-      year?
+    title: How likely we will meet our goal of treating 6M children for SAM per year?
     link: 'https://www.rescue.org/report/how-will-we-treat-6m-kids-year-sam-2020'
     link_title: Report
     description_markdown: >-
