@@ -1,41 +1,44 @@
-<div class="row no-gutters" style="margin: 0 -3px;">
-  <div class="col-md-6">
-    <div class="row">
-      <div class="col">
-        <div class="stage-heading bg-yellow">
-          Design
+<div id="project-visualizer">
+  <div class="row no-gutters" style="margin: 0 -3px;">
+    <div class="col-md-6">
+      <div class="row">
+        <div class="col">
+          <div class="stage-heading bg-yellow">
+            Design
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="row">
+        <div class="col">
+          <div class="stage-heading bg-yellow-mid">
+            Test
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-2">
+      <div class="row">
+        <div class="col">
+          <div class="stage-heading bg-yellow-dark">
+            Scale
+          </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="col-md-4">
-    <div class="row">
-      <div class="col">
-        <div class="stage-heading bg-yellow-mid">
-          Test
+  
+  <div class="d-flex justify-content-between">
+    {% for stage in site.stages %}
+      <div class="stage stage-{{ stage }}">
+        <div class="stage-sub-heading {% if project.stage == stage | slugify %}bg-yellow{% endif %}">
+          {{ stage }}
         </div>
       </div>
-    </div>
-  </div>
-  <div class="col-md-2">
-    <div class="row">
-      <div class="col">
-        <div class="stage-heading bg-yellow-dark">
-          Scale
-        </div>
-      </div>
-    </div>
+    {% endfor %}
   </div>
 </div>
 
-<div class="d-flex justify-content-between">
-  {% for stage in site.stages %}
-    <div class="stage stage-{{ stage }}">
-      <div class="stage-sub-heading {% if project.stage == stage | slugify %}bg-yellow{% endif %}">
-        {{ stage }}
-      </div>
-    </div>
-  {% endfor %}
-</div>
   
   
