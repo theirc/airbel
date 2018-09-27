@@ -9,7 +9,7 @@ stage: Prototype
 focuses:
   - nutrition
 geolocation:
-  region: West Africa
+  region: Niger
   latitude:
   longitude:
 description: >-
