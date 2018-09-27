@@ -106,14 +106,10 @@ milestones:
 
 Over 16 million children under the age of 3 are afflicted by severe acute malnutrition, a condition that significantly increases their chance of dying. Current prevention efforts range from breastfeeding exclusively to multi-pronged approaches that include a dizzying number of interventions like home gardens, cash transfers, and feeding practices all together - but none have proven to be effective and scalable prevention methods.
 
-To pinpoint the most impactful methods, Sprout is experimenting with 3 distinct approaches, which include improving the storage practices of crops, a wide range of behavior-change interventions, and cash transfers.
+To pinpoint the most impactful methods, Sprout is experimenting with 3 distinct approaches:
 
-&nbsp;
-
-Sprout is built on 3 components and we aim to test which combination demonstrates most impact in preventing SAM:
-
-1. **Positive Practices:** Identify and promote existing practices in communities, like hand washing and diversifying the foods children eat, that are associated with SAM prevention, and then introducing new ones to fill gaps and provide households with options.
-2. **Post-Harvest Loss:** Offer an alternative to current storage practices that better protects against losses of crops from rodents, insects, and fungus; and that may generate revenue.
-3. **Cash:** Provide unconditional cash to pregnant women and caregivers of children under 3 years to facilitate the uptake of new behaviors, like eating (rather than selling) eggs or buying soap. As well as, coupling cash transfers with behaviorally messages around caregiver identities and/or motivations.
+1. **Positive Practices:** Identifying and promoting existing practices in communities, like hand washing and diversifying the foods children eat, that are associated with SAM prevention, and then introducing new ones to fill gaps and provide households with options.
+2. **Post-Harvest Loss:** Offering an alternative to current storage practices that better protects against losses of crops from rodents, insects, and fungus; and may generate revenue.
+3. **Cash:** Providing unconditional cash to pregnant women and caregivers of children under 3 years to facilitate the uptake of new behaviors, like eating (rather than selling) eggs or buying soap. As well as, coupling cash transfers with behaviorally-informed messages around caregiver identities and/or motivations.
 
 &nbsp;
