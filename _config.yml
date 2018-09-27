@@ -15,8 +15,12 @@ placeholders:
 collections:
   projects:
     output: true
-    layout: default
+    layout: project
     permalink: /projects/:path/
+  focuses:
+    output: true
+    layout: focus
+    permalink: /focuses/:title/
 
 # Build settings
 safe: false

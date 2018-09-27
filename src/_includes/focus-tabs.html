@@ -1,70 +1,28 @@
-
+<!-- TODO - Optimize -->
   <div class="row">
     <div class="col-md-6">
       <div class="content">
         <ul class="nav nav-tabs flex-column" id="focus-tabs" role="tablist">
-          <li class="nav-item">
-            <a class="nav-link active border-primary" id="education-tab" data-toggle="tab" href="#education" role="tab" aria-controls="education" aria-selected="true">Education</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link border-orange" id="resettlement-tab" data-toggle="tab" href="#resettlement" role="tab" aria-controls="resettlement" aria-selected="false">Resettlement</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link border-blue-dark" id="employment-tab" data-toggle="tab" href="#employment" role="tab" aria-controls="contact" aria-selected="false">Employment</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link border-success" id="nutrition-tab" data-toggle="tab" href="#nutrition" role="tab" aria-controls="nutrition" aria-selected="false">Nutrition</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link border-danger" id="safety-tab" data-toggle="tab" href="#safety" role="tab" aria-controls="safety" aria-selected="false">Safety</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link border-warning" id="finance-tab" data-toggle="tab" href="#finance" role="tab" aria-controls="finance" aria-selected="false">Finance</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link border-purple" id="other-tab" data-toggle="tab" href="#other" role="tab" aria-controls="other" aria-selected="false">Other</a>
-          </li>
+          {% for focus in site.focuses %}
+            {% assign slug = focus.title | slugify %}
+            <li class="nav-item">
+              <a class="nav-link border-{{ slug }} {% if forloop.first %}active{% endif %}" data-toggle="tab" href="#{{ slug }}">{{ focus.title }}</a>
+            </li>
+          {% endfor %}
         </ul>
       </div>
     </div>  
     <div class="col-md-6 d-none d-md-block">
       <div class="content">
         <div class="tab-content" id="focus-tab-content">
-          <div class="tab-pane fade show active bg-primary" id="education" role="tabpanel" aria-labelledby="education-tab">
-            <h3><img src="/assets/img/airbel-focus-education-icon.svg" class="img-fluid" alt="Education Icon"> Education</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam eius nostrum quos minus facere animi sequi qui quisquam reprehenderit unde. Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta odio expedita delectus amet! Consequatur quae delectus vel saepe aut nulla praesentium eligendi. Laboriosam, omnis iste. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure alias deleniti dignissimos molestiae non</p>
-            <a href="#" class="btn btn-dark">Find out more</a>
-          </div>
-          <div class="tab-pane fade bg-orange" id="resettlement" role="tabpanel" aria-labelledby="resettlement-tab">
-            <h3><img src="/assets/img/airbel-focus-resettlement-icon.svg" class="img-fluid" alt="Resettlement Icon"> Resettlement</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam eius nostrum quos minus facere animi sequi qui quisquam reprehenderit unde. Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta odio expedita delectus amet! Consequatur quae delectus vel saepe aut nulla praesentium eligendi. Laboriosam, omnis iste. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure alias deleniti dignissimos molestiae non</p>
-            <a href="#" class="btn btn-dark">Find out more</a>
-          </div>
-          <div class="tab-pane fade bg-blue-dark" id="employment" role="tabpanel" aria-labelledby="employment-tab">
-            <h3><img src="/assets/img/airbel-focus-employment-icon.svg" class="img-fluid" alt="Employment Icon"> Employment</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam eius nostrum quos minus facere animi sequi qui quisquam reprehenderit unde. Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta odio expedita delectus amet! Consequatur quae delectus vel saepe aut nulla praesentium eligendi. Laboriosam, omnis iste. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure alias deleniti dignissimos molestiae non</p>
-            <a href="#" class="btn btn-dark">Find out more</a>
-          </div>
-          <div class="tab-pane fade bg-success" id="nutrition" role="tabpanel" aria-labelledby="nutrition-tab">
-            <h3><img src="/assets/img/airbel-focus-nutrition-icon.svg" class="img-fluid" alt="Nutrition Icon"> Nutrition</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam eius nostrum quos minus facere animi sequi qui quisquam reprehenderit unde. Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta odio expedita delectus amet! Consequatur quae delectus vel saepe aut nulla praesentium eligendi. Laboriosam, omnis iste. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure alias deleniti dignissimos molestiae non</p>
-            <a href="#" class="btn btn-dark">Find out more</a>
-          </div>
-          <div class="tab-pane fade bg-danger" id="safety" role="tabpanel" aria-labelledby="safety-tab">
-            <h3><img src="/assets/img/airbel-focus-safety-icon.svg" class="img-fluid" alt="Safety Icon"> Safety</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam eius nostrum quos minus facere animi sequi qui quisquam reprehenderit unde. Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta odio expedita delectus amet! Consequatur quae delectus vel saepe aut nulla praesentium eligendi. Laboriosam, omnis iste. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure alias deleniti dignissimos molestiae non</p>
-            <a href="#" class="btn btn-dark">Find out more</a>
-          </div>
-          <div class="tab-pane fade bg-warning" id="finance" role="tabpanel" aria-labelledby="finance-tab">
-            <h3><img src="/assets/img/airbel-focus-finances-icon.svg" class="img-fluid" alt="Finance Icon"> Finance</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam eius nostrum quos minus facere animi sequi qui quisquam reprehenderit unde. Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta odio expedita delectus amet! Consequatur quae delectus vel saepe aut nulla praesentium eligendi. Laboriosam, omnis iste. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure alias deleniti dignissimos molestiae non</p>
-            <a href="#" class="btn btn-dark">Find out more</a>
-          </div>
-          <div class="tab-pane fade bg-purple" id="other" role="tabpanel" aria-labelledby="other-tab">
-            <h3><img src="/assets/img/airbel-focus-other-icon.svg" class="img-fluid" alt="Other Icon"> Other</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam eius nostrum quos minus facere animi sequi qui quisquam reprehenderit unde. Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta odio expedita delectus amet! Consequatur quae delectus vel saepe aut nulla praesentium eligendi. Laboriosam, omnis iste. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure alias deleniti dignissimos molestiae non</p>
-            <a href="#" class="btn btn-dark">Find out more</a>
-          </div>
+          {% for focus in site.focuses %}
+            {% assign slug = focus.title | slugify %}
+            <div class="tab-pane fade show bg-{{ slug }} {% if forloop.first %}active{% endif %}" id="{{ slug }}">
+              <h3><img src="{{ focus.icon_path }}" class="img-fluid" alt="{{ focus.title }} Icon"> {{ focus.title }}</h3>
+              <p>{{ focus.description | default: 'Please enter a short description...' }}</p>
+              <a href="{{ focus.url }}" class="btn btn-dark">Find out more</a>
+            </div>
+          {% endfor %}
         </div>
       </div>
     </div>
