@@ -1,0 +1,9 @@
+{% if project.featured_video_url %}
+<div class="row">
+  <div class="col-12">
+    <div class="content">
+      <iframe style="height: 500px;" src="{{ project.featured_video_url | replace: 'https://youtu.be/', 'https://www.youtube.com/embed/' }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+{% endif %}
