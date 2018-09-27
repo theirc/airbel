@@ -4,9 +4,10 @@ title: Becoming One
 tagline: Strengthening relationships to prevent violence against women
 status: active
 stage: Pilot
-focuses: 
+focuses:
+  - safety
 geolocation:
-  region:
+  region: Uganda
   latitude:
   longitude:
 description: >-
@@ -17,7 +18,6 @@ description: >-
   over finances and household duties, sexual consent and pleasure.
 featured_image: /uploads/header-palava-couple.png
 featured_video_url:
-
 resources:
   - title:
     description:
@@ -25,7 +25,6 @@ resources:
 articles:
   - title:
     url:
-
 milestones:
   - date:
     title:
