@@ -1,37 +1,38 @@
-<div class="container">
-  <div class="row">
-    <div class="col-12 col-md-6">
-      <div class="content">
-        <h2>Related Articles</h2>
-        {% assign num_articles = project.articles | size %}
-        {% if num_articles < 1 %}  
-          <p>No related articles currently available</p>
-        {% else %}  
-        <ul>
-          {% for article in project.articles %}
-          <li><a href="{{ article.url}}"></a> {{ article.title }}</li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-      </div>
-    </div>
-    <div class="col-12 col-md-6">
-      <div class="content">
-        <h2>Resources</h2>
-        {% assign num_resources = project.resources | size %}
-        {% if num_resources < 1 %}
-          <p>No related resources currently available</p>
-        {% else %}
+{% assign art1 = project.articles | first %}
+{% assign res1 = project.resources | first %}
+
+{% unless art1.title == null and res1.title == null %}
+<section class="bg-light">
+  <div class="container">
+    <div class="row">
+      {% if art1.title != null %}
+      <div class="col-12 col-md-6">
+        <div class="content">
+          <h2>Related Articles</h2>
           <ul>
-            {% for resource in project.resources %}
-            <li>
-              <p>{{ resource.description }}</p>
-              <a href="{{ resource.url }}" class="btn btn-dark">View {{ resource.title }}</a>
-            </li>
+            {% for article in project.articles %}
+            <li><a href="{{ article.url }}">{{ article.title }}</a></li>
             {% endfor %}
           </ul>
-        {% endif %}
+        </div>
       </div>
+      {% endif %}
+      {% if res1.title != null %}
+      <div class="col-12 col-md-6">
+        <div class="content">
+          <h2>Resources</h2>
+            <ul>
+              {% for resource in project.resources %}
+              <li>
+                <p>{{ resource.description }}</p>
+                <a href="{{ resource.url }}" class="btn btn-dark">View {{ resource.title }}</a>
+              </li>
+              {% endfor %}
+            </ul>
+        </div>
+      </div>
+      {% endif %}
     </div>
   </div>
-</div>
+</section>
+{% endunless %}

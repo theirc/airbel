@@ -56,7 +56,7 @@ title: Portfolio
     <div id="projects">
       {% for project in site.projects %}
         {% unless project.status == 'discontinued' or project.status == 'graduated' %}
-        <div class="row align-items-center mix {{ project.focus | slugify }} {% cycle 'education', 'resettlement', 'employment', 'nutrition', 'safety', 'financing', 'other' %}">
+        <div class="row align-items-center mix {% for focus in project.focuses %}{{ focus | slugify }}{% endfor %}">
           <div class="col-md-6">
             <div class="content">
               <a href="{{ project.url }}" class="bg-image aspect-4x3" style="background-image: url({{ project.featured_image | default: site.placeholders.thumbnail_4x3 }})"></a>
@@ -72,6 +72,13 @@ title: Portfolio
         </div>
         {% endunless %}
       {% endfor %}
+     <div class="row align-items-center filter-no-results">
+       <div class="col-12">
+         <div class="content text-center">
+          <p>No Results. Please try another filter</p>
+         </div>
+       </div>
+     </div>
     </div>
   </div>
 </section>
