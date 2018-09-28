@@ -25,6 +25,24 @@ iframe {
   height: auto;
 }
 
+.external-link {
+  &:hover {
+    &::after {
+      opacity: .7;
+    }
+  }
+  &::after {
+    content: '';
+    background-image: url('/assets/img/airbel-externallink-indicator.svg');
+    background-repeat: no-repeat;
+    width: 13px;
+    height: 13px;
+    display: inline-block;
+    margin-left: 10px;
+    @include transition(.3s);
+  }
+}
+
 // Background images
 .bg-image {
   display: block;
