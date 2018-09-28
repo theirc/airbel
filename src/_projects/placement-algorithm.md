@@ -40,6 +40,47 @@ milestones:
       and develop a proposal to implement the algorithm across multiple
       agencies. Stanford begins designing the portal staff that the agencies
       will use.
+  - date: 2018-03-01 00:00:00
+    title: “Moonshot” pitch to a16z
+    link: >-
+      https://docs.google.com/presentation/d/1Ru-oAprdjQN-7cNuAQXGJcmp_KmjLlRD08m9fi-GEww/edit?usp=sharing
+    link_title:
+    description_markdown: >-
+      Matching becomes one of the cornerstones of how we pitch a “global
+      resettlement” vision; now, we want to match both within countries, and
+      across them.
+  - date: 2018-01-01 00:00:00
+    title: Stanford publishes algorithm results
+    link: >-
+      https://www.immigrationlab.org/content/uploads/2018/01/Refugee-Matching-Brief_IPL.pdf
+    link_title:
+    description_markdown: >-
+      Stanford completes a backtest of the algorithm on IRC data, and the
+      results are incredibly positive, with certain simulations leading to a
+      doubling of employment at 90 days for resettled refugees.
+  - date: 2017-11-01 00:00:00
+    title: Matching algorithm emerges among top ideas
+    link: >-
+      https://docs.google.com/presentation/d/1ERX5V2YsUYjl2ZP8r25xB7GwgdD5HyxaNJogapmBnqY/edit?usp=sharing
+    link_title:
+    description_markdown: >-
+      After design workshops, brainstorms, and a look at IRC's US Resettlement
+      outcomes data, IRC and Stanford’s IPL convene to prioritize among the
+      early ideas. The Matching Algorithm is treated as a “no-brainer.”
+  - date: 2017-08-01 00:00:00
+    title: Design sprints in US Resettlement offices
+    link:
+    link_title:
+    description_markdown: >-
+      Design sprints take place in Oakland and San Diego offices, interviewing
+      refugees, caseworkers, and volunteers.
+  - date: 2017-06-01 00:00:00
+    title: IRC / Stanford Collaboration kicks off
+    link: 'https://medium.com/airbel/innovation-in-us-resettlement-b9a1014406da'
+    link_title:
+    description_markdown: >-
+      This represents one of the first big Airbel partnerships with an academic
+      institution and design thinking capabilities.
 ---
 
 Developed in partnership with Stanford University’s Immigration Policy Lab, the placement algorithm analyzes historical data, labor market conditions, demographics, refugee preferences and other factors to suggest an ideal location for resettled refugees. The data-driven process is complementary to the extensive work of case workers and to the years of resettlement experience of the International Rescue Committee.
