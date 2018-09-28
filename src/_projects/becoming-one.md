@@ -8,8 +8,8 @@ focuses:
   - safety
 geolocation:
   region: Uganda
-  latitude:
-  longitude:
+  latitude: 2°46'54.0"N
+  longitude: 32°17'57.0"E
 description: >-
   Becoming One is a counseling program designed to bring couples closer and
   prevent intimate partner violence. The program is delivered in partnership
