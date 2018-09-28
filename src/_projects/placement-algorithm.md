@@ -28,8 +28,8 @@ resources:
     url: 'http://science.sciencemag.org/content/359/6373/325'
 articles:
   - title: >-
-      NBC News - This algorithm can help resettle refugees by giving them a
-      better shot at employment (video)
+      NBC News (Video) - This algorithm can help resettle refugees by giving
+      them a better shot at employment (video)
     url: >-
       https://www.nbcnews.com/nightly-news/video/this-algorithm-can-help-resettle-refugees-by-giving-them-a-better-shot-at-employment-1219005507960?v=railb&
   - title: Reuters - U.S. experts invent formula that doubles refugees' job chances
