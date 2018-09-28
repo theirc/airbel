@@ -9,9 +9,9 @@ stage: Prototype
 focuses:
   - resettlement
 geolocation:
-  region:
-  latitude:
-  longitude:
+  region: United States
+  latitude: '33.749249'
+  longitude: '-84.387314'
 description: >-
   In partnership with Twilio.org, Airbel is developing an SMS-based system to
   streamline communication between caseworkers and newly-settled refugees as
