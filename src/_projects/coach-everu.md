@@ -1,7 +1,9 @@
 ---
 layout: project
 title: Coach Everu
-tagline:
+tagline: >-
+  Developing the social-emotional skills of refugee students through a virtual
+  coaching program for teachers
 status: active
 stage: Pilot
 focuses:
@@ -18,7 +20,7 @@ description: >-
   Coach Erevu aims to build the SEL skills of teachers through weekly video
   clubs, timely habit triggers, and bite-sized localized teaching materials. Our
   solution can be implemented as separate components or one holistic approach.
-featured_image:
+featured_image: /uploads/dscf1201.jpg
 featured_video_url: 'https://youtu.be/-2R3tuNr47g'
 resources:
   - title:
@@ -28,6 +30,32 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2018-09-01 00:00:00
+    title: Pilot Coach Erevu in Tanzania
+    link:
+    link_title:
+    description_markdown: Currently in-progress…
+  - date: 2018-06-01 00:00:00
+    title: 'Mtendeli, Tanzania. Synthesis of 4 week pilot of Coach Erevu'
+    link: >-
+      https://docs.google.com/presentation/d/1xGPAkFmrSiwWz3rVud6YTlQ2mYGLIM1CQmt07rU6604/edit?usp=sharing
+    link_title:
+    description_markdown: >-
+      Question: is there evidence to suggest Video Coach increase quality SEL
+      implementation after 3 weeks?
+  - date: 2018-05-01 00:00:00
+    title: Rapid prototyping of Coach Erevu system
+    link: 'https://github.com/theirc/coach-erevu'
+    link_title:
+    description_markdown:
+  - date: 2018-05-01 00:00:00
+    title: >-
+      Mtendeli, Tanzania. Refinement of teacher design: introduction of "Coach
+      Erevu" concept
+    link: >-
+      https://docs.google.com/presentation/d/1xLokm7pqGOrFEiV3GJvJNm25hvHCg4whaFhMJa0mx6g/edit?usp=sharing
+    link_title:
+    description_markdown:
   - date: 2016-03-01 00:00:00
     title: “Project Dandelion” begins
     link:
@@ -52,8 +80,9 @@ milestones:
     link:
     link_title:
     description_markdown: >-
-      [Design Brief](https://rescue.box.com/s/kyu9relvusm8w19fv80cd05ek0h9w5wi
-      ){: target="_blank"}
+      [Design
+      Brief](https://rescue.box.com/s/kyu9relvusm8w19fv80cd05ek0h9w5wi){:
+      target="_blank"}
   - date: 2017-06-01 00:00:00
     title: Finalized product requirements and project plan
     link:
@@ -96,8 +125,8 @@ milestones:
 
 
       [Field
-      Notes](https://docs.google.com/presentation/d/1NGkkGzVKhPbRwZypHfd5OpYWZNLqu0YrEqLBUA1Fem0/edit?usp=sharing
-      ){: target="_blank"}
+      Notes](https://docs.google.com/presentation/d/1NGkkGzVKhPbRwZypHfd5OpYWZNLqu0YrEqLBUA1Fem0/edit?usp=sharing){:
+      target="_blank"}
   - date: 2017-11-01 00:00:00
     title: Second round of prototyping with caregivers
     link:
@@ -107,14 +136,14 @@ milestones:
 
 
       [Field
-      Notes](https://docs.google.com/presentation/d/15IPOI_Z_yOiThBoIWomxNAHCPihMcZQBU4Yqkwvur9I/edit?usp=sharing
-      ){: target="_blank"}
+      Notes](https://docs.google.com/presentation/d/15IPOI_Z_yOiThBoIWomxNAHCPihMcZQBU4Yqkwvur9I/edit?usp=sharing){:
+      target="_blank"}
   - date: 2017-12-01 00:00:00
     title: Insights from field research with caregivers
     link:
     link_title:
     description_markdown: >-
-      We learned that video-club model could be an effective...
+      We learned that video-club model could be an effective…
 
 
       [Field
@@ -125,7 +154,7 @@ milestones:
     link:
     link_title:
     description_markdown: >-
-      We learned that video-club model could be an effective...
+      We learned that video-club model could be an effective…
 
 
       [Field
@@ -139,39 +168,6 @@ milestones:
       [Field
       Notes](https://docs.google.com/presentation/d/15IPOI_Z_yOiThBoIWomxNAHCPihMcZQBU4Yqkwvur9I/edit#slide=id.g3244717204_0_5){:
       target="_blank"}
-  - date: 2018-05-01 00:00:00
-    title: 'Refinement of teacher design: introduction of "Coach Erevu" concept'
-    link:
-    link_title:
-    description_markdown: |-
-      Mtendeli, Tanzania
-
-      [Design Document](MJa0mx6g/edit){: target="_blank"}
-  - date: 2018-05-01 00:00:00
-    title: Rapid prototyping of Coach Erevu system
-    link:
-    link_title:
-    description_markdown: '[Github](https://github.com/theirc/coach-erevu){: target="_blank"}'
-  - date: 2018-06-01 00:00:00
-    title: Synthesis of 4 week pilot of Coach Erevu
-    link:
-    link_title:
-    description_markdown: >-
-      Mtendeli, Tanzania
-
-
-      Question: is there evidence to suggest Video Coach increase quality SEL
-      implementation after 3 weeks?
-
-
-      [Field
-      Report](https://docs.google.com/presentation/d/1xGPAkFmrSiwWz3rVud6YTlQ2mYGLIM1CQmt07rU6604/edit?usp=sharing
-      ){: target="_blank"}
-  - date: 2018-09-01 00:00:00
-    title: Pilot Coach Erevu in Tanzania
-    link:
-    link_title:
-    description_markdown: Currently in-progress...
 ---
 
 A virtual coaching program for refugee teachers on how to promote students’ social and emotional wellbeing. Social-emotional learning, or “SEL”, can help children develop the skills needed to regulate their emotional responses, positively interact with others and better persevere in adverse situations. Coach Erevu aims to build the SEL skills of teachers through weekly video clubs, timely habit triggers, and bite-sized localized teaching materials. Our solution can be implemented as separate components or one holistic approach. 
