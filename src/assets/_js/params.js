@@ -1,4 +1,4 @@
-const getUrlParameter = function getUrlParameter(sParam) {
+function getUrlParameter(sParam) {
   var sPageURL = decodeURIComponent(window.location.search.substring(1)),
     sURLVariables = sPageURL.split('&'),
     sParameterName,
@@ -13,4 +13,4 @@ const getUrlParameter = function getUrlParameter(sParam) {
   }
 };
 
-export getUrlParameter;
+export default getUrlParameter;
