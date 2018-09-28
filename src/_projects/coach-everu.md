@@ -55,7 +55,31 @@ milestones:
     link: >-
       https://docs.google.com/presentation/d/1xLokm7pqGOrFEiV3GJvJNm25hvHCg4whaFhMJa0mx6g/edit?usp=sharing
     link_title:
+    description_markdown: (Formerly Hekima)
+  - date: 2018-02-01 00:00:00
+    title: 'Second round of prototyping with teachers in Mtendeli, Tanzania'
+    link: >-
+      https://docs.google.com/presentation/d/15IPOI_Z_yOiThBoIWomxNAHCPihMcZQBU4Yqkwvur9I/edit?usp=sharing
+    link_title:
     description_markdown:
+  - date: 2017-12-01 00:00:00
+    title: Incorporation of behavioural science into design
+    link: >-
+      https://medium.com/airbel/how-habits-work-and-can-work-for-our-work-with-refugees-d5a1f4adc661
+    link_title:
+    description_markdown:
+  - date: 2017-11-01 00:00:00
+    title: Second round of prototyping with caregivers
+    link:
+    link_title: >-
+      https://docs.google.com/presentation/d/15IPOI_Z_yOiThBoIWomxNAHCPihMcZQBU4Yqkwvur9I/edit?usp=sharing
+    description_markdown: Caregiver video club in churches & schools design sprint
+  - date: 2017-09-01 00:00:00
+    title: Prototyping sprint in Tanzania
+    link: >-
+      https://docs.google.com/presentation/d/1NGkkGzVKhPbRwZypHfd5OpYWZNLqu0YrEqLBUA1Fem0/edit?usp=sharing
+    link_title:
+    description_markdown: 'Prototyping mobile-based concepts with caregivers, youth and teachers.'
   - date: 2016-03-01 00:00:00
     title: “Project Dandelion” begins
     link:
@@ -115,58 +139,6 @@ milestones:
     description_markdown: >-
       [Project
       Plan](https://docs.google.com/presentation/d/11BgROyeG5LeNzI_aOyrfxRFJfXFPDbUWxx-s75gxNUc/edit?usp=sharing){:
-      target="_blank"}
-  - date: 2017-09-01 00:00:00
-    title: Prototyping sprint in Tanzania
-    link:
-    link_title:
-    description_markdown: >-
-      Prototyping mobile-based concepts with caregivers, youth and teachers.
-
-
-      [Field
-      Notes](https://docs.google.com/presentation/d/1NGkkGzVKhPbRwZypHfd5OpYWZNLqu0YrEqLBUA1Fem0/edit?usp=sharing){:
-      target="_blank"}
-  - date: 2017-11-01 00:00:00
-    title: Second round of prototyping with caregivers
-    link:
-    link_title:
-    description_markdown: >-
-      Caregiver video club in churches & schools design sprint
-
-
-      [Field
-      Notes](https://docs.google.com/presentation/d/15IPOI_Z_yOiThBoIWomxNAHCPihMcZQBU4Yqkwvur9I/edit?usp=sharing){:
-      target="_blank"}
-  - date: 2017-12-01 00:00:00
-    title: Insights from field research with caregivers
-    link:
-    link_title:
-    description_markdown: >-
-      We learned that video-club model could be an effective…
-
-
-      [Field
-      Report](https://medium.com/airbel/field-notes-prototyping-a-new-learning-experience-with-caregivers-905476d86b3b){:
-      target="_blank"}
-  - date: 2017-12-01 00:00:00
-    title: Incorporation of behavioural science into design
-    link:
-    link_title:
-    description_markdown: >-
-      We learned that video-club model could be an effective…
-
-
-      [Field
-      Report](https://medium.com/airbel/how-habits-work-and-can-work-for-our-work-with-refugees-d5a1f4adc661){:
-      target="_blank"}
-  - date: 2018-02-01 00:00:00
-    title: 'Second round of prototyping with teachers in Mtendeli, Tanzania'
-    link:
-    link_title:
-    description_markdown: >-
-      [Field
-      Notes](https://docs.google.com/presentation/d/15IPOI_Z_yOiThBoIWomxNAHCPihMcZQBU4Yqkwvur9I/edit#slide=id.g3244717204_0_5){:
       target="_blank"}
 ---
 
