@@ -27,10 +27,12 @@ resources:
       algorithmic assignment
     url: 'http://science.sciencemag.org/content/359/6373/325'
 articles:
-  - title: Reuters
+  - title: Reuters - U.S. experts invent formula that doubles refugees' job chances
     url: >-
       https://www.reuters.com/article/us-usa-refugees-immigration/u-s-experts-invent-formula-that-doubles-refugees-job-chances-idUSKBN1F72SE
-  - title: Verge
+  - title: >-
+      The Verge - Could an algorithm help find the right place to resettle
+      refugees?
     url: >-
       https://www.theverge.com/2018/1/18/16905962/algorithm-resettle-refugees-machine-learning-research-employment
 milestones:
