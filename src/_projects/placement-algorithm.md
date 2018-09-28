@@ -35,6 +35,9 @@ articles:
       refugees?
     url: >-
       https://www.theverge.com/2018/1/18/16905962/algorithm-resettle-refugees-machine-learning-research-employment
+  - title: BBC - The algorithm that could help tackle the refugee crisis
+    url: >-
+      http://www.bbc.com/capital/story/20180118-the-algorithm-that-could-help-tackle-the-refugee-crisis
 milestones:
   - date: 2018-06-01 00:00:00
     title: Cross-agency partnership
