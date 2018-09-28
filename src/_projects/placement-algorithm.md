@@ -27,6 +27,11 @@ resources:
       algorithmic assignment
     url: 'http://science.sciencemag.org/content/359/6373/325'
 articles:
+  - title: >-
+      NBC News - This algorithm can help resettle refugees by giving them a
+      better shot at employment (video)
+    url: >-
+      https://www.nbcnews.com/nightly-news/video/this-algorithm-can-help-resettle-refugees-by-giving-them-a-better-shot-at-employment-1219005507960?v=railb&
   - title: Reuters - U.S. experts invent formula that doubles refugees' job chances
     url: >-
       https://www.reuters.com/article/us-usa-refugees-immigration/u-s-experts-invent-formula-that-doubles-refugees-job-chances-idUSKBN1F72SE
@@ -38,6 +43,11 @@ articles:
   - title: BBC - The algorithm that could help tackle the refugee crisis
     url: >-
       http://www.bbc.com/capital/story/20180118-the-algorithm-that-could-help-tackle-the-refugee-crisis
+  - title: >-
+      Quartz - Researchers developed an algorithm to place refugees where
+      they’re most likely to find work
+    url: >-
+      https://qz.com/1183013/researchers-developed-an-algorithm-to-place-refugees-where-theyre-most-likely-to-find-work/
 milestones:
   - date: 2018-06-01 00:00:00
     title: Cross-agency partnership
