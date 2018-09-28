@@ -9,6 +9,9 @@
             <div class="content">
               <h3>{{ milestone.date | date: "%B %Y" }} | <small>{{ milestone.title }}</small></h3>
               {{ milestone.description_markdown | markdownify }}
+              {% if milestone.link %}
+                <a href="{{ milestone.link }}" class="external-link" target="_blank">{% if milestone.link_title %}{{ link_title }}{% else %}Resource{% endif %}</a>
+              {% endif %}
             </div>
           </div>
         </div>
