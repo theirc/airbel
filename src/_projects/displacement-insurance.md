@@ -7,6 +7,7 @@ tagline: >-
 status: active
 stage: Research
 focuses:
+  - financing
 geolocation:
   region:
   latitude:
