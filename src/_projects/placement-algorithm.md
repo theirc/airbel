@@ -28,11 +28,20 @@ articles:
   - title:
     url:
 milestones:
-  - date:
-    title:
-    link:
+  - date: 2018-06-01 00:00:00
+    title: Cross-agency partnership
+    link: >-
+      https://docs.google.com/document/d/18e7XsRGdek4oW_X3rXaVUwk3GalKeHA8eydL-c6CmGk/edit?usp=sharing
     link_title:
-    description_markdown:
+    description_markdown: >-
+      Due to lower resettlement numbers in the U.S., the IRC and Stanford’s IPL
+      decide to approach two other resettlement agencies, Lutheran Immigration
+      and Refugee Service and the United States Conference of Catholic Bishops,
+      and develop a proposal to implement the algorithm across multiple
+      agencies. Stanford begins designing the portal staff that the agencies
+      will use.
 ---
 
-Developed in partnership with Stanford University’s Immigration Policy Lab, the placement algorithm analyzes historical data, labor market conditions, demographics, refugee preferences and other factors to suggest an ideal location for resettled refugees. The data-driven process is complementary to the extensive work of resettlement case workers and to the IRC’s years of resettlement experience. This algorithm is part of a larger enterprise aimed at creating a new global model for refugee resettlement with the goal to ultimately increase the number of refugees host countries take in and the quality of resettlement programming.
+Developed in partnership with Stanford University’s Immigration Policy Lab, the placement algorithm analyzes historical data, labor market conditions, demographics, refugee preferences and other factors to suggest an ideal location for resettled refugees. The data-driven process is complementary to the extensive work of case workers and to the years of resettlement experience of the International Rescue Committee.
+
+This algorithm is part of a larger enterprise aimed at creating a new global model for refugee resettlement, with the goal of ultimately increasing the number of refugees countries take in and the quality of resettlement programming.
