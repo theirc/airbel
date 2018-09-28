@@ -4,17 +4,17 @@ title: Pop Up Learning
 tagline: Giving access to learning for children fleeing violence
 status: active
 stage: Generate Solutions
-focuses: 
+focuses:
+  - education
 geolocation:
-  region:
-  latitude:
-  longitude:
+  region: Bangladesh
+  latitude: 21° 34' 59.99"
+  longitude: 92° 00' 60.00"
 description: >-
   Pop-Up Learning is a computer-assisted learning program, aimed to mobilize
   quickly and efficiently on the onset of crisis.
 featured_image: /uploads/20180909-103650-bangladesh-ldr.jpg
 featured_video_url:
-
 resources:
   - title:
     description:
@@ -22,7 +22,6 @@ resources:
 articles:
   - title:
     url:
-
 milestones:
   - date:
     title:
