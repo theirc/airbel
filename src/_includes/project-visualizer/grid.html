@@ -7,7 +7,9 @@
       <div class="stage-projects">
         {% assign stage_projects = site.projects | where: "stage", stage %}
         {% for project in stage_projects %}
-          <div class="project-focus bg-{{ project.focuses.first }}"></div>
+          {% if project.status == 'active' %}
+            <div class="project-focus bg-{{ project.focuses.first }}"></div>
+          {% endif %}
         {% endfor %}
       </div>
     </div>

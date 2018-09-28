@@ -17,7 +17,18 @@ title: Portfolio
         </div>
       </div>
     </div>
-    {% include project-visualizer/index.html %}
+
+    <div class="row">
+      <div class="col">
+        <div class="content d-none d-md-block">
+          {% include project-visualizer/desktop.html %}
+        </div>
+        <div class="content d-md-none">
+          {% include project-visualizer/mobile.html %}
+        </div>
+      </div>
+    </div>
+
   </div>
 </section>
 <section class="bg-light">
@@ -53,8 +64,8 @@ title: Portfolio
     </div>
     <div id="projects">
       {% for project in site.projects %}
-        {% unless project.status == 'discontinued' or project.status == 'graduated' %}
-        <div class="row align-items-center mix {% for focus in project.focuses %}{{ focus | slugify }}{% endfor %} {{ project.geolocation.region | slugify }}">
+        {% if project.status == 'active' %}
+        <div class="row align-items-start mb-5 mix {% for focus in project.focuses %}{{ focus | slugify }}{% endfor %} {{ project.geolocation.region | slugify }}">
           <div class="col-md-6">
             <div class="content">
               <a href="{{ project.url }}" class="bg-image aspect-4x3" style="background-image: url({{ project.featured_image | default: site.placeholders.thumbnail_4x3 }})"></a>
@@ -63,12 +74,12 @@ title: Portfolio
           <div class="col-md-6">
             <div class="content">
               <h3>{{ project.title }} {% if project.focus %}| <small><em>{{ project.focus }}</em></small>{% endif %}</h3>
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis</p>
+              <p>{{ project.description }}</p>
               <a href="{{ project.url }}" class="btn btn-dark">Explore Project</a>
             </div>
           </div>
         </div>
-        {% endunless %}
+        {% endif %}
       {% endfor %}
      <div class="row align-items-center filter-no-results">
        <div class="col-12">

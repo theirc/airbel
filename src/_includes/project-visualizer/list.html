@@ -12,7 +12,7 @@
         <div class="d-flex align-items-center justify-content-center bg-light p-5">There are currently no projects in the {{ stage }} phase</div>
       {% else %}
         {% for project in current_projects %}
-          {% unless project.status == 'graduated' or project.status == 'discontinued' %}
+          {% unless project.status == 'hidden' %}
             <div class="row no-gutters bg-light project-summary-row border-{{ project.focuses.first }}">
               <div class="col-md-4">
                 <div class="content">
