@@ -6,11 +6,12 @@ tagline: >-
   most likely to thrive
 status: active
 stage: Generate Solutions
-focuses: 
+focuses:
+  - resettlement
 geolocation:
-  region:
-  latitude:
-  longitude:
+  region: U.S.
+  latitude: '33.749249'
+  longitude: '-84.387314'
 description: >-
   Developed in partnership with Stanford University’s Immigration Policy Lab,
   the placement algorithm suggests an ideal resettlement location for refugees.
@@ -19,7 +20,6 @@ description: >-
   integrate and succeed.
 featured_image: /uploads/20170310-seattle-nhall-1078.jpg
 featured_video_url:
-
 resources:
   - title:
     description:
@@ -27,7 +27,6 @@ resources:
 articles:
   - title:
     url:
-
 milestones:
   - date:
     title:
@@ -36,4 +35,4 @@ milestones:
     description_markdown:
 ---
 
-Developed in partnership with Stanford University’s Immigration Policy Lab, the placement algorithm analyzes historical data, labor market conditions, demographics, refugee preferences and other factors to suggest an ideal location for resettled refugees. The data-driven process is complementary to the extensive work of resettlement case workers and to the IRC's years of resettlement experience. This algorithm is part of a larger enterprise aimed at creating a new global model for refugee resettlement with the goal to ultimately increase the number of refugees host countries take in and the quality of resettlement programming.
+Developed in partnership with Stanford University’s Immigration Policy Lab, the placement algorithm analyzes historical data, labor market conditions, demographics, refugee preferences and other factors to suggest an ideal location for resettled refugees. The data-driven process is complementary to the extensive work of resettlement case workers and to the IRC’s years of resettlement experience. This algorithm is part of a larger enterprise aimed at creating a new global model for refugee resettlement with the goal to ultimately increase the number of refugees host countries take in and the quality of resettlement programming.
