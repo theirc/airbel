@@ -4,18 +4,18 @@ title: Match
 tagline: 'Combining data, networks and policy to get refugees into work'
 status: active
 stage: Pilot
-focuses: 
+focuses:
+  - employment
 geolocation:
-  region:
-  latitude:
-  longitude:
+  region: Amman
+  latitude: 31.9454° N
+  longitude: 35.9284° E
 description: >-
   Working to counter the high rates of unemployment that follow mass
   displacement, the Employment Hub in Jordan is testing a set of new innovations
   for matching employers and job seekers.
 featured_image: /uploads/dscf7917-01.jpg
 featured_video_url:
-
 resources:
   - title:
     description:
@@ -23,7 +23,6 @@ resources:
 articles:
   - title:
     url:
-
 milestones:
   - date:
     title:
@@ -32,7 +31,7 @@ milestones:
     description_markdown:
 ---
 
-When mass displacement leads to mass unemployment, both refugees and vulnerable host populations are affected. &nbsp;Getting refugees into work, and growing the labor market, requires both innovative policy and innovative ideas. In 2016, the Government of Jordan and the international community forged the Jordan Compact, which aims to provide 200,000 employment opportunities to refugees. One part of the Compact is a set of incentives for employers to hire refugees. To support the Compact and inform the response to future crises, IRC’s Employment Hub in Jordan is testing a set of new innovations for matching employers and job seekers.
+When mass displacement leads to mass unemployment, both refugees and vulnerable host populations are affected.  Getting refugees into work, and growing the labor market, requires both innovative policy and innovative ideas. In 2016, the Government of Jordan and the international community forged the Jordan Compact, which aims to provide 200,000 employment opportunities to refugees. One part of the Compact is a set of incentives for employers to hire refugees. To support the Compact and inform the response to future crises, IRC’s Employment Hub in Jordan is testing a set of new innovations for matching employers and job seekers.
 
 The Employment Hub consists of two core activities:
 
