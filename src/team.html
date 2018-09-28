@@ -17,6 +17,7 @@ title: Team
         </div>
       </div>
     </div>
+
     <div class="row">
       {% for member in site.data.team %}
       <div class="col-md-6">
@@ -32,6 +33,9 @@ title: Team
       </div>
       {% endfor %}
     </div>
+
+
+    {% if site.data.advisors[0].name %}
     <div class="row">
       <div class="col">
         <div class="content">
@@ -54,6 +58,8 @@ title: Team
       </div>
       {% endfor %}
     </div>
+    {% endif %}
+
   </div>
 </section>
 <section class="bg-light">
