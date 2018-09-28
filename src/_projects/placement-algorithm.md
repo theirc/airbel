@@ -21,9 +21,7 @@ description: >-
 featured_image: /uploads/20170310-seattle-nhall-1078.jpg
 featured_video_url:
 resources:
-  - title: >-
-      Stanford Study: Improving refugee integration through data-driven
-      algorithmic assignment
+  - title: Here
     description: >-
       Stanford Study: Improving refugee integration through data-driven
       algorithmic assignment
