@@ -23,9 +23,9 @@ description: >-
 featured_image: /uploads/dscf1201.jpg
 featured_video_url: 'https://youtu.be/-2R3tuNr47g'
 resources:
-  - title:
-    description:
-    url:
+  - title: Here
+    description: Coach Erevu Github
+    url: 'https://github.com/theirc/coach-erevu'
 articles:
   - title:
     url:
