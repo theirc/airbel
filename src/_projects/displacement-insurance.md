@@ -21,7 +21,7 @@ description: >-
 featured_image:
 featured_video_url:
 resources:
-  - title: View Here
+  - title: Here
     description: Displacement Insurance Overview
     url: 'https://rescue.box.com/s/4nrqszphbcy2mqgo4wuun36v2qym1mch'
 articles:
