@@ -1,16 +1,19 @@
-<section class="bg-light bg-image bg-image-section py-0 repeat-y" style="background-image: url(/assets/img/airbel-header-illustration.png)">
-  <div class="container">
-    <div class="timeline container">
-      {% for milestone in project.milestones %}
-      <div class="row">
-        <div class="col-md-10 ml-auto">
-          <div class="content">
-            <h3>{{ milestone.date | date: "%B %Y" }} | <small>{{ milestone.title }}</small></h3>
-            {{ milestone.description_markdown | markdownify }}
+{% assign t = project.milestones | first %}
+{% unless t.title == null %}
+  <section class="bg-light bg-image bg-image-section py-0 repeat-y" style="background-image: url(/assets/img/airbel-header-illustration.png)">
+    <div class="container">
+      <div class="timeline container">
+        {% for milestone in project.milestones %}
+        <div class="row">
+          <div class="col-md-10 ml-auto">
+            <div class="content">
+              <h3>{{ milestone.date | date: "%B %Y" }} | <small>{{ milestone.title }}</small></h3>
+              {{ milestone.description_markdown | markdownify }}
+            </div>
           </div>
         </div>
+        {% endfor %}
       </div>
-      {% endfor %}
     </div>
-  </div>
-</section>
+  </section>
+{% endunless %}
