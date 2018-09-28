@@ -1,10 +1,11 @@
 ---
 layout: project
-title: Becoming One
+title: Sesame Seeds
 tagline:
-status:
-stage: Research
-focuses: 
+status: hidden
+stage: Prototype
+focuses:
+  - education
 geolocation:
   region:
   latitude:
@@ -12,7 +13,6 @@ geolocation:
 description:
 featured_image:
 featured_video_url:
-
 resources:
   - title:
     description:
@@ -20,7 +20,6 @@ resources:
 articles:
   - title:
     url:
-
 milestones:
   - date:
     title:
@@ -28,3 +27,4 @@ milestones:
     link_title:
     description_markdown:
 ---
+
