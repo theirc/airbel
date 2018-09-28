@@ -16,9 +16,9 @@ description: >-
 featured_image: /uploads/20180909-103650-bangladesh-ldr.jpg
 featured_video_url:
 resources:
-  - title:
-    description:
-    url:
+  - title: Here
+    description: Pop Up Learning in Crisis
+    url: 'https://rescue.box.com/s/0bu13qxkbjcnbfldg4s7z3gy81kzkn9x'
 articles:
   - title:
     url:
