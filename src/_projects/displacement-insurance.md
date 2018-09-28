@@ -6,7 +6,7 @@ tagline: >-
   cost-effectively
 status: active
 stage: Research
-focuses: 
+focuses:
 geolocation:
   region:
   latitude:
@@ -20,15 +20,13 @@ description: >-
   as crises happen, rather than after.
 featured_image:
 featured_video_url:
-
 resources:
-  - title:
-    description:
-    url:
+  - title: Displacement Insurance Overview
+    description: July 2018
+    url: 'https://rescue.box.com/s/4nrqszphbcy2mqgo4wuun36v2qym1mch'
 articles:
   - title:
     url:
-
 milestones:
   - date:
     title:
@@ -37,6 +35,6 @@ milestones:
     description_markdown:
 ---
 
-In response to developing crisis, humanitarian aid is often too little, too late. Displacement insurance could address that, leading to more people people being saved, more cost-effectively. &nbsp;Airbel, in partnership with DFID, have co-organized a refugee finance innovation lab to facilitate discussions with key stakeholders [like?].
+In response to developing crisis, humanitarian aid is often too little, too late. Displacement insurance could address that, leading to more people people being saved, more cost-effectively.  Airbel, in partnership with DFID, have co-organized a refugee finance innovation lab to facilitate discussions with key stakeholders [like?].
 
 Similar to how disaster insurance is taken out on homes in areas at risk of natural disasters, Displacement insurance would work similarly, serving as host countries, humanitarian agencies, and donors. Airbel and DFID are presently conducting a feasibility study of a market for large-scale displacement insurance, and our research could lead to a groundbreaking, innovative and life saving redesign of humanitarian crisis response funding.
