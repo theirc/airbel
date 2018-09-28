@@ -25,8 +25,8 @@ resources:
     description:
     url:
 articles:
-  - title:
-    url:
+  - title: Medium | Malnutrition
+    url: 'https://medium.com/airbel/malnutrition/home'
 milestones:
   - date: 2018-07-01 00:00:00
     title: Kicked off prototype
