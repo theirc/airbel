@@ -19,8 +19,8 @@ description: >-
 featured_image: /uploads/header-palava-couple.png
 featured_video_url:
 resources:
-  - title: Case Study
-    description:
+  - title: Here
+    description: Overview on preventing Intimate Partner Violence at the IRC
     url: >-
       https://docs.google.com/presentation/d/1ukYYh8DYMhnDxsl7E8VN7wYyEARJeYUOXGydJ5fDxQw/edit?usp=sharing
 articles:
