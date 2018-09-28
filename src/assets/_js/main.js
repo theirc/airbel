@@ -13,11 +13,26 @@ $(function() {
 
 const containerEl = document.getElementById('projects')
 
+var initialFilter = 'all';
+var hash = window.location.hash.replace(/^#/g, '');
+window.console.log(hash);
+
+if (hash) {
+  initialFilter = '.' + hash;
+  // $('#filter-text').text(hash);
+  // var offset = $('#projects-wrapper').offset().top;
+  // window.console.log(offset);
+  // $('html, body').animate({ scrollTop: offset }, 700);
+}
+
 if (containerEl) {
   var mixer = mixitup(containerEl, {
+    load: {
+      filter: initialFilter
+    },
     selectors: {
       control: '[data-mixitup-control]'
-    }
+    }    
   });
 }
 
@@ -25,3 +40,5 @@ $('.filter').on('click', function(){
   var text = $(this).text();
   $('#filter-text').text(text);
 });
+
+

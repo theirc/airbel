@@ -19,7 +19,7 @@
           <div class="tab-pane fade show bg-{{ slug }} {% if forloop.first %}active{% endif %}" id="{{ slug }}">
             <h3><img src="{{ focus.icon_path }}" class="img-fluid" alt="{{ focus.title }} Icon"> {{ focus.title }}</h3>
             <p>{{ focus.description | default: 'Please enter a short description...' }}</p>
-            <a href="{{ focus.url }}" class="btn btn-dark">Find out more</a>
+            <a href="/portfolio#{{focus.title | slugify }}" class="btn btn-dark">Find out more</a>
           </div>
         {% endfor %}
       </div>

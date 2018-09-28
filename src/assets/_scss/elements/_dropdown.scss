@@ -18,6 +18,10 @@
   }
 }
 
+#filter-text {
+  text-transform: capitalize;
+}
+
 .dropdown-menu {
   min-width: 265px;
   border: 1px solid $dark;
