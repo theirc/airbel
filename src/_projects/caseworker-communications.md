@@ -7,6 +7,7 @@ tagline: >-
 status: active
 stage: Prototype
 focuses:
+  - resettlement
 geolocation:
   region:
   latitude:
@@ -17,7 +18,7 @@ description: >-
   they adapt to their new lives in the United States. Through more structured
   and timely communication, we can reduce strains on time and resources for both
   the caseworker and resettled refugees.
-featured_image:
+featured_image: /uploads/caseworker-comms-header-1.png
 featured_video_url:
 resources:
   - title:
