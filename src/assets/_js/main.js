@@ -6,30 +6,16 @@ import 'bootstrap';
 
 import App from './App';
 import mixitup from 'mixitup';
+import getUrlParameter from './params';
 
 $(function() {
   $('#focus-tabs').tabCollapse();
 });
 
-const containerEl = document.getElementById('projects')
-
-var initialFilter = 'all';
-var hash = window.location.hash.replace(/^#/g, '');
-window.console.log(hash);
-
-if (hash) {
-  initialFilter = '.' + hash;
-  // $('#filter-text').text(hash);
-  // var offset = $('#projects-wrapper').offset().top;
-  // window.console.log(offset);
-  // $('html, body').animate({ scrollTop: offset }, 700);
-}
+const containerEl = document.getElementById('projects');
 
 if (containerEl) {
   var mixer = mixitup(containerEl, {
-    load: {
-      filter: initialFilter
-    },
     selectors: {
       control: '[data-mixitup-control]'
     }    
