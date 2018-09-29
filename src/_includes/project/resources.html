@@ -21,10 +21,15 @@
       <div class="col-12 col-md-6">
         <div class="content">
           <h2>Resources</h2>
+          <ul>
             {% for resource in project.resources %}
+            <li>
               <p>{{ resource.description }}</p>
-              <a href="{{ resource.url }}" class="btn btn-dark" target="_blank">View {{ resource.title }}</a>
+              <a href="{{ resource.url }}" target="_blank">{{ resource.title }}</a>
+            </li>
             {% endfor %}
+          </ul>
+            
         </div>
       </div>
       {% endif %}

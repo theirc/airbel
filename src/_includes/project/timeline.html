@@ -5,7 +5,7 @@
       <div class="timeline">
         {% assign size = project.milestones | size %}
         {% for milestone in project.milestones limit: 2 %}
-        <div class="row">
+        <div class="row timeline-row {% if size < 3 and forloop.last %}last{% endif %}">
           <div class="col-md-10 ml-auto">
             <div class="content">
               <h3>{{ milestone.date | date: "%B %Y" }} | <small>{{ milestone.title }}</small></h3>
@@ -18,16 +18,11 @@
         </div>
         {% endfor %}
         {% if size > 2 %}
-        <div class="row">
-          <div class="col">
-            <div class="text-center mb-5">
-              <button id="show-timeline" class="btn btn-warning" data-toggle="collapse" data-target="#full-timeline" aria-expanded="false" aria-controls="full-timeline">Show Full Timeline</button>
-            </div>
-          </div>
-        </div>
+        <button id="show-timeline" class="btn btn-warning collapsed" data-toggle="collapse" data-target="#full-timeline" aria-expanded="false"
+          aria-controls="full-timeline"><span class="show-text">Show Full Timeline</span><span class="hide-text">Hide Full Timeline</span></button>
         <div class="collapse" id="full-timeline">
           {% for milestone in project.milestones offset: 2 %}
-            <div class="row">
+            <div class="row timeline-row">
               <div class="col-md-10 ml-auto">
                 <div class="content">
                   <h3>{{ milestone.date | date: "%B %Y" }} | <small>{{ milestone.title }}</small></h3>
@@ -43,7 +38,6 @@
         </div>
         {% endif %}
       </div>
-      
     </div>
   </section>
 {% endunless %}
