@@ -6,17 +6,17 @@ tagline: >-
   malnutrition in children under five
 status: graduated
 stage: Pilot
-focuses: 
+focuses:
+  - nutrition
 geolocation:
-  region:
-  latitude:
-  longitude:
+  region: South Sudan
+  latitude: 6.8770° N
+  longitude: 31.3070° E
 description: >-
   Adapting tools for low-literate community health workers to more effectively
   treat children suffering from or at risk of malnutrition.
 featured_image: /uploads/nutrition-1-1.JPG
 featured_video_url:
-
 resources:
   - title:
     description:
@@ -24,7 +24,6 @@ resources:
 articles:
   - title:
     url:
-
 milestones:
   - date:
     title:
