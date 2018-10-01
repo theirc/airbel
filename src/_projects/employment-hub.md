@@ -21,8 +21,10 @@ resources:
     description:
     url:
 articles:
-  - title:
-    url:
+  - title: >-
+      Financial Times (paywall) - Putting refugees to work: the greatest
+      challenge in 2017
+    url: 'https://www.ft.com/content/fcba4b0f-1558-36b4-be77-e69e2848e275'
 milestones:
   - date: 2018-07-01 00:00:00
     title: Complete MVP of matching algorithm and prototypes of behavioral nudges
@@ -57,7 +59,7 @@ milestones:
   - date: 2017-12-01 00:00:00
     title: Complete systems mapping and planning for employment hub launch
     link: >-
-      https://docs.google.com/presentation/d/1nIKH_hRJ_oz9m-9IjZXUovLqtS7riseEvSHML8YrdC4/edit?usp=sharing 
+      https://docs.google.com/presentation/d/1nIKH_hRJ_oz9m-9IjZXUovLqtS7riseEvSHML8YrdC4/edit?usp=sharing
     link_title:
     description_markdown:
   - date: 2017-03-01 00:00:00
