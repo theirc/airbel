@@ -7,6 +7,42 @@ body {
   letter-spacing: 1px;
 }
 
+.wf-loading,
+.wf-inactive {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  a,
+  li,
+  span,
+  button,
+  .stage-heading,
+  p {
+    opacity: 0;
+    @include transition(.5s);
+  }
+}
+
+.wf-active {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  a,
+  li,
+  span,
+  .stage-heading,
+  button,
+  p {
+    opacity: 1;
+  }
+}
+
 h1 {
   font-family: $motiva-sans;
   font-weight: 900;
