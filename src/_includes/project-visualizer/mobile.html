@@ -1,157 +1,112 @@
 <!-- TODO - Optimize -->
 <h3 class="accordion-project-heading">Design</h3>
-<div class="accordion project-accordion" id="accordion-design-projects">
-  <div class="card">
-    <div class="card-header" id="heading-research">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse-research" aria-expanded="true" aria-controls="collapse-research">
-          Research
-        </button>
-      </h5>
-    </div>
 
-    <div id="collapse-research" class="collapse" aria-labelledby="heading-research" data-parent="#accordion-design-projects">
-      <div class="card-body">
-        {% if num_research_projects < 1 %}
-          <div class="py-3">There are currently no projects in the Research phase</div>
-        {% else %}
-          <ul class="mb-0">
-            {% for project in research_projects %}
-              {% unless project.status == 'graduated' or project.status == 'discontinued' %}
-                <li><a href="{{ project.url }}">{{ project.title }}</a></li>
-              {% endunless %}
-            {% endfor %}
-          </ul>
-        {% endif %}
+<div class="accordion project-accordion" id="accordion-design-projects">
+  {% for stage in site.stages %}
+    {% if stage contains 'Research' or stage contains 'Generate Solutions' or stage contains 'Prototype' %}
+      {% assign stage_projects = site.projects | where: 'stage', stage %}
+      {% assign num_projects = stage_projects | size %}
+      <div class="card">
+        <div class="card-header" id="heading-{{ stage | slugify }}">
+          <h5 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse-{{ stage | slugify }}" aria-expanded="true" aria-controls="collapse-{{ stage | slugify }}">
+              {{ stage }}
+            </button>
+          </h5>
+        </div>
+
+        <div id="collapse-{{ stage | slugify }}" class="collapse" aria-labelledby="heading-research" data-parent="#accordion-design-projects">
+          <div class="card-body">
+            {% if num_projects < 1 %}
+              <div class="py-3">
+                There are currently no projects in the {{ stage }} phase
+              </div>
+            {% else %}
+              <ul class="mb-0">
+                {% for project in stage_projects %}
+                  {% unless project.status == 'graduated' or project.status == 'discontinued' %}
+                    <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+                  {% endunless %}
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-header" id="heading-solutions">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse-solutions" aria-expanded="false" aria-controls="collapse-solutions">
-          Generate Solutions
-        </button>
-      </h5>
-    </div>
-    <div id="collapse-solutions" class="collapse" aria-labelledby="heading-solutions" data-parent="#accordion-design-projects">
-      <div class="card-body">
-        {% if num_solution_projects < 1 %}
-          <div class="py-3">There are currently no projects in the Solutions phase</div>
-        {% else %}
-          <ul class="mb-0">
-            {% for project in solution_projects %}
-              {% unless project.status == 'graduated' or project.status == 'discontinued' %}
-                <li><a href="{{ project.url }}">{{ project.title }}</a></li>
-              {% endunless %}  
-            {% endfor %}
-          </ul>  
-        {% endif %}
-      </div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-header" id="heading-prototype">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse-prototype" aria-expanded="false" aria-controls="collapse-prototype">
-          Prototype
-        </button>
-      </h5>
-    </div>
-    <div id="collapse-prototype" class="collapse" aria-labelledby="heading-prototype" data-parent="#accordion-design-projects">
-      <div class="card-body">
-        {% if num_prototype_projects < 1 %}
-          <div class="py-3">There are currently no projects in the Prototype phase</div>
-        {% else %}
-          <ul class="mb-0">
-            {% for project in prototype_projects %}
-              {% unless project.status == 'graduated' or project.status == 'discontinued' %}
-                <li><a href="{{ project.url }}">{{ project.title }}</a></li>
-              {% endunless %}  
-            {% endfor %}
-          </ul>
-        {% endif %}
-      </div>
-    </div>
-  </div>
+    {% endif %}  
+  {% endfor %}
 </div>
 <h3 class="accordion-project-heading">Test</h3>
 <div class="accordion project-accordion" id="accordion-test-projects">
-  <div class="card">
-    <div class="card-header" id="heading-research">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse-pilot" aria-expanded="true" aria-controls="collapse-pilot">
-          Pilot
-        </button>
-      </h5>
-    </div>
-
-    <div id="collapse-pilot" class="collapse" aria-labelledby="heading-research" data-parent="#accordion-test-projects">
-      <div class="card-body">
-        {% if num_pilot_projects < 1 %}
-          <div class="py-3">There are currently no projects in the Pilot phase</div>
-        {% else %}
-          <ul class="mb-0">
-            {% for project in pilot_projects %}
+  {% for stage in site.stages %}
+    {% if stage contains 'Pilot' or stage contains 'Rigorous Evaluation' %}
+    {% assign stage_projects = site.projects | where: 'stage', stage %}
+    {% assign num_projects = stage_projects | size %}
+    <div class="card">
+      <div class="card-header" id="heading-{{ stage | slugify }}">
+        <h5 class="mb-0">
+          <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse-{{ stage | slugify }}"
+            aria-expanded="true" aria-controls="collapse-{{ stage | slugify }}">
+            {{ stage }}
+          </button>
+        </h5>
+      </div>
+    
+      <div id="collapse-{{ stage | slugify }}" class="collapse" aria-labelledby="heading-research" data-parent="#accordion-design-projects">
+        <div class="card-body">
+          {% if num_projects < 1 %}
+            <div class="py-3">
+              There are currently no projects in the {{ stage }} phase
+            </div>
+          {% else %}
+            <ul class="mb-0">
+              {% for project in stage_projects %}
               {% unless project.status == 'graduated' or project.status == 'discontinued' %}
-                <li><a href="{{ project.url }}">{{ project.title }}</a></li>
-              {% endunless %}  
-            {% endfor %}
-          </ul>
-        {% endif %}
+              <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+              {% endunless %}
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
       </div>
     </div>
-  </div>
-  <div class="card">
-    <div class="card-header" id="heading-evaluation">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse-evaluation" aria-expanded="false" aria-controls="collapse-evaluation">
-          Rigorous Evaluation
-        </button>
-      </h5>
-    </div>
-    <div id="collapse-evaluation" class="collapse" aria-labelledby="heading-evaluation" data-parent="#accordion-test-projects">
-      <div class="card-body">
-        {% if num_evaluation_projects < 1 %}
-          <div class="py-3">There are currently no projects in the Evaluation phase</div>
-        {% else %}
-          <ul class="mb-0">
-            {% for project in evaluation_projects %}
-              {% unless project.status == 'graduated' or project.status == 'discontinued' %}
-                <li><a href="{{ project.url }}">{{ project.title }}</a></li>
-              {% endunless %}  
-            {% endfor %}
-          </ul>
-        {% endif %}
-      </div>
-    </div>
-  </div>
+    {% endif %}
+  {% endfor %}
 </div>
 <h3 class="accordion-project-heading">Scale</h3>
 <div class="accordion project-accordion" id="accordion-scale-projects">
-  <div class="card">
-    <div class="card-header" id="heading-scale">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse-scale" aria-expanded="true" aria-controls="collapse-scale">
-          Scale
-        </button>
-      </h5>
-    </div>
-
-    <div id="collapse-scale" class="collapse" aria-labelledby="heading-scale" data-parent="#accordion-scale-projects">
-      <div class="card-body">
-        {% if num_scale_projects < 1 %}
-          <div class="py-3">There are currently no projects in the Scale phase</div>
-        {% else %}
-          <ul class="mb-0">
-            {% for project in scale_projects %}
+  {% for stage in site.stages %}
+    {% if stage contains 'Scale' %}
+    {% assign stage_projects = site.projects | where: 'stage', stage %}
+    {% assign num_projects = stage_projects | size %}
+    <div class="card">
+      <div class="card-header" id="heading-{{ stage | slugify }}">
+        <h5 class="mb-0">
+          <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse-{{ stage | slugify }}"
+            aria-expanded="true" aria-controls="collapse-{{ stage | slugify }}">
+            {{ stage }}
+          </button>
+        </h5>
+      </div>
+    
+      <div id="collapse-{{ stage | slugify }}" class="collapse" aria-labelledby="heading-research" data-parent="#accordion-design-projects">
+        <div class="card-body">
+          {% if num_projects < 1 %}
+            <div class="py-3">
+              There are currently no projects in the {{ stage }} phase
+            </div>
+          {% else %}
+            <ul class="mb-0">
+              {% for project in stage_projects %}
               {% unless project.status == 'graduated' or project.status == 'discontinued' %}
-                <li><a href="{{ project.url }}">{{ project.title }}</a></li>
-              {% endunless %}  
-            {% endfor %}
-          </ul>
-        {% endif %}
+              <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+              {% endunless %}
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
       </div>
     </div>
-  </div>
+    {% endif %}
+  {% endfor %}
 </div>
