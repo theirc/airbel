@@ -16,7 +16,7 @@ description: >-
   Over 16 million children under the age of 3 are afflicted by severe acute
   malnutrition. To pinpoint the most impactful prevention methods, Sprout is
   experimenting with 3 distinct approaches, which include improving the storage
-  practices of crops, a wide range of behavior-change interventions, and cash
+  practices of crops, a range of behavior-change interventions, and cash
   transfers.
 featured_image: /uploads/dsc00457-2.jpg
 featured_video_url:
