@@ -15,9 +15,9 @@
         </li>
       </ul>
     </div>
-    <div class="col-md-6 filters">
+    <div class="col-md-6 filters text-right">
       <div>
-        Filter by Region
+        Filter by region
         <div class="dropdown" role="group">
           <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
             <span id="active-region-filter">All</span>
@@ -29,9 +29,9 @@
             </li>
             {% assign regions = "" | split:"," %}
             {% for project in site.projects %}
-            {% unless project.geolocation.region == null %}
-            {% assign regions = regions | push: project.geolocation.region %}
-            {% endunless %}
+              {% unless project.geolocation.region == null %}
+                {% assign regions = regions | push: project.geolocation.region %}
+              {% endunless %}
             {% endfor %}
             {% assign regions = regions | uniq %}
   
