@@ -1,0 +1,46 @@
+<div class="row align-items-center filters">
+  <div class="col-12 col-md-8">
+    <div class="content pb-0">
+      <h2 class="editable">All Projects</h2>
+      <fieldset data-filter-group>
+        <div class="form-check form-check-inline">
+          <input class="form-check-input" type="radio" name="projectStatus" value=".active" checked>
+          <label class="form-check-label">Active</label>
+        </div>
+        <div class="form-check form-check-inline">
+          <input class="form-check-input" type="radio" name="projectStatus" value=".graduated">
+          <label class="form-check-label">Graduated</label>
+        </div>
+      </fieldset>
+    </div>
+  </div>
+  <div class="col-12 col-md-4">
+    <div class="content">
+      <div>
+        Filter by focus 
+        <div class="dropdown" role="group">
+          <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+            <span id="active-focus-filter">All</span>
+            <span class="arrow-down"></span>
+          </button>
+          <ul class="dropdown-menu" data-filter-group>
+            <li class="dropdown-item">
+              <a class="filter"
+                 data-filter="all"
+                 data-active-text="active-focus-filter"
+                 data-mixitup-control>All</a>
+            </li>
+            {% for focus in site.focuses %}
+              <li class="dropdown-item">
+                <a class="filter"
+                   data-filter=".{{ focus.title | slugify }}"
+                   data-active-text="active-focus-filter"
+                   data-mixitup-control>{{ focus.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

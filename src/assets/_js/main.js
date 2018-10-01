@@ -6,22 +6,32 @@ import 'bootstrap';
 
 import App from './App';
 import mixitup from 'mixitup';
-
-$(function() {
-  $('#focus-tabs').tabCollapse();
-});
+import mixitupMultifilter from './vendor/mixitup-multifilter';
+mixitup.use(mixitupMultifilter);
 
 const containerEl = document.getElementById('projects')
 
 if (containerEl) {
   var mixer = mixitup(containerEl, {
+    multifilter: {
+      enable: true
+    },
     selectors: {
       control: '[data-mixitup-control]'
+    },
+    load: {
+      filter: '.active'
+    },
+    callbacks: {
+      onMixStart: function(state, futureState) {}
     }
   });
 }
 
+
 $('.filter').on('click', function(){
   var text = $(this).text();
-  $('#filter-text').text(text);
+  var target = "#"+ $(this).attr('data-active-text');
+  $(target).text(text);
+  $('.dropdown-menu').removeClass('show');
 });
