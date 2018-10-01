@@ -31,6 +31,6 @@ milestones:
     description_markdown:
 ---
 
-In partnership with **Ubongo**, Africa’s leading children’s edutainment and media company, Tunakujenga aims to increase children’s exposure to social and emotional learning (SEL). Using activities supported by behavioral evidence, to create high-quality video content that can help build habits and is enjoyable for both the caregiver and child. This program further supports caregivers by holding weekly video clubs in churches. Tunakujenga leverages both the wide reach of television and existing faith-based networks to reach caregivers wherever they are, and to include SEL as part of daily home routines.
+In partnership with **Ubongo**, Africa’s leading children’s edutainment and media company, Tunakujenga aims to increase children’s exposure to social-emotional learning (SEL). Using activities supported by behavioral evidence, to create high-quality video content that can help build habits and is enjoyable for both the caregiver and child. This program further supports caregivers by holding weekly video clubs in churches. Tunakujenga leverages both the wide reach of television and existing faith-based networks to reach caregivers wherever they are, and to include SEL as part of daily home routines.
 
 ![](/uploads/momsclub-4.png)
