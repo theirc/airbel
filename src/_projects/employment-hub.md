@@ -17,9 +17,12 @@ description: >-
 featured_image: /uploads/dscf7917-01.jpg
 featured_video_url:
 resources:
-  - title:
+  - title: >-
+      Solving the Refugee Employment Problem in Jordan: A Survey of Syrian
+      Refugees
     description:
-    url:
+    url: >-
+      https://www.rescue.org/sites/default/files/document/1527/irc-syrianrefugeeemployment-72dpi-041117.pdf
 articles:
   - title: >-
       Financial Times (paywall) - Putting refugees to work: the greatest
