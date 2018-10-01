@@ -126,7 +126,11 @@ milestones:
       Learning (SEL) and literacy in their primary school years”
 ---
 
-A virtual coaching program for refugee teachers on how to promote students’ social and emotional wellbeing. Social-emotional learning, or “SEL”, can help children develop the skills needed to regulate their emotional responses, positively interact with others and better persevere in adverse situations. Coach Erevu aims to build the SEL skills of teachers through weekly video clubs, timely habit triggers, and bite-sized localized teaching materials. Our solution can be implemented as separate components or one holistic approach. 
+#### Why focus on Social-emotional learning?
+
+Social-emotional learning, or “SEL”, can help children develop the skills needed to regulate their emotional responses, positively interact with others and better persevere in adverse situations.
+
+#### &nbsp;
 
 #### How does it work?
 
