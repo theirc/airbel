@@ -12,6 +12,7 @@ mixitup.use(mixitupMultifilter);
 import getUrlParameter from './params';
 
 const containerEl = document.getElementById('projects');
+const projectVisualizer = document.getElementById('project-visualizer');
 
 if (containerEl) {
   const focus = getUrlParameter('focus');
@@ -21,7 +22,7 @@ if (containerEl) {
       enable: true
     },
     selectors: {
-      control: '[data-mixitup-control]'
+      control: '[data-project-list-control]'
     },
     load: {
       filter: activeFilters
@@ -32,6 +33,14 @@ if (containerEl) {
   });
   
   $('#active-focus-text').text(focus);
+}
+
+if (projectVisualizer) {
+  let mixer = mixitup(projectVisualizer, {
+    selectors: {
+      control: '[data-visualizer-control]'
+    }
+  });
 }
 
 

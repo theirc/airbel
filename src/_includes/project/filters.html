@@ -1,3 +1,4 @@
+
 <div class="row align-items-center filters">
   <div class="col-12 col-md-8">
     <div class="content pb-0">
@@ -26,16 +27,16 @@
           <ul class="dropdown-menu" data-filter-group>
             <li class="dropdown-item">
               <a class="filter"
-                 data-filter="all"
-                 data-active-text="active-focus-filter"
-                 data-mixitup-control>All</a>
+                data-filter="all"
+                data-active-text="active-focus-filter"
+                data-project-list-control>All</a>
             </li>
             {% for focus in site.focuses %}
               <li class="dropdown-item">
                 <a class="filter"
-                   data-filter=".{{ focus.title | slugify }}"
-                   data-active-text="active-focus-filter"
-                   data-mixitup-control>{{ focus.title }}</a>
+                  data-filter=".{{ focus.title | slugify }}"
+                  data-active-text="active-focus-filter"
+                  data-project-list-control>{{ focus.title }}</a>
               </li>
             {% endfor %}
           </ul>
@@ -43,4 +44,36 @@
       </div>
     </div>
   </div>
+  <!-- <div class="col-12 col-lg-4">
+    <div class="content">
+      <div>
+        Filter by Region
+        <div class="dropdown" role="group">
+          <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+            <span id="active-focus-filter">All</span>
+            <span class="arrow-down"></span>
+          </button>
+          <ul class="dropdown-menu" data-filter-group>
+            <li class="dropdown-item">
+              <a class="filter" data-filter="all" data-active-text="active-focus-filter" data-mixitup-control>All</a>
+            </li>
+            {% assign regions = "" | split:"," %}
+            {% for project in site.projects %}
+              {% unless project.geolocation.region == null %}
+                {% assign regions = regions | push: project.geolocation.region %}
+              {% endunless %}
+            {% endfor %}
+            {% assign regions = regions | uniq %}
+
+            {% for region in regions %}
+            <li class="dropdown-item">
+              <a class="filter" data-filter=".{{ region | slugify }}" data-active-text="active-focus-filter"
+                data-mixitup-control>{{ region }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div> -->
 </div>

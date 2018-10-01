@@ -13,13 +13,13 @@
       {% else %}
         {% for project in current_projects %}
           {% unless project.status == 'hidden' %}
-            <div class="row no-gutters bg-light project-summary-row border-{{ project.focuses.first }} {% if project.status == 'graduated' or project.status == 'discontinued' %}{{ project.status }}{% endif %}">
+            <div class="mix row no-gutters bg-light project-summary-row border-{{ project.focuses.first }} {{ project.geolocation.region | slugify }} {% if project.status == 'graduated' or project.status == 'discontinued' %}{{ project.status }}{% endif %}">
               <div class="col-md-4">
                 <div class="content">
                   <p class="mb-0"><em>{{ project.focuses }}</em></p>
-                  <h4 class="mb-0">{{ project.title }}</h4>
+                  <h4 class="mb-0"><strong>{{ project.title }}</strong></h4>
                   <p class="mb-0">{{ project.geolocation.region }}</p>
-                  <p>{{ stage }}</p>
+                  <p><small>{{ stage }}</small></p>
                 </div>
               </div>
               <div class="col-md-5">
