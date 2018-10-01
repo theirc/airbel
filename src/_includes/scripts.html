@@ -1,6 +1,11 @@
 <!-- Javascript -->
 <script src="{{ '/assets/js/main.js' | prepend: site.baseurl }}"></script>
-<script src="{{ '/assets/js/vendor/tab-collapse-b4.js' }}"></script>
 
+<script src="{{ '/assets/js/vendor/tab-collapse-b4.js' }}"></script>
+<script>
+  $(function() {
+    $('#focus-tabs').tabCollapse();
+  });
+</script>
 
 

@@ -33,39 +33,14 @@ title: Portfolio
 </section>
 <section class="bg-light">
   <div class="container">
-    <div class="row">
-      <div class="col-md-6">
-        <div class="content">
-          <h2 class="editable">All Projects</h2>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <div class="content">
-          <div class="select-by">Filter by focus 
-            <div class="dropdown" role="group">
-              <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                <span id="filter-text">All</span>
-                <span class="arrow-down"></span>
-              </button>
-              <ul id="project-sort" class="dropdown-menu">
-                <li class="dropdown-item">
-                  <a class="filter" data-filter="all" data-mixitup-control>All</a>
-                </li>
-                {% for focus in site.focuses %}
-                  <li class="dropdown-item">
-                    <a class="filter" data-filter=".{{ focus.title | slugify }}" data-mixitup-control>{{ focus.title }}</a>
-                  </li>
-                {% endfor %}
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div id="projects">
+
+    {% include project/filters.html %}
+
+
+    <div id="projects" class="mt-4 pt-4 border-top" data-ref="container">
       {% for project in site.projects %}
-        {% if project.status == 'active' %}
-        <div class="row align-items-start mb-5 mix {% for focus in project.focuses %}{{ focus | slugify }}{% endfor %} {{ project.geolocation.region | slugify }}">
+        {% if project.status == 'active' or project.status == 'graduated' %}
+        <div class="row align-items-start mb-5 mix {% for focus in project.focuses %}{{ focus | slugify }} {% endfor %} {{ project.geolocation.region | slugify }} {{ project.status | slugify }}">
           <div class="col-md-6">
             <div class="content">
               <a href="{{ project.url }}" class="bg-image aspect-4x3" style="background-image: url({{ project.featured_image | default: site.placeholders.thumbnail_4x3 }})"></a>
