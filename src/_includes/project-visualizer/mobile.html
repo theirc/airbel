@@ -24,8 +24,8 @@
             {% else %}
               <ul class="mb-0">
                 {% for project in stage_projects %}
-                  {% unless project.status == 'graduated' or project.status == 'discontinued' %}
-                    <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+                  {% unless project.status == 'hidden' %}
+                    <li><a href="{{ project.url }}">{{ project.title }}{% if project.status == 'graduated' or project.status == 'discontinued' %} <small>({{ project.status }})</small>{% endif %}</a></li>
                   {% endunless %}
                 {% endfor %}
               </ul>
@@ -61,9 +61,9 @@
           {% else %}
             <ul class="mb-0">
               {% for project in stage_projects %}
-              {% unless project.status == 'graduated' or project.status == 'discontinued' %}
-              <li><a href="{{ project.url }}">{{ project.title }}</a></li>
-              {% endunless %}
+                {% unless project.status == 'hidden' %}
+                  <li><a href="{{ project.url }}">{{ project.title }}{% if project.status == 'graduated' or project.status == 'discontinued' %} <small>({{ project.status }})</small>{% endif %}</a></li>
+                {% endunless %}
               {% endfor %}
             </ul>
           {% endif %}
@@ -98,9 +98,9 @@
           {% else %}
             <ul class="mb-0">
               {% for project in stage_projects %}
-              {% unless project.status == 'graduated' or project.status == 'discontinued' %}
-              <li><a href="{{ project.url }}">{{ project.title }}</a></li>
-              {% endunless %}
+                {% unless project.status == 'hidden' %}
+                  <li><a href="{{ project.url }}">{{ project.title }}{% if project.status == 'graduated' or project.status == 'discontinued' %} <small>({{ project.status }})</small>{% endif %}</a></li>
+                {% endunless %}
               {% endfor %}
             </ul>
           {% endif %}

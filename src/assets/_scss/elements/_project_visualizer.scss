@@ -70,7 +70,6 @@
   }
 }
 
-
 // TODO - Refactor Below
 
 #phase-headings {
@@ -146,6 +145,21 @@
   margin-top: 8px;
   border-left: 10px solid $dark;
   position: relative;
+  &.graduated,
+  &.discontinued {
+    .btn {
+      bottom: 60px;
+    }
+  }
+  &.graduated {
+    .status-notification {
+      p {
+        &::before {
+          background-color: $white;
+        }
+      }
+    }
+  }
   h4 {
     font-weight: 400;
   }
@@ -158,6 +172,26 @@
     border-color: $white;
     background-color: $gray-400;
     color: $dark;
+  }
+}
+
+.status-notification {
+  background-color: $dark;
+  color: $white;
+  padding: 10px 20px;
+  border-top: 10px solid $white;
+  p {
+    margin-bottom: 0;
+    padding-left: 20px;
+    &::before {
+      content: '';
+      display: inline-block;
+      width: 12px;
+      height: 12px;
+      border: 1px solid $white;
+      border-radius: 50%;
+      margin-right: 5px;
+    }
   }
 }
 

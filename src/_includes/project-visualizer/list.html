@@ -13,7 +13,7 @@
       {% else %}
         {% for project in current_projects %}
           {% unless project.status == 'hidden' %}
-            <div class="row no-gutters bg-light project-summary-row border-{{ project.focuses.first }}">
+            <div class="row no-gutters bg-light project-summary-row border-{{ project.focuses.first }} {% if project.status == 'graduated' or project.status == 'discontinued' %}{{ project.status }}{% endif %}">
               <div class="col-md-4">
                 <div class="content">
                   <p class="mb-0"><em>{{ project.focuses }}</em></p>
@@ -28,6 +28,13 @@
                 </div>
               </div>
               <a href="{{ project.url }}" class="btn">Find out more</a>
+              {% if project.status == 'graduated' or project.status == 'discontinued' %}
+              <div class="col-12 ">
+                <div class="status-notification">
+                  <p>This project {{ project.status }} at the {{ project.stage }} phase</p>
+                </div>
+              </div>
+              {% endif %}
             </div>
           {% endunless%}
         {% endfor %}
