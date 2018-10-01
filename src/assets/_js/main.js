@@ -8,12 +8,15 @@ import App from './App';
 import mixitup from 'mixitup';
 import mixitupMultifilter from './vendor/mixitup-multifilter';
 mixitup.use(mixitupMultifilter);
+
 import getUrlParameter from './params';
 
 const containerEl = document.getElementById('projects');
 
 if (containerEl) {
-  var mixer = mixitup(containerEl, {
+  const focus = getUrlParameter('focus');
+  let activeFilters = focus ? `.active.${focus}` : `.active`;
+  let mixer = mixitup(containerEl, {
     multifilter: {
       enable: true
     },
@@ -21,18 +24,20 @@ if (containerEl) {
       control: '[data-mixitup-control]'
     },
     load: {
-      filter: '.active'
+      filter: activeFilters
     },
     callbacks: {
       onMixStart: function(state, futureState) {}
     }
   });
+  
+  $('#active-focus-text').text(focus);
 }
 
 
 $('.filter').on('click', function(){
-  var text = $(this).text();
-  var target = "#"+ $(this).attr('data-active-text');
+  let text = $(this).text();
+  let target = "#"+ $(this).attr('data-active-text');
   $(target).text(text);
   $('.dropdown-menu').removeClass('show');
 });
