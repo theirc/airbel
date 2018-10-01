@@ -4,18 +4,18 @@ title: Match
 tagline: 'Combining data, networks and policy to get refugees into work'
 status: active
 stage: Pilot
-focuses: 
+focuses:
+  - employment
 geolocation:
-  region:
-  latitude:
-  longitude:
+  region: Amman
+  latitude: 31.9454° N
+  longitude: 35.9284° E
 description: >-
   Working to counter the high rates of unemployment that follow mass
   displacement, the Employment Hub in Jordan is testing a set of new innovations
   for matching employers and job seekers.
 featured_image: /uploads/dscf7917-01.jpg
 featured_video_url:
-
 resources:
   - title:
     description:
@@ -23,7 +23,6 @@ resources:
 articles:
   - title:
     url:
-
 milestones:
   - date:
     title:
@@ -36,7 +35,7 @@ When mass displacement leads to mass unemployment, both refugees and vulnerable 
 
 The Employment Hub consists of two core activities:
 
-1. A mobile network of entrepreneurial employment service officers
-2. An algorithm that enables the IRC to optimally match jobs and job-seekers
+1. ###### A mobile network of entrepreneurial employment service officers
+2. ###### An algorithm that enables the IRC to optimally match jobs and job-seekers
 
 These core services are supported by a set of complementary and experimental activities, including behavioral nudges, and childcare and transport support, aimed at mitigating the constraints refugees face in accessing and retaining employment.

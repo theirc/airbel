@@ -25,19 +25,19 @@ resources:
     description:
     url:
 articles:
-  - title:
-    url:
+  - title: Medium | Malnutrition
+    url: 'https://medium.com/airbel/malnutrition/home'
 milestones:
   - date: 2018-07-01 00:00:00
     title: Kicked off prototype
     link: 'https://medium.com/airbel/field-notes-cash-cash-cash-ba1029d22b74'
-    link_title: Field Notes
+    link_title:
     description_markdown: Kicked off testing the prototype in three separate villages in Niger.
   - date: 2018-06-01 00:00:00
     title: Sprout 2.0 Begins
     link: >-
       https://medium.com/airbel/three-approaches-were-testing-to-prevent-malnutrition-9f4c73c59b3f
-    link_title: Blog
+    link_title:
     description_markdown: >-
       Developed a prototype to understand how post-harvest loss reduction, small
       cash transfers, and promotion of locally-relevant positive practices meets
@@ -47,7 +47,7 @@ milestones:
       How might reducing post-harvest loss contribute to SAM risk-reduction
       among smallholder farming families?
     link: 'https://rescue.box.com/s/ib1p86u4z423m4czf0gwrg4obbxp29lu'
-    link_title: Box
+    link_title:
     description_markdown: >-
       * Spent time with caregivers in remote villages in western Tanzania to
       understand:
@@ -76,7 +76,7 @@ milestones:
   - date: 2017-05-01 00:00:00
     title: How likely we will meet our goal of treating 6M children for SAM per year?
     link: 'https://www.rescue.org/report/how-will-we-treat-6m-kids-year-sam-2020'
-    link_title: Report
+    link_title:
     description_markdown: >-
       * Conducted expert interviews and desk reviews to understand the potential
       for impact on SAM treatment and cost at scale of innovations in SAM
@@ -87,7 +87,7 @@ milestones:
       the model to change assumptions as they like)
 ---
 
-Over 16 million children under the age of 3 are afflicted by severe acute malnutrition, a condition that significantly increases their chance of dying. Current prevention efforts range from breastfeeding exclusively to multi-pronged approaches that include a dizzying number of interventions like home gardens, cash transfers, and feeding practices all together - but none have proven to be effective and scalable prevention methods.
+Current malnutrition prevention efforts range from breastfeeding exclusively to multi-pronged approaches that include a dizzying number of interventions like home gardens, cash transfers, and feeding practices all together. But none have proven to be effective and scalable prevention methods.
 
 To pinpoint the most impactful methods, Sprout is experimenting with 3 distinct approaches:
 

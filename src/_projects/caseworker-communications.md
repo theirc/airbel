@@ -6,20 +6,20 @@ tagline: >-
   refugees
 status: active
 stage: Prototype
-focuses: 
+focuses:
+  - resettlement
 geolocation:
-  region:
-  latitude:
-  longitude:
+  region: United States
+  latitude: '33.749249'
+  longitude: '-84.387314'
 description: >-
   In partnership with Twilio.org, Airbel is developing an SMS-based system to
   streamline communication between caseworkers and newly-settled refugees as
   they adapt to their new lives in the United States. Through more structured
   and timely communication, we can reduce strains on time and resources for both
   the caseworker and resettled refugees.
-featured_image: /uploads/caseworker-comms-header.png
+featured_image: /uploads/caseworker-comms-header-1.png
 featured_video_url:
-
 resources:
   - title:
     description:
@@ -27,7 +27,6 @@ resources:
 articles:
   - title:
     url:
-
 milestones:
   - date:
     title:

@@ -8,8 +8,9 @@ import App from './App';
 import mixitup from 'mixitup';
 import mixitupMultifilter from './vendor/mixitup-multifilter';
 mixitup.use(mixitupMultifilter);
+import getUrlParameter from './params';
 
-const containerEl = document.getElementById('projects')
+const containerEl = document.getElementById('projects');
 
 if (containerEl) {
   var mixer = mixitup(containerEl, {
@@ -35,3 +36,5 @@ $('.filter').on('click', function(){
   $(target).text(text);
   $('.dropdown-menu').removeClass('show');
 });
+
+

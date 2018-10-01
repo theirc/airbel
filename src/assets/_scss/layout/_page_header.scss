@@ -51,12 +51,19 @@
   }
 }
 
-
 @media (max-width: $screen-sm-max) {
   #page-header {
     .container {
       padding-left: 0;
       padding-right: 0;
+    }
+  }
+}
+
+
+@media (max-width: $screen-md-max) {
+  #page-header {
+    .container {
       max-width: 100%;
     }
   }

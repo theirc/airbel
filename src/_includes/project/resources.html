@@ -11,7 +11,7 @@
           <h2>Related Articles</h2>
           <ul>
             {% for article in project.articles %}
-            <li><a href="{{ article.url }}">{{ article.title }}</a></li>
+            <li><a href="{{ article.url }}" target="_blank">{{ article.title }}</a></li>
             {% endfor %}
           </ul>
         </div>
@@ -21,14 +21,15 @@
       <div class="col-12 col-md-6">
         <div class="content">
           <h2>Resources</h2>
-            <ul>
-              {% for resource in project.resources %}
-              <li>
-                <p>{{ resource.description }}</p>
-                <a href="{{ resource.url }}" class="btn btn-dark">View {{ resource.title }}</a>
-              </li>
-              {% endfor %}
-            </ul>
+          <ul>
+            {% for resource in project.resources %}
+            <li>
+              <p>{{ resource.description }}</p>
+              <a href="{{ resource.url }}" target="_blank">{{ resource.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+            
         </div>
       </div>
       {% endif %}

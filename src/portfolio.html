@@ -39,7 +39,7 @@ title: Portfolio
 
     <div id="projects" class="mt-4 pt-4 border-top" data-ref="container">
       {% for project in site.projects %}
-        {% unless project.status == 'discontinued' %}
+        {% if project.status == 'active' or project.status == 'graduated' %}
         <div class="row align-items-start mb-5 mix {% for focus in project.focuses %}{{ focus | slugify }} {% endfor %} {{ project.geolocation.region | slugify }} {{ project.status | slugify }}">
           <div class="col-md-6">
             <div class="content">
@@ -54,7 +54,7 @@ title: Portfolio
             </div>
           </div>
         </div>
-        {% endunless %}
+        {% endif %}
       {% endfor %}
      <div class="row align-items-center filter-no-results">
        <div class="col-12">
