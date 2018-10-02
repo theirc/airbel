@@ -12,7 +12,6 @@ mixitup.use(mixitupMultifilter);
 import getUrlParameter from './params';
 
 const containerEl = document.getElementById('projects');
-const projectVisualizer = document.getElementById('project-visualizer');
 
 if (containerEl) {
   const focus = getUrlParameter('focus');
@@ -22,7 +21,7 @@ if (containerEl) {
       enable: true
     },
     selectors: {
-      control: '[data-project-list-control]'
+      control: '[data-mixitup-control]'
     },
     load: {
       filter: activeFilters
@@ -35,11 +34,19 @@ if (containerEl) {
   $('#active-focus-text').text(focus);
 }
 
+// TB: Added filters for project visualizer as a talking PointerEvent. Needs further conversation
+const projectVisualizer = document.getElementById('project-visualizer');
 if (projectVisualizer) {
-  let mixer = mixitup(projectVisualizer, {
-    selectors: {
-      control: '[data-visualizer-control]'
-    }
+  $('.stage-pane').each(function() {
+    const container = $(this);
+    let mixer = mixitup(container, {
+      selectors: {
+        control: '[data-visualizer-control]'
+      },
+      callbacks: {
+        onMixStart: function(state, futureState) {}
+      }
+    });
   });
 }
 
@@ -49,6 +56,7 @@ $('.filter').on('click', function(){
   let target = "#"+ $(this).attr('data-active-text');
   $(target).text(text);
   $('.dropdown-menu').removeClass('show');
+  console.log($(this).attr('data-filter'));
 });
 
 

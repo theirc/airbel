@@ -1,4 +1,4 @@
-<div class="d-flex justify-content-between">
+<div class="d-flex justify-content-between stage-pane">
   {% for stage in site.stages %}
     <div class="stage stage-{{ stage }}">
       <div class="stage-sub-heading">
@@ -8,7 +8,7 @@
         {% assign stage_projects = site.projects | where: "stage", stage %}
         {% for project in stage_projects %}
           {% if project.status == 'active' %}
-            <div class="project-focus bg-{{ project.focuses.first }}"></div>
+            <div class="mix {{ project.geolocation.region | slugify }} project-focus bg-{{ project.focuses.first }}"></div>
           {% endif %}
         {% endfor %}
       </div>

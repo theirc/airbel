@@ -23,9 +23,9 @@
             <span id="active-region-filter">All</span>
             <span class="arrow-down"></span>
           </button>
-          <ul class="dropdown-menu" data-filter-group>
+          <ul class="dropdown-menu">
             <li class="dropdown-item">
-              <a class="filter" data-filter="all" data-active-text="active-focus-filter" data-mixitup-control>All</a>
+              <a class="filter" data-filter="all" data-active-text="active-region-filter" data-visualizer-control>All</a>
             </li>
             {% assign regions = "" | split:"," %}
             {% for project in site.projects %}
@@ -37,8 +37,7 @@
   
             {% for region in regions %}
             <li class="dropdown-item">
-              <a class="filter" data-filter=".{{ region | slugify }}" data-active-text="active-region-filter"
-                data-visualizer-control>{{ region }}</a>
+              <a class="filter" data-filter=".{{ region | slugify }}" data-active-text="active-region-filter" data-visualizer-control>{{ region }}</a>
             </li>
             {% endfor %}
           </ul>

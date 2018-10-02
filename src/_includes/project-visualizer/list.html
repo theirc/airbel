@@ -6,7 +6,7 @@
 
 <div id="project-tab-content" class="tab-content">
   {% for stage in site.stages %}
-    <div id="{{ stage | slugify }}" class="tab-pane fade show {% if forloop.first %}active{% endif %}">
+    <div id="{{ stage | slugify }}" class="stage-pane tab-pane fade show {% if forloop.first %}active{% endif %}">
       {% assign current_projects = site.projects | where: "stage", stage %}
       {% if current_projects.size < 1 %}
         <div class="d-flex align-items-center justify-content-center bg-light p-5">There are currently no projects in the {{ stage }} phase</div>
