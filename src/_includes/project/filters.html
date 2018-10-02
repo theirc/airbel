@@ -3,13 +3,13 @@
   <div class="col-12 col-md-8">
     <div class="content pb-0">
       <h2 class="editable">All Projects</h2>
-      <fieldset data-filter-group>
+      <fieldset data-filter-group="status">
         <div class="form-check form-check-inline">
-          <input class="form-check-input" type="radio" name="projectStatus" value=".active" data-list-control checked>
+          <input class="form-check-input" type="radio" name="projectStatus" value=".active" data-mixitup-control checked>
           <label class="form-check-label">Active</label>
         </div>
         <div class="form-check form-check-inline">
-          <input class="form-check-input" type="radio" name="projectStatus" value=".graduated" data-list-control>
+          <input class="form-check-input" type="radio" name="projectStatus" value=".graduated" data-mixitup-control>
           <label class="form-check-label">Graduated</label>
         </div>
       </fieldset>
@@ -24,10 +24,10 @@
             <span id="active-focus-filter">All</span>
             <span class="arrow-down"></span>
           </button>
-          <ul class="dropdown-menu" data-filter-group>
+          <ul class="dropdown-menu" data-filter-group="focus">
             <li class="dropdown-item">
               <a class="filter"
-                data-filter="all"
+                data-filter=""
                 data-active-text="active-focus-filter"
                 data-mixitup-control>All</a>
             </li>
