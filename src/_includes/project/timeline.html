@@ -18,7 +18,7 @@
         </div>
         {% endfor %}
         {% if size > 2 %}
-        <button id="show-timeline" class="btn btn-warning collapsed" data-toggle="collapse" data-target="#full-timeline" aria-expanded="false"
+        <button id="show-timeline" class="btn btn-primary collapsed" data-toggle="collapse" data-target="#full-timeline" aria-expanded="false"
           aria-controls="full-timeline"><span class="show-text">Show Full Timeline</span><span class="hide-text">Hide Full Timeline</span></button>
         <div class="collapse" id="full-timeline">
           {% for milestone in project.milestones offset: 2 %}

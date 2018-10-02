@@ -158,7 +158,7 @@ mark {
   font-family: $commuter-sans;
   padding: 5px 0;
   box-decoration-break: clone;
-  &.bg-warning {
+  &.bg-primary {
     box-shadow: 4px 0 0 $yellow, -4px 0 0 $yellow;
   }
   &.bg-dark {
