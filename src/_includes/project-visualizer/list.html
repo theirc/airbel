@@ -1,44 +1,38 @@
-<div id="project-nav" class="nav nav-tabs">
-  {% for stage in site.stages %}
-    <a class="phase-sub-heading nav-link {% if forloop.first %}active{% endif %}" href="#{{ stage | slugify }}" data-toggle="tab">{{ stage }}</a>
-  {% endfor %}
-</div>
-
 <div id="project-tab-content" class="tab-content">
   {% for stage in site.stages %}
+    {% assign current_projects = site.projects | where: "stage", stage %}
     <div id="{{ stage | slugify }}" class="stage-pane tab-pane fade show {% if forloop.first %}active{% endif %}">
-      {% assign current_projects = site.projects | where: "stage", stage %}
-      {% if current_projects.size < 1 %}
-        <div class="d-flex align-items-center justify-content-center bg-light p-5">There are currently no projects in the {{ stage }} phase</div>
-      {% else %}
-        {% for project in current_projects %}
-          {% if project.status == 'active' %}
-            <div class="mix row no-gutters bg-light project-summary-row border-{{ project.focuses.first }} {{ project.geolocation.region | slugify }} {{ project.status }}-project">
-              <div class="col-md-4">
-                <div class="content">
-                  <p class="mb-0"><em>{{ project.focuses }}</em></p>
-                  <h4 class="mb-0"><strong>{{ project.title }}</strong></h4>
-                  <p class="mb-0">{{ project.geolocation.region }}</p>
-                  <p><small>{{ stage }}</small></p>
-                </div>
+    {% if current_projects.size < 1 %}
+      <div class="d-flex align-items-center justify-content-center bg-light p-5">There are currently no projects in the {{ stage }} phase</div>
+    {% else %}
+      {% for project in current_projects %}
+        {% unless project.status == 'hidden' %}
+          <div class="mix row no-gutters bg-light project-summary-row border-{{ project.focuses.first }} {{ project.geolocation.region | slugify }} status-{{ project.status | slugify }}">
+            <div class="col-md-4">
+              <div class="content">
+                <p class="mb-0"><em>{{ project.focuses }}</em></p>
+                <h4 class="mb-0"><strong>{{ project.title }}</strong></h4>
+                <p class="mb-0">{{ project.geolocation.region }}</p>
+                <p><small>{{ stage }}</small></p>
               </div>
-              <div class="col-md-5">
-                <div class="content">
-                  <p class="mb-0">{{ project.description | truncatewords: 30 }}</p>
-                </div>
-              </div>
-              <a href="{{ project.url }}" class="btn">Find out more</a>
-              {% if project.status == 'graduated' or project.status == 'discontinued' %}
-              <div class="col-12 ">
-                <div class="status-notification">
-                  <p>This project {{ project.status }} at the {{ project.stage }} phase</p>
-                </div>
-              </div>
-              {% endif %}
             </div>
-          {% endif%}
-        {% endfor %}
-      {% endif %}
+            <div class="col-md-5">
+              <div class="content">
+                <p class="mb-0">{{ project.description | truncatewords: 30 }}</p>
+              </div>
+            </div>
+            <a href="{{ project.url }}" class="btn">Find out more</a>
+            {% if project.status == 'graduated' or project.status == 'discontinued' %}
+            <div class="col-12 ">
+              <div class="status-notification">
+                <p class="status-{{ project.status | slugify }}">This project {{ project.status }} at the {{ project.stage }} phase</p>
+              </div>
+            </div>
+            {% endif %}
+          </div>
+        {% endunless %}
+      {% endfor %}
+    {% endif %}
     </div>
   {% endfor %}
 </div>

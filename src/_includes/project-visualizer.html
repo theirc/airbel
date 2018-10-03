@@ -1,0 +1,110 @@
+<div id="project-visualizer" class="d-none d-md-block">
+  <div class="row align-items-end">
+    <!-- Togggle List/Grid View -->
+    <div class="col-md-6">
+      <ul class="view-nav nav nav-tabs" role="tablist">
+        <li class="nav-item">
+          <a class="nav-link p-1 active" id="list-tab" data-toggle="tab" href="#list">
+            <img src="/assets/img/airbel-list-icon.svg" class="img-fluid" alt="List Icon">
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link p-1" id="grid-tab" data-toggle="tab" href="#grid">
+            <img src="/assets/img/airbel-grid-icon.svg" class="img-fluid" alt="Grid Icon">
+          </a>
+        </li>
+      </ul>
+    </div>
+    <!-- Filters -->
+    <div class="col-md-6">
+      <div class="filters p-1 pr-0 text-right">
+        Filter by status 
+        <div class="dropdown" role="group">
+          <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+            <span id="active-status-filter">Active</span>
+            <span class="arrow-down"></span>
+          </button>
+          <ul class="dropdown-menu" data-filter-group="status">
+            <li class="dropdown-item">
+              <a class="filter"
+                data-filter=".status-active"
+                data-active-text="active-status-filter"
+                data-visualizer-control>Active</a>
+            </li>
+            <li class="dropdown-item">
+              <a class="filter"
+                data-filter=".status-graduated"
+                data-active-text="active-status-filter"
+                data-visualizer-control>Graduated</a>
+            </li>
+            <li class="dropdown-item">
+              <a class="filter"
+                data-filter=".status-discontinued"
+                data-active-text="active-status-filter"
+                data-visualizer-control>Discontinued</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Phase Headings -->
+  <div class="row no-gutters" style="margin: 0 -3px;">
+    <div class="col-md-6">
+      <div class="row">
+        <div class="col">
+          <div class="phase-heading bg-yellow">
+            Design
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="row">
+        <div class="col">
+          <div class="phase-heading bg-yellow-mid">
+            Test
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-2">
+      <div class="row">
+        <div class="col">
+          <div class="phase-heading bg-yellow-dark">
+            Scale
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Stage Headings -->
+  <div class="stage-nav nav nav-tabs">
+    {% for stage in site.stages %}
+      {% if project %}
+        <a class="nav-link {% if stage == project.stage %}active{% endif %}" href="#{{ stage | slugify }}" data-toggle="tab">{{ stage }}</a>
+      {% else %}
+        <a class="nav-link {% if forloop.first %}active{% endif %}" href="#{{ stage | slugify }}" data-toggle="tab">{{ stage }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  {% if project %}
+  <div class="d-flex align-items-center justify-content-center p-3 mt-2 bg-dark text-white">
+    {% if project.status == "graduated" or project.status == "discontinued" %}
+      <h4 class="mb-0">{{ project.title }} was {{ project.status }} at this stage in the Airbel process</h4>
+    {% else %}
+      <h4 class="mb-0">{{ project.title }} is at the {{ project.stage }} stage in the Airbel process</h4>
+    {% endif %}
+  </div>
+  {% endif %}
+    
+  <div class="tab-content">
+    <div class="tab-pane active" id="list" role="tabpanel" aria-labelledby="list-tab">
+      {% include project-visualizer/list.html %}
+    </div>
+    <div class="tab-pane" id="grid" role="tabpanel" aria-labelledby="grid-tab">
+      {% include project-visualizer/grid.html %}
+    </div>
+  </div>
+</div>
