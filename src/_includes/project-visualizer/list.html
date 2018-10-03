@@ -12,8 +12,8 @@
         <div class="d-flex align-items-center justify-content-center bg-light p-5">There are currently no projects in the {{ stage }} phase</div>
       {% else %}
         {% for project in current_projects %}
-          {% unless project.status == 'hidden' %}
-            <div class="mix row no-gutters bg-light project-summary-row border-{{ project.focuses.first }} {{ project.geolocation.region | slugify }} {% if project.status == 'graduated' or project.status == 'discontinued' %}{{ project.status }}{% endif %}">
+          {% if project.status == 'active' %}
+            <div class="mix row no-gutters bg-light project-summary-row border-{{ project.focuses.first }} {{ project.geolocation.region | slugify }} {{ project.status }}-project">
               <div class="col-md-4">
                 <div class="content">
                   <p class="mb-0"><em>{{ project.focuses }}</em></p>
@@ -36,7 +36,7 @@
               </div>
               {% endif %}
             </div>
-          {% endunless%}
+          {% endif%}
         {% endfor %}
       {% endif %}
     </div>

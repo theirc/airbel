@@ -15,34 +15,17 @@
         </li>
       </ul>
     </div>
-    <div class="col-md-6 filters text-right">
-      <div>
-        Filter by region
-        <div class="dropdown" role="group">
-          <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
-            <span id="active-region-filter">All</span>
-            <span class="arrow-down"></span>
-          </button>
-          <ul class="dropdown-menu" data-filter-group="location">
-            <li class="dropdown-item">
-              <a class="filter" data-filter="all" data-active-text="active-region-filter" data-visualizer-control>All</a>
-            </li>
-            {% assign regions = "" | split:"," %}
-            {% for project in site.projects %}
-              {% unless project.geolocation.region == null %}
-                {% assign regions = regions | push: project.geolocation.region %}
-              {% endunless %}
-            {% endfor %}
-            {% assign regions = regions | uniq %}
-  
-            {% for region in regions %}
-            <li class="dropdown-item">
-              <a class="filter" data-filter=".{{ region | slugify }}" data-active-text="active-region-filter" data-visualizer-control>{{ region }}</a>
-            </li>
-            {% endfor %}
-          </ul>
+    <div class="col-md-6 filters text-right d-none">
+      <fieldset data-filter-group="status">
+        <div class="form-check form-check-inline">
+          <input class="form-check-input" type="radio" name="projectStatus" value=".active-project" data-visualizer-control checked>
+          <label class="form-check-label">Active</label>
         </div>
-      </div>
+        <div class="form-check form-check-inline">
+          <input class="form-check-input" type="radio" name="projectStatus" value=".graduated-project" data-visualizer-control>
+          <label class="form-check-label">Graduated</label>
+        </div>
+      </fieldset>
     </div>
   </div>
   
