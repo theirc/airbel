@@ -10,9 +10,8 @@ title: Team
         <div class="content">
           <div class="editable">
             <h1 class="h2">Who are we?</h1>
-            <p>Airbel is a team of design-thinkers and strategists. Together with IRC technical experts and field staff, we design
-              and scale new solutions that will reach more people and have a bigger impact in some of the most challenging places
-              around the world. Our team includes:</p>
+            <p>We are a team of design-thinkers and strategists. Alongside IRC technical experts and field staff, we design
+              and scale new solutions that address big humanitarian challenges.</p>
           </div>
         </div>
       </div>
@@ -34,6 +33,56 @@ title: Team
       {% endfor %}
     </div>
 
+
+    {% if site.data.amman[0].name %}
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <h2>Amman office</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      {% for member in site.data.amman %}
+      <div class="col-md-6">
+        <div class="media content align-items-center team-member">
+          <div class="w-25">
+            <div class="bg-image aspect-1x1" style="background-image: url({{ member.profile_image | default: site.placeholders.thumbnail_1x1 }})"></div>
+          </div>
+          <div class="media-body pl-4">
+            <h3>{{ member.name }}</h3>
+            <p><em>{{ member.title }}</em></p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+        {% if site.data.fellows-fall2018[0].name %}
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <h2>Zolberg-IRC Fellows (Fall 2018)</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      {% for member in site.data.fellows-fall2018 %}
+      <div class="col-md-6">
+        <div class="media content align-items-center team-member">
+          <div class="w-25">
+            <div class="bg-image aspect-1x1" style="background-image: url({{ member.profile_image | default: site.placeholders.thumbnail_1x1 }})"></div>
+          </div>
+          <div class="media-body pl-4">
+            <h3>{{ member.name }}</h3>
+            <p><em>{{ member.title }}</em></p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
 
     {% if site.data.advisors[0].name %}
     <div class="row">
