@@ -42,6 +42,9 @@ if (projectVisualizer) {
       selectors: {
         control: '[data-visualizer-control]'
       },
+      load: {
+        filter: '.status-active'
+      },
       callbacks: {
         onMixStart: function(state, futureState) {}
       }
