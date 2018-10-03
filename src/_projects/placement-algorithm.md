@@ -18,6 +18,7 @@ description: >-
   By being able to take in reams more data than a human alone, the algorithm can
   aid IRC’s experienced staff to place refugees where they are most likely to
   integrate and succeed.
+hero_image:
 featured_image: /uploads/20170310-seattle-nhall-1078.jpg
 featured_video_url:
 resources:

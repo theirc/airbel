@@ -11,6 +11,7 @@ geolocation:
   longitude:
 description:
 
+hero_image:
 featured_image:
 featured_video_url:
 

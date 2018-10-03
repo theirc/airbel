@@ -10,6 +10,7 @@ geolocation:
   latitude:
   longitude:
 description: innovation lab in jordan
+hero_image:
 featured_image:
 featured_video_url:
 milestones:
