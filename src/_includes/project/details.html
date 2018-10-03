@@ -2,7 +2,10 @@
   <div class="row">
     <div class="col-lg-8">
       <div class="content">
-        <h1 class="bordered-heading bordered-blue h2">{{ project.title }}{% if project.focus %} |<small><em>  {{ project.focus }}</em></small>{% endif %}</h1>
+        <h1 class="bordered-heading bordered-blue h2">
+          {{ project.title }}
+          <small class="text-muted text-capitalize">|&nbsp;<em>{% if project.status == "graduated" or project.status == "discontinued" %}{{ project.status }}{% else %}{{ project.focuses[0] }}{% endif %}</em></small>
+        </h1>
         <p><mark class="bg-primary">{{ project.tagline }}</mark></p>
         {{ project.description }}
       </div>
