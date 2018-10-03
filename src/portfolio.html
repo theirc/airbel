@@ -36,7 +36,7 @@ title: Portfolio
     {% include project/filters.html %}
 
 
-    <div id="projects" class="mt-4 pt-4 border-top" data-ref="container">
+    <div id="projects" class="mt-4 pt-4" data-ref="container">
       {% for project in site.projects %}
         {% if project.status == 'active' or project.status == 'graduated' %}
         <div class="row align-items-start mb-5 mix {% for focus in project.focuses %}{{ focus | slugify }} {% endfor %} {{ project.geolocation.region | slugify }} {{ project.status | slugify }}">

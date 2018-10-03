@@ -10,6 +10,7 @@
       min-width: 265px;
       border: 1px solid $dark;
       background: $light;
+      text-transform: capitalize;
       &::after {
         display: none;
       }
@@ -41,6 +42,7 @@
         display: block;
         padding: 5px 20px;
         font-size: 16px;
+        text-transform: capitalize;
         &:hover {
           background-color: $light;
           color: $dark;
