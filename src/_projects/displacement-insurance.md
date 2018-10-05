@@ -19,6 +19,7 @@ description: >-
   out by key actors (such as host countries) with private insurers before crisis
   occurs, allowing for lifesaving capital to be dispersed significantly faster,
   as crises happen, rather than after.
+hero_image:
 featured_image:
 featured_video_url:
 resources:

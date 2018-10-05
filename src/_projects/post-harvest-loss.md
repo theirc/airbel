@@ -16,6 +16,7 @@ description: >-
   Over 16 million children under the age of 3 are afflicted by severe acute
   malnutrition. To pinpoint the most impactful prevention methods, Sprout is
   experimenting with 3 distinct approaches.
+hero_image:
 featured_image: /uploads/dsc00457-2.jpg
 featured_video_url:
 resources:

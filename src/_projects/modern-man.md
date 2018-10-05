@@ -15,6 +15,7 @@ description: >-
   challenging harmful gender norms to prevent intimate partner violence. It
   presents an aspirational identity and behaviors that promote respectful and
   healthy relationships.
+hero_image:
 featured_image: /uploads/img-20170202-153612.jpg
 featured_video_url:
 resources:

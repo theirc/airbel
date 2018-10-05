@@ -16,6 +16,7 @@ description: >-
   In partnership with Twilio.org, Airbel is developing an SMS-based system to
   streamline communication between caseworkers and newly-settled refugees as
   they adapt to their new lives in the United States.
+hero_image:
 featured_image: /uploads/caseworker-comms-header-1.png
 featured_video_url:
 resources:

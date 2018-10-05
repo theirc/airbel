@@ -15,6 +15,7 @@ geolocation:
 description: >-
   Adapting tools for low-literate community health workers to more effectively
   treat children suffering from or at risk of malnutrition.
+hero_image:
 featured_image: /uploads/nutrition-1-1.JPG
 featured_video_url:
 resources:

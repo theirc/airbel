@@ -68,6 +68,10 @@ $('.filter').on('click', function(){
 });
 
 $('.clear-filters').on('click', function(){
-  console.log("Clear Filters");
+  // console.log("Clear Filters");
 });
 
+// Instantiate Tooltips
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})

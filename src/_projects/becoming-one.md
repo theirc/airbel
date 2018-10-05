@@ -16,6 +16,7 @@ description: >-
   with local faith leaders, who guide couples through engaging workbooks and
   videos that teach communication skills, emotional regulation, shared control
   over finances and household duties, sexual consent and pleasure.
+hero_image:
 featured_image: /uploads/header-palava-couple.png
 featured_video_url:
 resources:
