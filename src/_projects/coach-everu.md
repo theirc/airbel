@@ -16,7 +16,7 @@ description: >-
   Coach Erevu aims to build the SEL skills of teachers through weekly video
   clubs, timely habit triggers, and bite-sized localized teaching materials. Our
   solution can be implemented as separate components or one holistic approach.
-hero_image:
+hero_image: /uploads/dscf1201-1.jpg
 featured_image: /uploads/dscf1201.jpg
 featured_video_url: 'https://youtu.be/-2R3tuNr47g'
 resources:
@@ -131,7 +131,7 @@ milestones:
 
 Social-emotional learning, or “SEL”, can help children develop the skills needed to regulate their emotional responses, positively interact with others and better persevere in adverse situations.
 
-#### &nbsp;
+####  
 
 #### How does it work?
 
