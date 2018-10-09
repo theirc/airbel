@@ -14,7 +14,7 @@ description: >-
   In partnership with Ubongo, Africa’s leading children's edutainment and media
   company, Tunakujenga empowers caregivers to practice social and emotional
   learning (SEL) activities with their children at home.
-hero_image:
+hero_image: /uploads/momsclub-3.png
 featured_image: /uploads/screen-shot-2018-09-23-at-20-12-41.png
 featured_video_url:
 resources:
