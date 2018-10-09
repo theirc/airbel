@@ -11,35 +11,45 @@ $gray-500: #adb5bd !default;
 $gray-600: #6c757d !default;
 $gray-700: #495057 !default;
 $gray-800: #343a40 !default;
-$gray-900: #212529 !default;
+$gray-900: #212018;
 $black:    #000000 !default;
 
-$blue:    #25b0e8;
-$indigo:  #6610f2 !default;
-$purple:  #6f42c1 !default;
-$pink:    #e83e8c !default;
-$red:     #dc3545 !default;
-$orange:  #fd7e14 !default;
-$yellow:  #f5C938;
-$green:   #87a63e;
-$teal:    #20c997 !default;
-$cyan:    #7dd0e8 !default;
+$blue:        #81e2f3;
+$blue-dark:   #196baf;
+$indigo:      #6610f2 !default;
+$purple:      #a135c9;
+$pink:        #e83e8c !default;
+$red:         #dc3545 !default;
+$orange:      #ef8f11;
+$yellow:      #fec938;
+$yellow-mid:  #e5af28;
+$yellow-dark: #d19b13;
+$green:       #69ad3d;
+$teal:        #20c997 !default;
+$cyan:        #7dd0e8 !default;
 
-$primary:       $blue;
+$primary:       $yellow;
 $secondary:     #23405e;
 $success:       $green !default;
 $info:          $cyan !default;
-$warning:       $yellow !default;
+$warning:       $yellow;
 $danger:        $red !default;
 $light:         $gray-100;
-$dark:          $gray-700;
+$dark:          $gray-900;
 
 
 $body-bg:               $white;
 $body-color:            $dark;
 
+// Fonts
+$roboto-condensed: "roboto-condensed", sans-serif;
+$azo: "azo-sans-web", sans-serif;
+$motiva-sans: "motiva-sans", sans-serif;
+$commuter-sans: "commuters-sans", sans-serif;
+$proxima-nova:  "proxima-nova", sans-serif;
+$font-family-base: $proxima-nova;
 
-$font-family-base: 'Open Sans', sans-serif;
+
 
 $font-size-base:              1rem !default; // Assumes the browser default, typically `16px`
 $font-size-lg:                ($font-size-base * 1.25) !default;
@@ -50,17 +60,19 @@ $font-weight-normal:          400 !default;
 $font-weight-bold:            700 !default;
 
 $font-weight-base:            $font-weight-normal !default;
-$line-height-base:            1.5 !default;
+$line-height-base:            1.7;
 
-$h1-font-size:                $font-size-base * 2.5 !default;
-$h2-font-size:                $font-size-base * 2 !default;
-$h3-font-size:                $font-size-base * 1.75 !default;
-$h4-font-size:                $font-size-base * 1.5 !default;
-$h5-font-size:                $font-size-base * 1.25 !default;
+
+
+$h1-font-size:                $font-size-base * 3;
+$h2-font-size:                $font-size-base * 1.8;
+$h3-font-size:                $font-size-base * 1.3;
+$h4-font-size:                $font-size-base * 1.2;
+$h5-font-size:                $font-size-base * 1.1;
 $h6-font-size:                $font-size-base !default;
 
-$headings-font-family:        'Open Sans', sans-serif;
-$headings-font-weight:        400;
+$headings-font-family:        $commuter-sans;
+$headings-font-weight:        800;
 $headings-line-height:        1.2 !default;
 $headings-color:              inherit !default;
 
@@ -86,3 +98,6 @@ $screen-sm-min:           576px;
 $screen-md-min:           768px;
 $screen-lg-min:           992px;
 $screen-xl-min:           1200px;
+
+$screen-sm-max:           767px;
+$screen-md-max:           991px;

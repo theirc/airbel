@@ -1,0 +1,65 @@
+body {
+  font-size: 18px;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: $font-family-base;
+  line-height: 1.8;
+  letter-spacing: 1px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @include transition(.5s);
+}
+
+a,
+.stage-heading,
+p {
+  @include transition(.8s);
+}
+
+.wf-loading {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  a,
+  .stage-heading,
+  p {
+    opacity: 0;
+  }
+}
+
+.wf-active,
+.wf-inactive {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  a,
+  .stage-heading,
+  button,
+  p {
+    opacity: 1;
+  }
+}
+
+h1 {
+  font-family: $motiva-sans;
+  font-weight: 900;
+  margin-bottom: 2rem;
+  small {
+    font-size: 65%;
+  }
+}
+
+h3 { font-weight: 400; }
+h4 { font-weight: 400; }

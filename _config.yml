@@ -1,25 +1,26 @@
 # Site settings
-title: Airbel
+title: Airbel Center - Innovation at the IRC
 email: dev@ocupop.com
-description: ''
+description: 'The Airbel Center is the innovation team at the International Rescue Committee. We develop products, services, and systems to improve humanitarian response—creating lasting impact for people affected by conflict and crisis.'
 url: "https://icy-ship.cloudvent.net"
 permalink: pretty
 # analytics_code:
+
+placeholders:
+  hero: https://via.placeholder.com/1800x500?text=Hero+image
+  thumbnail_4x3: https://via.placeholder.com/768x500?text=4x3
+  thumbnail_1x1:  https://via.placeholder.com/768x768?text=1x1
 
 # Collections
 collections:
   projects:
     output: true
-    layout: default
+    layout: project
     permalink: /projects/:path/
-
-# defaults:
-#   - 
-#     scope:
-#       type: 'examples'
-#     values:
-#       layout: default
-#       variable_name: value
+  focuses:
+    output: true
+    layout: focus
+    permalink: /focuses/:title/
 
 # Build settings
 safe: false
@@ -27,18 +28,28 @@ source: src
 
 plugins:
   - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# feed:
-#   title: Client Name
-#   description: Description of feed
-#   url: primary url
-#   path: alternate path
 
 _options:
   layout:
-    hidden: true
+    hidden: true    
+  _block:
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    bold: true
+    italic: true
+    removeformat: true
+    link: true
+    undo: true
+    underline: true
+    blockquote: true
+    numberedlist: true
+    bulletedlist: true
+    image: true
+    embed: true
+    code: false
+    table: false
+    right: text-right
+    left: text-left
+    center: text-center
 
 statuses:
   - active
@@ -47,19 +58,9 @@ statuses:
   - graduated
 
 stages:
-  - 1. Identify
-  - 2. Design / Research
-  - 3. Design / Solution Generation
-  - 4. Design / Prototype
-  - 5. Test / Pilot
-  - 6. Test / Rigorous evaluation
-  - 7. Scale
-
-focuses:
-  - Education
-  - Resettlement
-  - Employment
-  - Nutrition
-  - Safety
-  - Financing
-  - Other
+  - Research
+  - Generate Solutions
+  - Prototype
+  - Pilot
+  - Rigorous Evaluation
+  - Scale

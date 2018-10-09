@@ -1,0 +1,37 @@
+<div id="project-tab-content" class="tab-content">
+  {% for stage in site.stages %}
+    {% assign current_projects = site.projects | where: "stage", stage %}
+    <div id="{{ stage | slugify }}" class="stage-pane tab-pane fade show {% if forloop.first %}active{% endif %}">
+    {% if current_projects.size < 1 %}
+      <div class="d-flex align-items-center justify-content-center bg-light p-5">There are currently no projects in the {{ stage }} phase</div>
+    {% else %}
+      {% for project in current_projects %}
+        {% unless project.status == 'hidden' %}
+          <div class="mix row no-gutters bg-light project-summary-row border-{{ project.focuses.first }} {{ project.geolocation.region | slugify }} status-{{ project.status | slugify }}">
+            <div class="col-md-4">
+              <div class="content">
+                <p class="mb-0 text-capitalize"><small><em>{{ project.focuses }}</em></small></p>
+                <h4 class="mb-0"><strong>{{ project.title }}</strong></h4>
+                <p class="mb-0"><small>{{ project.geolocation.region }}</small></p>
+              </div>
+            </div>
+            <div class="col-md-5">
+              <div class="content">
+                <p class="mb-0">{{ project.description | truncatewords: 30 }}</p>
+              </div>
+            </div>
+            <a href="{{ project.url }}" class="btn">Find out more</a>
+            {% if project.status == 'graduated' or project.status == 'discontinued' %}
+            <div class="col-12 ">
+              <div class="status-notification">
+                <p class="status-{{ project.status | slugify }}">This project {{ project.status }} at the {{ project.stage }} phase</p>
+              </div>
+            </div>
+            {% endif %}
+          </div>
+        {% endunless %}
+      {% endfor %}
+    {% endif %}
+    </div>
+  {% endfor %}
+</div>

@@ -1,0 +1,39 @@
+{% assign art1 = project.articles | first %}
+{% assign res1 = project.resources | first %}
+
+{% unless art1.title == null and res1.title == null %}
+<section class="bg-light">
+  <div class="container">
+    <div class="row">
+      {% if art1.title != null %}
+      <div class="col-12 col-md-6">
+        <div class="content">
+          <h2>Related Articles</h2>
+          <ul>
+            {% for article in project.articles %}
+            <li><a href="{{ article.url }}" class="text-dark" target="_blank">{{ article.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      {% endif %}
+      {% if res1.title != null %}
+      <div class="col-12 col-md-6">
+        <div class="content">
+          <h2>Resources</h2>
+          <ul>
+            {% for resource in project.resources %}
+            <li>
+              <p>{{ resource.description }}</p>
+              <a href="{{ resource.url }}" class="text-dark" target="_blank">{{ resource.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+            
+        </div>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</section>
+{% endunless %}

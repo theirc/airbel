@@ -1,17 +1,9 @@
-// https://www.npmjs.com/package/webfontloader
 import WebFont from 'webfontloader';
 
 WebFont.load({
-  google: {
-    families: ['Open Sans']
-  },
-  // typekit: { id: '' },
-  loading: function() {
-    window.console.log('LOADING FONTS');
-  },
-  active: function() {
-    window.console.log('ACTIVE FONTS');
-  },
+  typekit: { id: 'eqc3yuo' },
+  loading: function() {},
+  active: function() {},
   inactive: function() {},
   fontloading: function(familyName, fvd) {},
   fontactive: function(familyName, fvd) {},

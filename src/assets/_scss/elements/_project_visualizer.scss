@@ -1,0 +1,247 @@
+#project-visualizer {
+  .view-nav {
+    border: 0;
+    .nav-link {
+      color: $dark;
+      opacity: .4;
+      border: 0;
+      &.active,
+      &:hover {
+        opacity: 1;
+        background-color: transparent;
+        border: 0;
+      }
+      img {
+        width: 25px;
+      }
+    }
+  }
+
+  .stage-nav {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 0;
+    .nav-link {
+      position: relative;
+      width: 16.2%;
+      height: 120px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: $gray-200;
+      padding-left: 15px;
+      padding-right: 15px;
+      color: $dark;
+      border: 0;
+      font-weight: 600;
+      text-align: center;
+      &.active {
+        background-color: $yellow;
+        border: 0;
+        &::before {
+          content: '';
+          display: block;
+          position: absolute;
+          width: 100%;
+          height: 100%;
+          background-color: transparent;
+          background-image: linear-gradient(to bottom, rgba(0,0,0,0.1) 0, rgba(0,0,0,0) 10%);
+        }
+        &::after {
+          content: '';
+          display: none;
+          position: absolute;
+          bottom: -9px;
+          left: 50%;
+          margin-left: -20px;
+          height: 0;
+          width: 0;
+          border-right: 20px solid transparent;
+          border-bottom: 20px solid $dark;
+          border-top: 20px solid transparent;
+          border-left: 20px solid transparent;
+        }
+      }
+    }
+  }
+  
+  .phase-heading {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 3px;
+    margin-right: 3px;
+    font-family: $commuter-sans;
+    color: $white;
+  }
+  .stage {
+    display: inline-block;
+    width: 16.27%;
+    .stage-projects {
+      display: flex;
+      flex-wrap: wrap;
+      align-content: flex-start;
+      justify-content: flex-start;
+      min-height: 120px;
+      background-color: $gray-100;
+      padding: 20px;
+    }
+  }
+
+  // Grid View
+  .project-focus {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    background-color: $gray-200;
+  }
+
+  .focus-key {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 20px 0;
+    flex-wrap: wrap;
+    .key {
+      display: flex;
+      align-items: center;
+      padding: 0 10px;
+    }
+  }
+
+  // List View
+  .status-notification {
+    background-color: $dark;
+    color: $white;
+    padding: 10px 20px;
+    border-top: 10px solid $white;
+    p {
+      margin-bottom: 0;
+      padding-left: 20px;
+      &::before {
+        content: '';
+        display: inline-block;
+        width: 12px;
+        height: 12px;
+        border: 1px solid $white;
+        border-radius: 50%;
+        margin-right: 5px;
+      }
+      &.status-graduated {
+        &::before {
+          background: $white;
+        }
+      }
+      &.status-discontinued {
+        &::before {
+          background: transparent;
+        }
+      }
+    }
+
+  }
+  .project-summary-row {
+    align-items: center;
+    margin-top: 8px;
+    border-left: 10px solid $dark;
+    position: relative;
+    &.status-graduated,
+    &.status-discontinued {
+      .btn {
+        bottom: 60px;
+      }
+    }
+    &.status-graduated {
+      .status-notification {
+        p {
+          &::before {
+            background-color: $white;
+          }
+        }
+      }
+    }
+    h4 {
+      font-weight: 400;
+    }
+    .btn {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      border-width: 10px 0 0 10px;
+      border-style: solid;
+      border-color: $white;
+      background-color: $gray-400;
+      color: $dark;
+    }
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+// Mobile
+.accordion-project-heading {
+  padding: 20px 35px;
+  background-color: $primary;
+  color: $white;
+  margin-top: 5px;
+}
+
+.project-accordion {
+  .card {
+    background-color: transparent;
+  }
+  .card-header {
+    margin-bottom: 5px;
+    border: 0;
+    background-color: $light;
+    color: $white;
+    .btn-link {
+      color: $dark;
+      display: block;
+      width: 100%;
+      text-align: left;
+      &::after {
+        content: "";
+        border: solid $dark;
+        border-width: 0 3px 3px 0;
+        display: inline-block;
+        padding: 3px;
+        position: absolute;
+        top: 25px;
+        right: 25px;
+        transform: rotate(-135deg);
+        pointer-events: none;
+        @include transition(.4s);
+      }
+      &:hover {
+        text-decoration: none;
+      }
+      &.collapsed {
+        &::after {
+          transform: rotate(45deg);
+        }
+      }
+    }
+  }
+  .card-body {
+    background-color: transparent;
+    ul {
+      li {
+        a {
+          color: $dark;
+        }
+      }
+    }
+  }
+}
+
+

@@ -1,0 +1,18 @@
+.project-template {
+  #project-visualizer {
+    .view-nav,
+    .filters,
+    .tab-content {
+      display: none;
+    }
+    .stage-nav {
+      cursor: default;
+      pointer-events: none;
+      .nav-link {
+        &::after {
+          display: block;
+        }
+      }
+    }
+  }
+}

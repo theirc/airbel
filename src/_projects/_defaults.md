@@ -3,15 +3,18 @@ layout: project
 title: 
 tagline:
 status: active
-stage: 1. Identify
-description:
-featured_image:
-featured_video_url:
-focus: 
+stage: Research
+focuses: 
 geolocation:
   region:
   latitude:
-  longitidue:
+  longitude:
+description:
+
+hero_image:
+featured_image:
+featured_video_url:
+
 resources:
   - title:
     description:
@@ -19,8 +22,11 @@ resources:
 articles:
   - title:
     url:
+
 milestones:
   - date:
     title:
+    link:
+    link_title:
     description_markdown:
 ---

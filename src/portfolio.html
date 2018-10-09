@@ -1,0 +1,66 @@
+---
+layout: default
+title: Portfolio
+---
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <h1 class="h2 editable">Project Portfolio</h1>
+          <div class="editable">
+            <p>At Airbel, we have an appetite for risk and experimentation. We invest in rapid prototyping and iteration, evaluate projects at key development milestones, and re-invest in the solutions with the greatest potential for impact and scale. Learn more about the <a href="">IRC Innovation Fund</a> and our <a href="">project criterion</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col">
+        {% include project-visualizer.html %}
+
+        <div class="content d-md-none">
+          {% include project-visualizer/mobile.html %}
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+<section id="projectList" class="bg-light">
+  <div class="container">
+
+    {% include project/filters.html %}
+
+
+    <div id="projects" class="mt-4 pt-4" data-ref="container">
+      {% for project in site.projects %}
+        {% if project.status == 'active' or project.status == 'graduated' %}
+        <div class="row align-items-start mb-5 mix {% for focus in project.focuses %}{{ focus | slugify }} {% endfor %} {{ project.geolocation.region | slugify }} {{ project.status | slugify }}">
+          <div class="col-md-6">
+            <div class="content">
+              <a href="{{ project.url }}" class="bg-image aspect-4x3" style="background-image: url({{ project.featured_image | default: site.placeholders.thumbnail_4x3 }})"></a>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="content">
+              <h3>{{ project.title }} {% if project.focus %}| <small><em>{{ project.focus }}</em></small>{% endif %}</h3>
+              <p>{{ project.description }}</p>
+              <a href="{{ project.url }}" class="btn btn-dark">Explore Project</a>
+            </div>
+          </div>
+        </div>
+        {% endif %}
+      {% endfor %}
+     <div class="row align-items-center filter-no-results">
+       <div class="col-12">
+         <div class="content text-center">
+          <p>No Results. Please try another filter</p>
+         </div>
+       </div>
+     </div>
+    </div>
+  </div>
+</section>
+{% include bring-together.html %}

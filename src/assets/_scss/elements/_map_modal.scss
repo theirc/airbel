@@ -1,0 +1,25 @@
+.map-modal {
+  border: 1px solid $dark;
+  padding: 15px;
+  .close {
+    background-color: $yellow;
+    color: $dark;
+    font-weight: 100;
+    font-size: 50px;
+    border: solid $white;
+    border-width: 0 0 10px 10px;
+    padding: 0 10px;
+    opacity: 1;
+    text-shadow: 0;
+    span {
+      display: inline-block;
+      transform: rotate(-45deg);
+    }
+  }
+  .project-summary-row {
+    .btn {
+      background-color: $dark;
+      color: $white;
+    }
+  }
+}

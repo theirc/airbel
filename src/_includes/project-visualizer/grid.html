@@ -1,0 +1,27 @@
+<div class="d-flex justify-content-between stage-pane">
+  {% for stage in site.stages %}
+    <div class="stage stage-{{ stage }}">
+      <div class="stage-projects">
+        {% assign stage_projects = site.projects | where: "stage", stage %}
+        {% for project in stage_projects %}
+          {% unless project.status == 'hidden' %}
+            <div class="mix {{ project.geolocation.region | slugify }} project-focus bg-{{ project.focuses.first }} status-{{ project.status }}"
+                 data-toggle="tooltip"
+                 data-placement="top"
+                 title="{{ project.title }}"></div>
+          {% endunless %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<div class="focus-key">
+  {% for focus in site.focuses %}
+  <div class="key">
+    <div class="project-focus bg-{{ focus.title | slugify }}"></div>
+    {{ focus.title }}
+  </div>
+  {% endfor %}
+</div>
+

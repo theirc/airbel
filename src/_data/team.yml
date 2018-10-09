@@ -1,42 +1,48 @@
 - name: Ravi Gurumurthy
-  title: Chief Innovation Officer
-  profile_image: /uploads/ravi-bw-hs.jpg
+  title: 'Chief Innovation Officer, Co-founder'
+  profile_image: /uploads/team/ravi.jpg
 - name: Jeannie Annan
-  title: Senior Director of Research & Evaluation
-  profile_image:
+  title: 'Senior Director of Research & Evaluation, Co-founder'
+  profile_image: /uploads/team/image002-1.jpg
 - name: Bryce Perry
+  title: Director of Implementation and Scaling
+  profile_image: /uploads/team/bryce-bw-1-1-1.jpg
+- name: Grant Gordon
   title: Director of Innovation Strategy
-  profile_image: /uploads/bryce-bw-2.jpg
+  profile_image: /uploads/team/grant.jpg
 - name: Ben Moskowitz
   title: Director of Development
-  profile_image: /uploads/ben-bw-headshot.jpg
+  profile_image: /uploads/team/ben.jpg
 - name: Eva Kaplan
   title: 'Regional Innovation Director, Middle East'
-  profile_image:
+  profile_image: /uploads/team/eva.jpg
 - name: Rachel Lehrer
   title: Design Innovation Lead
-  profile_image: /uploads/rachel-bw-headshot.jpg
+  profile_image: /uploads/team/rachel.jpg
 - name: Carla Lopez
   title: Design Innovation Lead
-  profile_image:
+  profile_image: /uploads/team/carla-bw-1.jpg
 - name: Laura de Reynal
   title: Design Innovation Lead
-  profile_image: /uploads/laura-bw-1.jpg
+  profile_image: /uploads/team/laura-bw-2.jpg
 - name: Sylvia Sable
   title: Project Manager
-  profile_image: /uploads/sylvia-bw-sq-1.jpg
+  profile_image: /uploads/team/sylvia.jpg
 - name: Nick Wilson
   title: 'Senior Coordinator, Grants & Operations'
-  profile_image: /uploads/nick-bw-1.jpg
+  profile_image: /uploads/team/nick-bw.jpg
 - name: Robert Rutherford
   title: Grants and Program Manager
-  profile_image: /uploads/rob-bw-sq-4.jpg
+  profile_image: /uploads/team/rob.jpg
 - name: Logan Cummings
   title: 'Advisor, Innovation Strategy'
-  profile_image: /uploads/headshot-logan-bw.jpg
+  profile_image: /uploads/team/logan.jpg
+- name: Karen Tan
+  title: Behavioral Insights Lead
+  profile_image: /uploads/team/headshot-karen-bw.jpg
 - name: Alex Bandea
   title: Communications Associate
-  profile_image: /uploads/alex-bw-sq-1.jpg
+  profile_image: /uploads/team/alex.jpg
 - name: Chelsea Graham
   title: Knowledge Manager
-  profile_image:
+  profile_image: /uploads/team/chelsea-bw-2.jpg

@@ -1,0 +1,43 @@
+{% assign t = project.milestones | first %}
+{% unless t.title == null %}
+  <section class="bg-light bg-image bg-image-section pb-0 repeat-y" style="background-image: url(/assets/img/airbel-header-illustration.png)">
+    <div class="container">
+      <div class="timeline">
+        {% assign size = project.milestones | size %}
+        {% for milestone in project.milestones limit: 2 %}
+        <div class="row timeline-row {% if size < 3 and forloop.last %}last{% endif %}">
+          <div class="col-md-10 ml-auto">
+            <div class="content">
+              <h3>{{ milestone.date | date: "%B %Y" }} | <small>{{ milestone.title }}</small></h3>
+              {{ milestone.description_markdown | markdownify }}
+              {% if milestone.link %}
+                <a href="{{ milestone.link }}" class="external-link" target="_blank">{% if milestone.link_title %}{{ link_title }}{% else %}Resource{% endif %}</a>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+        {% if size > 2 %}
+        <button id="show-timeline" class="btn btn-primary collapsed" data-toggle="collapse" data-target="#full-timeline" aria-expanded="false"
+          aria-controls="full-timeline"><span class="show-text">Show Full Timeline</span><span class="hide-text">Hide Full Timeline</span></button>
+        <div class="collapse" id="full-timeline">
+          {% for milestone in project.milestones offset: 2 %}
+            <div class="row timeline-row">
+              <div class="col-md-10 ml-auto">
+                <div class="content">
+                  <h3>{{ milestone.date | date: "%B %Y" }} | <small>{{ milestone.title }}</small></h3>
+                  {{ milestone.description_markdown | markdownify }}
+                  {% if milestone.link %}
+                  <a href="{{ milestone.link }}" class="external-link" target="_blank">{% if milestone.link_title %}{{ link_title
+                    }}{% else %}Resource{% endif %}</a>
+                  {% endif %}
+                </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </section>
+{% endunless %}

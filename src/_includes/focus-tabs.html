@@ -1,0 +1,28 @@
+<div class="row">
+  <div class="col-md-6">
+    <div class="content">
+      <ul class="nav nav-tabs flex-column" id="focus-tabs" role="tablist">
+        {% for focus in site.focuses %}
+          {% assign slug = focus.title | slugify %}
+          <li class="nav-item">
+            <a class="nav-link border-{{ slug }} {% if forloop.first %}active{% endif %}" data-toggle="tab" href="#{{ slug }}">{{ focus.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>  
+  <div class="col-md-6 d-none d-md-block">
+    <div class="content">
+      <div class="tab-content" id="focus-tab-content">
+        {% for focus in site.focuses %}
+          {% assign slug = focus.title | slugify %}
+          <div class="tab-pane fade show bg-{{ slug }} {% if forloop.first %}active{% endif %}" id="{{ slug }}">
+            <h3><img src="{{ focus.icon_path }}" class="img-fluid" alt="{{ focus.title }} Icon"> {{ focus.title }}</h3>
+            <p>{{ focus.description | default: 'Please enter a short description...' }}</p>
+            <a href="/portfolio?focus={{focus.title | slugify }}#projectList" class="btn btn-dark">Find out more</a>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

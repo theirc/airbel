@@ -1,0 +1,118 @@
+---
+layout: default
+title: Team
+---
+
+<section class="bg-plus bg-right bg-no-repeat">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <div class="editable">
+            <h1 class="h2">Who are we?</h1>
+            <p>We are a team of design-thinkers and strategists, developing new solutions that address big humanitarian challenges.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      {% for member in site.data.team %}
+      <div class="col-md-6">
+        <div class="media content align-items-center team-member">
+          <div class="w-25">
+            <div class="bg-image aspect-1x1" style="background-image: url({{ member.profile_image | default: site.placeholders.thumbnail_1x1 }})"></div>
+          </div>
+          <div class="media-body pl-4">
+            <h3 class="mb-0">{{ member.name }}</h3>
+            <p><em>{{ member.title }}</em></p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+
+    {% if site.data.amman[0].name %}
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <h2>Amman office</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      {% for member in site.data.amman %}
+      <div class="col-md-6">
+        <div class="media content align-items-center team-member">
+          <div class="w-25">
+            <div class="bg-image aspect-1x1" style="background-image: url({{ member.profile_image | default: site.placeholders.thumbnail_1x1 }})"></div>
+          </div>
+          <div class="media-body pl-4">
+            <h3>{{ member.name }}</h3>
+            <p><em>{{ member.title }}</em></p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+        {% if site.data.fellows-fall2018[0].name %}
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <h2>Zolberg-IRC Fellows (Fall 2018)</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      {% for member in site.data.fellows-fall2018 %}
+      <div class="col-md-6">
+        <div class="media content align-items-center team-member">
+          <div class="w-25">
+            <div class="bg-image aspect-1x1" style="background-image: url({{ member.profile_image | default: site.placeholders.thumbnail_1x1 }})"></div>
+          </div>
+          <div class="media-body pl-4">
+            <h3>{{ member.name }}</h3>
+            <p><em>{{ member.title }}</em></p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if site.data.advisors[0].name %}
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <h2>Advisors</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      {% for member in site.data.advisors %}
+      <div class="col-md-6">
+        <div class="media content align-items-center team-member">
+          <div class="w-25">
+            <div class="bg-image aspect-1x1" style="background-image: url({{ member.profile_image | default: site.placeholders.thumbnail_1x1 }})"></div>
+          </div>
+          <div class="media-body pl-4">
+            <h3>{{ member.name }}</h3>
+            <p><em>{{ member.title }}</em></p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+  </div>
+</section>
+<section class="bg-light">
+  <div class="container">
+    {% include work-with-us.html %}
+  </div>
+</section>
+{% include bring-together.html %}

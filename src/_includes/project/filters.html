@@ -1,0 +1,73 @@
+
+<div class="row align-items-center filters">
+  <div class="col-12 col-md-4">
+    <div class="content pb-0 mt-4">
+      <h2 class="editable">All Projects</h2>
+    </div>
+  </div>
+  <div class="col-12 col-md-4">
+    <div class="content text-right">
+      Filter by region
+      <div class="dropdown" role="group">
+        <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+          <span active-region-filter>All Regions</span>
+          <span class="arrow-down"></span>
+        </button>
+        <ul class="dropdown-menu" data-filter-group="location">
+          <li class="dropdown-item">
+            <a class="filter" data-filter="all" data-active-text="active-region-filter" data-mixitup-control>all regions</a>
+          </li>
+          {% assign regions = "" | split:"," %}
+          {% for project in site.projects %}
+            {% unless project.geolocation.region == null %}
+              {% assign regions = regions | push: project.geolocation.region %}
+            {% endunless %}
+          {% endfor %}
+          {% assign regions = regions | uniq %}
+
+          {% for region in regions %}
+          <li class="dropdown-item">
+            <a class="filter" data-filter=".{{ region | slugify }}" data-active-text="active-region-filter" data-mixitup-control>{{ region }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-md-4">
+    <div class="content text-right">
+      Filter by focus 
+      <div class="dropdown" role="group">
+        <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+          <span active-focus-filter>All</span>
+          <span class="arrow-down"></span>
+        </button>
+        <ul class="dropdown-menu" data-filter-group="focus">
+          <li class="dropdown-item">
+            <a class="filter"
+              data-filter=""
+              data-active-text="active-focus-filter"
+              data-mixitup-control>all</a>
+          </li>
+          {% for focus in site.focuses %}
+            <li class="dropdown-item">
+              <a class="filter"
+                data-filter=".{{ focus.title | slugify }}"
+                data-active-text="active-focus-filter"
+                data-mixitup-control>{{ focus.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<hr>
+<div class="row">
+  <div class="col-12">
+    <div class="alert alert-filters bg-mid fade show" style="display:none;">
+      You are currently viewing <span class="text-underline" active-focus-filter></span> projects in <span class="text-underline" active-region-filter></span>.
+      <button type="button" class="d-none close clear-filters" data-mixitup-control><span>Clear Filters &times;</span></button>
+    </div>
+  </div>
+</div>
