@@ -18,10 +18,10 @@
   profile_image: /uploads/jamous-bw-1.jpg
 - name: Haya Bustemi
   title: Senior Mahali Lab Officer
-  profile_image:
+  profile_image: /uploads/haya-bw-1.jpg
 - name: Besan Jaber
   title: Senior Research Officer
-  profile_image:
+  profile_image: /uploads/besan-bw-1.jpg
 - name: Omar Qadhi
   title: MEL Manager
   profile_image:
@@ -30,4 +30,4 @@
   profile_image:
 - name: Nada Jaffal
   title: Design Manager
-  profile_image:
+  profile_image: /uploads/nada-bw-1.jpg
