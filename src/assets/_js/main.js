@@ -16,7 +16,7 @@ const containerEl = document.getElementById('projects');
 if (containerEl) {
   const focus = getUrlParameter('focus');
   let activeFilters = focus ? `.active.${focus}` : `.active`;
-  let mixer = mixitup(containerEl, {
+  let projectMixer = mixitup(containerEl, {
     multifilter: {
       enable: true
     },
@@ -39,6 +39,13 @@ if (containerEl) {
     $('[active-focus-filter]').text('all');
   }
   $('[active-region-filter]').text("all regions");
+
+  $('.clear-filters').on('click', function(){
+    projectMixer.filter('all');
+    $('[data-filter="all"]').trigger('click');
+    $('[data-filter=""]').trigger('click');
+    console.log("Clear Filters");
+  });
 }
 
 const projectVisualizer = document.getElementById('project-visualizer');
@@ -68,10 +75,7 @@ $('.filter').on('click', function(){
 });
 
 
-$('.clear-filters').on('click', function(){
-  console.log("Clear Filters");
-  window.location = window.location.pathname + "#projectList";
-});
+
 
 // Instantiate Tooltips
 $(function () {
