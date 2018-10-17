@@ -67,8 +67,10 @@ $('.filter').on('click', function(){
   $('.alert-filters').fadeIn();
 });
 
+
 $('.clear-filters').on('click', function(){
-  // console.log("Clear Filters");
+  console.log("Clear Filters");
+  window.location = window.location.pathname + "#projectList";
 });
 
 // Instantiate Tooltips
