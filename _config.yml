@@ -6,6 +6,12 @@ url: "https://icy-ship.cloudvent.net"
 permalink: pretty
 # analytics_code:
 
+twitter:
+  handle: airbel
+  image: assets/img/airbel_socialshare_twitter.jpg
+facebook:
+  image: assets/img/airbel_socialshare_facebook.jpg
+
 placeholders:
   hero: https://via.placeholder.com/1800x500?text=Hero+image
   thumbnail_4x3: https://via.placeholder.com/768x500?text=4x3
