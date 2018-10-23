@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Mahali Lab
-tagline:
+tagline: 'A community-driven innovation lab in Amman, Jordan'
 status: hidden
 stage:
 focuses:
@@ -9,7 +9,7 @@ geolocation:
   region:
   latitude:
   longitude:
-description: innovation lab in jordan
+description:
 hero_image:
 featured_image:
 featured_video_url:
