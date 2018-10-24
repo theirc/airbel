@@ -24,11 +24,20 @@ articles:
   - title:
     url:
 milestones:
-  - date:
-    title:
+  - date: 2018-10-01 00:00:00
+    title: Pop-Up Learning Supporter Dinner
     link:
     link_title:
-    description_markdown:
+    description_markdown: >-
+      An information session and dinner for Pop-Up Learning supporters and those
+      interested in participating in the seed investment round.
+  - date: 2018-09-01 00:00:00
+    title: Pop-Up Learning Feasibility Study in Bangladesh
+    link:
+    link_title:
+    description_markdown: >-
+      The feasibility study concluded that Cox’s Bazar, Bangladesh met the
+      conditions to serve as a site to prototype Pop-Up Learning.
 ---
 
 33 million children are displaced from their homes because of humanitarian crises. Almost 40% of those children do not have access to formal education. Between funding gaps, political challenges, and poor-to-nonexistent access to educators, it can take months or years for a child to receive adequate education. During this period in a displaced child’s life, education is critical to reducing trauma and stress, creating stability, and generating positive norms around going to school.
@@ -39,7 +48,7 @@ Pop-Up adapts to the varying needs of displaced children around the world, inclu
 
 #### How it works:
 
-Pop-Up partners with community leaders to transform existing safe spaces, like homes and community centers, into temporary classrooms.&nbsp; We identify, recruit, and empower community members to oversee primary school-aged children, and we provide tablets for children to use Pop-Up Learning to develop key competencies.
+Pop-Up partners with community leaders to transform existing safe spaces, like homes and community centers, into temporary classrooms.  We identify, recruit, and empower community members to oversee primary school-aged children, and we provide tablets for children to use Pop-Up Learning to develop key competencies.
 
 #### First step:
 
