@@ -10,8 +10,8 @@ focuses:
   - nutrition
 geolocation:
   region: South Sudan
-  latitude: 6.8770° N
-  longitude: 31.3070° E
+  latitude: '7.8626845'
+  longitude: '29.6949232'
 description: >-
   In hard-to-reach areas local community health workers are key to treating
   malnourished children. Commonly used tools for diagnosing and treating
