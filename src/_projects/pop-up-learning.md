@@ -8,8 +8,8 @@ focuses:
   - education
 geolocation:
   region: Bangladesh
-  latitude: 21° 34' 59.99"
-  longitude: 92° 00' 60.00"
+  latitude: '21.42723'
+  longitude: '92.00581'
 description: >-
   Pop-Up Learning is a computer-assisted learning program, aimed to mobilize
   quickly and efficiently on the onset of crisis.
