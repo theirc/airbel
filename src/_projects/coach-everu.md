@@ -9,9 +9,9 @@ stage: Pilot
 focuses:
   - education
 geolocation:
-  region:
-  latitude:
-  longitude:
+  region: Tanzania
+  latitude: '3.42139'
+  longitude: '399.51472'
 description: >-
   Coach Erevu is a digital coaching program that aims to build the social
   emotional skills of teachers through weekly peer-to-peer video clubs, timely
@@ -128,5 +128,5 @@ Social-emotional learning, or “SEL”, can help children develop the skills ne
 #### How does it work?
 
 * Coaching sessions and peer-to-peer learning occur during 1-hour weekly video clubs.
-* Refugee teachers implement what they learned in their classroom during daily designated ‘SEL time,' marked by a school bell.
+* Refugee teachers implement what they learned in their classroom during daily designated ‘SEL time,’ marked by a school bell.
 * Teachers are rewarded and supported with localized SEL cards that signal they are skilled SEL teachers and can be used as teaching aids in the classroom.
