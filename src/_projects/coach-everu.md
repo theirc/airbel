@@ -46,13 +46,13 @@ milestones:
     link_title:
     description_markdown:
   - date: 2018-05-01 00:00:00
-    title: >-
-      Mtendeli, Tanzania. Refinement of teacher design: introduction of "Coach
-      Erevu" concept
+    title: 'Mtendeli, Tanzania. Refinement of teacher design.'
     link: >-
       https://docs.google.com/presentation/d/1xLokm7pqGOrFEiV3GJvJNm25hvHCg4whaFhMJa0mx6g/edit?usp=sharing
     link_title:
-    description_markdown: (Formerly Hekima)
+    description_markdown: >-
+      Concept name pivots from *Hekima* to *Coach Erevu* to reflect the pivot in
+      programming.*&nbsp;*
   - date: 2018-02-01 00:00:00
     title: 'Second round of prototyping with teachers in Mtendeli, Tanzania'
     link: >-
@@ -65,12 +65,6 @@ milestones:
       https://medium.com/airbel/how-habits-work-and-can-work-for-our-work-with-refugees-d5a1f4adc661
     link_title:
     description_markdown:
-  - date: 2017-11-01 00:00:00
-    title: Second round of prototyping with caregivers
-    link:
-    link_title: >-
-      https://docs.google.com/presentation/d/15IPOI_Z_yOiThBoIWomxNAHCPihMcZQBU4Yqkwvur9I/edit?usp=sharing
-    description_markdown: Caregiver video club in churches & schools design sprint
   - date: 2017-09-01 00:00:00
     title: Prototyping sprint in Tanzania
     link: >-
@@ -95,9 +89,7 @@ milestones:
       Tanzania
     link:
     link_title:
-    description_markdown: >-
-      We learn that delivering SMS curriculum and training won’t work; must
-      pivot to new approach
+    description_markdown:
   - date: 2017-06-01 00:00:00
     title: Finalized product requirements and project plan
     link: >-
@@ -118,7 +110,7 @@ milestones:
       The team conducts field research and generates sacrificial concepts for
       discussion.
   - date: 2016-03-01 00:00:00
-    title: “Project Dandelion” begins
+    title: Project begins
     link:
     link_title:
     description_markdown: >-
@@ -131,7 +123,7 @@ milestones:
 
 Social-emotional learning, or “SEL”, can help children develop the skills needed to regulate their emotional responses, positively interact with others and better persevere in adverse situations.
 
-#### &nbsp;
+####  
 
 #### How does it work?
 
