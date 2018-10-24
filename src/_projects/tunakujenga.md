@@ -53,7 +53,7 @@ milestones:
     link: >-
       https://docs.google.com/presentation/d/1NGkkGzVKhPbRwZypHfd5OpYWZNLqu0YrEqLBUA1Fem0/edit?usp=sharing
     link_title:
-    description_markdown: 'Prototyping mobile-based concepts with caregivers, youth and teachers.'
+    description_markdown: 'Tested mobile-based prototypes with caregivers, youth and teachers.'
   - date: 2017-08-01 00:00:00
     title: Finalized prototyping plan for caregivers concept
     link: >-
