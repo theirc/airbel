@@ -17,9 +17,9 @@ hero_image: /uploads/momsclub-3.png
 featured_image: /uploads/screen-shot-2018-09-23-at-20-12-41.png
 featured_video_url:
 resources:
-  - title:
+  - title: Tunakujenga Github
     description:
-    url:
+    url: 'https://github.com/theirc/Tunakujenga'
 articles:
   - title:
     url:
@@ -81,6 +81,6 @@ milestones:
       discussion
 ---
 
-In partnership with&nbsp;[Ubongo](https://www.ubongo.org/){: target="_blank"}, Africa’s leading children’s edutainment and media company, Tunakujenga aims to cultivate new learning behaviors in the family, focused on teaching children social emotional skills (SEL), such as [grit](https://www.characterlab.org/grit){: target="_blank"} and problem-solving skills. Leveraging the wide reach of television and existing faith-based networks to reach caregivers wherever they are, Tunakujenga builds on existing community practices to encourage family learning and SEL as part of their daily home routines.
+In partnership with [Ubongo](https://www.ubongo.org/){: target="_blank"}, Africa’s leading children’s edutainment and media company, Tunakujenga aims to cultivate new learning behaviors in the family, focused on teaching children social emotional skills (SEL), such as [grit](https://www.characterlab.org/grit){: target="_blank"} and problem-solving skills. Leveraging the wide reach of television and existing faith-based networks to reach caregivers wherever they are, Tunakujenga builds on existing community practices to encourage family learning and SEL as part of their daily home routines.
 
 ![](/uploads/momsclub-4.png)
