@@ -24,7 +24,7 @@ resources:
   - title: Study of a simplified algorithm and tools in South Sudan
     description:
     url: >-
-      https://www.rescue.org/report/enabling-treatment-severe-acute-malnutrition-community-study-simplified-algorithm-and-tools
+      https://www.rescue.org/sites/default/files/document/3103/enablingtreatmentofsamincommunityfinalcompressed.pdf
 articles:
   - title:
     url:
