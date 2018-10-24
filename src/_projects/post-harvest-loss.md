@@ -10,8 +10,8 @@ focuses:
   - nutrition
 geolocation:
   region: Niger
-  latitude:
-  longitude:
+  latitude: '14.64895'
+  longitude: '2.14502'
 description: >-
   Over 16 million children under the age of 3 are afflicted by severe acute
   malnutrition. To pinpoint the most impactful prevention methods, Sprout is
