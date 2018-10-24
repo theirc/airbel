@@ -31,7 +31,7 @@ milestones:
     description_markdown:
 ---
 
-33 million children are displaced from their homes because of humanitarian crises. Almost 40% of those children do not have access to formal education. Between funding gaps, political challenges, and poor-to-nonexistent access to skilled teachers, it can take months or years for a displaced child to receive adequate education. During this period in a child’s life, education is critical to reducing trauma and stress, creating stability, and generating positive norms around going to school.
+33 million children are displaced from their homes because of humanitarian crises. Almost 40% of those children do not have access to formal education. Between funding gaps, political challenges, and poor-to-nonexistent access to educators, it can take months or years for a child to receive adequate education. During this period in a displaced child’s life, education is critical to reducing trauma and stress, creating stability, and generating positive norms around going to school.
 
 Within weeks of a crisis onset and at a low cost-per-child, Pop-Up Learning can deliver locally-relevant, tablet-based learning that fosters emotional support, literacy and numeracy for primary school-aged learners.
 
