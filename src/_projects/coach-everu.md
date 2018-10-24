@@ -13,9 +13,9 @@ geolocation:
   latitude:
   longitude:
 description: >-
-  Coach Erevu aims to build the SEL skills of teachers through weekly video
-  clubs, timely habit triggers, and bite-sized localized teaching materials. Our
-  solution can be implemented as separate components or one holistic approach.
+  Coach Erevu is a digital coaching program that aims to build the social
+  emotional skills of teachers through weekly peer-to-peer video clubs, timely
+  habit triggers, and bite-sized teaching materials
 hero_image: /uploads/dscf1201-1.jpg
 featured_image: /uploads/dscf1201.jpg
 featured_video_url: 'https://youtu.be/-2R3tuNr47g'
@@ -131,10 +131,10 @@ milestones:
 
 Social-emotional learning, or “SEL”, can help children develop the skills needed to regulate their emotional responses, positively interact with others and better persevere in adverse situations.
 
-####  
+#### &nbsp;
 
 #### How does it work?
 
-* Training and coaching sessions occur during 1-hour weekly video clubs.
-* Refugee teachers implement what they learned in their classroom during daily designated ‘SEL time.’
-* Teachers are rewarded and supported with localized SEL cards that signal they are trained SEL teachers and can be used as teaching aids in the classroom.
+* Coaching sessions and peer-to-peer learning occur during 1-hour weekly video clubs.
+* Refugee teachers implement what they learned in their classroom during daily designated ‘SEL time,' marked by a school bell.
+* Teachers are rewarded and supported with localized SEL cards that signal they are skilled SEL teachers and can be used as teaching aids in the classroom.
