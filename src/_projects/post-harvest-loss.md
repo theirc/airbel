@@ -28,10 +28,13 @@ articles:
     url: 'https://medium.com/airbel/malnutrition/home'
 milestones:
   - date: 2018-07-01 00:00:00
-    title: Kicked off prototype
+    title: 'Tillaberi, Niger. Kicked off prototype'
     link: 'https://medium.com/airbel/field-notes-cash-cash-cash-ba1029d22b74'
     link_title:
-    description_markdown: Kicked off testing the prototype in three separate villages in Niger.
+    description_markdown: >-
+      Kicked off community consultation with village leaders, district health
+      officials, local nutrition and agriculture specialists, and women to
+      fine-tune the design of the prototype.
   - date: 2018-06-01 00:00:00
     title: Sprout 2.0 Begins
     link: >-
@@ -51,7 +54,7 @@ milestones:
       * Spent time with caregivers in remote villages in western Tanzania to
       understand:
         * How they are affected by post-harvest loss?
-        * What advice to they have for raising healthy children?
+        * What advice do they have for raising healthy children?
         * What actions would they like to be able to take and what would they need to do it?
       * Consulted providers in SAM-affected areas to understand the local
       drivers of SAM
