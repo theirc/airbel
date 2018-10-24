@@ -8,8 +8,8 @@ focuses:
   - education
 geolocation:
   region: Tanzania
-  latitude: 3°25'17.399”S
-  longitude: 30°53'24.212”E
+  latitude: '3.42139'
+  longitude: '399.51472'
 description: >-
   Tunakujenga is a family learning program that empowers caregivers to learn and
   practice social and emotional learning activities with their children at home.
