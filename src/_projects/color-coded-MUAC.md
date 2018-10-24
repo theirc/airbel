@@ -17,7 +17,7 @@ description: >-
   malnourished children. Commonly used tools for diagnosing and treating
   malnutrition have been adapted to meet the needs of workers who might have
   limited ability to read, write, and count.
-hero_image: /uploads/nutrition-1-2.JPG
+hero_image: /uploads/muac-header.JPG
 featured_image: /uploads/nutrition-1-1.JPG
 featured_video_url:
 resources:
