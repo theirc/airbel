@@ -19,7 +19,7 @@ featured_video_url:
 resources:
   - title: Pop Up Learning in Crisis
     description:
-    url: 'https://rescue.box.com/s/0bu13qxkbjcnbfldg4s7z3gy81kzkn9x'
+    url: 'https://rescue.box.com/shared/static/0bu13qxkbjcnbfldg4s7z3gy81kzkn9x.pdf'
 articles:
   - title:
     url:
@@ -35,13 +35,13 @@ milestones:
 
 Within weeks of a crisis onset and at a low cost-per-child, Pop-Up Learning can deliver locally-relevant, tablet-based learning that fosters emotional support, literacy and numeracy for primary school-aged learners.
 
-Pop-Up adapts to the varying needs of displaced children around the world, including adapting to different educational levels and languages.
+Pop-Up adapts to the varying needs of displaced children around the world, including different educational levels and languages.
 
-How it works:
+#### How it works:
 
 Pop-Up partners with community leaders to transform existing safe spaces, like homes and community centers, into temporary classrooms.&nbsp; We identify, recruit, and empower community members to oversee primary school-aged children, and we provide tablets for children to use Pop-Up Learning to develop key competencies.
 
-First step:
+#### First step:
 
 We will begin testing in Cox’s Bazar, Bangladesh, primarily with those displaced by the Rohingya crisis.
 
