@@ -21,9 +21,10 @@ hero_image: /uploads/muac-header.JPG
 featured_image: /uploads/nutrition-1-1.JPG
 featured_video_url:
 resources:
-  - title:
+  - title: Study of a simplified algorithm and tools in South Sudan
     description:
-    url:
+    url: >-
+      https://www.rescue.org/report/enabling-treatment-severe-acute-malnutrition-community-study-simplified-algorithm-and-tools
 articles:
   - title:
     url:
