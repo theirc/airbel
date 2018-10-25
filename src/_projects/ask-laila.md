@@ -34,7 +34,8 @@ milestones:
     description_markdown: >-
       Although Ask Laila was considered highly promising, it faced some
       challenges around scale-ability and cost. For the time being, IRC elected
-      to pursue other possibilities, including Caseworker Communication.
+      to pursue other possibilities, including [Caseworker
+      Communication](/projects/caseworker-communications/).
   - date: 2017-08-01 00:00:00
     title: Prototype
     link:
