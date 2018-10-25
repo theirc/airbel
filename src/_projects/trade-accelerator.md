@@ -30,13 +30,12 @@ milestones:
     link_title:
     description_markdown:
   - date: 2016-07-01 00:00:00
-    title: Work begins
+    title: >-
+      IRC and McKinsey & Company initiate collaboration to identify trade-driven
+      approaches to strengthening employment in Jordan. Over 150 stakeholders
+      engaged, complemented by a review of existing research and data analysis.
     link:
-    link_title: >-
-      IRC begins work with McKinsey & Company, collaborating on potential
-      trade-driven approaches to strengthening employment in Jordan.Over 150
-      stakeholders were engaged, complemented by extensive reviews of existing
-      research and data analysis
+    link_title:
     description_markdown:
 ---
 
