@@ -11,7 +11,7 @@ geolocation:
   latitude:
   longitude:
 description: >-
-  This concept aimed to foster rapid growth in Jordanian businesses to help them
+  Focused support for Jordanian businesses to foster rapid growth and help them
   tap into the European market.
 hero_image:
 featured_image:
