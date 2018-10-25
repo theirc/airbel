@@ -11,7 +11,7 @@ geolocation:
   latitude:
   longitude:
 description: >-
-  Hotline, SMS, and web-based service to help resettled refugees get quick
+  A hotline, SMS, and web-based service to help resettled refugees get quick
   answers from a trusted local source - in their own language.
 hero_image:
 featured_image:
