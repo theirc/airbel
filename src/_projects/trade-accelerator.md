@@ -30,13 +30,13 @@ milestones:
     link_title:
     description_markdown:
   - date: 2016-07-01 00:00:00
-    title: >-
+    title: Project begins.
+    link:
+    link_title:
+    description_markdown: >-
       IRC and McKinsey & Company initiate collaboration to identify trade-driven
       approaches to strengthening employment in Jordan. Over 150 stakeholders
       engaged, complemented by a review of existing research and data analysis.
-    link:
-    link_title:
-    description_markdown:
 ---
 
 The Trade Accelerator aimed to help domestic companies take advantage of a trade deal which unlocked the European market for Jordanian exports. With government sponsorship, the accelerator would provide tailored services to domestic companies to help them grow their EU exports. After up to a year of focused support, a new cohort of companies would cycle through the program. Throughout the process, investments would be made to measure impact and identify lessons learned, both to improve support for future cohorts and help shape broader export strategies.
