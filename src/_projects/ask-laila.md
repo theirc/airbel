@@ -11,8 +11,8 @@ geolocation:
   latitude:
   longitude:
 description: >-
-  Ask Laila was a prototype for clients to get quick answers to common questions
-  from a trusted local source in their own language.
+  Hotline, SMS, and web-based service to help refugees get quick answers to
+  common questions from a trusted local source - in their own language.
 hero_image:
 featured_image:
 featured_video_url:
@@ -28,12 +28,13 @@ articles:
     url:
 milestones:
   - date: 2017-12-01 00:00:00
-    title: Concept put on hold.
+    title: Put on hold.
     link:
     link_title:
     description_markdown: >-
-      Although the concept was considered highly promising, IRC elected to
-      pursue other possibilities.
+      Although Ask Laila was considered highly promising, it faced some
+      challenges around scale-ability and cost. For the time being, IRC elected
+      to pursue other possibilities, including Caseworker Communication.
   - date: 2017-08-01 00:00:00
     title: Prototype
     link:
@@ -48,8 +49,8 @@ milestones:
     link:
     link_title:
     description_markdown: >-
-      Internal IRC process begins to identify potential innovative approaches to
-      improve United States-based refugee settlement programs.
+      IRC begins working to identify potential innovative approaches to United
+      States-based refugee settlement programs.
 ---
 
-Refugees have many questions and can struggle to access the answers in a concise and accessible fashion. The most vulnerable groups, such as women and people with mental illness, may not be comfortable asking certain questions in more traditional casework contexts. Ask Laila was conceived to address this challenge - providing clients with a hotline where they could call in to connect with a trusted local source in their own language. Ask Laila also included text messages and a Facebook group where refugees can connect with one another.
+Recently resettled refugees have many questions. They may struggle to get answers to their questions quickly and easily. In particular, vulnerable groups, such as women and people with mental illness, may have sensitive questions which they might not be comfortable asking in a traditional casework setting. Ask Laila was conceived to address this challenge - providing clients with a hotline to connect with a trusted local source in their own language. Alongside the hotline, the prototype included text messages and a Facebook group where refugees can connect with one another.
