@@ -20,9 +20,6 @@ resources:
   - title: Refugee Resettlement Redesign
     description:
     url: 'https://rescue.box.com/s/k3asokuk8ozvhbwn08t1qyyjyrw226fb'
-  - title:
-    description:
-    url:
 articles:
   - title:
     url:
