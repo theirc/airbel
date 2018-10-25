@@ -18,7 +18,7 @@ featured_image:
 featured_video_url:
 resources:
   - title: Refugee Resettlement Redesign
-    description: Final Ideas Selection
+    description:
     url: 'https://rescue.box.com/s/k3asokuk8ozvhbwn08t1qyyjyrw226fb'
   - title:
     description:
