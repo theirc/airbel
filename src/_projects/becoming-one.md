@@ -18,7 +18,7 @@ description: >-
   with local faith leaders, who guide couples through engaging workbooks and
   videos that teach communication skills, emotional regulation, shared control
   over finances and household duties, sexual consent and pleasure.
-hero_image:
+hero_image: /uploads/hero-bo.png
 featured_image: /uploads/header-palava-couple.png
 featured_video_url:
 resources:
@@ -52,4 +52,4 @@ Humanitarian disasters leave affected populations with severe post-conflict trau
 
 In partnership with Innovations for Poverty Action and World Vision, Becoming One aims to change behaviors, not just attitudes, to prevent partner violence through a couples counseling program delivered by local faith leaders.
 
-Becoming One leverages an already existing and large social network of faith leaders through World Vision, equipped with engaging and instructional videos on counseling, while couples are provided with materials, such as guidebooks to practice techniques, such as anger management and joint financial decision making, at home. Faith leaders connect these positive behaviors and lessons to biblical principles to achieve lasting change.&nbsp;
+Becoming One leverages an already existing and large social network of faith leaders through World Vision, equipped with engaging and instructional videos on counseling, while couples are provided with materials, such as guidebooks to practice techniques, such as anger management and joint financial decision making, at home. Faith leaders connect these positive behaviors and lessons to biblical principles to achieve lasting change.
