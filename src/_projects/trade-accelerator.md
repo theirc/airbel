@@ -1,7 +1,9 @@
 ---
 layout: project
 title: Trade Accelerator
-tagline: Launching Jordanian companies into new market opportunities
+tagline: >-
+  Creating employment opportunities by launching Jordanian companies into a new
+  market
 status: discontinued
 stage: Generate Solutions
 focuses:
@@ -39,4 +41,8 @@ milestones:
       engaged, complemented by a review of existing research and data analysis.
 ---
 
-The Trade Accelerator aimed to help domestic companies take advantage of a trade deal which unlocked the European market for Jordanian exports. With government sponsorship, the accelerator would provide tailored services to domestic companies to help them grow their EU exports. After up to a year of focused support, a new cohort of companies would cycle through the program. Throughout the process, investments would be made to measure impact and identify lessons learned, both to improve support for future cohorts and help shape broader export strategies.
+Displacement can pose challenges for employment in host communities. In 2016, the Government of Jordan and the international community forged the Jordan Compact, which aims to provide 200,000 employment opportunities to refugees.&nbsp;
+
+Working with McKinsey & Company, IRC developed the concept for the Trade Accelerator, meant to help domestic companies take advantage of the segment of the deal which unlocked the European market for Jordanian exports. With government sponsorship, the accelerator would provide tailored services to domestic companies to help them grow their EU exports, in turn providing new employment opportunities to refugees.
+
+After up to a year of focused support, a new cohort of companies would cycle through the program. Throughout the process, investments would be made to measure impact and identify lessons learned, both to improve support for future cohorts and help shape broader export strategies.
