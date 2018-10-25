@@ -5,7 +5,7 @@ tagline: >-
   Streamlining communication between resettlement caseworkers and newly arrived
   refugees
 status: active
-stage: Prototype
+stage: Pilot
 focuses:
   - resettlement
 geolocation:
