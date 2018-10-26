@@ -14,7 +14,7 @@ description: >-
   Working to counter the high rates of unemployment that follow mass
   displacement, the Employment Hub in Jordan is testing a set of new innovations
   for matching employers and job seekers.
-hero_image:
+hero_image: /uploads/hero-match.jpg
 featured_image: /uploads/dscf7917-01.jpg
 featured_video_url:
 resources:
