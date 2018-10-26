@@ -41,4 +41,8 @@ milestones:
       engaged, complemented by a review of existing research and data analysis.
 ---
 
-In 2016, the Government of Jordan and the international community forged the Jordan Compact, which aims to provide 200,000 employment opportunities to refugees. Working with McKinsey & Company, IRC developed the concept for the Trade Accelerator. Trade Accelerator aimed to help domestic companies take advantage of the deal. With government sponsorship, the accelerator would provide tailored services to domestic companies to help them grow their EU exports, in turn providing new employment opportunities to refugees. After up to a year of focused support, a new cohort of companies would cycle through the program. Throughout the process, investments would be made to measure impact and identify lessons learned, both to improve support for future cohorts and help shape broader export strategies.
+In 2016, the Government of Jordan and the international community forged the Jordan Compact, which aims to provide 200,000 employment opportunities to refugees. Included in the compact were preferential trade terms to help unlock the lucrative European market for Jordanian businesses.
+
+The Trade Accelerator concept was developed in collaboration between the Airbel Center and McKinsey & Company. Trade Accelerator aimed to help Jordanian companies take advantage of the deal, in turn providing employment opportunities for refugees.
+
+With government sponsorship, the accelerator would provide tailored services to domestic companies to help them grow their EU exports. After up to a year of focused support, a new cohort of companies would cycle through the program. Throughout the process, investments would be made to measure impact and identify lessons learned, both to improve support for future cohorts and help shape broader export strategies.
