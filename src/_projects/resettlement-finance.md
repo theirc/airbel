@@ -14,8 +14,8 @@ description: >-
   A new model to finance global refugee resettlement, where investors contribute
   to a Resettlement Fund that is eventually replenished as refugees begin to
   contribute to hosting economies.
-hero_image:
-featured_image:
+hero_image: /uploads/hero-resettlement-finance.jpeg
+featured_image: /uploads/chuttersnap-176806-unsplash.jpg
 featured_video_url:
 resources:
   - title:
