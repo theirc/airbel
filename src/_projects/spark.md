@@ -31,14 +31,15 @@ milestones:
     link_title: Resources
     description_markdown:
   - date: 2016-08-01 00:00:00
-    title: Finalized design brief for three concepts.
+    title: Finalized design brief for three concepts
     link: 'https://rescue.app.box.com/file/78239629505'
     link_title:
     description_markdown: >-
-      The Spark Concept emerged from together with concepts which are now known
-      as Coach Erevu and Tunakujenga.
+      The Spark Concept emerged together with concepts which are now known as
+      [Coach Erevu](/projects/coach-everu/) and
+      [Tunakujenga](/projects/tunakujenga/).
   - date: 2016-06-01 00:00:00
-    title: Initial field research in Niger and Tanzania.
+    title: Initial field research in Niger and Tanzania
     link: >-
       https://medium.com/airbel/designing-education-for-the-most-vulnerable-people-8d2eb753edcd
     link_title:
@@ -46,7 +47,7 @@ milestones:
       The team conducts field research and generates sacrificial concepts for
       discussion.&nbsp;
   - date: 2016-03-01 00:00:00
-    title: Project begins.
+    title: Project begins
     link:
     link_title:
     description_markdown: >-
