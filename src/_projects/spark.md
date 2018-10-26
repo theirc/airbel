@@ -11,8 +11,8 @@ geolocation:
   latitude:
   longitude:
 description: >-
-  Youth Sparks lead small groups in alternative learning spaces outside of
-  school to teach literacy and Social Emotional Learning (SEL).
+  Youth Sparks create alternative learning spaces outside of school to teach
+  literacy and social-emotional learning to their peers.
 hero_image:
 featured_image:
 featured_video_url:
@@ -55,4 +55,8 @@ milestones:
       Emotional Learning (SEL) and literacy in their primary school years”
 ---
 
-Student Learning Circles are led by youth Sparks, who are equipped to teach literacy and SEL in concentrated and interactive small group sessions. Youth sparks receive Spark Backpacks with materials, lessons and activities for use in the learning circles, and the youth leaders are well-trained in their use. Sparks can exist as an extension of school and involve teachers or be completely separate from it. Parents and community members are involved in the learning process, and have ample opportunities to learn about the program, literacy, and SEL. Through Spark Carnival, student accomplishments are celebrated with the whole community.
+Youth Sparks create alternative learning spaces outside of school to teach literacy and social-emotional learning to their peers.
+
+The Spark concept is of a youth-led program to create learning spaces outside of traditional classrooms. Youth would be trained to teach literacy and social-emotional learning in concentrated and interactive small group sessions. These youth leaders would receive backpacks filled with materials, lessons and activities for use in the learning circles. Spark was designed to work as an extension of school, involving teachers, or to exist completely separate from it.
+
+Parents and community members would involved throughout the learning process, with ample opportunities to learn about the program, literacy, and social-emotional learning. Through Spark Carnival, student accomplishments would be celebrated with the entire community.
