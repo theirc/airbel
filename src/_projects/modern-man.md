@@ -19,9 +19,10 @@ hero_image: /uploads/hero-modern-man.jpg
 featured_image: /uploads/img-20170202-153612.jpg
 featured_video_url:
 resources:
-  - title:
+  - title: Case Study
     description:
-    url:
+    url: >-
+      https://docs.google.com/presentation/d/1ukYYh8DYMhnDxsl7E8VN7wYyEARJeYUOXGydJ5fDxQw/edit?usp=sharing
 articles:
   - title:
     url:
