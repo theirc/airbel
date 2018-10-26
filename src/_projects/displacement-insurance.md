@@ -12,8 +12,8 @@ geolocation:
   longitude:
 description: >-
   Displacement insurance aims to make humanitarian aid more agile. As crises
-  occur, these policies could disperse capital to host countries, NGOs, or other
-  key actors to take swift, live-saving action.
+  occur, insurance could provide funds to host countries and NGOs to take swift,
+  live-saving action.
 hero_image:
 featured_image:
 featured_video_url:
@@ -32,8 +32,8 @@ milestones:
     description_markdown:
 ---
 
-With the world facing the largest refugee crisis since World War II, available funding is not enough to meet the world’s vast needs for aid. And when crises strike or intensify, humanitarian actors must lose precious time mobilizing funding. This means humanitarian response is often not just too little, but too late.
+Available funding is not enough to meet the world’s vast needs for aid. When crises strike or intensify, humanitarian actors must lose precious time mobilizing funding. This means humanitarian response is often not just too little, but too late.
 
-Displacement insurance would help host countries, NGOs, and donors respond to crises increased needs, allowing for more timely and effective response to save lives. Just like homeowners’ insurance, displacement insurance would provide the holders with payouts when triggered. While for a homeowner, the trigger might damage caused during a storm or flood, displacement insurance would be triggered by events such as a large increase in refugees, or the onset of conflict. When triggered, the insurance would provide the aid provider and/or host country a payout, enabling them to provide swift and quality services to people in need.
+Displacement insurance would help host countries, NGOs, and donors provide life-saving assistance quickly and effectively. Just like homeowners’ insurance, displacement insurance would provide the holders with payouts when triggered. For a homeowner, the trigger might be damage caused during a storm or flood. Displacement insurance would be triggered by events such as a large increase in refugees, or the onset of conflict. Aid providers would then receive a payout to be used providing swift and quality services to people in need.
 
 Currently, Airbel is working with the United Kingdom’s Department for International Development to better understand the market for such a product. This research could lead to a groundbreaking, innovative and lifesaving redesign of humanitarian crisis response funding.
