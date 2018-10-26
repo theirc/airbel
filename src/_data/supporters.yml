@@ -5,10 +5,10 @@
   logo_image:
   link: 'http://starrfoundation.org/'
 - name: Citi Foundation
-  logo_image:
+  logo_image: /uploads/citi-foundation-gray.png
   link: 'https://www.citigroup.com/citi/foundation/'
 - name: Intel Foundation
-  logo_image:
+  logo_image: /uploads/intel-1spot-100-gray.png
   link: >-
     https://www.intel.com/content/www/us/en/corporate-responsibility/intel-foundation.html
 - name: Start Network Disaster Preparedness Innovation Labs
@@ -18,10 +18,10 @@
   logo_image: /uploads/CIFF_grey.png
   link: 'https://ciff.org/'
 - name: Open Society Foundations
-  logo_image: /uploads/osf.png
+  logo_image:
   link: 'https://www.opensocietyfoundations.org/'
 - name: Innovations for Poverty Action
-  logo_image: /uploads/osf.png
+  logo_image: /uploads/ipa-africa-gray.png
   link: 'https://www.poverty-action.org/'
 - name: UK Aid from the British People
   logo_image: /uploads/UK-AID-Standard-grey.png
@@ -34,5 +34,14 @@
   logo_image: /uploads/Ubongo_grey.png
   link: 'https://www.ubongo.org/'
 - name: Twilio.org
-  logo_image: /uploads/twilio.png
+  logo_image: /uploads/twilio-dot-org-default-gray.png
   link: 'http://twilio.org/'
+- name: Stanford Immigration Policy Lab
+  logo_image: /uploads/ipl-logo-transparent-gray.png
+  link: 'https://immigrationlab.org/'
+- name: World Vision
+  logo_image:
+  link: 'https://www.worldvision.org/'
+- name: Deutsche Gesellschaft für Internationale Zusammenarbeit
+  logo_image:
+  link: 'https://www.giz.de/en/html/index.html'
