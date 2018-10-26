@@ -7,9 +7,9 @@ stage: Prototype
 focuses:
   - education
 geolocation:
-  region:
-  latitude:
-  longitude:
+  region: Tanzania
+  latitude: '3.42139'
+  longitude: '399.51472'
 description: >-
   Youth Sparks create alternative learning spaces outside of school to teach
   literacy and social-emotional learning to their peers.
@@ -55,8 +55,8 @@ milestones:
       Emotional Learning (SEL) and literacy in their primary school years”
 ---
 
-Youth Sparks create alternative learning spaces outside of school to teach literacy and social-emotional learning to their peers.
+Youth Sparks create alternative learning spaces outside of refugee camp schools to teach literacy and social-emotional learning to their peers.
 
-The Spark concept is of a youth-led program to create learning spaces outside of traditional classrooms. Youth would be trained to teach literacy and social-emotional learning in concentrated and interactive small group sessions. These youth leaders would receive backpacks filled with materials, lessons and activities for use in the learning circles. Spark was designed to work as an extension of school, involving teachers, or to exist completely separate from it.
+The Spark concept is a youth-led program to create learning spaces outside of traditional classrooms. Youth would be trained to teach literacy and social-emotional learning in concentrated and interactive small group sessions. These youth leaders would receive backpacks filled with materials, lessons and activities for use in the learning circles. Spark was designed to work as an extension of school, involving teachers, or to exist completely separate from it.
 
-Parents and community members would involved throughout the learning process, with ample opportunities to learn about the program, literacy, and social-emotional learning. Through Spark Carnival, student accomplishments would be celebrated with the entire community.
+Parents and community members would be involved throughout the learning process, with ample opportunities to learn about the program, literacy, and social-emotional learning. Through the Spark Carnival, student accomplishments would be celebrated with the entire community.
