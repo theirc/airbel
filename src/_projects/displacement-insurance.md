@@ -11,10 +11,9 @@ geolocation:
   latitude:
   longitude:
 description: >-
-  Large-scale displacement insurance aims to make humanitarian aid more agile,
-  enabling quicker, more effective response. Host countries or other key actors
-  could access these insurance policies to disperse life-saving capital as
-  crises occur.
+  Displacement insurance aims to make humanitarian aid more agile. As crises
+  occur, these policies could disperse capital to host countries, NGOs, or other
+  key actors to take swift, live-saving action.
 hero_image:
 featured_image:
 featured_video_url:
