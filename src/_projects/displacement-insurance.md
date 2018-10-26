@@ -1,9 +1,7 @@
 ---
 layout: project
 title: Displacement Insurance
-tagline: >-
-  Insuring against humanitarian crisis to service those in need faster and more
-  cost-effectively
+tagline: Insuring against crisis to speed up humanitarian response and save lives
 status: active
 stage: Research
 focuses:
@@ -13,12 +11,10 @@ geolocation:
   latitude:
   longitude:
 description: >-
-  The Airbel Center is conducting a feasibility study of a market for
-  large-scale displacement insurance to address that, in response to crises,
-  humanitarian aid is often too little too late. This insurance would be taken
-  out by key actors (such as host countries) with private insurers before crisis
-  occurs, allowing for lifesaving capital to be dispersed significantly faster,
-  as crises happen, rather than after.
+  Large-scale displacement insurance aims to make humanitarian aid more agile,
+  enabling quicker, more effective response. Host countries or other key actors
+  could access these insurance policies to disperse life-saving capital as
+  crises occur.
 hero_image:
 featured_image:
 featured_video_url:
@@ -30,13 +26,15 @@ articles:
   - title:
     url:
 milestones:
-  - date:
-    title:
+  - date: 2018-09-01 00:00:00
+    title: Innovation lab workshop with key stakeholders
     link:
     link_title:
     description_markdown:
 ---
 
-In response to developing crisis, humanitarian aid is often too little, too late. Displacement insurance could address that, leading to more people people being saved, more cost-effectively.  Airbel, in partnership with DFID, have co-organized a refugee finance innovation lab to facilitate discussions with key stakeholders [like?].
+The world currently faces an unprecedented scale of need for aid, and is now facing the largest refugee crisis since World War II. Although funding is at an all-time high it still cannot meet the world’s vast needs for aid. Currently, when needs increase or a crisis strikes, humanitarian actors must mobilize funding, losing precious time and energy. This means humanitarian responses is often not just too little, but also too late.
 
-Similar to how disaster insurance is taken out on homes in areas at risk of natural disasters, Displacement insurance would work similarly, serving as host countries, humanitarian agencies, and donors. Airbel and DFID are presently conducting a feasibility study of a market for large-scale displacement insurance, and our research could lead to a groundbreaking, innovative and life saving redesign of humanitarian crisis response funding.
+Displacement insurance would insure host countries, NGOs, and donors against crises, such as rare large-scale influxes in refugees or the outbreak of conflict that could prove difficult to respond to. This would help allow for more timely and effective response to save lives. Just like homeowners’ insurance, this insurance would provide the holders with payouts should a crisis occur. While for a homeowner, this might be a storm or flood, displacement insurance would be triggered by events such as a large increase in refugees, or the onset of conflict. When triggered, the insurance would provide the aid provider and/or host country a payout, enabling them to provide swift and quality services to people in need.
+
+Currently, Airbel is working with DFID to conduct a feasibility assessment is being to understand the market for such a product. Airbel and DFID are co-organizing a refugee finance innovation lab for discussion with key stakeholders. Our research could lead to a groundbreaking, innovative and lifesaving redesign of humanitarian crisis response funding.
