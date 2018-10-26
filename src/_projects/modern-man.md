@@ -15,7 +15,7 @@ description: >-
   aspirational and positive masculine identity to prevent intimate partner
   violence. It sends SMS messages to men who have opted in to practice positive
   behaviors with their partners.
-hero_image:
+hero_image: /uploads/hero-modern-man.jpg
 featured_image: /uploads/img-20170202-153612.jpg
 featured_video_url:
 resources:
