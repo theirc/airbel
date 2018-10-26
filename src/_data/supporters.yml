@@ -27,6 +27,9 @@
   logo_image: /uploads/UK-AID-Standard-grey.png
   link: >-
     https://www.gov.uk/government/organisations/department-for-international-development
+- name: Deutsche Gesellschaft für Internationale Zusammenarbeit
+  logo_image:
+  link: 'https://www.giz.de/en/html/index.html'
 - name: VOX Media
   logo_image: /uploads/Vox-media-grey.png
   link: 'https://www.voxmedia.com'
@@ -42,6 +45,3 @@
 - name: World Vision
   logo_image:
   link: 'https://www.worldvision.org/'
-- name: Deutsche Gesellschaft für Internationale Zusammenarbeit
-  logo_image:
-  link: 'https://www.giz.de/en/html/index.html'
