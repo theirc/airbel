@@ -11,9 +11,8 @@ geolocation:
   latitude:
   longitude:
 description: >-
-  Displacement insurance aims to make humanitarian aid more agile. As crises
-  occur, insurance could provide funds to host countries and NGOs to take swift,
-  live-saving action.
+  Displacement insurance disburses funds for swift life-saving action during
+  crises, with an overall aim to make humanitarian aid more agile.
 hero_image:
 featured_image:
 featured_video_url:
@@ -26,7 +25,14 @@ articles:
     url:
 milestones:
   - date: 2018-09-01 00:00:00
-    title: Innovation lab workshop with key stakeholders
+    title: Refugee finance innovation lab
+    link:
+    link_title:
+    description_markdown: >-
+      Co-organized by Airbel and DFID, this workshop provided a space to discuss
+      displacement insurance with key stakeholders.
+  - date: 2017-04-01 00:00:00
+    title: Project begins with an initial feasibility study
     link:
     link_title:
     description_markdown:
