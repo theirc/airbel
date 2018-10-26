@@ -8,8 +8,8 @@ focuses:
   - safety
 geolocation:
   region: Liberia
-  latitude: 6.3156° N
-  longitude: 10.8074° W
+  latitude: '6.31561'
+  longitude: '-10.80737'
 description: >-
   Modern Man is a mobile messaging campaign that engages men with an
   aspirational and positive masculine identity to prevent intimate partner
