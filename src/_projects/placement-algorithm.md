@@ -103,6 +103,8 @@ milestones:
       institution and design thinking capabilities.
 ---
 
-In partnership with Stanford University’s Immigration Policy Lab, Airbel is scaling an innovative matching technology to support refugees and asylum-seekers around the globe. The placement algorithm analyzes historical data, labor market conditions, demographics, refugee preferences and other factors to suggest an ideal location for resettled refugees. The data-driven process is complementary to the extensive work of caseworkers and to the years of resettlement experience of the International Rescue Committee.
+Moving somewhere new is challenging under the best circumstances. This is especially true for refugees, who are driven from their homes by conflict or other major threats, and often have little choice in where they end up. Caseworkers play a critical role in helping settle refugees in new places, and the International Rescue Committee has many years of experience helping to get refugees settled.
 
-This algorithm is part of a larger enterprise aimed at creating a new global model for refugee resettlement, with the goal of ultimately increasing the number of refugees countries take in and the quality of resettlement programming.
+But the city where refugees go is often decided at random, or dictated by need and availability. But data shows what common sense states - that different people are likely to succeed in different circumstances. Enter the placement algorithm - a collaboration between Stanford and the Airbel Center - which analyzes historical data, labor market conditions, demographics, refugee preferences and other factors to suggest an ideal location for resettled refugees.
+
+This algorithm is part of a larger enterprise aimed at creating a new global model for refugee resettlement. The ultimate goal is to increase the number of refugees countries take in, as well as improve the quality of resettlement programming.
