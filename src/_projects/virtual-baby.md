@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Virtual Baby
-tagline: Mobile game to make health messages fun for kids
+tagline: Tamagotchi-style game normalizes healthy behaviors for children
 status: discontinued
 stage: Generate Solutions
 focuses:
@@ -63,8 +63,10 @@ milestones:
       the model to change assumptions as they like)
 ---
 
-Virtual baby game teaches children about nutrition and family planning, bringing these crucial health messages into their household. The game is targeted to children between the ages of 7 and 15. It would create a new entry point for family planning and nutrition information to enter households through adolescents - many of whom are caregivers and soon to become parents.
+This portable game is inspired by the popular 1990s game Tamagotchi. It asks children to reach the goal of raising a virtual happy baby by adopting nutrition and reproductive health actions - without depleting their own energy points. The game intends to normalize behaviors like food diversification, birth spacing, and even social-emotional learning.
 
-The game would be played on a simple pocket-sized device with a digital screen and a few buttons that does not require charging. Gameplay would center around raising strong babies, selecting options that could strengthen or weaken the baby’s mind or happiness. The game would also measure the parents’ energy to illustrate the effects of poor birth-spacing and eating on both mother and baby.
+Virtual Baby is suitable even for young players, and is targeted to children between the ages of 7 and 15. Many are already caregivers of younger children, and others may soon become parents. It would create a new entry point for family planning and nutrition information to enter and benefit entire households.
+
+The game would be played on a simple pocket-sized device with a digital screen and a few buttons that does not require charging. Game play would center around raising strong babies, selecting options that could strengthen or weaken the baby’s mind or happiness. The game would also measure the parents’ energy to illustrate the effects of poor birth-spacing and eating on both mother and baby.
 
 Virtual baby would test the ability of “gamified” practices to improve uptake of messages around sexual and reproductive health and nutrition, helping girls plan for pregnancy and care for siblings and future children.
