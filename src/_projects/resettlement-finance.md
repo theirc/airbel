@@ -11,9 +11,9 @@ geolocation:
   latitude:
   longitude:
 description: >-
-  A new model to finance global refugee resettlement, where investors contribute
-  to a Resettlement Fund that is eventually replenished as refugees begin to
-  contribute to hosting economies.
+  A new model to finance global refugee resettlement, with investors
+  contributing to a Resettlement Fund replenished as refugees fuel economic
+  growth.
 hero_image: /uploads/hero-resettle-finance.jpg
 featured_image: /uploads/180704-naturalizationmonticello-aoberstadt-071.jpg
 featured_video_url:
