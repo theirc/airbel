@@ -23,13 +23,19 @@
 - name: Innovations for Poverty Action
   logo_image: /uploads/ipa-africa-gray.png
   link: 'https://www.poverty-action.org/'
+- name: German-Jordanian Cooperation
+  logo_image: /uploads/german-jordan-coop-gray.png
+  link:
+- name: Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
+  logo_image: /uploads/giz-logo-gray.png
+  link: 'https://www.giz.de/en/html/index.html'
+- name: Kingdom of Netherlands
+  logo_image: /uploads/dutch-logo-gray.png
+  link:
 - name: UK Aid from the British People
   logo_image: /uploads/UK-AID-Standard-grey.png
   link: >-
     https://www.gov.uk/government/organisations/department-for-international-development
-- name: Deutsche Gesellschaft für Internationale Zusammenarbeit
-  logo_image:
-  link: 'https://www.giz.de/en/html/index.html'
 - name: VOX Media
   logo_image: /uploads/Vox-media-grey.png
   link: 'https://www.voxmedia.com'
