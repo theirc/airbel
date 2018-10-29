@@ -13,7 +13,7 @@ geolocation:
 description: >-
   Displacement insurance disburses funds for swift life-saving action during
   crises, with an overall aim to make humanitarian aid more agile.
-hero_image:
+hero_image: /uploads/hero-displacement-insurance-1.jpeg
 featured_image: /uploads/20180824-kryan-drc-ebola-8.jpg
 featured_video_url:
 resources:
