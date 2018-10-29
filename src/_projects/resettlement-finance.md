@@ -11,9 +11,8 @@ geolocation:
   latitude:
   longitude:
 description: >-
-  A new model to finance global refugee resettlement, with investors
-  contributing to a Resettlement Fund replenished as refugees fuel economic
-  growth.
+  In this new model for financing refugee resettlement, investors contribute to
+  a Resettlement Fund replenished as refugees fuel economic growth.
 hero_image: /uploads/hero-resettle-finance.jpg
 featured_image: /uploads/180704-naturalizationmonticello-aoberstadt-071.jpg
 featured_video_url:
@@ -32,9 +31,9 @@ milestones:
     description_markdown:
 ---
 
-The world is currently facing the worst refugee crisis since World War II. International response struggles to meet the needs of more than 25 million refugees worldwide, and the number of refugees is likely to keep growing as people flee the impacts of climate change. Plus, efforts to support refugees just aren't enough. Fewer and fewer spaces are being opened up to give refugees new homes, and when they are resettled, they may receive only fragmented and limited services which don't set them up for success.
+The world is currently facing the worst refugee crisis since World War II. International response struggles to meet the needs of more than 25 million refugees worldwide, and the number of displaced people is likely to continue growing as people flee the impacts of climate change. In the meanwhile, countries are offering fewer spaces to give refugees new homes.
 
-Innovative approaches to refugee resettlement are critical to allow us to help more people more effectively. One key arena the Airbel Center is exploring is that of a new financing model to resettle refugees. A resettlement fund would be created by impact investors to cover the upfront costs of settling refugees. The fund would then be replenished as refugees become net economic contributors.&nbsp;
+Many countries have expressed a desire to host additional refugees, but struggle to find the funds required. One innovative approach being developed by the Airbel Center is a&nbsp;new financing model to resettle refugees. A resettlement fund would be created by impact investors to cover the upfront costs of settling refugees. The fund would then be replenished as refugees become net economic contributors.&nbsp;
 
 The financial facility will be structured like a social impact bond, of which over 200 have been successfully rolled out internationally. In a social impact bond, investors provide capital to address major social issues - in this case, the refugee crisis. This capital goes through an organization set up to provide social impact bonds. That organization would then pay a service provider - in this case to resettle refugees. The fund would be replenished, and investors would see payouts, as refugees fuel economic growth.
 
