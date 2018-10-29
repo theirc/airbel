@@ -24,16 +24,7 @@ articles:
   - title:
     url:
 milestones:
-  - date: 2018-03-01 00:00:00
-    title: '"Moonshot" Pitch to a16z'
-    link: >-
-      https://docs.google.com/presentation/d/1Ru-oAprdjQN-7cNuAQXGJcmp_KmjLlRD08m9fi-GEww/edit?usp=sharing
-    link_title: Resource
-    description_markdown: >-
-      Matching becomes one of the cornerstones of how we pitch a “global
-      resettlement” vision; now, we want to match both within countries, and
-      across them.
-  - date: 2018-03-01 00:00:00
+  - date: Invalid date
     title:
     link:
     link_title:
