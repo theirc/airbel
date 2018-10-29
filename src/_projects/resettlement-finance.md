@@ -31,9 +31,9 @@ milestones:
     description_markdown:
 ---
 
-The world is currently facing the worst refugee crisis since World War II. International response struggles to meet the needs of more than 25 million refugees worldwide, and the number of displaced people is likely to continue growing as people flee the impacts of climate change. In the meanwhile, countries are offering fewer spaces to give refugees new homes.
+The world is facing the worst refugee crisis since World War II, with international response struggling to meet the needs of more than 25 million refugees worldwide. The number of people in need is likely to continue growing as people flee the impacts of climate change. In the meanwhile, countries are offering fewer spaces to give refugees new homes, and limited funding means that services offered to refugees can be limited.
 
-Many countries have expressed a desire to host additional refugees, but struggle to find the funds required. One innovative approach being developed by the Airbel Center is a&nbsp;new financing model to resettle refugees. A resettlement fund would be created by impact investors to cover the upfront costs of settling refugees. The fund would then be replenished as refugees become net economic contributors.&nbsp;
+Many countries have expressed a desire to host additional refugees, but struggle to find the funds required. One innovative approach being developed by the Airbel Center is a new financing model to resettle refugees. A resettlement fund would be created by impact investors to cover the upfront costs of settling refugees. The fund would then be replenished as refugees become net economic contributors.&nbsp;
 
 The financial facility will be structured like a social impact bond, of which over 200 have been successfully rolled out internationally. In a social impact bond, investors provide capital to address major social issues - in this case, the refugee crisis. This capital goes through an organization set up to provide social impact bonds. That organization would then pay a service provider - in this case to resettle refugees. The fund would be replenished, and investors would see payouts, as refugees fuel economic growth.
 
