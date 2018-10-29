@@ -2,8 +2,8 @@
 layout: project
 title: Placement Algorithm
 tagline: >-
-  Using machine learning to predict the communities where resettled refugees are
-  most likely to thrive
+  Using machine learning to predict where resettled refugees are likely to
+  thrive
 status: active
 stage: Generate Solutions
 focuses:
@@ -105,6 +105,6 @@ milestones:
 
 Moving somewhere new is challenging under the best circumstances. This is especially true for refugees, who are driven from their homes by conflict or other major threats, and often have little choice in where they end up. Caseworkers play a critical role in helping settle refugees in new places, and the International Rescue Committee has many years of experience helping to get refugees settled.
 
-But the city where refugees go is often decided at random, or dictated by need and availability. But data shows what common sense states - that different people are likely to succeed in different circumstances. Enter the placement algorithm - a collaboration between Stanford and the Airbel Center - which analyzes historical data, labor market conditions, demographics, refugee preferences and other factors to suggest an ideal location for resettled refugees.
+The community where refugees are placed is generally dictated by need and availability. But data shows what common sense states: different people are likely to succeed in different circumstances. Enter the placement algorithm - a collaboration between Stanford and the Airbel Center. The algorithm analyzes historical data, labor market conditions, demographics, refugee preferences and other factors to suggest an ideal location for resettled refugees. This actionable information can then be used to make decisions about where to place refugees around the world.&nbsp;
 
 This algorithm is part of a larger enterprise aimed at creating a new global model for refugee resettlement. The ultimate goal is to increase the number of refugees countries take in, as well as improve the quality of resettlement programming.
