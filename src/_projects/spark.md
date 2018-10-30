@@ -24,6 +24,13 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2017-07-01 00:00:00
+    title: Spark discontinued
+    link:
+    link_title:
+    description_markdown: >-
+      While a promising idea, Spark was put on hold in order to dedicate
+      resources fully to other ongoing projects in Tanzania.
   - date: 2017-06-01 00:00:00
     title: Finalized product requirements and project plan
     link: >-
@@ -56,8 +63,8 @@ milestones:
       Emotional Learning (SEL) and literacy in their primary school years”
 ---
 
-Youth Sparks create alternative learning spaces outside of refugee camp schools to teach literacy and social-emotional learning to their peers.
+Spark creates alternative learning spaces outside of refugee camp schools to practice play-based learning and social-emotional skills with primary school children.
 
-The Spark concept is a youth-led program to create learning spaces outside of traditional classrooms. Youth would be trained to teach literacy and social-emotional learning in concentrated and interactive small group sessions. These youth leaders would receive backpacks filled with materials, lessons and activities for use in the learning circles. Spark was designed to work as an extension of school, involving teachers, or to exist completely separate from it.
+The Spark concept is a youth-led program to create learning spaces outside of traditional classrooms. Youth would be trained through a digital platform to teach social-emotional skills in concentrated and interactive small group sessions. These youth leaders would receive backpacks filled with materials, lessons and activities for use in the learning circles. Spark was designed to work as an extension of school, involving teachers, or to exist completely separate from it.
 
-Parents and community members would be involved throughout the learning process, with ample opportunities to learn about the program, literacy, and social-emotional learning. Through the Spark Carnival, student accomplishments would be celebrated with the entire community.
+Parents and community members would be involved throughout the learning process, with ample opportunities to learn about the program generally, and social-emotional learning specifically. Through the Spark Carnival, student accomplishments would be celebrated with the entire community.
