@@ -27,7 +27,7 @@
   logo_image: /uploads/german-jordan-coop-gray.png
   link:
 - name: Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
-  logo_image: /uploads/giz-logo-gray.png
+  logo_image: /uploads/gizlogo-unternehmen-gray.png
   link: 'https://www.giz.de/en/html/index.html'
 - name: Kingdom of Netherlands
   logo_image: /uploads/dutch-logo-gray.png
@@ -49,5 +49,5 @@
   logo_image: /uploads/ipl-logo-transparent-gray.png
   link: 'https://immigrationlab.org/'
 - name: World Vision
-  logo_image:
+  logo_image: /uploads/worldvision-gray.png
   link: 'https://www.worldvision.org/'
