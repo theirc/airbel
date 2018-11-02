@@ -36,12 +36,12 @@ milestones:
     title: Finalized product requirements and project plan
     link: >-
       https://docs.google.com/document/d/1zwd5hLbtIU84QLclauvrawK87TXwGmPMPb08wPCS0s4/edit
-    link_title: Resources
+    link_title: Resource
     description_markdown:
   - date: 2016-08-01 00:00:00
     title: Finalized design brief for three concepts
     link: 'https://rescue.app.box.com/file/78239629505'
-    link_title:
+    link_title: Resource
     description_markdown: >-
       The Spark Concept emerged together with concepts which are now known as
       [Coach Erevu](/projects/coach-everu/) and
