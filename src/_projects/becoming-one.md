@@ -22,7 +22,7 @@ hero_image: /uploads/hero-bo.png
 featured_image: /uploads/header-palava-couple.png
 featured_video_url:
 resources:
-  - title: Overview on preventing Intimate Partner Violence at the IRC
+  - title: Preventing Intimate Partner Violence at the IRC
     description:
     url: >-
       https://docs.google.com/presentation/d/1ukYYh8DYMhnDxsl7E8VN7wYyEARJeYUOXGydJ5fDxQw/edit?usp=sharing
