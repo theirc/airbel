@@ -30,8 +30,22 @@ articles:
       challenge in 2017
     url: 'https://www.ft.com/content/fcba4b0f-1558-36b4-be77-e69e2848e275'
 milestones:
+  - date: 2018-09-01 00:00:00
+    title: 'Complete prototyping of behavioral interventions, begin piloting'
+    link:
+    link_title:
+    description_markdown:
+  - date: 2018-08-01 00:00:00
+    title: >-
+      Complete basic framework of matching algorithm and prototypes of
+      behavioral nudges
+    link:
+    link_title:
+    description_markdown:
   - date: 2018-07-01 00:00:00
-    title: Complete MVP of matching algorithm and prototypes of behavioral nudges
+    title: >-
+      Begin delivery of cash support packages to assist beneficiaries with the
+      job search
     link:
     link_title:
     description_markdown:
@@ -50,9 +64,13 @@ milestones:
     link_title:
     description_markdown:
   - date: 2018-03-01 00:00:00
+    title: 'Establish offices in Irbid, Jordan'
+    link:
+    link_title:
+    description_markdown: Engage team of mobile employment service officers.
+  - date: 2018-03-01 00:00:00
     title: Draft initial research plan
-    link: >-
-      https://docs.google.com/document/d/1hF1dobZLxLROXIxNvyiWT5vDDZuFSgkP3d7ZewBNqHM/edit?usp=sharing
+    link:
     link_title:
     description_markdown:
   - date: 2018-01-01 00:00:00
@@ -110,7 +128,7 @@ milestones:
       regarding refugee employment in partnership with McKinsey and Company
 ---
 
-When mass displacement leads to mass unemployment, both refugees and vulnerable host populations are affected. &nbsp;Getting refugees into work, and growing the labor market, requires both innovative policy and innovative ideas. In 2016, the Government of Jordan and the international community forged the Jordan Compact, which aims to provide 200,000 employment opportunities to Syrian refugees. One part of the Compact is a set of incentives for employers to hire refugees. To support the Compact and inform the response to future crises, IRC’s Employment Hub in Jordan is testing a set of new innovations for matching employers and job seekers.
+When mass displacement leads to mass unemployment, both refugees and vulnerable host populations are affected.  Getting refugees into work, and growing the labor market, requires both innovative policy and innovative ideas. In 2016, the Government of Jordan and the international community forged the Jordan Compact, which aims to provide 200,000 employment opportunities to Syrian refugees. One part of the Compact is a set of incentives for employers to hire refugees. To support the Compact and inform the response to future crises, IRC’s Employment Hub in Jordan is testing a set of new innovations for matching employers and job seekers.
 
 Match consists of two core activities:
 
