@@ -26,8 +26,8 @@ resources:
       https://www.rescue.org/sites/default/files/document/1527/irc-syrianrefugeeemployment-72dpi-041117.pdf
 articles:
   - title: >-
-      Financial Times (paywall) - Putting refugees to work: the greatest
-      challenge in 2017
+      Financial Times - Putting refugees to work: the greatest challenge in 2017
+      (Paywall)
     url: 'https://www.ft.com/content/fcba4b0f-1558-36b4-be77-e69e2848e275'
 milestones:
   - date: 2018-09-01 00:00:00
