@@ -27,7 +27,7 @@ resources:
 articles:
   - title: >-
       Financial Times - Putting refugees to work: the greatest challenge in 2017
-      (Paywall)
+      (paywall)
     url: 'https://www.ft.com/content/fcba4b0f-1558-36b4-be77-e69e2848e275'
 milestones:
   - date: 2018-09-01 00:00:00
