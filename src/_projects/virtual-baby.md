@@ -63,7 +63,7 @@ milestones:
       the model to change assumptions as they like)
 ---
 
-This portable game is inspired by the popular 1990s game Tamagotchi. It asks children to reach the goal of raising a virtual happy baby by adopting nutrition and reproductive health actions - without depleting their own energy points. The game intends to normalize behaviors like food diversification, birth spacing, and even social-emotional learning.
+This portable game is inspired by the popular 1990s game called Tamagotchi. It asks children to reach the goal of raising a virtual happy baby by adopting nutrition and reproductive health actions - without depleting their own energy points. The game intends to normalize behaviors like food diversification, birth spacing, and even social-emotional learning.
 
 Virtual Baby is suitable even for young players, and is targeted to children between the ages of 7 and 15. Many are already caregivers of younger children, and others may soon become parents. It would create a new entry point for family planning and nutrition information to enter and benefit entire households.
 
