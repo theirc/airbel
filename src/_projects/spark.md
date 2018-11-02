@@ -11,8 +11,9 @@ geolocation:
   latitude: '3.42139'
   longitude: '399.51472'
 description: >-
-  Youth Sparks create alternative learning spaces outside of school to teach
-  literacy and social-emotional learning to their peers.
+  Spark creates alternative learning spaces outside of refugee camp schools to
+  practice play-based learning and social-emotional skills with primary school
+  children.
 hero_image:
 featured_image:
 featured_video_url:
@@ -62,8 +63,6 @@ milestones:
       experience that dramatically improves a child’s acquisition of Social and
       Emotional Learning (SEL) and literacy in their primary school years”
 ---
-
-Spark creates alternative learning spaces outside of refugee camp schools to practice play-based learning and social-emotional skills with primary school children.
 
 The Spark concept is a youth-led program to create learning spaces outside of traditional classrooms. Youth would be trained through a digital platform to teach social-emotional skills in concentrated and interactive small group sessions. These youth leaders would receive backpacks filled with materials, lessons and activities for use in the learning circles. Spark was designed to work as an extension of school, involving teachers, or to exist completely separate from it.
 
