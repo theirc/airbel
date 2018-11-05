@@ -13,9 +13,9 @@ geolocation:
   latitude: '33.749249'
   longitude: '-84.387314'
 description: >-
-  In partnership with Stanford University’s Immigration Policy Lab, Airbel is
-  scaling an innovative matching technology to support refugees and
-  asylum-seekers around the globe.
+  Airbel is piloting and scaling an innovative machine learning algorithm
+  developed by the Stanford University Immigration Policy Lab that matches
+  refugees in areas where they are likely to thrive when resettled.
 hero_image: /uploads/20170310-seattle-nhall-1078-1.jpg
 featured_image: /uploads/20170310-seattle-nhall-1078.jpg
 featured_video_url:
@@ -105,6 +105,6 @@ milestones:
 
 Moving somewhere new is challenging under the best circumstances. This is especially true for refugees, who are driven from their homes by conflict or other major threats, and often have little choice in where they end up. Caseworkers play a critical role in helping settle refugees in new places, and the International Rescue Committee has many years of experience helping to get refugees settled.
 
-The community where refugees are placed is generally dictated by need and availability. But data shows what common sense states: different people are likely to succeed in different circumstances. Enter the placement algorithm - a collaboration between Stanford and the Airbel Center. The algorithm analyzes historical data, labor market conditions, demographics, refugee preferences and other factors to suggest an ideal location for resettled refugees. This actionable information can then be used to make decisions about where to place refugees around the world.&nbsp;
+The community where refugees are placed is generally dictated by need and availability. But data shows what common sense states: different people are likely to succeed in different circumstances. Enter the placement algorithm - a collaboration between Stanford and the Airbel Center. The algorithm analyzes historical data, labor market conditions, demographics, refugee preferences and other factors to suggest an ideal location for resettled refugees. This actionable information can then be used to make decisions about where to place refugees around the world. 
 
 This algorithm is part of a larger enterprise aimed at creating a new global model for refugee resettlement. The ultimate goal is to increase the number of refugees countries take in, as well as improve the quality of resettlement programming.
