@@ -1,10 +1,16 @@
 # Site settings
 title: Airbel Center - Innovation at the IRC
-email: dev@ocupop.com
 description: 'The Airbel Center is the innovation team at the International Rescue Committee. We develop products, services, and systems to improve humanitarian response—creating lasting impact for people affected by conflict and crisis.'
+email: dev@ocupop.com
 url: "https://icy-ship.cloudvent.net"
 permalink: pretty
 # analytics_code:
+
+twitter:
+  handle: airbel
+  image: assets/img/airbel_socialshare_twitter.jpg
+facebook:
+  image: assets/img/airbel_socialshare_facebook.jpg
 
 placeholders:
   hero: https://via.placeholder.com/1800x500?text=Hero+image

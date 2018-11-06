@@ -5,10 +5,10 @@
         {% assign stage_projects = site.projects | where: "stage", stage %}
         {% for project in stage_projects %}
           {% unless project.status == 'hidden' %}
-            <div class="mix {{ project.geolocation.region | slugify }} project-focus bg-{{ project.focuses.first }} status-{{ project.status }}"
+            <a href="{{ project.url }}" class="mix {{ project.geolocation.region | slugify }} project-focus bg-{{ project.focuses.first }} status-{{ project.status }}"
                  data-toggle="tooltip"
                  data-placement="top"
-                 title="{{ project.title }}"></div>
+                 title="{{ project.title }}">{{ project.title }}</a>
           {% endunless %}
         {% endfor %}
       </div>

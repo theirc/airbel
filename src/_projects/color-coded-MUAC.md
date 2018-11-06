@@ -2,26 +2,29 @@
 layout: project
 title: Low-Literacy Malnutrition Tools
 tagline: >-
-  Empowering low-literate community health workers to treat severe acute
-  malnutrition in children under five
+  Empowering community health workers to treat severe acute malnutrition in
+  children under five
 status: graduated
 stage: Pilot
 focuses:
   - nutrition
 geolocation:
   region: South Sudan
-  latitude: 6.8770° N
-  longitude: 31.3070° E
+  latitude: '7.8626845'
+  longitude: '29.6949232'
 description: >-
-  Adapting tools for low-literate community health workers to more effectively
-  treat children suffering from or at risk of malnutrition.
-hero_image:
+  In hard-to-reach areas local community health workers are key to treating
+  malnourished children. Commonly used tools for diagnosing and treating
+  malnutrition have been adapted to meet the needs of workers who might have
+  limited ability to read, write, and count.
+hero_image: /uploads/muac-header.JPG
 featured_image: /uploads/nutrition-1-1.JPG
 featured_video_url:
 resources:
-  - title:
+  - title: Study of a simplified algorithm and tools in South Sudan
     description:
-    url:
+    url: >-
+      https://www.rescue.org/sites/default/files/document/3103/enablingtreatmentofsamincommunityfinalcompressed.pdf
 articles:
   - title:
     url:
@@ -33,6 +36,10 @@ milestones:
     description_markdown:
 ---
 
-Local community health workers are key to treating more children in hard-to-reach places, but the tools to help them diagnose and treat malnutrition are complicated, and not all community health workers can read or count. The Airbel Center redesigned a number of critical tools for low-literate community health workers to more effectively treat children suffering from or at risk of malnutrition.
+In isolated last-mile communities, such as those stricken by conflict, it can be difficult or impossible for people to access health facilities. Malnutrition of young children is often high in these circumstances. Local community health workers can provide critical care, but the tools used to diagnose and treat malnutrition are complex, and not all community health workers can read or count.
 
-We removed numbers and highlighted colors on a longitudinal middle upper arm circumference (MUAC) tape to easily monitor weekly progress and identify whether a child’s health is deteriorating or stationary. We built a treatment register with a unique identifier for each child, so that community health workers can match the correct patient card to the correct register page without needing to read the child’s name. We also created a numberless dosage scale, ensuring that community health workers and caretakers give their children the right amount of food.
+To address this challenge, the Airbel Center redesigned a number of critical tools for to make them more user-friendly, helping community health workers more effectively deliver treatment to children suffering from or at risk of malnutrition. One key tool is the longitudinal middle upper arm circumference (MUAC) tape, which identifies a child’s nutrition status. When weekly readings are taken, workers can identify whether a child’s health is stationary, improving, or deteriorating. In the new version, numbers were removed, and colors were highlighted, making the tape easier to read and reducing chances of error.
+
+![](blob:https://app.cloudcannon.com/6abe5190-533b-4642-bd5b-1ac91eede4f7)
+
+A treatment register was also created containing a unique identifier for each child, making it easier for community health workers to record their findings, matching patient cards and register pages. Finally, a numberless dosage scale helps both community health workers and caretakers identify the right amount of food to feed to children.

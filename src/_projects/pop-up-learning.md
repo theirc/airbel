@@ -8,33 +8,51 @@ focuses:
   - education
 geolocation:
   region: Bangladesh
-  latitude: 21° 34' 59.99"
-  longitude: 92° 00' 60.00"
+  latitude: '21.42723'
+  longitude: '92.00581'
 description: >-
   Pop-Up Learning is a computer-assisted learning program, aimed to mobilize
   quickly and efficiently on the onset of crisis.
-hero_image:
+hero_image: /uploads/20180909-103650-bangladesh-ldr-1.jpg
 featured_image: /uploads/20180909-103650-bangladesh-ldr.jpg
 featured_video_url:
 resources:
   - title: Pop Up Learning in Crisis
     description:
-    url: 'https://rescue.box.com/s/0bu13qxkbjcnbfldg4s7z3gy81kzkn9x'
+    url: 'https://rescue.box.com/shared/static/0bu13qxkbjcnbfldg4s7z3gy81kzkn9x.pdf'
 articles:
   - title:
     url:
 milestones:
-  - date:
-    title:
+  - date: 2018-10-01 00:00:00
+    title: Pop-Up Learning Supporter Dinner
     link:
     link_title:
-    description_markdown:
+    description_markdown: >-
+      An information session and dinner for Pop-Up Learning supporters and those
+      interested in participating in the seed investment round.
+  - date: 2018-09-01 00:00:00
+    title: Pop-Up Learning Feasibility Study in Bangladesh
+    link: >-
+      https://drive.google.com/file/d/1fN50O-zxepMc-sbkgNYEDxNYfIZO-YN9/view?usp=sharing
+    link_title:
+    description_markdown: >-
+      The feasibility study concluded that Cox’s Bazar, Bangladesh met the
+      conditions to serve as a site to prototype Pop-Up Learning.
 ---
 
-33 million children are displaced, 10.1 million of whom are primary-school aged and 39% of whom are out of school. Despite this, it often takes over a year or more until children can return to formal schooling. Education in this window is particularly important because it reduces exposure to trauma, stress, and generates positive norms around going to school.
+33 million children are displaced from their homes because of humanitarian crises. Almost 40% of those children do not have access to formal education. Between funding gaps, political challenges, and poor-to-nonexistent access to educators, it can take months or years for a child to receive adequate education. During this period in a displaced child’s life, education is critical to reducing trauma and stress, creating stability, and generating positive norms around going to school.
 
-To ensure children don’t fall behind during this critical gap, Pop-Up Learning is envisioned as computer-assisted learning, aimed to mobilize within the first 8 weeks of displacement, Pop-Up Learning includes:
+Within weeks of a crisis onset and at a low cost-per-child, Pop-Up Learning can deliver locally-relevant, tablet-based learning that fosters emotional support, literacy and numeracy for primary school-aged learners.
 
-* A computer assisted learning program with offline support and culturally-adapted content to supplement in-person learning
-* Adapted safe spaces, such as homes, for learning
-* Trained facilitators recruited from the community to lead lessons
+Pop-Up adapts to the varying needs of displaced children around the world, including different educational levels and languages.
+
+#### How it works:
+
+Pop-Up partners with community leaders to transform existing safe spaces, like homes and community centers, into temporary classrooms.  We identify, recruit, and empower community members to oversee primary school-aged children, and we provide tablets for children to use Pop-Up Learning to develop key competencies.
+
+#### First step:
+
+We will begin testing in Cox’s Bazar, Bangladesh, primarily with those displaced by the Rohingya crisis.
+
+Pop-Up aims to fill the critical educational gaps in a displaced child’s life, providing some sense of normalcy, continuity and critical foundational skills while formal education is being established. This product will make it possible to rapidly deploy learning programs in emergencies where no formal education is available and in a way that supports an eventual transition to formal schools.

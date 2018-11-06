@@ -1,37 +1,53 @@
 - name: The ELMA Relief Foundation
   logo_image: /uploads/relief_grey.png
-  link: https://www.elmaphilanthropies.org/
+  link: 'https://www.elmaphilanthropies.org/'
 - name: Starr International Foundation
-  logo_image: /uploads/Starr.png
-  link: http://starrfoundation.org/
+  logo_image:
+  link: 'http://starrfoundation.org/'
 - name: Citi Foundation
-  logo_image: /uploads/citi.png
-  link: https://www.citigroup.com/citi/foundation/
+  logo_image: /uploads/citi-foundation-gray.png
+  link: 'https://www.citigroup.com/citi/foundation/'
 - name: Intel Foundation
-  logo_image: /uploads/intel.png
-  link: https://www.intel.com/content/www/us/en/corporate-responsibility/intel-foundation.html
+  logo_image: /uploads/intel-1spot-100-gray.png
+  link: >-
+    https://www.intel.com/content/www/us/en/corporate-responsibility/intel-foundation.html
 - name: Start Network Disaster Preparedness Innovation Labs
   logo_image: /uploads/DEPP_Labs_grey.png
-  link: https://startnetwork.org/
+  link: 'https://startnetwork.org/'
 - name: Children's Investment Fund Foundation
   logo_image: /uploads/CIFF_grey.png
-  link: https://ciff.org/
+  link: 'https://ciff.org/'
 - name: Open Society Foundations
-  logo_image: /uploads/osf.png
-  link: https://www.opensocietyfoundations.org/
+  logo_image:
+  link: 'https://www.opensocietyfoundations.org/'
 - name: Innovations for Poverty Action
-  logo_image: /uploads/osf.png
-  link: https://www.poverty-action.org/
+  logo_image: /uploads/ipa-africa-gray.png
+  link: 'https://www.poverty-action.org/'
+- name: German-Jordanian Cooperation
+  logo_image: /uploads/german-jordan-coop-gray-1.png
+  link:
+- name: Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
+  logo_image: /uploads/gizlogo-unternehmen-gray.png
+  link: 'https://www.giz.de/en/html/index.html'
+- name: Kingdom of Netherlands
+  logo_image: /uploads/dutch-logo-gray-1.png
+  link:
 - name: UK Aid from the British People
   logo_image: /uploads/UK-AID-Standard-grey.png
-  link: https://www.gov.uk/government/organisations/department-for-international-development
+  link: >-
+    https://www.gov.uk/government/organisations/department-for-international-development
 - name: VOX Media
   logo_image: /uploads/Vox-media-grey.png
-  link: https://www.voxmedia.com
+  link: 'https://www.voxmedia.com'
 - name: Ubongo
   logo_image: /uploads/Ubongo_grey.png
-  link: https://www.ubongo.org/
+  link: 'https://www.ubongo.org/'
 - name: Twilio.org
-  logo_image: /uploads/twilio.png
-  link: http://twilio.org/
-
+  logo_image: /uploads/twilio-dot-org-white-gray2.png
+  link: 'http://twilio.org/'
+- name: Stanford Immigration Policy Lab
+  logo_image: /uploads/ipl-logo-transparent-gray.png
+  link: 'https://immigrationlab.org/'
+- name: World Vision
+  logo_image: /uploads/wv-logo-new-grayscale.png
+  link: 'https://www.worldvision.org/'

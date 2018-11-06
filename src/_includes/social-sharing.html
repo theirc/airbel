@@ -1,0 +1,25 @@
+{% if page.layout == 'project' %}
+  {% assign instance = page %}
+  {% assign facebook_image = page.featured_image %}
+  {% assign twitter_image = page.featured_image %}
+{% else %}
+  {% assign instance = site %}
+  {% assign facebook_image = site.facebook.image %}
+  {% assign twitter_image = site.twitter.image %}
+{% endif %}
+<meta property="og:title" content="{{ instance.title }}" />
+<meta property="og:description" content="{{ instance.description }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ instance.url | absolute_url }}" />
+<meta property="og:image" content="{{ facebook_image | absolute_url }}" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="{{ site.twitter.handle }}" />
+<meta name="twitter:creator" content="{{ site.twitter.handle }}" />
+
+<meta name="twitter:title" content="{{ instance.title }}" />
+<meta name="twitter:description" content="{{ instance.title }}" />
+<meta name="twitter:text:description" content="{{ instance.description }}" />
+
+<meta name="twitter:image" content="{{ twitter_image | absolute_url }}" />
+<meta name="twitter:image:alt" content="{{ instance.title }}" />

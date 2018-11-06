@@ -2,8 +2,8 @@
 layout: project
 title: Placement Algorithm
 tagline: >-
-  Using machine learning to predict the communities where resettled refugees are
-  most likely to thrive
+  Using machine learning to predict where resettled refugees are likely to
+  thrive
 status: active
 stage: Generate Solutions
 focuses:
@@ -13,12 +13,10 @@ geolocation:
   latitude: '33.749249'
   longitude: '-84.387314'
 description: >-
-  Developed in partnership with Stanford University’s Immigration Policy Lab,
-  the placement algorithm suggests an ideal resettlement location for refugees.
-  By being able to take in reams more data than a human alone, the algorithm can
-  aid IRC’s experienced staff to place refugees where they are most likely to
-  integrate and succeed.
-hero_image:
+  Airbel is piloting and scaling an innovative machine learning algorithm
+  developed by the Stanford University Immigration Policy Lab that matches
+  refugees in areas where they are likely to thrive when resettled.
+hero_image: /uploads/20170310-seattle-nhall-1078-1.jpg
 featured_image: /uploads/20170310-seattle-nhall-1078.jpg
 featured_video_url:
 resources:
@@ -51,17 +49,13 @@ articles:
       https://qz.com/1183013/researchers-developed-an-algorithm-to-place-refugees-where-theyre-most-likely-to-find-work/
 milestones:
   - date: 2018-06-01 00:00:00
-    title: Cross-agency partnership
+    title: Cross-agency partnership towards a pilot
     link: >-
       https://docs.google.com/document/d/18e7XsRGdek4oW_X3rXaVUwk3GalKeHA8eydL-c6CmGk/edit?usp=sharing
     link_title:
     description_markdown: >-
-      Due to lower resettlement numbers in the U.S., the IRC and Stanford’s IPL
-      decide to approach two other resettlement agencies, Lutheran Immigration
-      and Refugee Service and the United States Conference of Catholic Bishops,
-      and develop a proposal to implement the algorithm across multiple
-      agencies. Stanford begins designing the portal staff that the agencies
-      will use.
+      The IRC will work with Lutheran Immigration and Refugee Service and other
+      potential resettlement agencies to rollout a pilot of the algorithm.
   - date: 2018-03-01 00:00:00
     title: “Moonshot” pitch to a16z
     link: >-
@@ -105,6 +99,8 @@ milestones:
       institution and design thinking capabilities.
 ---
 
-Developed in partnership with Stanford University’s Immigration Policy Lab, the placement algorithm analyzes historical data, labor market conditions, demographics, refugee preferences and other factors to suggest an ideal location for resettled refugees. The data-driven process is complementary to the extensive work of case workers and to the years of resettlement experience of the International Rescue Committee.
+Moving somewhere new is challenging under the best circumstances. It’s especially difficult for refugees, who are driven from their homes by conflict or major threats. Refugee resettlement offers one of the most transformative opportunities to those affected by conflict. When refugees are resettled in the United States, resettlement agencies like the International Rescue Committee determine where to send refugees and caseworkers have played a critical role in helping refugees adapt to new places.
 
-This algorithm is part of a larger enterprise aimed at creating a new global model for refugee resettlement, with the goal of ultimately increasing the number of refugees countries take in and the quality of resettlement programming.
+The community where refugees are placed is generally dictated by need and availability. But data shows what common sense states: different people are likely to succeed in different circumstances. Enter the placement algorithm - a collaboration between Stanford and the Airbel Center that analyzes historical data on refugee demographics, local market conditions, individual preferences and outcomes to generate predictions that suggest an ideal location for resettled refugees. This actionable information can then be used to inform decisions about where to place refugees in the U.S. We ultimately aim to scale this approach to help identify where we can place refugees globally. &nbsp;
+
+This algorithm is part of a larger enterprise aimed at creating a new global model for refugee resettlement. The ultimate goal is to increase the number of refugees that countries take in, as well as improve the quality of resettlement services.

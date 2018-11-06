@@ -75,6 +75,9 @@ iframe {
   &.aspect-wide {
     padding-top: 33%;
   }
+  &.aspect-border {
+    padding-top: 5%;
+  }
   &.underlay {
     z-index: 10;
     position: relative;

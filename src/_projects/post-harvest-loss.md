@@ -2,21 +2,21 @@
 layout: project
 title: Sprout
 tagline: >-
-  Working alongside communities to prevent the root causes of severe acute
-  malnutrition in children
+  Working alongside communities to prevent the risks associated with severe
+  acute malnutrition in children
 status: active
 stage: Prototype
 focuses:
   - nutrition
 geolocation:
   region: Niger
-  latitude:
-  longitude:
+  latitude: '14.64895'
+  longitude: '2.14502'
 description: >-
   Over 16 million children under the age of 3 are afflicted by severe acute
   malnutrition. To pinpoint the most impactful prevention methods, Sprout is
   experimenting with 3 distinct approaches.
-hero_image:
+hero_image: /uploads/sprout-header.jpg
 featured_image: /uploads/dsc00457-2.jpg
 featured_video_url:
 resources:
@@ -28,10 +28,13 @@ articles:
     url: 'https://medium.com/airbel/malnutrition/home'
 milestones:
   - date: 2018-07-01 00:00:00
-    title: Kicked off prototype
+    title: 'Tillaberi, Niger. Kicked off prototype'
     link: 'https://medium.com/airbel/field-notes-cash-cash-cash-ba1029d22b74'
     link_title:
-    description_markdown: Kicked off testing the prototype in three separate villages in Niger.
+    description_markdown: >-
+      Kicked off community consultation with village leaders, district health
+      officials, local nutrition and agriculture specialists, and women to
+      fine-tune the design of the prototype.
   - date: 2018-06-01 00:00:00
     title: Sprout 2.0 Begins
     link: >-
@@ -51,7 +54,7 @@ milestones:
       * Spent time with caregivers in remote villages in western Tanzania to
       understand:
         * How they are affected by post-harvest loss?
-        * What advice to they have for raising healthy children?
+        * What advice do they have for raising healthy children?
         * What actions would they like to be able to take and what would they need to do it?
       * Consulted providers in SAM-affected areas to understand the local
       drivers of SAM
@@ -90,6 +93,6 @@ Current malnutrition prevention efforts range from breastfeeding exclusively to 
 
 To pinpoint the most impactful methods, Sprout is experimenting with 3 distinct approaches:
 
-1. **Positive Practices:** Identifying and promoting existing practices in communities, like hand washing and diversifying the foods children eat, that are associated with SAM prevention, and then introducing new ones to fill gaps and provide households with options.
-2. **Post-Harvest Loss:** Offering an alternative to current storage practices that better protects against losses of crops from rodents, insects, and fungus; and may generate revenue.
-3. **Cash:** Providing unconditional cash to pregnant women and caregivers of children under 3 years to facilitate the uptake of new behaviors, like eating (rather than selling) eggs or buying soap. As well as, coupling cash transfers with behaviorally-informed messages around caregiver identities and/or motivations.
+1. **Positive Practices:** Identifying and promoting existing practices in communities, like hand washing and diversifying the foods children eat, that are associated with SAM prevention, and then introducing choices for additional, relevant practices that women can decide to adopt. Supporting women in changing their ability, motivation, and opportunity to adopt or intensify positive practices.
+2. **Post-Harvest Loss:** Offering an alternative service to current storage practices that better protects against losses of crops from rodents, insects, and fungus; and may offset the cost of operations.
+3. **Cash:** Providing modest quantifies of unconditional cash to pregnant women and caregivers of children under 3 years to prompt the uptake of new behaviors, like eating (rather than selling) eggs or buying soap.

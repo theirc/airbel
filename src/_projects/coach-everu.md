@@ -9,13 +9,13 @@ stage: Pilot
 focuses:
   - education
 geolocation:
-  region:
-  latitude:
-  longitude:
+  region: Tanzania
+  latitude: '3.42139'
+  longitude: '399.51472'
 description: >-
-  Coach Erevu aims to build the SEL skills of teachers through weekly video
-  clubs, timely habit triggers, and bite-sized localized teaching materials. Our
-  solution can be implemented as separate components or one holistic approach.
+  Coach Erevu is a digital coaching program that aims to build the social
+  emotional skills of teachers through weekly peer-to-peer video clubs, timely
+  habit triggers, and bite-sized teaching materials
 hero_image: /uploads/dscf1201-1.jpg
 featured_image: /uploads/dscf1201.jpg
 featured_video_url: 'https://youtu.be/-2R3tuNr47g'
@@ -46,13 +46,13 @@ milestones:
     link_title:
     description_markdown:
   - date: 2018-05-01 00:00:00
-    title: >-
-      Mtendeli, Tanzania. Refinement of teacher design: introduction of "Coach
-      Erevu" concept
+    title: 'Mtendeli, Tanzania. Refinement of teacher design.'
     link: >-
       https://docs.google.com/presentation/d/1xLokm7pqGOrFEiV3GJvJNm25hvHCg4whaFhMJa0mx6g/edit?usp=sharing
     link_title:
-    description_markdown: (Formerly Hekima)
+    description_markdown: >-
+      Concept name pivots from *Hekima* to *Coach Erevu* to reflect the pivot in
+      programming.*&nbsp;*
   - date: 2018-02-01 00:00:00
     title: 'Second round of prototyping with teachers in Mtendeli, Tanzania'
     link: >-
@@ -65,12 +65,6 @@ milestones:
       https://medium.com/airbel/how-habits-work-and-can-work-for-our-work-with-refugees-d5a1f4adc661
     link_title:
     description_markdown:
-  - date: 2017-11-01 00:00:00
-    title: Second round of prototyping with caregivers
-    link:
-    link_title: >-
-      https://docs.google.com/presentation/d/15IPOI_Z_yOiThBoIWomxNAHCPihMcZQBU4Yqkwvur9I/edit?usp=sharing
-    description_markdown: Caregiver video club in churches & schools design sprint
   - date: 2017-09-01 00:00:00
     title: Prototyping sprint in Tanzania
     link: >-
@@ -95,9 +89,7 @@ milestones:
       Tanzania
     link:
     link_title:
-    description_markdown: >-
-      We learn that delivering SMS curriculum and training won’t work; must
-      pivot to new approach
+    description_markdown:
   - date: 2017-06-01 00:00:00
     title: Finalized product requirements and project plan
     link: >-
@@ -118,7 +110,7 @@ milestones:
       The team conducts field research and generates sacrificial concepts for
       discussion.
   - date: 2016-03-01 00:00:00
-    title: “Project Dandelion” begins
+    title: Project begins
     link:
     link_title:
     description_markdown: >-
@@ -135,6 +127,6 @@ Social-emotional learning, or “SEL”, can help children develop the skills ne
 
 #### How does it work?
 
-* Training and coaching sessions occur during 1-hour weekly video clubs.
-* Refugee teachers implement what they learned in their classroom during daily designated ‘SEL time.’
-* Teachers are rewarded and supported with localized SEL cards that signal they are trained SEL teachers and can be used as teaching aids in the classroom.
+* Coaching sessions and peer-to-peer learning occur during 1-hour weekly video clubs.
+* Refugee teachers implement what they learned in their classroom during daily designated ‘SEL time,’ marked by a school bell.
+* Teachers are rewarded and supported with localized SEL cards that signal they are skilled SEL teachers and can be used as teaching aids in the classroom.

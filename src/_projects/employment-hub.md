@@ -8,13 +8,13 @@ focuses:
   - employment
 geolocation:
   region: Amman
-  latitude: 31.9454° N
-  longitude: 35.9284° E
+  latitude: '31.94537'
+  longitude: '35.92837'
 description: >-
   Working to counter the high rates of unemployment that follow mass
-  displacement, the Employment Hub in Jordan is testing a set of new innovations
-  for matching employers and job seekers.
-hero_image:
+  displacement, the Match in Jordan is testing a set of new innovations for
+  placing vulnerable populations and refugees in jobs.
+hero_image: /uploads/hero-match-1.jpg
 featured_image: /uploads/dscf7917-01.jpg
 featured_video_url:
 resources:
@@ -26,12 +26,26 @@ resources:
       https://www.rescue.org/sites/default/files/document/1527/irc-syrianrefugeeemployment-72dpi-041117.pdf
 articles:
   - title: >-
-      Financial Times (paywall) - Putting refugees to work: the greatest
-      challenge in 2017
+      Financial Times - Putting refugees to work: the greatest challenge in 2017
+      (paywall)
     url: 'https://www.ft.com/content/fcba4b0f-1558-36b4-be77-e69e2848e275'
 milestones:
+  - date: 2018-09-01 00:00:00
+    title: 'Complete prototyping of behavioral interventions, begin piloting'
+    link:
+    link_title:
+    description_markdown:
+  - date: 2018-08-01 00:00:00
+    title: >-
+      Complete basic framework of matching algorithm and prototypes of
+      behavioral nudges
+    link:
+    link_title:
+    description_markdown:
   - date: 2018-07-01 00:00:00
-    title: Complete MVP of matching algorithm and prototypes of behavioral nudges
+    title: >-
+      Begin delivery of cash support packages to assist beneficiaries with the
+      job search
     link:
     link_title:
     description_markdown:
@@ -50,9 +64,13 @@ milestones:
     link_title:
     description_markdown:
   - date: 2018-03-01 00:00:00
+    title: 'Establish offices in Irbid, Jordan'
+    link:
+    link_title:
+    description_markdown: Engage team of mobile employment service officers.
+  - date: 2018-03-01 00:00:00
     title: Draft initial research plan
-    link: >-
-      https://docs.google.com/document/d/1hF1dobZLxLROXIxNvyiWT5vDDZuFSgkP3d7ZewBNqHM/edit?usp=sharing
+    link:
     link_title:
     description_markdown:
   - date: 2018-01-01 00:00:00
@@ -110,11 +128,11 @@ milestones:
       regarding refugee employment in partnership with McKinsey and Company
 ---
 
-When mass displacement leads to mass unemployment, both refugees and vulnerable host populations are affected.  Getting refugees into work, and growing the labor market, requires both innovative policy and innovative ideas. In 2016, the Government of Jordan and the international community forged the Jordan Compact, which aims to provide 200,000 employment opportunities to refugees. One part of the Compact is a set of incentives for employers to hire refugees. To support the Compact and inform the response to future crises, IRC’s Employment Hub in Jordan is testing a set of new innovations for matching employers and job seekers.
+When mass displacement leads to mass unemployment, both refugees and vulnerable host populations are affected. &nbsp;Getting refugees into work, and growing the labor market, requires both innovative policy and innovative ideas. In 2016, the Government of Jordan and the international community forged the Jordan Compact, which aims to provide 200,000 employment opportunities to Syrian refugees. One part of the Compact is a set of incentives for employers to hire refugees. To support the Compact and inform the response to future crises, Project Match in Jordan is testing a set of new innovations for matching employers and job seekers.
 
-The Employment Hub consists of two core activities:
+Match consists of two core activities:
 
 1. ###### A mobile network of entrepreneurial employment service officers
-2. ###### An algorithm that enables the IRC to optimally match jobs and job-seekers
+2. ###### An algorithm that enables the IRC to optimally match jobs and job seekers
 
-These core services are supported by a set of complementary and experimental activities, including behavioral nudges, and childcare and transport support, aimed at mitigating the constraints refugees face in accessing and retaining employment.
+These core services are supported by a set of complementary and experimental activities, including behavioral nudges (such as sharing testimonials and providing job search planning tools), and financial support aimed at mitigating the material constraints refugees face in accessing and retaining employment.
