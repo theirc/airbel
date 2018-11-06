@@ -40,13 +40,11 @@ milestones:
       The team refines messaging and begins preparation for an RCT launch in the
       fall.
   - date: 2017-09-01 00:00:00
-    title: 'Monrovia, Liberia. Pilot 30-day Challenge'
+    title: 'Monrovia, Liberia. 30-day Challenge pilot'
     link: >-
       https://docs.google.com/presentation/d/1-MNZ7eMVQdIasGidpR9Lmr-oGAzB9QsqoE8paqWmt6A/edit?usp=sharing
     link_title:
-    description_markdown: >-
-      Airbel and IPA Liberia pilot Modern Man with 116 men in Monrovia to test
-      feasibility and acceptability of concept.
+    description_markdown: Airbel and IPA Liberia pilot Modern Man with 116 men in Monrovia.
   - date: 2017-06-01 00:00:00
     title: Liberia. Prototype Modern Man messaging.
     link: >-
