@@ -19,7 +19,7 @@ featured_video_url:
 resources:
   - title: Pop Up Learning in Crisis
     description:
-    url: 'https://rescue.box.com/shared/static/0bu13qxkbjcnbfldg4s7z3gy81kzkn9x.pdf'
+    url: 'https://rescue.box.com/s/vrdim51urc2w7pqwl6hhq7d43hd6awjy'
 articles:
   - title:
     url:
