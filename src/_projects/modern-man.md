@@ -31,37 +31,42 @@ milestones:
     title: 'Monrovia, Liberia. Airbel and IPA Liberia launch impact evaluation'
     link:
     link_title:
-    description_markdown: To be conducted with 600 men
+    description_markdown: The impact evaluation will be conducted with 600 men.
   - date: 2018-02-01 00:00:00
     title: Airbel and IPA receive funding to conduct impact evaluation
     link:
     link_title:
-    description_markdown: The team refines messaging and begins prep for RCT launch
+    description_markdown: >-
+      The team refines messaging and begins preparation for an RCT launch in the
+      fall.
   - date: 2017-09-01 00:00:00
-    title: 'Monrovia, Liberia. Pilot 30-day Challenge'
+    title: 'Monrovia, Liberia. 30-day Challenge pilot'
     link: >-
       https://docs.google.com/presentation/d/1-MNZ7eMVQdIasGidpR9Lmr-oGAzB9QsqoE8paqWmt6A/edit?usp=sharing
     link_title:
-    description_markdown: >-
-      Airbel and IPA Liberia pilot with 116 men in Monrovia to test feasibility
-      and acceptability of concept
+    description_markdown: Airbel and IPA Liberia pilot Modern Man with 116 men in Monrovia.
   - date: 2017-06-01 00:00:00
-    title: Liberia. Prototype quiz in bars and coffeeshops
+    title: Liberia. Prototype Modern Man messaging.
     link: >-
       https://medium.com/airbel/harnessing-the-telecommunication-boom-to-reduce-partner-violence-bb5343c50964
     link_title:
     description_markdown: >-
-      Airbel and IPA Liberia prototype the Modern Man quiz to test messaging
-      with men.
+      Airbel and IPA Liberia prototype the Modern Man quiz in bars and coffee
+      shops to test whether the overall messaging engages men. Men who take this
+      quiz are also eligible to opt into the 30-day Challenge.
   - date: 2017-05-01 00:00:00
     title: Developed messaging for the 30-day Modern Man Challenge
     link:
     link_title:
-    description_markdown: Airbel partners with the Behavioral Insights Team to develop messaging
+    description_markdown: >-
+      Airbel partners with the Behavioral Insights Team to develop SMS messages
+      that will be sent throughout the 30-day challenge. Designed to be both fun
+      and thought-provoking, these messages cover sexual consent, anger
+      management, financial planning, and household responsibilities.
 ---
 
 Humanitarian disasters leave affected populations with severe post-conflict trauma resulting in mental health issues, high rates of poverty and reinforced gender inequality. Under these circumstances, Intimate Partner Violence becomes systemic and pervasive.
 
 Harnessing the power of communication technology like SMS and WhatsApp, Modern Man provides bite-size, engaging content that challenges harmful gender norms that have been shown to lead to violence. It prompts men to practice behaviorally-informed skills that increase communication, understanding and importance of sexual consent, shared decision making and emotional regulation. Modern Man presents multiple identities that participants can relate to, each aligning to one or more of the skills mentioned and emphasizes the importance of respectful and healthy relationships.
 
-*In partnership with Innovations for Poverty Action*
+*Modern Man is done partnership with Innovations for Poverty Action.*
