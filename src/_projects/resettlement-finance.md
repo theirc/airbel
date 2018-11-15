@@ -20,9 +20,14 @@ hero_image: /uploads/hero-resettle-finance.jpg
 featured_image: /uploads/180704-naturalizationmonticello-aoberstadt-071.jpg
 featured_video_url:
 resources:
-  - title:
+  - title: 'Concept Note: Refugee Resettlement Financing Facility'
     description:
-    url:
+    url: 'https://rescue.box.com/s/wybvsq197c2woo3e6kk7r5gqoeusgk7i'
+  - title: >-
+      Building the Future of Global Refugee Resettlement: Overview of Financial
+      Facility
+    description:
+    url: 'https://rescue.box.com/s/4xbulxexla77cokh61exgg3ujsjni230'
 articles:
   - title:
     url:
@@ -42,4 +47,4 @@ Costs of resettlement, as well as the returns it generates, vary by country. On 
 
 Launching a financial facility that increases refugee resettlement holds huge promises. It will not only provide tens of thousands of refugees life-changing opportunities, but it has the potential to fundamentally reimagine and restructure how we finance the current displacement crisis
 
-Resettlement Finance is part of a larger enterprise to revolutionize refugee resettlement, by harnessing private capital, data and volunteers to change the calculus for host countries in determining whether they resettle—and enable many more refugees to start a new life in a welcoming country. Other components include the&nbsp;[Placement Algorithm](/projects/placement-algorithm/), which uses machine learning to find the best place for a refugee to settle, as well as a digital co-sponsorship platform, that mobilizes sponsors to welcome refugees as they arrive. Together, these various components aim to positively change the experience for refugees and host countries. Ultimately, this more sustainable model could increase the volume of refugees resettled globally.&shy;
+Resettlement Finance is part of a larger enterprise to revolutionize refugee resettlement, by harnessing private capital, data and volunteers to change the calculus for host countries in determining whether they resettle—and enable many more refugees to start a new life in a welcoming country. Other components include the [Placement Algorithm](/projects/placement-algorithm/), which uses machine learning to find the best place for a refugee to settle, as well as a digital co-sponsorship platform, that mobilizes sponsors to welcome refugees as they arrive. Together, these various components aim to positively change the experience for refugees and host countries. Ultimately, this more sustainable model could increase the volume of refugees resettled globally.­
