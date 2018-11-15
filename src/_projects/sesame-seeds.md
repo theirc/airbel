@@ -21,8 +21,23 @@ resources:
     description:
     url:
 articles:
-  - title:
-    url:
+  - title: 'With $100 Million Grant, Sesame Workshop Reaches out to Refugee Kids'
+    url: >-
+      https://www.npr.org/sections/goatsandsoda/2017/12/29/574532231/with-100-million-grant-sesame-workshop-reaches-out-to-refugee-kids
+  - title: Chicago Foundation Awards $100M to Syrian Children's Program
+    url: >-
+      https://www.npr.org/sections/goatsandsoda/2017/12/29/574532231/with-100-million-grant-sesame-workshop-reaches-out-to-refugee-kids
+  - title: MacArthur Grant Will Create 'Sesame Street' for Syrian Refugees
+    url: >-
+      https://www.nytimes.com/2017/12/21/world/middleeast/macarthur-sesame-street-refugees.html?_r=0
+  - title: Sesame Street Visits Children in Jordan Refugee Camp
+    url: >-
+      https://abcnews.go.com/Nightline/video/sesame-street-visits-children-jordan-refugee-camp-49412067
+  - title: When Elmo and Big Bird Talk to Refugees
+    url: >-
+      https://www.npr.org/sections/ed/2017/05/05/526775562/when-elmo-and-big-bird-talk-to-refugees
+  - title: The Smart Way ' Sesame Street' is Tackling the Refugee Crisis
+    url: 'https://www.glamour.com/story/sesame-street-refugee-crisis'
 milestones:
   - date: 2018-01-01 00:00:00
     title: Joint project team established.
@@ -37,7 +52,7 @@ milestones:
   - date: 2017-09-01 00:00:00
     title: Named as finalists  in MacArthur Foundation 100&Change Grant Competition
     link: >-
-      http://www.sesameworkshop.org/press-releases/sesame-workshop-and-international-rescue-committee-named-as-finalist-in-global-competition-for-100-million-grant/ 
+      http://www.sesameworkshop.org/press-releases/sesame-workshop-and-international-rescue-committee-named-as-finalist-in-global-competition-for-100-million-grant/
     link_title: Resource
     description_markdown:
   - date: 2017-04-01 00:00:00
