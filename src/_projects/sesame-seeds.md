@@ -3,7 +3,7 @@ layout: project
 title: Sesame Seeds
 tagline: Teaching the world’s most vulnerable children
 status: graduated
-stage: Prototype
+stage: Pilot
 focuses:
   - education
 geolocation:
