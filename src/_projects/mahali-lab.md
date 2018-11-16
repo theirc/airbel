@@ -3,7 +3,7 @@ layout: project
 title: Mahali Lab
 tagline: 'A community-driven innovation lab in Amman, Jordan'
 status: hidden
-stage:
+stage: Generate Solutions
 focuses:
   - other
 geolocation:
@@ -32,7 +32,7 @@ While the international community and the government of Jordan have focused sign
 
 * **Three participatory design challenges:** The IRC is launching a series of “design challenges” that engages the public to propose potential solutions to long-term problems faced by vulnerable communities throughout Jordan. The theme of each challenge is determined through consultation with Syrian refugees, leaders within host communities, and community-based organizations. Within each challenge, participants from many backgrounds have the opportunity to share ideas, insights, and solutions.
 * **An intensive experience for entrepreneurial teams:** A community review board will select a small number of teams to receive specialized support to fully develop their solutions. The IRC provides a co-working space, financial support, and access to mentors and experts, such as analysts and human-centered designers.
-* **The IRC will invest in and support the most promising projects:** The IRC&nbsp; provides the most promising solutions with funding and support to implement, validate, and plan for scale.
+* **The IRC will invest in and support the most promising projects:** The IRC  provides the most promising solutions with funding and support to implement, validate, and plan for scale.
 
 #### What kind of problems does the Mahali Lab address?
 
