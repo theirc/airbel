@@ -8,7 +8,7 @@ focuses:
   - other
 geolocation:
   region:
-  latitude:
+  latitude: '31.94537'
   longitude:
 description:
 hero_image:
