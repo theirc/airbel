@@ -12,8 +12,8 @@ geolocation:
   longitude: '35.92837'
 description: >-
   Working to counter the high rates of unemployment that follow mass
-  displacement, the Match in Jordan is testing a set of new innovations for
-  placing vulnerable populations and refugees in jobs.
+  displacement, the Match project in Jordan is testing a set of new innovations
+  for placing vulnerable populations and refugees in jobs.
 hero_image: /uploads/hero-match-1.jpg
 featured_image: /uploads/dscf7917-01.jpg
 featured_video_url:
