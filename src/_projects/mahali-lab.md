@@ -5,6 +5,7 @@ tagline: 'A community-driven innovation lab in Amman, Jordan'
 status: hidden
 stage:
 focuses:
+  - other
 geolocation:
   region:
   latitude:
