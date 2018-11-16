@@ -13,9 +13,9 @@ geolocation:
 description: >-
   In this historic effort, IRC and Sesame Workshop help children whose lives
   have been uprooted by the Syrian war to build brighter futures.
-hero_image:
-featured_image:
-featured_video_url:
+hero_image: /uploads/hero-sesame.jpg
+featured_image: /uploads/irc-muppets-2.jpg
+featured_video_url: 'https://www.youtube.com/watch?v=yy7z8PUxNDY'
 resources:
   - title:
     description:
