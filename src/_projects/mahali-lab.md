@@ -7,9 +7,9 @@ stage:
 focuses:
   - other
 geolocation:
-  region:
+  region: Jordan
   latitude: '31.94537'
-  longitude:
+  longitude: '35.92837'
 description:
 hero_image:
 featured_image:
