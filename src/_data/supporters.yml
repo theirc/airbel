@@ -17,9 +17,6 @@
 - name: Start Network Disaster Preparedness Innovation Labs
   logo_image: /uploads/DEPP_Labs_grey.png
   link: 'https://startnetwork.org/'
-- name: Children's Investment Fund Foundation
-  logo_image: /uploads/CIFF_grey.png
-  link: 'https://ciff.org/'
 - name: Open Society Foundations
   logo_image:
   link: 'https://www.opensocietyfoundations.org/'
@@ -36,6 +33,9 @@
   logo_image: /uploads/UK-AID-Standard-grey.png
   link: >-
     https://www.gov.uk/government/organisations/department-for-international-development
+- name: Children's Investment Fund Foundation
+  logo_image: /uploads/CIFF_grey.png
+  link: 'https://ciff.org/'
 - name: Innovations for Poverty Action
   logo_image: /uploads/ipa-africa-gray.png
   link: 'https://www.poverty-action.org/'
