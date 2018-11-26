@@ -11,6 +11,9 @@
   logo_image: /uploads/intel-1spot-100-gray.png
   link: >-
     https://www.intel.com/content/www/us/en/corporate-responsibility/intel-foundation.html
+- name: Open Society Foundation
+  logo_image: /uploads/open-society-foundations-logo-2017-12-18-3000x1526.png
+  link: 'https://www.opensocietyfoundations.org/'
 - name: Start Network Disaster Preparedness Innovation Labs
   logo_image: /uploads/DEPP_Labs_grey.png
   link: 'https://startnetwork.org/'
@@ -20,9 +23,6 @@
 - name: Open Society Foundations
   logo_image:
   link: 'https://www.opensocietyfoundations.org/'
-- name: Innovations for Poverty Action
-  logo_image: /uploads/ipa-africa-gray.png
-  link: 'https://www.poverty-action.org/'
 - name: German-Jordanian Cooperation
   logo_image: /uploads/german-jordan-coop-gray-1.png
   link:
@@ -36,6 +36,9 @@
   logo_image: /uploads/UK-AID-Standard-grey.png
   link: >-
     https://www.gov.uk/government/organisations/department-for-international-development
+- name: Innovations for Poverty Action
+  logo_image: /uploads/ipa-africa-gray.png
+  link: 'https://www.poverty-action.org/'
 - name: VOX Media
   logo_image: /uploads/Vox-media-grey.png
   link: 'https://www.voxmedia.com'
