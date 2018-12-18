@@ -4,7 +4,7 @@
 The Airbel Playbook answers key questions about who Airbel is, what we do, how we do it, and why. 
 It's divided into four main sections, with introduction
 
-|*Section*    |*Title*                    |*Content*                      |
+|Section    |Title                   |Content                      |
 |Section 1    |Manifesto                  |Mission, vision, and culture |
 |Section 2    |Deciding what to work on   |Coming up with ideas, proposing projects, evaluating ideas, and investment decisions |
 |Section 3    |Our projects               |Steps and tools for designing and testing ideas, checking in, course corrections, investment decisions, defining success, outside expertise, and scale|
@@ -51,10 +51,11 @@ Investments are made via two routes: the R&D fund and through regular investment
 #Section 3: Our projects
 
 ##What are the steps we take to design and test ideas, products, or projects?
-Airbel has a comprehensive set of ____ available for designers who are working on Airbel projects. This includes both step-by-step type content as well as ca comprehensive set of example tools and processes which can be used.
-These are available 
+As your project moves through the pipeline, project leads and designers are likely to require 
+This includes both step-by-step overviews of what steps to take when, as well as a comprehensive set of example tools and processes which can be used.
 
 ##How do we check in on projects to make course corrections?
+Each month, operational check-in is held to 
 
 ##How do we decide whether to continue investing in projects and what their next steps should be?
 
