@@ -71,6 +71,29 @@ The governance approach dictates that review meetings be held on a quarterly bas
 ##What measurements do we use to define success?
 
 ##How does Airbel bring in outside expertise?
+The Airbel Advisory Network provides intellectual and strategic guidance to Airbel with the objective of improving the quality, rigor and imagination of the Airbel portfolio. The Network serves to ensure that all of our projects are set up to successfully scale beyond their current scopes through private sector exits, government policy or other avenues.
+
+The Network will be composed of researchers, innovators, private sector leaders, practitioners and policy-makers and will serve as an intellectually engaging space to shape the innovations launched, implemented and scaled at Airbel.
+
+You can find more details on the Advisory Network in the [Airbel Portfolio Governance Overview Document](https://docs.google.com/document/d/1yFEU7u67W0CZdzrsoZXGnfT8qUjsfvzlFrFvjzFWKuQ/edit?usp=sharing)
 
 ##How do we scale projects?
 Forthcoming
+
+#Section 4: The Department
+##How do we evaluate our work and ensure we're generating impact?
+
+##How are we structured?
+
+##What is the Airbel Board?
+
+##How does Airbel ensure diversity and inclusion?
+
+##How does Airbel manage human resources?
+
+#Key resources
+##Airbel project portfolio
+
+#Glossary
+##Key definitions
+###Stage Gate
