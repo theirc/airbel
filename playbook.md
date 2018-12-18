@@ -1,5 +1,4 @@
 # Introduction
-Ciao
 
 ## What is this document?
 The Airbel Playbook answers key questions about who Airbel is, what we do, how we do it, and why. 
