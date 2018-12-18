@@ -4,11 +4,12 @@
 The Airbel Playbook answers key questions about who Airbel is, what we do, how we do it, and why. 
 It's divided into four main sections, with introduction
 
-|Section    |Title                   |Content                      |
-|Section 1    |Manifesto                  |Mission, vision, and culture |
-|Section 2    |Deciding what to work on   |Coming up with ideas, proposing projects, evaluating ideas, and investment decisions |
-|Section 3    |Our projects               |Steps and tools for designing and testing ideas, checking in, course corrections, investment decisions, defining success, outside expertise, and scale|
-|Section 4    |The department             |Governance, structure, inclusion, and human resources  |
+|Section      |Title                        |Content                      |
+|-------------|---------------------------  |-----------------------------|
+|Section 1    |Manifesto                    |Mission, vision, and culture |
+|Section 2    |Deciding what to work on     |Coming up with ideas, proposing projects, evaluating ideas, and investment decisions |
+|Section 3    |Our projects                 |Tools for designing and testing ideas, checking in, course corrections, investment decisions, defining success, outside expertise, and scale|
+|Section 4    |The department               |Governance, structure, inclusion, and human resources    |
 |Key Resources|
 |Glossary     |
 
