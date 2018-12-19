@@ -98,7 +98,7 @@ Airbel has assembled a working group on diversity and inclusion and has begun di
 Airbel human resources are managed in accordance with [IRC policies and structures](https://rescuenet.rescue.org/interact/Pages/Section/Default.aspx?Section=3112). Additional guidance is forthcoming.
 
 #Key resources
-##[Airbel project portfolio](https://airbel.rescue.org/)
+###[Airbel project portfolio](https://airbel.rescue.org/)
 
 #Glossary
 ##Key definitions
