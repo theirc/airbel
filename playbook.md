@@ -69,6 +69,7 @@ The governance approach dictates that review meetings be held on a quarterly bas
 
 
 ##What measurements do we use to define success?
+The Airbel Department measures success with a [set of Key Progress Indicators (KPI)](https://docs.google.com/spreadsheets/d/12vldapYqg0zU5vVI8fXzuohJJrLFgVQAGJfgadG7l1w/edit?usp=sharing), which cover the innovation process, operational excellence, and the impact of our work.
 
 ##How does Airbel bring in outside expertise?
 The Airbel Advisory Network provides intellectual and strategic guidance to Airbel with the objective of improving the quality, rigor and imagination of the Airbel portfolio. The Network serves to ensure that all of our projects are set up to successfully scale beyond their current scopes through private sector exits, government policy or other avenues.
@@ -78,22 +79,32 @@ The Network will be composed of researchers, innovators, private sector leaders,
 You can find more details on the Advisory Network in the [Airbel Portfolio Governance Overview Document](https://docs.google.com/document/d/1yFEU7u67W0CZdzrsoZXGnfT8qUjsfvzlFrFvjzFWKuQ/edit?usp=sharing)
 
 ##How do we scale projects?
-Forthcoming
+Guidance on scale is forthcoming
 
 #Section 4: The Department
 ##How do we evaluate our work and ensure we're generating impact?
+On a regular basis, projects are evaluated through the [quarterly review process](https://docs.google.com/document/d/1yFEU7u67W0CZdzrsoZXGnfT8qUjsfvzlFrFvjzFWKuQ/edit?usp=sharing). Through the quarterly review process, the Senior Management Team takes the opportunity to reflect on accomplishments and challenges from the past quarter, provide an overview of the portfolio and deparmtne, and update on finances and fundraising. You can view an [example from Q1 of FY19 here](https://docs.google.com/presentation/d/153CF4_Vs8bA6E3_ppcKfUIQ1mgn-WhEXuw3f1r9Y-rw/edit?usp=sharing).
 
 ##How are we structured?
+You can learn more about this in the [Airbel structure document](https://docs.google.com/document/d/1rB6g8pesuEVyoeTMX6xFz-KlgJ2RT6gBb5D8NgbNwkw/edit?usp=sharing), which outlines the org chart, roles and responsibilities of the Senior Management Team, 
 
 ##What is the Airbel Board?
+The Airbel Board provides key support and oversight. Additional details on the makeup of the board and its functions are forthcoming.
 
 ##How does Airbel ensure diversity and inclusion?
+Airbel has assembled a working group on diversity and inclusion and has begun discussing the way forward for this area of work. Additional details are forthcoming.
 
 ##How does Airbel manage human resources?
+Airbel human resources are managed in accordance with [IRC policies and structures](https://rescuenet.rescue.org/interact/Pages/Section/Default.aspx?Section=3112). Additional guidance is forthcoming.
 
 #Key resources
-##Airbel project portfolio
+##[Airbel project portfolio](https://airbel.rescue.org/)
 
 #Glossary
 ##Key definitions
+###Breakthrough
+###Prototype
+###Pilot
+###Innovation
+###Scale
 ###Stage Gate
