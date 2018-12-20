@@ -35,6 +35,7 @@ The [Airbel Vision](https://docs.google.com/document/d/1d7xDSNa0Upd4POtqe0jbm8Yo
 The Airbel culture is one which values going beyond our comfort zone, with taking the time to fully consider ideas and to allow ourselves to exhibit childlike curiosity while also implementing with a focus on results. Our [Draft Values Document](https://docs.google.com/document/d/1PWWglC37-lbuCS0BQARFECUotCHCDt8gtY7XSILIPQk/edit?usp=sharing) describes our values in detail. 
 
 They are:
+
 * Going one step beyond the comfort zone
 
 * Generosity
@@ -60,8 +61,11 @@ Currently, requests for resources can be made through the Airbel Investment Requ
 Airbel has a portfolio governance approach which focuses on transparency and accountability, diversified risk, vision & scale, flexibility with clear outcomes, and strategic prioritizagtion.
 
 The three main components of our governance approach are: 
+
 1. The Quarterly Review Process
+
 2. Stage Gages
+
 3. Advisory Network
 
 These three components are outlined in full in the [Airbel Portfolio Governance Overview Document](https://docs.google.com/document/d/1yFEU7u67W0CZdzrsoZXGnfT8qUjsfvzlFrFvjzFWKuQ/edit?usp=sharing)
@@ -71,18 +75,20 @@ You can read the [full governance document here](https://docs.google.com/documen
 #Section 3: Our projects
 
 ##What are the steps we take to design and test ideas, products, or projects?
-As your project moves through the pipeline, project leads and designers are likely to require 
+As your project moves through the pipeline, project leads and designers are likely to require a broad range of tools and techniques to 
+
 This includes both [step-by-step overviews](https://docs.google.com/presentation/d/1rojab1AS6THP5oFZn_a56A7ljDX_-Fjxx5oBWFXezp4/edit?usp=sharing) of what steps to take when, as well as a comprehensive set of [examples of tools and processes](https://docs.google.com/presentation/d/1jxuNb-JvZzSWOccpVDrTH99jXuv5nMS9NkB5CB9EmX8/edit?usp=sharing) which can be used.
 
 ##How do we check in on projects to make course corrections?
 Each month, an [operational check-in](https://docs.google.com/presentation/d/1mnzrU9iaOFl6uEqy82MQsOW-B989k-vmvYv1KE9xZTY/edit?usp=sharing) is held to get a good picture of pipeline health. 
 
 ##How do we decide whether to continue projects?
-The governance approach dictates that review meetings be held on a quarterly basis, while stage gate meetings will take base on an ad hoc basis. These meetings are a space to make decisions around next steps for each investment.
-
+Strategic reviews are held of the full portfolio and department on a quarterly basis, which provides the opportunity for regular decision-making on how to pursue or move forward on different opportunities. Formal decision-making around next steps for projects takes place during stage gate meetings which are scheduled based upon the project's progress. More details are available in the [governance document.](https://docs.google.com/document/d/1yFEU7u67W0CZdzrsoZXGnfT8qUjsfvzlFrFvjzFWKuQ/edit?usp=sharing)
 
 ##What measurements do we use to define success?
 The Airbel Department measures success with a [set of Key Progress Indicators (KPI)](https://docs.google.com/spreadsheets/d/12vldapYqg0zU5vVI8fXzuohJJrLFgVQAGJfgadG7l1w/edit?usp=sharing), which cover the innovation process, operational excellence, and the impact of our work.
+
+Specific indicators exist for the different projects in our portfolio.
 
 ##How does Airbel bring in outside expertise?
 The Airbel Advisory Network provides intellectual and strategic guidance to Airbel with the objective of improving the quality, rigor and imagination of the Airbel portfolio. The Network serves to ensure that all of our projects are set up to successfully scale beyond their current scopes through private sector exits, government policy or other avenues.
