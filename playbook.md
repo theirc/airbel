@@ -32,29 +32,41 @@ The [Airbel Vision](https://docs.google.com/document/d/1d7xDSNa0Upd4POtqe0jbm8Yo
 ![Design, Test, Scale Life-Changing Solutions](https://github.com/theirc/airbel/blob/master/Vision%20graphic.png)
 
 ##What is the Airbel culture? What do we value?
-The Airbel culture is one which values going beyond our comfort zone, with taking the time to fully consider ideas and to allow ourselves to exhibit childlike curiosity while also implementing with a focus on results. Our [Draft Values Document](https://docs.google.com/document/d/1PWWglC37-lbuCS0BQARFECUotCHCDt8gtY7XSILIPQk/edit?usp=sharing) describes our values in detail. These are:
-- One step beyond the comfort zone
-- Respect and generosity
-- Results-driven
-- Optimism
-- Curiosity
+The Airbel culture is one which values going beyond our comfort zone, with taking the time to fully consider ideas and to allow ourselves to exhibit childlike curiosity while also implementing with a focus on results. Our [Draft Values Document](https://docs.google.com/document/d/1PWWglC37-lbuCS0BQARFECUotCHCDt8gtY7XSILIPQk/edit?usp=sharing) describes our values in detail. 
+
+They are:
+* Going one step beyond the comfort zone
+
+* Generosity
+
+* Results-driven
+
+* Optimism
+
+* Curiosity
 
 #Section 2: Deciding what to work on
 ##How do we come up with ideas?
-Bottom of the pipeline
-Solution Surge
-Hubs
+Airbel sources its ideas in different ways. Currently, work is underway to develop a comprehensive guide to generating effective new ideas - what we call "the bottom of the pipeline". While a lot of ideas come from within the Airbel team, and the broader team at IRC Headquarters in New York, we are working with our field colleagues to increasingly work on ideas that come from the field - much closer to the problems we are working on.
+
+For example, our Middle East regional hub is sourcing ideas from the region. [*Mahali lab*](https://medium.com/airbel/mahali/home) plays a key role in this effort.
+
+*Solution Surge* is an initiative through which the IRC’s Airbel Team aims to introduce various human-centred design methods to IRC country teams, as an opportunity for collaborative skills-building. Ideas for potential future development will be build through a series of sprints in interested countries.
 
 ##How can I propose a project?
 Currently, requests for resources can be made through the Airbel Investment Request protocol. This will be refined alongside development of the R&D fund and relevant governance procedures.
 
 ##How does Airbel evaluate project ideas and decide where to invest?
 Airbel has a portfolio governance approach which focuses on transparency and accountability, diversified risk, vision & scale, flexibility with clear outcomes, and strategic prioritizagtion.
-The three main components of our governance approach is: the Quarterly Review Process, Stage Gages, and Advisory Network. These three components are outlined in full in the [Airbel Portfolio Governance Overview Document](https://docs.google.com/document/d/1yFEU7u67W0CZdzrsoZXGnfT8qUjsfvzlFrFvjzFWKuQ/edit?usp=sharing)
+
+The three main components of our governance approach are: 
+1. The Quarterly Review Process
+2. Stage Gages
+3. Advisory Network
+
+These three components are outlined in full in the [Airbel Portfolio Governance Overview Document](https://docs.google.com/document/d/1yFEU7u67W0CZdzrsoZXGnfT8qUjsfvzlFrFvjzFWKuQ/edit?usp=sharing)
 
 You can read the [full governance document here](https://docs.google.com/document/d/1yFEU7u67W0CZdzrsoZXGnfT8qUjsfvzlFrFvjzFWKuQ/edit?usp=sharing)
-
-Investments are made via two routes: the R&D fund and through regular investment requests. The R&D fund is in p
 
 #Section 3: Our projects
 
