@@ -1,17 +1,18 @@
 # Introduction
 
 ## What is this document?
-The Airbel Playbook answers key questions about who Airbel is, what we do, how we do it, and why. 
-It's divided into four main sections, with introduction
+The Airbel Playbook answers key questions about who we are, what we do, how we do it, and why. It's a useful introduction to our philosophy, culture, approach, and structure. It's also a good refresher for long-time staff and colleagues. Importantly, the Playbook is a one-stop shop for all our most important policy documentation. If you are looking for specific information about how we make decisions, run our projects, and structure our staffing, you can find it all here. If something is missing, or you aren't sure what to search for, you can share your feedback at airbel@rescue.org.
 
-|Section      |Title                        |Content                      |
-|-------------|---------------------------  |-----------------------------|
-|Section 1    |Manifesto                    |Mission, vision, and culture |
-|Section 2    |Deciding What to Work On     |Coming up with ideas, proposing projects, evaluating ideas, and investment decisions |
-|Section 3    |Our Projects                 |Tools for designing and testing ideas, checking in, course corrections, investment decisions, defining success, outside expertise, and scale|
-|Section 4    |The Department               |Governance, structure, inclusion, and human resources    |
-|             |Key Resources                |Links to all key resources|
-|             |Glossary                     |Key terms and definitions  |
+It's divided into four main sections: manifesto, deciding what to work on, our projects, and the department. At the end you can also find key resources and a glossary.
+
+|Section                              |Content                      |
+|-------------------------------------|-----------------------------|
+|Section 1 - Manifesto                |Mission, vision, and culture |
+|Section 2 - Deciding What to Work On |Coming up with ideas, proposing projects, and making investment decisions |
+|Section 3 - Our Projects             |Tools for designing and testing ideas, making course corrections and decisions about project direction, defining success, bringing in outside expertise, and scaling|
+|Section 4 - The Department           |Department structure, diversity and inclusion, and human resources    |
+|Key Resources                        |Links to all key resources   |
+|Glossary                             |Key terms and definitions    |
 
 ## Who is it for?
 The Airbel Playbook was created with 3 key audience groups in mind: Airbel, the IRC more broadly, and, to a lesser extent, donors and partners.
@@ -23,20 +24,20 @@ The Airbel Playbook was created with 3 key audience groups in mind: Airbel, the 
 The International Rescue Committee was founded in 1936 to help people affected by conflict and disaster to survive, recover and gain control of their future. 
 
 ###Airbel mission
-The mission of the Airbel Center is to design, test, and scale life-changing solutions (products, services and delivery systems) for people in crisis
+The mission of the Airbel Center is to *design*, *test*, and *scale* life-changing solutions (products, services and delivery systems) for people in crisis
 
 ##How do we envision our work changing the world?
 The [Airbel Vision](https://docs.google.com/document/d/1d7xDSNa0Upd4POtqe0jbm8YoGVsSvbzi8BE2QaSve44/edit?usp=sharing) highlights the way in which we go about achieving our mission, and describes the world we'd like to see as a result of these efforts.
 
-##What is the Airbel culture? What do we value?
-The Airbel culture is one which values going beyond our comfort zone, with taking the time to fully consider ideas and to allow ourselves to exhibit childlike curiosity while also implementing with a focus on results. Our [Draft Values Document](https://docs.google.com/document/d/1PWWglC37-lbuCS0BQARFECUotCHCDt8gtY7XSILIPQk/edit?usp=sharing) describes our values in detail:
--One step beyond the comfort zone
--Respect and generosity
--Results-driven
--Optimism
--Curiosity
+![Design, Test, Scale Life-Changing Solutions](https://github.com/theirc/airbel/blob/master/Vision%20graphic.png)
 
-Currently, the values document is available in Google Docs. In the future, it will be made available in other forms.
+##What is the Airbel culture? What do we value?
+The Airbel culture is one which values going beyond our comfort zone, with taking the time to fully consider ideas and to allow ourselves to exhibit childlike curiosity while also implementing with a focus on results. Our [Draft Values Document](https://docs.google.com/document/d/1PWWglC37-lbuCS0BQARFECUotCHCDt8gtY7XSILIPQk/edit?usp=sharing) describes our values in detail. These are:
+- One step beyond the comfort zone
+- Respect and generosity
+- Results-driven
+- Optimism
+- Curiosity
 
 #Section 2: Deciding what to work on
 ##How do we come up with ideas?
