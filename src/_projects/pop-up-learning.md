@@ -17,9 +17,9 @@ hero_image: /uploads/hero-popup-1.jpg
 featured_image: /uploads/img-20180905-130117.jpg
 featured_video_url:
 resources:
-  - title: Pop Up Learning in Crisis
+  - title:
     description:
-    url: 'https://rescue.box.com/s/vrdim51urc2w7pqwl6hhq7d43hd6awjy'
+    url:
 articles:
   - title:
     url:
