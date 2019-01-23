@@ -26,6 +26,25 @@ The International Rescue Committee was founded in 1936 to help people affected b
 ###Airbel mission
 The mission of the Airbel Center is to *design*, *test*, and *scale* life-changing solutions (products, services and delivery systems) for people in crisis
 
+##Airbel's multidisciplinary ethos
+Airbel is at its core multidisciplinary. It brings together a variety of disciplines, including human-centered design, behavioral science, academic research, and strategy to solve challenging problems in the humanitarian sector.
+
+The following principles guide our approach and work: 
+
+* Maintain a bias to action and push to prototyping quickly 
+
+* Build on existing knowledge and research 
+
+* Focus on usability and engagement
+
+* Be ambitious about scale and cost-effectiveness
+
+* Collaborate with colleagues from other disciplines
+
+* Be rigorous about testing for impact
+
+* Uphold the highest ethical standards
+
 ##How do we envision our work changing the world?
 The [Airbel Vision](https://docs.google.com/document/d/1d7xDSNa0Upd4POtqe0jbm8YoGVsSvbzi8BE2QaSve44/edit?usp=sharing) highlights the way in which we go about achieving our mission, and describes the world we'd like to see as a result of these efforts.
 
@@ -36,15 +55,53 @@ The Airbel culture is one which values going beyond our comfort zone, with takin
 
 They are:
 
-* Going one step beyond the comfort zone
+**One step beyond the comfort zone.** We are bold and perseverent.
 
-* Generosity
+* Make smart-but-risky bets on new ideas 
 
-* Results-driven
+* Persevere beyond what has been done or known
 
-* Optimism
+* Build solutions for the future rather than the present
 
-* Curiosity
+**Results-Driven.** We center clients in our discussions and decision-making.
+
+* Evaluate work based on how it meets the needs and values of our clients
+
+* Work swiftly and efficiently, recognizing the urgency of the problems we work on
+
+* Set clear KPI and hold ourselves accountable
+
+**Optimistic.** We believe a better world is within our grasp.
+
+* Fail fast and and often, harnessing our deep-seated optimism to constantly improve
+
+* Help one another find what’s working - even when a project faces challenges
+
+* Buttress the corresponding strengths of every weakness
+
+**Curious.** We foster a sense of childlike wonder and pursue answers to difficult questions.
+
+* Seek complicated problems and find motivation in ambiguity
+
+* Create opportunities for critical discussion and continued learning, including leadership from the global south
+
+* Employ skills and disciplines in new (and multi-disciplinary) ways
+
+**Generous.** We acknowledge our own limitations and seek the support and knowledge of others.
+
+* Listen to a wide range of perspectives
+
+* Lift up the ideas and contributions of others
+
+* Help our colleagues to take on opportunities and reach their goals
+
+**Open.** We share what we learn and build.
+
+* Share our methods, skills, time, abilities, information, knowledge, methodologies, services, and products openly and freely
+
+* Make time to share information and teach others about our work
+
+* Make solutions available publicly
 
 #Section 2: Deciding what to work on
 ##How do we come up with ideas?
