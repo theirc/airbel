@@ -26,7 +26,7 @@ The International Rescue Committee was founded in 1936 to help people affected b
 ###Airbel mission
 The mission of the Airbel Center is to *design*, *test*, and *scale* life-changing solutions (products, services and delivery systems) for people in crisis
 
-##Airbel's multidisciplinary ethos
+##What principles guide Airbel's work?
 Airbel is at its core multidisciplinary. It brings together a variety of disciplines, including human-centered design, behavioral science, academic research, and strategy to solve challenging problems in the humanitarian sector.
 
 The following principles guide our approach and work: 
@@ -132,9 +132,10 @@ You can read the [full governance document here](https://docs.google.com/documen
 #Section 3: Our projects
 
 ##What are the steps we take to design and test ideas, products, or projects?
-As your project moves through the pipeline, project leads and designers are likely to require a broad range of tools and techniques to 
+As your project moves through the pipeline, project leads and designers are likely to require a broad range of tools and techniques  
 
-This includes both [step-by-step overviews](https://docs.google.com/presentation/d/1rojab1AS6THP5oFZn_a56A7ljDX_-Fjxx5oBWFXezp4/edit?usp=sharing) of what steps to take when, as well as a comprehensive set of [examples of tools and processes](https://docs.google.com/presentation/d/1jxuNb-JvZzSWOccpVDrTH99jXuv5nMS9NkB5CB9EmX8/edit?usp=sharing) which can be used.
+Inline-style: 
+![scoping, design, prototype, pilot, rigorous evaluation, scale](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Examples for activities to carry out at each stage of the path")
 
 ##How do we check in on projects to make course corrections?
 Each month, an [operational check-in](https://docs.google.com/presentation/d/1mnzrU9iaOFl6uEqy82MQsOW-B989k-vmvYv1KE9xZTY/edit?usp=sharing) is held to get a good picture of pipeline health. 
