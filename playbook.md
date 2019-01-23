@@ -135,7 +135,7 @@ You can read the [full governance document here](https://docs.google.com/documen
 As your project moves through the pipeline, project leads and designers are likely to require a broad range of tools and techniques  
 
 Inline-style: 
-![scoping, design, prototype, pilot, rigorous evaluation, scale](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Examples for activities to carry out at each stage of the path")
+![scoping, design, prototype, pilot, rigorous evaluation, scale](https://github.com/theirc/airbel/blob/master/Examples.PNG "Examples for activities to carry out at each stage of the path")
 
 ##How do we check in on projects to make course corrections?
 Each month, an [operational check-in](https://docs.google.com/presentation/d/1mnzrU9iaOFl6uEqy82MQsOW-B989k-vmvYv1KE9xZTY/edit?usp=sharing) is held to get a good picture of pipeline health. 
