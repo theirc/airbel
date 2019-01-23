@@ -132,14 +132,27 @@ You can read the [full governance document here](https://docs.google.com/documen
 #Section 3: Our projects
 
 ##What are the steps we take to design and test ideas, products, or projects?
-As your project moves through the pipeline, project leads and designers are likely to require a broad range of tools and techniques  
+As projects increase in maturity, they'll need a variety of 
 
-![scoping, design, prototype, pilot, rigorous evaluation, scale](https://github.com/theirc/airbel/blob/master/Examples.PNG "Examples for activities to carry out at each stage of the path")
+![Examples across project pipeline - design test scale](https://github.com/theirc/airbel/blob/master/Examples.PNG "Examples for activities to carry out at each stage of the path")
 
-Reference-style: 
-![alt text][examples]
+###Design
+We develop ideas by drawing on three sources of information: i) understanding the context and user journeys; ii) understanding the evidence base; and iii) finding inspiration from solutions to analogous problems. We aim to make ideas concrete as quickly as possible by prototyping.
+* **[Scoping](https://docs.google.com/presentation/d/1jxuNb-JvZzSWOccpVDrTH99jXuv5nMS9NkB5CB9EmX8/edit?usp=sharing)**  
 
-[examples]: https://github.com/theirc/airbel/blob/master/Examples.PNG "Exxx"
+* **[Design Research & Ideation](https://docs.google.com/presentation/d/1p5ZISUKXV3nVlzOKouq5lggZDaDBVXfCYwiFTNwh-MQ/edit?usp=sharing)**
+
+* **[Prototype](https://docs.google.com/presentation/d/1mfognFa3vW1fVgWUTyZSGC5xd5x5aRSQ8zzk1kI5AeM/edit?usp=sharing)**
+
+###Test
+After learning about the desirability and feasibility of an idea, we pilot and test our solutions. During the initial pilot, we continue to tweak and refine the solution, before more piloting more rigorously, often at greater scale.
+* **[Pilot](https://docs.google.com/presentation/d/1OU4WRhuqCdIVErfYIv5m29H41DZXQv5-z0kiEr4iX5g/edit?usp=sharing)**
+
+* **Rigorous Evaluation (forthcoming)**
+
+###Scale
+We consider whether the idea is cost-efficient & simple enough to scale from the outset, as well as pathways to scale.
+* **Scale (forthcoming)**
 
 ##How do we check in on projects to make course corrections?
 Each month, an [operational check-in](https://docs.google.com/presentation/d/1mnzrU9iaOFl6uEqy82MQsOW-B989k-vmvYv1KE9xZTY/edit?usp=sharing) is held to get a good picture of pipeline health. 
