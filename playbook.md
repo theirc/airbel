@@ -135,13 +135,7 @@ You can read the [full governance document here](https://docs.google.com/documen
 Based on best practice and Airbel experience, we have compiled a set of tools which can be used to facilitate solutions as they move through the pipeline.
 
 ###Design
-We develop ideas by drawing on three sources of information: 
-
-1. understanding the context and user journeys
-
-2. understanding the evidence base; 
-
-3. finding inspiration from solutions to analogous problems. We aim to make ideas concrete as quickly as possible by prototyping.
+We develop ideas by drawing on three sources of information: 1) understanding the context and user journeys; 2) understanding the evidence base; 3) finding inspiration from solutions to analogous problems. We aim to make ideas concrete as quickly as possible by prototyping.
 
 * **[Scoping](https://docs.google.com/presentation/d/1jxuNb-JvZzSWOccpVDrTH99jXuv5nMS9NkB5CB9EmX8/edit?usp=sharing)**  
 
