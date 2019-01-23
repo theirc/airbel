@@ -134,7 +134,7 @@ You can read the [full governance document here](https://docs.google.com/documen
 ##What are the steps we take to design and test ideas, products, or projects?
 As projects increase in maturity, they'll need a variety of 
 
-![Examples across project pipeline - design test scale](https://github.com/theirc/airbel/blob/master/Examples.PNG "Examples for activities to carry out at each stage of the path")
+![Examples across project pipeline - design test scale](https://github.com/theirc/airbel/blob/master/Examples.PNG?raw=true "Examples for activities to carry out at each stage of the path")
 
 ###Design
 We develop ideas by drawing on three sources of information: i) understanding the context and user journeys; ii) understanding the evidence base; and iii) finding inspiration from solutions to analogous problems. We aim to make ideas concrete as quickly as possible by prototyping.
