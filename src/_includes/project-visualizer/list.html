@@ -21,10 +21,17 @@
               </div>
             </div>
             <a href="{{ project.url }}" class="btn">Find out more</a>
-            {% if project.status == 'graduated' or project.status == 'discontinued' %}
+            {% if project.status == 'discontinued' %}
             <div class="col-12 ">
               <div class="status-notification">
-                <p class="status-{{ project.status | slugify }}">This project {{ project.status }} at the {{ project.stage }} phase</p>
+                <p class="status-{{ project.status | slugify }}">This project became inactive following the {{ project.stage }} phase</p>
+              </div>
+            </div>
+            {% endif %}
+            {% if project.status == 'graduated' %}
+            <div class="col-12 ">
+              <div class="status-notification">
+                <p class="status-{{ project.status | slugify }}">This project graduated following the {{ project.stage }} phase</p>
               </div>
             </div>
             {% endif %}

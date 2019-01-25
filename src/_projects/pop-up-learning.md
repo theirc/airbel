@@ -13,13 +13,13 @@ geolocation:
 description: >-
   Pop-Up Learning is a computer-assisted learning program, aimed to mobilize
   quickly and efficiently on the onset of crisis.
-hero_image: /uploads/20180909-103650-bangladesh-ldr-1.jpg
-featured_image: /uploads/20180909-103650-bangladesh-ldr.jpg
+hero_image: /uploads/hero-popup-1.jpg
+featured_image: /uploads/img-20180905-130117.jpg
 featured_video_url:
 resources:
-  - title: Pop Up Learning in Crisis
+  - title:
     description:
-    url: 'https://rescue.box.com/shared/static/0bu13qxkbjcnbfldg4s7z3gy81kzkn9x.pdf'
+    url:
 articles:
   - title:
     url:

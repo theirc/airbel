@@ -3,7 +3,7 @@
   profile_image: /uploads/team/ravi.jpg
 - name: Jeannie Annan
   title: 'Senior Director of Research & Evaluation, Co-founder'
-  profile_image: /uploads/team/image002-1.jpg
+  profile_image: /uploads/image002.jpg
 - name: Bryce Perry
   title: Director of Implementation and Scaling
   profile_image: /uploads/team/bryce-bw-1-1-1.jpg
@@ -17,8 +17,11 @@
   title: 'Regional Innovation Director, Middle East'
   profile_image: /uploads/team/eva.jpg
 - name: Rachel Lehrer
-  title: Design Innovation Lead
+  title: 'Associate Director, Design & Innovation'
   profile_image: /uploads/team/rachel.jpg
+- name: Shirin Ahmed
+  title: Senior Advisor
+  profile_image: /uploads/shirin-bw-square.jpg
 - name: Carla Lopez
   title: Design Innovation Lead
   profile_image: /uploads/team/carla-bw-1.jpg

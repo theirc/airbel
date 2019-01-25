@@ -7,13 +7,13 @@ stage: Pilot
 focuses:
   - employment
 geolocation:
-  region: Amman
+  region: Jordan
   latitude: '31.94537'
   longitude: '35.92837'
 description: >-
   Working to counter the high rates of unemployment that follow mass
-  displacement, the Match in Jordan is testing a set of new innovations for
-  placing vulnerable populations and refugees in jobs.
+  displacement, the Match project in Jordan is testing a set of new innovations
+  for placing vulnerable populations and refugees in jobs.
 hero_image: /uploads/hero-match-1.jpg
 featured_image: /uploads/dscf7917-01.jpg
 featured_video_url:
@@ -128,7 +128,7 @@ milestones:
       regarding refugee employment in partnership with McKinsey and Company
 ---
 
-When mass displacement leads to mass unemployment, both refugees and vulnerable host populations are affected. &nbsp;Getting refugees into work, and growing the labor market, requires both innovative policy and innovative ideas. In 2016, the Government of Jordan and the international community forged the Jordan Compact, which aims to provide 200,000 employment opportunities to Syrian refugees. One part of the Compact is a set of incentives for employers to hire refugees. To support the Compact and inform the response to future crises, Project Match in Jordan is testing a set of new innovations for matching employers and job seekers.
+When mass displacement leads to mass unemployment, both refugees and vulnerable host populations are affected.  Getting refugees into work, and growing the labor market, requires both innovative policy and innovative ideas. In 2016, the Government of Jordan and the international community forged the Jordan Compact, which aims to provide 200,000 employment opportunities to Syrian refugees. One part of the Compact is a set of incentives for employers to hire refugees. To support the Compact and inform the response to future crises, Project Match in Jordan is testing a set of new innovations for matching employers and job seekers.
 
 Match consists of two core activities:
 

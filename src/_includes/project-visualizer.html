@@ -41,7 +41,7 @@
               <a class="filter"
                 data-filter=".status-discontinued"
                 data-active-text="active-status-filter"
-                data-visualizer-control>Discontinued</a>
+                data-visualizer-control>Inactive</a>
             </li>
           </ul>
         </div>
@@ -85,10 +85,14 @@
 
   {% if project %}
   <div class="d-flex align-items-center justify-content-center p-3 mt-2 bg-dark text-white">
-    {% if project.status == "graduated" or project.status == "discontinued" %}
-      <h4 class="mb-0">{{ project.title }} was {{ project.status }} at this stage in the Airbel process</h4>
-    {% else %}
-      <h4 class="mb-0">{{ project.title }} is at the {{ project.stage }} stage in the Airbel process</h4>
+    {% if project.status == "graduated" %}
+      <h4 class="mb-0">{{ project.title }} graduated following this stage</h4>
+    {% endif %}
+    {% if project.status == "discontinued" %}
+	  <h4 class="mb-0">{{ project.title }} became inactive following this stage</h4>
+    {% endif %}
+    {% if project.status == "active" %}
+      <h4 class="mb-0">{{ project.title }} is at the {{ project.stage }} stage </h4>
     {% endif %}
   </div>
   {% endif %}
