@@ -5,7 +5,7 @@ tagline: >-
   Restructuring the way we finance refugee resettlement to see refugees as an
   investment
 status: active
-stage: Research
+stage: Generate Solutions
 focuses:
   - resettlement
 geolocation:
