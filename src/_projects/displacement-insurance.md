@@ -3,7 +3,7 @@ layout: project
 title: Displacement Insurance
 tagline: Insuring against crisis to speed up response and save lives
 status: active
-stage: Research
+stage: Generate Solutions
 focuses:
   - financing
 geolocation:
