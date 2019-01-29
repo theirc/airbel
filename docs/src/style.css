@@ -8,6 +8,8 @@ Instead, edit the stylus (.styl) files and compile it to CSS on your machine.
  * Fonts
  */
 @import url("https://fonts.googleapis.com/css?family=Montserrat:700|Open+Sans:300");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700|Open+Sans:300");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700|Open+Sans:300");
 /* ----------------------------------------------------------------------------
  * Base
  */
@@ -308,10 +310,16 @@ a:hover {
 .content h3 ol {
   padding-top: 10px;
 }
-.content h1,
+.content h1 {
+  letter-spacing: 1px;
+  font-size: 1.75em;
+  color: #FEC938;
+  font-weight: 900;
+}
 .content h2 {
   letter-spacing: 1px;
-  font-size: 1.5em;
+  font-size: 1.25em;
+  font-weight: 600;
 }
 .content h3 {
   font-size: 1.2em;
@@ -320,7 +328,7 @@ a:hover {
 .content h2,
 .content .big-heading,
 body.big-h3 .content h3 {
-  padding-top: 80px;
+  padding-top: 50px;
 }
 .content h1:before,
 .content h2:before,
@@ -377,7 +385,8 @@ body:not(.big-h3) .content h3 {
 .content h1:first-child,
 .content h1:first-child a,
 .content h1:first-child a:visited {
-  color: #505050;
+  color: #FEC938;
+  font-weight: 900;
 }
 .content h1:first-child:before {
   display: none;
@@ -501,7 +510,7 @@ body.no-literate .content pre > code:hover::-webkit-scrollbar-thumb {
 .content .button + em {
   color: #9090aa;
 }
-@media (min-width: 2180px) {
+@media (min-width: 1600px) {
   body:not(.no-literate) .content-root {
     background-color: #f3f6fb;
     -webkit-box-shadow: inset 780px 0 #fff, inset 781px 0 #dfe2e7, inset 790px 0 5px -10px rgba(0,0,0,0.1);
@@ -511,7 +520,7 @@ body.no-literate .content pre > code:hover::-webkit-scrollbar-thumb {
   body:not(.no-literate) .content {
     padding-left: 0;
     padding-right: 0;
-    width: 930px;
+    width: 800px;
     max-width: none;
   }
   body:not(.no-literate) .content > p,
@@ -601,6 +610,7 @@ body.no-literate .content pre > code:hover::-webkit-scrollbar-thumb {
   zoom: 1;
   line-height: 20px;
   position: relative;
+  height: 50px;
 }
 .header:before,
 .header:after {
@@ -633,18 +643,17 @@ body.no-literate .content pre > code:hover::-webkit-scrollbar-thumb {
 .header h1,
 .header h1 a,
 .header h1 a:visited {
-  color: #9090aa;
+  color: white;
 }
 .header h1 a:hover {
-  color: #505050;
 }
 .header li a {
   font-size: 0.88em;
-  color: #9090aa;
+  color: white;
   display: block;
 }
 .header li a:hover {
-  color: #3a3a44;
+  color: #FEC938;
 }
 @media (min-width: 480px) {
   .header h1 {
@@ -681,6 +690,7 @@ body.no-literate .content pre > code:hover::-webkit-scrollbar-thumb {
 .menubar {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+  .padding-right: 10px;
 }
 .menubar .section {
   padding: 30px 30px;
@@ -737,6 +747,8 @@ a.big.button:hover:visited {
 @media (min-width: 768px) {
   .content-root {
     padding-left: 300px;
+    max-width: 900px;
+}​
   }
   .menubar {
     position: absolute;
@@ -790,27 +802,28 @@ a.big.button:hover:visited {
   color: black;
 }
 .menu a:hover {
-  color: #228a8a;
+  color: black;
 }
 .menu a.level-1 {
-  font-family: montserrat, sans-serif;
+  font-family: motiva-sans,sans-serif;
   font-size: 0.9em;
   font-weight: bold;
 }
 .menu a.level-1,
 .menu a.level-1:visited {
-  color: #9090aa;
 }
 .menu a.level-1:hover {
-  color: #565666;
+  color: black;
 }
 .menu a.level-2 {
   font-weight: normal;
+  text-indent: 10px;
 }
 .menu a.level-3 {
   font-weight: normal;
   font-size: 0.9em;
   padding-left: 10px;
+  text-indent: 15px;
 }
 .menu a.active {
   font-weight: bold !important;
@@ -818,23 +831,10 @@ a.big.button:hover:visited {
 .menu a.active,
 .menu a.active:visited,
 .menu a.active:hover {
-  color: #505050 !important;
+  color: black !important;
+  background-color: #FEC938;
 }
-.menu a.active:after {
-  content: '';
-  display: block;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  position: absolute;
-  top: 10px;
-  right: 30px;
-  width: 9px;
-  height: 3px;
-  -webkit-border-radius: 2px;
-  border-radius: 2px;
-  background: black;
-}
+
 code .string,
 code .number {
   color: #3ac;
