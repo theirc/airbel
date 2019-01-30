@@ -1,27 +1,11 @@
-# Introduction
-
-## What is this document?
+#Section 1: Manifesto
 The Airbel Playbook answers key questions about who we are, what we do, how we do it, and why. It's a useful introduction to our philosophy, culture, approach, and structure. It's also a good refresher for long-time staff and colleagues. Importantly, the Playbook is a one-stop shop for all our most important policy documentation. If you are looking for specific information about how we make decisions, run our projects, and structure our staffing, you can find it all here. If something is missing, or you aren't sure what to search for, you can share your feedback at airbel@rescue.org.
 
-It's divided into four main sections: manifesto, deciding what to work on, our projects, and the department. At the end you can also find key resources and a glossary.
-
-|Section                              |Content                      |
-|-------------------------------------|-----------------------------|
-|Section 1 - Manifesto                |Mission, vision, and culture |
-|Section 2 - Deciding What to Work On |Coming up with ideas, proposing projects, and making investment decisions |
-|Section 3 - Our Projects             |Tools for designing and testing ideas, making course corrections and decisions about project direction, defining success, bringing in outside expertise, and scaling|
-|Section 4 - The Department           |Department structure, diversity and inclusion, and human resources    |
-|Key Resources                        |Links to all key resources   |
-|Glossary                             |Key terms and definitions    |
-
-## Who is it for?
 The Airbel Playbook was created with 3 key audience groups in mind: Airbel, the IRC more broadly, and, to a lesser extent, donors and partners.
-
-#Section 1: Manifesto
 
 ##What does Airbel do? What is our goal?
 ###IRC mission
-The International Rescue Committee was founded in 1936 to help people affected by conflict and disaster to survive, recover and gain control of their future. 
+The International Rescue Committee was founded in 1936 to help people affected by conflict and disaster to survive, recover and gain control of their future.
 
 ###Airbel mission
 The mission of the Airbel Center is to *design*, *test*, and *scale* life-changing solutions (products, services and delivery systems) for people in crisis
@@ -51,9 +35,6 @@ The [Airbel Vision](https://docs.google.com/document/d/1d7xDSNa0Upd4POtqe0jbm8Yo
 ![Design, Test, Scale Life-Changing Solutions](https://github.com/theirc/airbel/blob/master/Vision%20graphic.png)
 
 ##What is the Airbel culture? What do we value?
-The Airbel culture is one which values going beyond our comfort zone, with taking the time to fully consider ideas and to allow ourselves to exhibit childlike curiosity while also implementing with a focus on results. Our [Draft Values Document](https://docs.google.com/document/d/1PWWglC37-lbuCS0BQARFECUotCHCDt8gtY7XSILIPQk/edit?usp=sharing) describes our values in detail. 
-
-They are:
 
 **One step beyond the comfort zone.** We are bold and perseverent.
 
@@ -103,6 +84,8 @@ They are:
 
 * Make solutions available publicly
 
+Our [Draft Values Document](https://docs.google.com/document/d/1PWWglC37-lbuCS0BQARFECUotCHCDt8gtY7XSILIPQk/edit?usp=sharing) describes our values in detail. 
+
 #Section 2: Deciding what to work on
 ##How do we come up with ideas?
 Airbel sources its ideas in different ways. Currently, work is underway to develop a comprehensive guide to generating effective new ideas - what we call "the bottom of the pipeline". While a lot of ideas come from within the Airbel team, and the broader team at IRC Headquarters in New York, we are working with our field colleagues to increasingly work on ideas that come from the field - much closer to the problems we are working on.
@@ -110,6 +93,8 @@ Airbel sources its ideas in different ways. Currently, work is underway to devel
 For example, our Middle East regional hub is sourcing ideas from the region. [*Mahali lab*](https://medium.com/airbel/mahali/home) plays a key role in this effort.
 
 *Solution Surge* is an initiative through which the IRC’s Airbel Team aims to introduce various human-centred design methods to IRC country teams, as an opportunity for collaborative skills-building. Ideas for potential future development will be build through a series of sprints in interested countries.
+
+If you want to learn more about this work, you can check out our [draft document](https://docs.google.com/presentation/d/1eqOwGpB3UG7h4En9ZXwqCb1jdk7Hqh09rFhBlmpHxXE/edit?usp=sharing) on what we call 
 
 ##How can I propose a project?
 Currently, requests for resources can be made through the Airbel Investment Request protocol. This will be refined alongside development of the R&D fund and relevant governance procedures.
@@ -196,10 +181,27 @@ Airbel human resources are managed in accordance with [IRC policies and structur
 ###[Airbel project portfolio](https://airbel.rescue.org/)
 
 #Glossary
-##Key definitions
-###Breakthrough
-###Prototype
-###Pilot
-###Innovation
-###Scale
-###Stage Gate
+##Advisory Network
+##Board
+##Breakthrough
+##Innovation
+##Pilot
+##Project
+##Prototype
+##PRM
+##QRM
+##Scale
+##Stage Gate
+###Stage Gate 0
+###Stage Gate 1
+###Stage Gate 2
+###Stage Gate 3
+##Education
+##Employment
+##Health
+##Financing
+##Resettlement
+##Safety
+##Inter-Personal Violence (IPV)
+
+##
