@@ -103,12 +103,12 @@ While a lot of ideas come from within the Airbel team, and the broader team at I
 For example, our Middle East regional hub is sourcing ideas from the region. [*Mahali lab*](https://medium.com/airbel/mahali/home) plays a key role in this effort.
 
 ##How can I propose a project?
-Currently, requests for resources can be made through the Airbel Investment Request protocol. This will be refined alongside development of the R&D fund and relevant governance procedures.
+Currently, requests for resources can be made through the [Airbel Investment Request protocol](https://docs.google.com/document/d/1k2YEdWixylbz_ogLvSfd8k6e7VsL1615g86pKYcLzSY/edit?usp=sharing). This will be refined alongside development of the R&D fund and relevant governance procedures.
 
 ##How does Airbel evaluate project ideas and decide where to invest?
 Airbel has a portfolio governance approach which focuses on transparency and accountability, diversified risk, vision & scale, flexibility with clear outcomes, and strategic prioritizagtion.
 
-The three main components of our governance approach are: 
+The main components of our governance approach are: 
 
 1. The Quarterly Review Process
 
@@ -127,9 +127,9 @@ Based on best practice and Airbel experience, we have compiled a set of tools wh
 ###Design
 We develop ideas by drawing on three sources of information: 1) understanding the context and user journeys; 2) understanding the evidence base; 3) finding inspiration from solutions to analogous problems. We aim to make ideas concrete as quickly as possible by prototyping.
 
-* **[Scoping](https://docs.google.com/presentation/d/1jxuNb-JvZzSWOccpVDrTH99jXuv5nMS9NkB5CB9EmX8/edit?usp=sharing)**  
+* **[Research](https://docs.google.com/presentation/d/1jxuNb-JvZzSWOccpVDrTH99jXuv5nMS9NkB5CB9EmX8/edit?usp=sharing)**  
 
-* **[Design Research & Ideation](https://docs.google.com/presentation/d/1p5ZISUKXV3nVlzOKouq5lggZDaDBVXfCYwiFTNwh-MQ/edit?usp=sharing)**
+* **[Generate solutions](https://docs.google.com/presentation/d/1p5ZISUKXV3nVlzOKouq5lggZDaDBVXfCYwiFTNwh-MQ/edit?usp=sharing)**
 
 * **[Prototype](https://docs.google.com/presentation/d/1mfognFa3vW1fVgWUTyZSGC5xd5x5aRSQ8zzk1kI5AeM/edit?usp=sharing)**
 
