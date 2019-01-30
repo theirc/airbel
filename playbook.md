@@ -1,4 +1,4 @@
-#Section 1: Manifesto
+#Part 1: Manifesto
 The Airbel Playbook answers key questions about who we are, what we do, how we do it, and why. It's a useful introduction to our philosophy, culture, approach, and structure. It's also a good refresher for long-time staff and colleagues.
 
 Importantly, the Playbook is a one-stop shop for all our most important policy documentation. If you are looking for specific information about how we make decisions, run our projects, and structure our staffing, you can find it all here. If something is missing, or you aren't sure what to search for, you can share your feedback at airbel@rescue.org.
@@ -34,7 +34,7 @@ The following principles guide our approach and work:
 ##How do we envision our work changing the world?
 The [Airbel Vision](https://docs.google.com/document/d/1d7xDSNa0Upd4POtqe0jbm8YoGVsSvbzi8BE2QaSve44/edit?usp=sharing) highlights the way in which we go about achieving our mission, and describes the world we'd like to see as a result of these efforts.
 
-![Design, Test, Scale Life-Changing Solutions](https://github.com/theirc/airbel/blob/master/Vision%20graphic.png)
+![Design, Test, Scale Life-Changing Solutions](https://raw.githubusercontent.com/theirc/airbel/master/Vision%20graphic.png)
 
 ##What is the Airbel culture? What do we value?
 
@@ -121,7 +121,6 @@ These three components are outlined in full in the [Airbel Portfolio Governance 
 You can read the [full governance document here](https://docs.google.com/document/d/1yFEU7u67W0CZdzrsoZXGnfT8qUjsfvzlFrFvjzFWKuQ/edit?usp=sharing)
 
 #Section 3: Our projects
-
 ##What tools do we have for designing, testing, and scaling solutions?
 Based on best practice and Airbel experience, we have compiled a set of tools which can be used to facilitate solutions as they move through the pipeline.
 
