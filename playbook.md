@@ -1,7 +1,9 @@
 #Section 1: Manifesto
-The Airbel Playbook answers key questions about who we are, what we do, how we do it, and why. It's a useful introduction to our philosophy, culture, approach, and structure. It's also a good refresher for long-time staff and colleagues. Importantly, the Playbook is a one-stop shop for all our most important policy documentation. If you are looking for specific information about how we make decisions, run our projects, and structure our staffing, you can find it all here. If something is missing, or you aren't sure what to search for, you can share your feedback at airbel@rescue.org.
+The Airbel Playbook answers key questions about who we are, what we do, how we do it, and why. It's a useful introduction to our philosophy, culture, approach, and structure. It's also a good refresher for long-time staff and colleagues.
 
-The Airbel Playbook was created with 3 key audience groups in mind: Airbel, the IRC more broadly, and, to a lesser extent, donors and partners.
+Importantly, the Playbook is a one-stop shop for all our most important policy documentation. If you are looking for specific information about how we make decisions, run our projects, and structure our staffing, you can find it all here. If something is missing, or you aren't sure what to search for, you can share your feedback at airbel@rescue.org.
+
+The Airbel Playbook was created mainly for Airbel staff, IRC colleagues, and, in some cases, donors and partners.
 
 ##What does Airbel do? What is our goal?
 ###IRC mission
@@ -88,13 +90,17 @@ Our [Draft Values Document](https://docs.google.com/document/d/1PWWglC37-lbuCS0B
 
 #Section 2: Deciding what to work on
 ##How do we come up with ideas?
-Airbel sources its ideas in different ways. Currently, work is underway to develop a comprehensive guide to generating effective new ideas - what we call "the bottom of the pipeline". While a lot of ideas come from within the Airbel team, and the broader team at IRC Headquarters in New York, we are working with our field colleagues to increasingly work on ideas that come from the field - much closer to the problems we are working on.
+Airbel sources its ideas in different ways. We're currently working to formalize this process. At the moment we have three main channels for our ideas:
+
+1. Identifying big problem areas or opportunities for innovation through evidence review and design research
+
+2. Identifying big hunches or hypotheses from experts, advisors, and trends scanning
+
+3. Identifying big challenges faced by country programs and users
+
+While a lot of ideas come from within the Airbel team, and the broader team at IRC Headquarters in New York, we are working with our field colleagues to increasingly work on ideas that come from the field - much closer to the problems we are working on.
 
 For example, our Middle East regional hub is sourcing ideas from the region. [*Mahali lab*](https://medium.com/airbel/mahali/home) plays a key role in this effort.
-
-*Solution Surge* is an initiative through which the IRC’s Airbel Team aims to introduce various human-centred design methods to IRC country teams, as an opportunity for collaborative skills-building. Ideas for potential future development will be build through a series of sprints in interested countries.
-
-If you want to learn more about this work, you can check out our [draft document](https://docs.google.com/presentation/d/1eqOwGpB3UG7h4En9ZXwqCb1jdk7Hqh09rFhBlmpHxXE/edit?usp=sharing) on what we call 
 
 ##How can I propose a project?
 Currently, requests for resources can be made through the Airbel Investment Request protocol. This will be refined alongside development of the R&D fund and relevant governance procedures.
