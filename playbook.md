@@ -1,7 +1,7 @@
 #Part 1: Manifesto
-The Airbel Playbook answers key questions about who we are, what we do, how we do it, and why. It's a useful introduction to our philosophy, culture, approach, and structure. It's also a good refresher for long-time staff and colleagues.
+The Airbel Playbook answers key questions about who we are, what we do, how we do it, and why. For those new to Airbel, it introduces our philosophy, culture, approach, and structure. For long-time staff and colleagues, it can serve as a refresher or a reference.
 
-Importantly, the Playbook is a one-stop shop for all our most important policy documentation. If you are looking for specific information about how we make decisions, run our projects, and structure our staffing, you can find it all here. If something is missing, or you aren't sure what to search for, you can share your feedback at airbel@rescue.org.
+Importantly, the Playbook is a one-stop shop for our most important policy documents. If you are looking for specific information about how we make decisions, run projects, and structure staffing, you can find it all here. If something is missing, or you aren't sure what to search for, you can share your feedback at airbel@rescue.org.
 
 The Airbel Playbook was created mainly for Airbel staff, IRC colleagues, and, in some cases, donors and partners.
 
@@ -136,7 +136,7 @@ We develop ideas by drawing on three sources of information: 1) understanding th
 ###Test
 After learning about the desirability and feasibility of an idea, we pilot and test our solutions. During the initial pilot, we continue to tweak and refine the solution, before more piloting more rigorously, often at greater scale.
 
-* **[Pilot](https://docs.google.com/presentation/d/1OU4WRhuqCdIVErfYIv5m29H41DZXQv5-z0kiEr4iX5g/edit?usp=sharing)**
+* **Pilot (forthcoming)**
 
 * **Rigorous Evaluation (forthcoming)**
 
