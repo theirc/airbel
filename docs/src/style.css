@@ -118,7 +118,7 @@ input {
   font-family: proxima nova, sans-serif;
   line-height: 1.6;
   font-size: 13px;
-  color: #dc3545;
+  color: black;
 }
 @media (max-width: 1080px) {
   body,
@@ -129,7 +129,7 @@ input {
   }
 }
 a {
-  color: black;
+  color: #fec938;
   font-weight: bold;
   text-decoration: none;
 }
