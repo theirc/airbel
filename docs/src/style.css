@@ -129,7 +129,8 @@ input {
   }
 }
 a {
-  color: black;
+  color: #fec938;
+  font-weight: bold;
   text-decoration: none;
 }
 a:hover {
