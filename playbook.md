@@ -152,8 +152,12 @@ Each month, an [operational check-in](https://docs.google.com/presentation/d/1mn
 Strategic reviews are held of the full portfolio and department on a quarterly basis, which provides the opportunity for regular decision-making on how to pursue or move forward on different opportunities. Formal decision-making around next steps for projects takes place during stage gate meetings which are scheduled based upon the project's progress. More details are available in the [governance document.](https://docs.google.com/document/d/1yFEU7u67W0CZdzrsoZXGnfT8qUjsfvzlFrFvjzFWKuQ/edit?usp=sharing)
 
 ###Stage Gate FAQ
-####How often do we hold stage gates?
-Stage gates are held when needed.
+####Who attends Stage Gate meetings?
+Stage gate meetings include the senior management team and project leads as active participants. Later stages also include colleagues from technical units and/or external experts. All Airbel team members are also welcome to join as observers. A [readout](https://docs.google.com/document/d/1vFh7P1l0Uwr6NWmxSGhXBPyK8rWJEZB0PJKL6zty95s/edit?usp=sharing) will also be shared following each stage gate meeting.
+
+####What do Stage Gates entail? What are the criteria for passing through them?
+Criteria differ depending upon which Stage Gate you’re going through. The [Stage Gate Governance Document](https://docs.google.com/document/d/1yFEU7u67W0CZdzrsoZXGnfT8qUjsfvzlFrFvjzFWKuQ/edit?usp=sharing) outlines the 
+but you should always refer back to our [Airbel project criteria](https://medium.com/@airbel/how-airbel-selects-projects-b9a7d2cdecd7). Generally, we look at potential for impact, scale, and cost-efficiency, as well as fit in portfolio. At later stages, scalability becomes more and more important. Generally projects are mapped against our Airbel project criteria. 
  
 ####When do I need to go through a stage gate?
 As soon as there is substantial work being put into a project we should put it through stage gate 0. This is an initial endorsement to determine whether an idea, hypothesis, or solution should enter our portfolio. Ideally, you should go through stage gate 0 before any in-depth identification work.
@@ -165,9 +169,6 @@ Consult this document and fill in the relevant form for Stage Gate 0, Stage Gate
  
 ####Which projects go through stage gates?
 All projects should be going through stage gates! That said, different projects will move forward differently depending on the availability of partners and funding. There are some times where projects may originate from donors or other actors, and therefore the decision-making process could differ from projects which originate from within the Airbel team.
- 
-####What are the criteria for passing a stage gate?
-These differ depending which Stage Gate you’re going through, but always refer back to our [Airbel project criteria](). Generally, we look at potential for impact, scale, and cost-efficiency, as well as fit in portfolio. At later stages, scalability becomes more and more important. Generally projects are mapped against our Airbel project criteria. 
 
 ##What measurements do we use to define success?
 The Airbel Department measures success with a [set of Key Progress Indicators (KPI)](https://docs.google.com/spreadsheets/d/12vldapYqg0zU5vVI8fXzuohJJrLFgVQAGJfgadG7l1w/edit?usp=sharing), which cover the innovation process, operational excellence, and the impact of our work.
