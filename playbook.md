@@ -166,8 +166,11 @@ As soon as there is substantial work being put into a project we should put it t
 
 One a project is in the portfolio, Stage Gate 1 should happen before the design process begins (still pretty early on in the process). The project should go through stage gate 1 before beginning the design process. Stage gate 2 should come before piloting or evaluation. And finally, Stage Gate 3 should take place before we start thinking about scale.
  
-####How can I initiate a stage gate for the project I’m leading?
-Consult this document and fill in the relevant form for Stage Gate 0, Stage Gate 1, Stage Gate 2, or Stage Gate 3. Then set up a meeting with the Airbel Senior Management Team. For Stage Gates 2 and 3, there will be a second meeting held with internal and/or external stakeholders.
+####Why do we have Stage Gates?
+The Stage Gate structure helps us to dig in and analyze our projects on a more strategic level, thinking through their potential for moving forward as well as evaluating our portfolio as a whole. Importantly, these are moments for project leads to make the case for next steps, as well as to acquire additional resources, through the Innovation Fund and otherwise.
+
+####How do I put my project through a Stage Gate?
+Consult [this document](https://docs.google.com/document/d/1yFEU7u67W0CZdzrsoZXGnfT8qUjsfvzlFrFvjzFWKuQ/edit) and fill in the relevant form for [Stage Gate 0](https://docs.google.com/forms/d/e/1FAIpQLSfFTOISRfh9T9K-B8fNEqm3wSo6XEd_RTNCj7G9LTYBnszLDw/viewform), [Stage Gate 1](https://docs.google.com/forms/d/e/1FAIpQLSeTatNQ3XbaglomB4QRWxPsk9C0H6CZ04piMq2AGQVmLcaQRw/viewform?usp=sf_link), [Stage Gate 2](https://docs.google.com/forms/d/e/1FAIpQLSf5NljhvzZ73U5ijKpK7-Shj25ZRwlQpxDV8fZuTl7IEVAUig/viewform?usp=sf_link), or [Stage Gate 3](https://docs.google.com/forms/d/e/1FAIpQLSco6_5HOFcBbHHfgBzjuh0noJIKfgyuS0BvJ3LKbicjjaUWdA/viewform?usp=sf_link). Then set up a meeting with the Airbel Senior Management Team to discuss. For Stage Gates 2 and 3, there will be a second meeting held with internal and/or external stakeholders.
 
 ##What measurements do we use to define success?
 The Airbel Department measures success with a [set of Key Progress Indicators (KPI)](https://docs.google.com/spreadsheets/d/12vldapYqg0zU5vVI8fXzuohJJrLFgVQAGJfgadG7l1w/edit?usp=sharing), which cover the innovation process, operational excellence, and the impact of our work.
