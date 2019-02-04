@@ -159,16 +159,15 @@ Stage gate meetings include the senior management team and project leads as acti
 Criteria differ depending upon which Stage Gate you’re going through. The [Stage Gate Governance Document](https://docs.google.com/document/d/1yFEU7u67W0CZdzrsoZXGnfT8qUjsfvzlFrFvjzFWKuQ/edit?usp=sharing) outlines the 
 but you should always refer back to our [Airbel project criteria](https://medium.com/@airbel/how-airbel-selects-projects-b9a7d2cdecd7). Generally, we look at potential for impact, scale, and cost-efficiency, as well as fit in portfolio. At later stages, scalability becomes more and more important. Generally projects are mapped against our Airbel project criteria. 
  
-####When do I need to go through a stage gate?
-As soon as there is substantial work being put into a project we should put it through stage gate 0. This is an initial endorsement to determine whether an idea, hypothesis, or solution should enter our portfolio. Ideally, you should go through stage gate 0 before any in-depth identification work.
+####When will Stage Gates be held?
+Stage Gates take place based on project needs, and are initiated by project leads. A calendar of upcoming stage gates is available in the Airbel Department Tracker.
 
-####One a project is in the portfolio, Stage Gate 1 should happen before the design process begins (still pretty early on in the process). The project should go through stage gate 1 before beginning the design process. Stage gate 2 should come before piloting or evaluation. And finally, Stage Gate 3 should take place before we start thinking about scale.
+As soon as there is substantial work being put into a project we should put it through Stage Gate 0. This is an initial endorsement to determine whether an idea, hypothesis, or solution should enter our portfolio. Ideally, you should go through Stage Gate 0 before any in-depth identification work takes place.
+
+One a project is in the portfolio, Stage Gate 1 should happen before the design process begins (still pretty early on in the process). The project should go through stage gate 1 before beginning the design process. Stage gate 2 should come before piloting or evaluation. And finally, Stage Gate 3 should take place before we start thinking about scale.
  
-####How can I get a stage gate for the project I’m leading?
+####How can I initiate a stage gate for the project I’m leading?
 Consult this document and fill in the relevant form for Stage Gate 0, Stage Gate 1, Stage Gate 2, or Stage Gate 3. Then set up a meeting with the Airbel Senior Management Team. For Stage Gates 2 and 3, there will be a second meeting held with internal and/or external stakeholders.
- 
-####Which projects go through stage gates?
-All projects should be going through stage gates! That said, different projects will move forward differently depending on the availability of partners and funding. There are some times where projects may originate from donors or other actors, and therefore the decision-making process could differ from projects which originate from within the Airbel team.
 
 ##What measurements do we use to define success?
 The Airbel Department measures success with a [set of Key Progress Indicators (KPI)](https://docs.google.com/spreadsheets/d/12vldapYqg0zU5vVI8fXzuohJJrLFgVQAGJfgadG7l1w/edit?usp=sharing), which cover the innovation process, operational excellence, and the impact of our work.
