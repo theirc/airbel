@@ -41,7 +41,7 @@ The investment request form that you will complete depends on the maturity of yo
 
 * You want to prototype
 
-###[Apply for funding to test my solution](https://goo.gl/forms/3f7SyMMV7eWAa9fC3)
+###[Apply for funding to test a solution](https://goo.gl/forms/3f7SyMMV7eWAa9fC3)
 This form is the one for you if any of the following apply:
 
 * You’re ready to test out your solution through rigorous piloting
@@ -52,7 +52,7 @@ This form is the one for you if any of the following apply:
 
 * You need funding to carry out a randomized control trial or similar test of your project
 
-###[Apply for funding to take your solution to scale](https://goo.gl/forms/UooPh6jzblcFu4NG3)
+###[Apply for funding to take a solution to scale](https://goo.gl/forms/UooPh6jzblcFu4NG3)
 
 * This form is the one for you if any of the following apply:
 
@@ -80,12 +80,12 @@ There’s no one recipe for an innovation project, but your project may be eligi
 * You have an idea about how to change the way business is done in the humanitarian sector;
 
 ##What's not in scope
-* *Long-term core staff outside the scope of the programming or innovation identified in the request.* The Innovation Fund can fund any costs associated with the development of new solutions, but is not meant fund long-term core staffing. 
+* Long-term core staff outside the scope of the programming or innovation identified in the request. The Innovation Fund can fund any costs associated with the development of new solutions, but is not meant fund long-term core staffing. 
 
-* *Solutions with no potential to scale.* The project must have potential to scale. Applicants don’t need to have a fully articulated vision for scale in order to apply for funding. However, the Innovation Fund is not for localized solutions or solutions that are completely context-specific. 
+* Solutions with no potential to scale. Applicants don’t need to have a fully articulated vision for scale in order to apply for funding. However, the Innovation Fund is not for localized solutions or solutions that are completely context-specific. 
 
-* *Solutions that will take longer than 5 years to validate.* The project must have the potential to show impact at reasonable scale within 5 years. 
+* Solutions that will take longer than 5 years to validate.
 
-* *Solutions that could be funded through traditional humanitarian funding mechanisms.*
+* Solutions that could be funded through traditional humanitarian funding mechanisms.
 
-* *Technological solutions in search of problems.*
+* Technological solutions in search of problems.
