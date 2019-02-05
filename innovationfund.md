@@ -9,7 +9,7 @@ Fill out one of the forms below to apply for an investment from the Innovation F
 
 The investment request form that you will complete depends on the maturity of your solution. Learn more in the [governance overview](https://docs.google.com/document/d/1yFEU7u67W0CZdzrsoZXGnfT8qUjsfvzlFrFvjzFWKuQ/edit?usp=sharing).
 
-![alt text](https://github.com/theirc/airbel/blob/master/Stage%20gates.PNG?raw=true "stage gates" | width=600)
+![alt text](https://github.com/theirc/airbel/blob/master/Stage%20gates.PNG?raw=true | width=600)
 
 ###[Apply for funding to identify solutions](https://docs.google.com/forms/d/e/1FAIpQLSfFTOISRfh9T9K-B8fNEqm3wSo6XEd_RTNCj7G9LTYBnszLDw/viewform?usp=sf_link)
 [This form](https://docs.google.com/forms/d/e/1FAIpQLSfFTOISRfh9T9K-B8fNEqm3wSo6XEd_RTNCj7G9LTYBnszLDw/viewform?usp=sf_link) is the one for you if any of the following apply:
