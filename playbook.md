@@ -1,7 +1,7 @@
 #Part 1: Manifesto
-The Airbel Playbook answers key questions about who we are, what we do, how we do it, and why. For those new to Airbel, it introduces our philosophy, culture, approach, and structure. For long-time staff and colleagues, it can serve as a refresher or a reference.
+The Airbel Playbook is here to answer key questions about **who** we are, **what** we do, **how** we do it, and **why**. For those new to Airbel, it introduces our philosophy, culture, approach, and structure. For long-time staff and colleagues, it can serve as a refresher or a reference.
 
-Importantly, the Playbook is a one-stop shop for our most important policy documents. If you are looking for specific information about how we make decisions, run projects, and structure staffing, you can find it all here. If something is missing, or you aren't sure what to search for, you can share your feedback at airbel@rescue.org.
+This is a one-stop shop for our most important policy documents. If you are looking for specific information about how we make decisions, run projects, and structure staffing, you can find it all here. If something is missing, or you aren't sure where to find what you need, please let us know at [airbel@rescue.org](mailto:airbel@rescue.org).
 
 The Airbel Playbook was created mainly for Airbel staff, IRC colleagues, and, in some cases, donors and partners.
 
@@ -12,98 +12,46 @@ The International Rescue Committee was founded in 1936 to help people affected b
 ###Airbel mission
 The mission of the Airbel Center is to *design*, *test*, and *scale* life-changing solutions (products, services and delivery systems) for people in crisis
 
-##What principles guide Airbel's work?
-Airbel is at its core multidisciplinary. It brings together a variety of disciplines, including human-centered design, behavioral science, academic research, and strategy to solve challenging problems in the humanitarian sector.
-
-The following principles guide our approach and work: 
-
-* Maintain a bias to action and push to prototyping quickly 
-
-* Build on existing knowledge and research 
-
-* Focus on usability and engagement
-
-* Be ambitious about scale and cost-effectiveness
-
-* Collaborate with colleagues from other disciplines
-
-* Be rigorous about testing for impact
-
-* Uphold the highest ethical standards
-
 ##How do we envision our work changing the world?
-The [Airbel Vision](https://docs.google.com/document/d/1d7xDSNa0Upd4POtqe0jbm8YoGVsSvbzi8BE2QaSve44/edit?usp=sharing) highlights the way in which we go about achieving our mission, and describes the world we'd like to see as a result of these efforts.
-
-![Design, Test, Scale Life-Changing Solutions](https://raw.githubusercontent.com/theirc/airbel/master/Vision%20graphic.png)
+The [Airbel Vision](https://docs.google.com/document/d/1d7xDSNa0Upd4POtqe0jbm8YoGVsSvbzi8BE2QaSve44/edit?usp=sharing) is to design, test, and scale life-changing solutions. 
+ 
+**Design:** User-centered, iterative, and interdisciplinary
+**Test:** Rigorously and tailored to the solution
+**Scale:** Large scale in the most fragile, conflict-affected places, piggybacking on existing infrastructure and institutions
+**Life-changing:** The rights and opportunities to work, learn, access health services and feel safe 
+**Products and services:** Best-in-class approaches, using the right technology for near and future impact
+**Systems:** Finance that is fast and flexible; services that are distributed to maximize reach, speed and equity
 
 ##What is the Airbel culture? What do we value?
 
 **One step beyond the comfort zone.** We are bold and perseverent.
 
-* Make smart-but-risky bets on new ideas 
-
-* Persevere beyond what has been done or known
-
-* Build solutions for the future rather than the present
-
 **Results-Driven.** We center clients in our discussions and decision-making.
-
-* Evaluate work based on how it meets the needs and values of our clients
-
-* Work swiftly and efficiently, recognizing the urgency of the problems we work on
-
-* Set clear KPI and hold ourselves accountable
 
 **Optimistic.** We believe a better world is within our grasp.
 
-* Fail fast and and often, harnessing our deep-seated optimism to constantly improve
-
-* Help one another find what’s working - even when a project faces challenges
-
-* Buttress the corresponding strengths of every weakness
-
 **Curious.** We foster a sense of childlike wonder and pursue answers to difficult questions.
-
-* Seek complicated problems and find motivation in ambiguity
-
-* Create opportunities for critical discussion and continued learning, including leadership from the global south
-
-* Employ skills and disciplines in new (and multi-disciplinary) ways
 
 **Generous.** We acknowledge our own limitations and seek the support and knowledge of others.
 
-* Listen to a wide range of perspectives
-
-* Lift up the ideas and contributions of others
-
-* Help our colleagues to take on opportunities and reach their goals
-
 **Open.** We share what we learn and build.
-
-* Share our methods, skills, time, abilities, information, knowledge, methodologies, services, and products openly and freely
-
-* Make time to share information and teach others about our work
-
-* Make solutions available publicly
 
 Our [Draft Values Document](https://docs.google.com/document/d/1PWWglC37-lbuCS0BQARFECUotCHCDt8gtY7XSILIPQk/edit?usp=sharing) describes our values in detail. 
 
 #Section 2: Deciding what to work on
 ##How do we come up with ideas?
-Airbel sources its ideas in different ways. We're currently working to formalize this process. At the moment we have three main channels for our ideas:
+Airbel sources its ideas in different ways, largely through:
 
-1. Identifying big problem areas or opportunities for innovation through evidence review and design research
+1. Identifying big problem areas or opportunities for innovation through **evidence review** and **design research**
 
-2. Identifying big hunches or hypotheses from experts, advisors, and trends scanning
+2. Identifying big hunches or hypotheses from **experts, advisors, and trends scanning**
 
-3. Identifying big challenges faced by country programs and users
+3. Identifying big challenges faced by **country programs and users**
 
-While a lot of ideas come from within the Airbel team, and the broader team at IRC Headquarters in New York, we are working with our field colleagues to increasingly work on ideas that come from the field - much closer to the problems we are working on.
-
-For example, our Middle East regional hub is sourcing ideas from the region. [*Mahali lab*](https://medium.com/airbel/mahali/home) plays a key role in this effort.
+While a lot of ideas come from within the Airbel team, and the broader team at IRC Headquarters in New York, we are working with our field colleagues to increasingly work on ideas that come from the field. For example, our Middle East regional hub is sourcing ideas from the region. [Mahali lab](https://medium.com/airbel/mahali/home) plays a key role in this effort.
 
 ##How can I propose a project?
-Currently, requests for resources can be made through the [Airbel Investment Request protocol](https://docs.google.com/document/d/1k2YEdWixylbz_ogLvSfd8k6e7VsL1615g86pKYcLzSY/edit?usp=sharing). This will be refined alongside development of the R&D fund and relevant governance procedures.
+An Alpha version of the submissions platform for ideas to the [**Innovation Fund**](https://theirc.github.io/airbel/innovation-fund.html) has been set up here. You can submit a form for any ideas you have for problems to address or solutions to create [here](https://theirc.github.io/airbel/innovation-fund.html).
 
 ##How does Airbel evaluate project ideas and decide where to invest?
 Airbel has a portfolio governance approach which focuses on transparency and accountability, diversified risk, vision & scale, flexibility with clear outcomes, and strategic prioritizagtion.
