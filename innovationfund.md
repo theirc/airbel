@@ -24,8 +24,8 @@ The investment request form that you will complete depends on the maturity of yo
 
 * You need to do desk research to beef up a proposal, including some potential travel
 
-###Apply for funding to design solutions
-This form is the one for you if any of the following apply:
+###[Apply for funding to design solutions](https://docs.google.com/forms/d/e/1FAIpQLSeTatNQ3XbaglomB4QRWxPsk9C0H6CZ04piMq2AGQVmLcaQRw/viewform?usp=sf_link)
+[This form](https://docs.google.com/forms/d/e/1FAIpQLSeTatNQ3XbaglomB4QRWxPsk9C0H6CZ04piMq2AGQVmLcaQRw/viewform?usp=sf_link) is the one for you if any of the following apply:
 
 * You have a solid understanding of the problem you’re working on, backed up by research
 
@@ -41,7 +41,7 @@ This form is the one for you if any of the following apply:
 
 * You want to prototype
 
-###Apply for funding to test my solution
+###[Apply for funding to test my solution](https://goo.gl/forms/3f7SyMMV7eWAa9fC3)
 This form is the one for you if any of the following apply:
 
 * You’re ready to test out your solution through rigorous piloting
@@ -52,7 +52,7 @@ This form is the one for you if any of the following apply:
 
 * You need funding to carry out a randomized control trial or similar test of your project
 
-###Apply for funding to take your solution to scale
+###[Apply for funding to take your solution to scale](https://goo.gl/forms/UooPh6jzblcFu4NG3)
 
 * This form is the one for you if any of the following apply:
 
@@ -60,9 +60,9 @@ This form is the one for you if any of the following apply:
 
 * You want to support a partner to take your solution to scale
 
-Still not sure which form to fill out? Write to airbel@rescue.org 
+Still not sure which form to fill out? Write to [airbel@rescue.org](mailto:airbel@rescue.org)
 
-If none of the above apply, you may be eligible for our general investment fund here.
+If none of the above apply, and you are a member of the Airbel team, you may be eligible for our general [investment fund here](https://docs.google.com/document/d/1k2YEdWixylbz_ogLvSfd8k6e7VsL1615g86pKYcLzSY/edit?usp=sharing).
 
 ##What's in scope
 There’s no one recipe for an innovation project, but your project may be eligible if:
