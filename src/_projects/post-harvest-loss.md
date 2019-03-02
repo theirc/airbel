@@ -95,4 +95,4 @@ To pinpoint the most impactful methods, Sprout is experimenting with 3 distinct 
 
 1. **Positive Practices:** Identifying and promoting existing practices in communities, like hand washing and diversifying the foods children eat, that are associated with SAM prevention, and then introducing choices for additional, relevant practices that women can decide to adopt. Supporting women in changing their ability, motivation, and opportunity to adopt or intensify positive practices.
 2. **Post-Harvest Loss:** Offering an alternative service to current storage practices that better protects against losses of crops from rodents, insects, and fungus; and may offset the cost of operations.
-3. **Cash:** Providing modest quantifies of unconditional cash to pregnant women and caregivers of children under 3 years to prompt the uptake of new behaviors, like eating (rather than selling) eggs or buying soap.
+3. **Cash:** Providing modest quantities of unconditional cash to pregnant women and caregivers of children under 3 years to prompt the uptake of new behaviors, like eating (rather than selling) eggs or buying soap.
