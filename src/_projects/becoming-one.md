@@ -37,17 +37,17 @@ milestones:
     description_markdown: >-
       Impact evaluation begins with 160 faith leaders in Uganda. In
       collaboration with IPA and World Vision.
-  - date: 2017-05-01 00:00:00
-    title: 'Airbel, IPA, and World Vision launch official partnership'
-    link:
-    link_title:
-    description_markdown: Begin preparation for impact evaluation
   - date: 2017-11-01 00:00:00
     title: Uganda. Feasibility and Acceptibility Pilot
     link: >-
       https://docs.google.com/presentation/d/1Yc75x_xlG93Zp7DJb7VC81vXO85IW654GkSbp4nnmg0/edit?usp=sharing
     link_title:
     description_markdown: Pilot the Becoming One curriculum and videos with 40 faith leaders
+  - date: 2017-05-01 00:00:00
+    title: 'Airbel, IPA, and World Vision launch official partnership'
+    link:
+    link_title:
+    description_markdown: Begin preparation for impact evaluation
   - date: 2017-05-01 00:00:00
     title: Protoyped an app for Faith Leaders in Uganda and Ethiopia
     link: >-
