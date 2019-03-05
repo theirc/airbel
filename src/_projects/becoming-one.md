@@ -38,7 +38,7 @@ milestones:
       Impact evaluation begins with 160 faith leaders in Uganda. In
       collaboration with IPA and World Vision.
   - date: 2017-11-01 00:00:00
-    title: Uganda. Feasibility and Acceptibility Pilot
+    title: Uganda. Feasibility and Acceptability Pilot
     link: >-
       https://docs.google.com/presentation/d/1Yc75x_xlG93Zp7DJb7VC81vXO85IW654GkSbp4nnmg0/edit?usp=sharing
     link_title:
