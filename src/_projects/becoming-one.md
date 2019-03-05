@@ -49,7 +49,7 @@ milestones:
     link_title:
     description_markdown: Begin preparation for impact evaluation
   - date: 2017-05-01 00:00:00
-    title: Protoyped an app for Faith Leaders in Uganda and Ethiopia
+    title: Prototyped an app for Faith Leaders in Uganda and Ethiopia
     link: >-
       https://medium.com/airbel/field-notes-gaining-clarity-in-premaritial-counseling-through-prototyping-38bfed667310
     link_title:
