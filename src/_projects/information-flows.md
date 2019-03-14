@@ -10,7 +10,10 @@ geolocation:
   region:
   latitude:
   longitude:
-description:
+description: >-
+  Displaced people live in challenging circumstances where accurate information
+  can become difficult to obtain. Strengthening information flows can aid in
+  decision-making and make their circumstances easier to manage.
 hero_image:
 featured_image:
 featured_video_url:
@@ -24,7 +27,7 @@ articles:
 milestones:
   - date: 2019-02-01 00:00:00
     title: Four focus areas selected for further ideation
-    link: 'https://rescue.box.com/s/g8uujo3o97ic2xhhqfmsw1xmxfxkwirh '
+    link: 'https://rescue.box.com/s/g8uujo3o97ic2xhhqfmsw1xmxfxkwirh'
     link_title: PowerPoint Presentation on Potential Focus Areas
     description_markdown: >-
       Of the eight areas in which initial scoping was conducted, four were
@@ -32,7 +35,7 @@ milestones:
       and information flows.
   - date: 2018-07-01 00:00:00
     title: Scoping exercise to understand problem areas
-    link: 'https://rescue.box.com/s/49dtosybshdew7h7wf9lcnqmcj63b5ih '
+    link: 'https://rescue.box.com/s/49dtosybshdew7h7wf9lcnqmcj63b5ih'
     link_title: Briefs on each problem area
     description_markdown: >-
       Eight problem areas arose from various sources, including community-driven
@@ -42,8 +45,6 @@ milestones:
       delivery, and smart humanitarianism. IRC-Zolberg Fellows and IRC staff
       carried out desk research along with discussions with community members.
 ---
-
-&nbsp;
 
 Displaced people live in challenging circumstances where accurate information can become difficult to obtain. Strengthening information flows can aid in decision-making and make their circumstances easier to manage.
 
