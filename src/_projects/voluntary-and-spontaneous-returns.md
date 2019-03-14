@@ -26,20 +26,24 @@ articles:
 milestones:
   - date: 2019-02-01 00:00:00
     title: Four focus areas selected for further ideation
-    link: 'https://rescue.box.com/s/g8uujo3o97ic2xhhqfmsw1xmxfxkwirh '
+    link: 'https://rescue.box.com/s/g8uujo3o97ic2xhhqfmsw1xmxfxkwirh'
     link_title: PowerPoint Presentation on Potential Focus Areas
     description_markdown: >-
       Of the eight areas in which initial scoping was conducted, four were
       selected: voluntary and spontaneous returns; mental health; urban housing;
       and information flows.
-  - date:
-    title:
-    link:
-    link_title:
-    description_markdown:
+  - date: 2018-07-01 00:00:00
+    title: Scoping exercise to understand problem areas
+    link: 'https://rescue.box.com/s/49dtosybshdew7h7wf9lcnqmcj63b5ih'
+    link_title: Briefs on each problem area
+    description_markdown: >-
+      Eight problem areas arose from various sources, including community-driven
+      Mahali lab, and work in the Jordan and Lebanon country offices. These
+      areas were: urban housing, mental health, cash targeting, market
+      interventions, voluntary returns, information flows, healthcare service
+      delivery, and smart humanitarianism. IRC-Zolberg Fellows and IRC staff
+      carried out desk research along with discussions with community members.
 ---
-
-&nbsp;
 
 More than 5.6 million people fled Syria since 2011, and 6.6 million people have been internally displaced. Last year, three quarters of refugees surveyed stated that they planned to return to Syria at some point in the future. A return process of this scale has not been seen in the history of modern humanitarianism.
 
