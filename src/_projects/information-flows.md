@@ -14,8 +14,8 @@ description: >-
   Displaced people live in challenging circumstances where accurate information
   can become difficult to obtain. Strengthening information flows can aid in
   decision-making and make their circumstances easier to manage.
-hero_image:
-featured_image:
+hero_image: /uploads/20160714-ttodraswhitehill-greece-header.JPG
+featured_image: /uploads/20160714-ttodraswhitehill-greece-18.JPG
 featured_video_url:
 resources:
   - title:
@@ -39,11 +39,12 @@ milestones:
     link_title: Briefs on each problem area
     description_markdown: >-
       Eight problem areas arose from various sources, including community-driven
-      Mahali lab, and work in the Jordan and Lebanon country offices. These
-      areas were: urban housing, mental health, cash targeting, market
-      interventions, voluntary returns, information flows, healthcare service
-      delivery, and smart humanitarianism. IRC-Zolberg Fellows and IRC staff
-      carried out desk research along with discussions with community members.
+      [Mahali lab](https://medium.com/airbel/mahali/home){: target="_blank"},
+      and work in the Jordan and Lebanon country offices. These areas were:
+      urban housing, mental health, cash targeting, market interventions,
+      voluntary returns, information flows, healthcare service delivery, and
+      smart humanitarianism. IRC-Zolberg Fellows and IRC staff carried out desk
+      research along with discussions with community members.
 ---
 
 Displaced people live in challenging circumstances where accurate information can become difficult to obtain. Strengthening information flows can aid in decision-making and make their circumstances easier to manage.
