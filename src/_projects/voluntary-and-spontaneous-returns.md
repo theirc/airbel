@@ -13,8 +13,8 @@ geolocation:
 description: >-
   As people displaced by the Syria crisis begin returning to their homes, new
   approaches will be needed to deal with the unprecedented scale of returns.
-hero_image:
-featured_image:
+hero_image: /uploads/syria-return-header-img.jpeg
+featured_image: /uploads/1ut9kvcnf5kw-e16ckpf-xg.jpeg
 featured_video_url:
 resources:
   - title:
