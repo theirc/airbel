@@ -13,8 +13,8 @@ geolocation:
 description: >-
   Supporting the mental health needs of displaced people will be crucial to
   helping them lay the groundwork for future success.
-hero_image:
-featured_image:
+hero_image: /uploads/20121111-mwinkler-header.JPG
+featured_image: /uploads/20121111-mwinkler-img-0772.JPG
 featured_video_url:
 resources:
   - title:
@@ -24,25 +24,26 @@ articles:
   - title:
     url:
 milestones:
-  - date: 2018-07-01 00:00:00
-    title: Scoping exercise to understand problem areas
-    link: 'https://rescue.box.com/s/49dtosybshdew7h7wf9lcnqmcj63b5ih '
-    link_title: Briefs on each problem area
-    description_markdown: >-
-      Eight problem areas arose from various sources, including community-driven
-      Mahali lab, and work in the Jordan and Lebanon country offices. These
-      areas were: urban housing, mental health, cash targeting, market
-      interventions, voluntary returns, information flows, healthcare service
-      delivery, and smart humanitarianism. IRC-Zolberg Fellows and IRC staff
-      carried out desk research along with discussions with community members.
   - date: 2019-02-01 00:00:00
     title: Four focus areas selected for further ideation
-    link: 'https://rescue.box.com/s/g8uujo3o97ic2xhhqfmsw1xmxfxkwirh '
+    link: 'https://rescue.box.com/s/g8uujo3o97ic2xhhqfmsw1xmxfxkwirh'
     link_title: PowerPoint Presentation on Potential Focus Areas
     description_markdown: >-
       Of the eight areas in which initial scoping was conducted, four were
       selected: voluntary and spontaneous returns; mental health; urban housing;
       and information flows.
+  - date: 2018-07-01 00:00:00
+    title: Scoping exercise to understand problem areas
+    link: 'https://rescue.box.com/s/49dtosybshdew7h7wf9lcnqmcj63b5ih'
+    link_title: Briefs on each problem area
+    description_markdown: >-
+      Eight problem areas arose from various sources, including community-driven
+      [Mahali lab](https://medium.com/airbel/mahali/home){: target="_blank"},
+      and work in the Jordan and Lebanon country offices. These areas were:
+      urban housing, mental health, cash targeting, market interventions,
+      voluntary returns, information flows, healthcare service delivery, and
+      smart humanitarianism. IRC-Zolberg Fellows and IRC staff carried out desk
+      research along with discussions with community members.
 ---
 
 A growing body of research points to the outsized impact of mental health issues in the refugee population. Common mental health disorders like anxiety, depression, and post-traumatic stress disorder tend to double during emergencies, and tend to impact the most vulnerably most powerfully. Mental health issues and poverty also form a self-reinforcing cycle which can make it challenging for people to rebuild after facing trauma.
