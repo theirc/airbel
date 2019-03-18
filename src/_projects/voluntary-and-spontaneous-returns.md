@@ -38,11 +38,12 @@ milestones:
     link_title: Briefs on each problem area
     description_markdown: >-
       Eight problem areas arose from various sources, including community-driven
-      Mahali lab, and work in the Jordan and Lebanon country offices. These
-      areas were: urban housing, mental health, cash targeting, market
-      interventions, voluntary returns, information flows, healthcare service
-      delivery, and smart humanitarianism. IRC-Zolberg Fellows and IRC staff
-      carried out desk research along with discussions with community members.
+      [Mahali Lab](https://medium.com/airbel/mahali/home){: target="_blank"},
+      and work in the Jordan and Lebanon country offices. These areas were:
+      urban housing, mental health, cash targeting, market interventions,
+      voluntary returns, information flows, healthcare service delivery, and
+      smart humanitarianism. IRC-Zolberg Fellows and IRC staff carried out desk
+      research along with discussions with community members.
 ---
 
 More than 5.6 million people fled Syria since 2011, and 6.6 million people have been internally displaced. Last year, three quarters of refugees surveyed stated that they planned to return to Syria at some point in the future. A return process of this scale has not been seen in the history of modern humanitarianism.
