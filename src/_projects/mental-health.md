@@ -45,8 +45,6 @@ milestones:
       and information flows.
 ---
 
-&nbsp;
-
 A growing body of research points to the outsized impact of mental health issues in the refugee population. Common mental health disorders like anxiety, depression, and post-traumatic stress disorder tend to double during emergencies, and tend to impact the most vulnerably most powerfully. Mental health issues and poverty also form a self-reinforcing cycle which can make it challenging for people to rebuild after facing trauma.
 
 Most refugees live in low-income countries, where only 2 percent of health providers are trained in mental health. In Jordan, even prior to the Syria crisis, the WHO estimated that the country faced a shortage of well over 1,000 mental health professionals. Mental illness remains a taboo with significant cultural barriers to identifying challenges and seeking care.
