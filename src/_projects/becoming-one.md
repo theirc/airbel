@@ -39,8 +39,7 @@ milestones:
       collaboration with IPA and World Vision.
   - date: 2017-11-01 00:00:00
     title: Uganda. Feasibility and Acceptability Pilot
-    link: >-
-      https://docs.google.com/presentation/d/1Yc75x_xlG93Zp7DJb7VC81vXO85IW654GkSbp4nnmg0/edit?usp=sharing
+    link: 'https://rescue.box.com/s/pq7wptmop8d72wzra1krjj72431nn336'
     link_title:
     description_markdown: Pilot the Becoming One curriculum and videos with 40 faith leaders
   - date: 2017-05-01 00:00:00
@@ -61,7 +60,7 @@ milestones:
       whether it was more desirable
   - date: 2017-02-01 00:00:00
     title: Prototyping with faith leaders in Liberia
-    link: 'https://rescue.box.com/s/4hgx1an8pjl1peq3st6nuxlgk7cw12tr'
+    link:
     link_title:
     description_markdown:
 ---
