@@ -110,13 +110,14 @@ milestones:
       The team conducts field research and generates sacrificial concepts for
       discussion.
   - date: 2016-03-01 00:00:00
-    title: Project begins
+    title: Project start
     link:
     link_title:
     description_markdown: >-
-      Goal: “Design a flexible and durable learning and teaching experience that
-      dramatically improves a child’s acquisition of Social and Emotional
-      Learning (SEL) and literacy in their primary school years”
+      Coach Erevu begins with the goal to: “design a flexible and durable
+      learning and teaching experience that dramatically improves a child’s
+      acquisition of Social and Emotional Learning (SEL) and literacy in their
+      primary school years”
 ---
 
 #### Why focus on Social-emotional learning?
