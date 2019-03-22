@@ -24,8 +24,7 @@ featured_video_url:
 resources:
   - title: Preventing Intimate Partner Violence at the IRC
     description:
-    url: >-
-      https://docs.google.com/presentation/d/1ukYYh8DYMhnDxsl7E8VN7wYyEARJeYUOXGydJ5fDxQw/edit?usp=sharing
+    url: 'https://rescue.box.com/s/pykc20v38asrul9djxdgvxtfygoehbm3'
 articles:
   - title:
     url:
