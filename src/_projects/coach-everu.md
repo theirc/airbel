@@ -73,12 +73,11 @@ milestones:
     description_markdown: 'Prototyping mobile-based concepts with caregivers, youth and teachers.'
   - date: 2017-09-01 00:00:00
     title: Finalized prototyping plan for teacher concept
-    link: >-
-      https://docs.google.com/presentation/d/11BgROyeG5LeNzI_aOyrfxRFJfXFPDbUWxx-s75gxNUc/edit?usp=sharing
+    link: 'https://rescue.box.com/s/3z5u5ssam2ifz6zxri9n217jisynll8b'
     link_title:
     description_markdown:
   - date: 2017-08-01 00:00:00
-    title: Refined approach to prototyping
+    title: Refined approach to prototyping developed
     link: 'https://rescue.box.com/s/fzzp8f7x3mpxfcol1y3ahrdbcjk63e3w'
     link_title:
     description_markdown:
