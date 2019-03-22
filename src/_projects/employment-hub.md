@@ -85,13 +85,13 @@ milestones:
     link_title:
     description_markdown:
   - date: 2017-03-01 00:00:00
-    title: >-
-      Produce recommendations from initial research and initial design of
-      employment hub completed
+    title: Research results
     link: >-
       https://www.rescue.org/report/solving-refugee-employment-problem-jordan-survey-syrian-refugees
     link_title:
-    description_markdown:
+    description_markdown: >-
+      Recommendations from initial research are published. Initial design of the
+      employment hub is completed.
   - date: 2017-02-01 00:00:00
     title: Develop menu of prototypes based on research findings
     link: 'https://rescue.box.com/s/2frvaw0coteejn810louunzv0pcuyfkk'
