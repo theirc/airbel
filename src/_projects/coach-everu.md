@@ -60,11 +60,14 @@ milestones:
     link_title:
     description_markdown:
   - date: 2017-12-01 00:00:00
-    title: Incorporation of behavioural science into design
+    title: Behavioural science incorporated
     link: >-
       https://medium.com/airbel/how-habits-work-and-can-work-for-our-work-with-refugees-d5a1f4adc661
     link_title:
-    description_markdown:
+    description_markdown: >-
+      Investigated the teacher’s routines and how they spent their breaks and
+      started their lessons, diving deeper into what the habits were, knowing
+      that individuals differ.
   - date: 2017-09-01 00:00:00
     title: Prototyping sprint in Tanzania
     link: >-
@@ -72,7 +75,7 @@ milestones:
     link_title:
     description_markdown: 'Prototyping mobile-based concepts with caregivers, youth and teachers.'
   - date: 2017-08-01 00:00:00
-    title: Refined approach to prototyping developed
+    title: Refined approach to prototyping
     link: 'https://rescue.box.com/s/fzzp8f7x3mpxfcol1y3ahrdbcjk63e3w'
     link_title:
     description_markdown: >-
