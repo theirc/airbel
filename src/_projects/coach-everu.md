@@ -79,17 +79,16 @@ milestones:
     description_markdown:
   - date: 2017-08-01 00:00:00
     title: Refined approach to prototyping
-    link: >-
-      https://docs.google.com/presentation/d/1fGaALulK7mndt273WQ91YH9HK3OrvnsptHQ2HVwSxCo/edit?usp=sharing
+    link: 'https://rescue.box.com/s/fzzp8f7x3mpxfcol1y3ahrdbcjk63e3w'
     link_title:
     description_markdown:
   - date: 2017-06-01 00:00:00
-    title: >-
-      Testing SMS-based cognitive behavioral therapy with teachers in Nyarugusu,
-      Tanzania
+    title: Testing SMS methods
     link:
     link_title:
-    description_markdown:
+    description_markdown: >-
+      Testing SMS-based cognitive behavioral therapy with teachers in Nyarugusu,
+      Tanzania.
   - date: 2017-06-01 00:00:00
     title: Product requirement and project plan
     link: 'https://rescue.box.com/s/xu0dxyzk0pfxaw5ztdmioykcqlf7byc6'
