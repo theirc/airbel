@@ -98,17 +98,17 @@ milestones:
     description_markdown:
   - date: 2016-08-01 00:00:00
     title: Finalized design brief for 3 concepts
-    link: 'https://rescue.box.com/s/kyu9relvusm8w19fv80cd05ek0h9w5wi'
+    link: 'https://rescue.box.com/s/4wn8qq49shabp18qckagctfcf3439vpr'
     link_title:
     description_markdown:
   - date: 2016-06-01 00:00:00
-    title: Initial field research in Niger and Tanzania
+    title: Field research
     link: >-
       https://medium.com/airbel/designing-education-for-the-most-vulnerable-people-8d2eb753edcd
     link_title:
     description_markdown: >-
-      The team conducts field research and generates sacrificial concepts for
-      discussion.
+      The team conducts initial field research in Niger and Tanzania, generating
+      sacrificial concepts for discussion.
   - date: 2016-03-01 00:00:00
     title: Project start
     link:
