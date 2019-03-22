@@ -91,16 +91,21 @@ milestones:
     link_title:
     description_markdown:
   - date: 2017-06-01 00:00:00
-    title: Finalized product requirements and project plan
-    link: >-
-      https://docs.google.com/document/d/1zwd5hLbtIU84QLclauvrawK87TXwGmPMPb08wPCS0s4/edit?usp=sharing
+    title: Product requirement and project plan
+    link: 'https://rescue.box.com/s/xu0dxyzk0pfxaw5ztdmioykcqlf7byc6'
     link_title:
-    description_markdown:
+    description_markdown: >-
+      Finalized product requirements and project plan. This document is an
+      overview of Dandelion’s product requirement, followed by a more detailed
+      project plan. It aims to answer the fundamental questions that will drive
+      our next 12 months of work.
   - date: 2016-08-01 00:00:00
-    title: Finalized design brief for 3 concepts
+    title: Design brief created
     link: 'https://rescue.box.com/s/4wn8qq49shabp18qckagctfcf3439vpr'
     link_title:
-    description_markdown:
+    description_markdown: >-
+      Brief on how to build on user experience for education in conflict areas
+      in Niger and Tanzania.
   - date: 2016-06-01 00:00:00
     title: Field research
     link: >-
