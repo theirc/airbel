@@ -79,13 +79,13 @@ milestones:
     link_title:
     description_markdown:
   - date: 2017-12-01 00:00:00
-    title: Complete systems mapping and planning for employment hub launch
+    title: Systems mapping
     link: >-
       https://docs.google.com/presentation/d/1nIKH_hRJ_oz9m-9IjZXUovLqtS7riseEvSHML8YrdC4/edit?usp=sharing
     link_title:
-    description_markdown:
+    description_markdown: Complete systems mapping and planning for employment hub launch
   - date: 2017-03-01 00:00:00
-    title: Research results
+    title: Research results published
     link: >-
       https://www.rescue.org/report/solving-refugee-employment-problem-jordan-survey-syrian-refugees
     link_title:
@@ -93,10 +93,12 @@ milestones:
       Recommendations from initial research are published. Initial design of the
       employment hub is completed.
   - date: 2017-02-01 00:00:00
-    title: Develop menu of prototypes based on research findings
+    title: Potential prototypes generated
     link: 'https://rescue.box.com/s/2frvaw0coteejn810louunzv0pcuyfkk'
     link_title:
-    description_markdown:
+    description_markdown: >-
+      Opportunity areas for prototyping are identified based upon research
+      conducted so far.
   - date: 2016-10-01 00:00:00
     title: Two research workstreams begin
     link:
@@ -104,11 +106,6 @@ milestones:
     description_markdown: >-
       One workstream focuses on employment opportunities and business process
       outsourcing
-  - date: 2016-11-01 00:00:00
-    title: Initial findings
-    link:
-    link_title: 'https://rescue.box.com/s/7br0yn9d6lwh1irmocbayl0lwtuuds51'
-    description_markdown: Initial findings are summarized and presented.
   - date: 2016-07-01 00:00:00
     title: Blue Ribbon Panel
     link: 'https://rescue.box.com/s/rop8rx87qavza91u2s6pv9aech2z9mn9'
