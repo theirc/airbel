@@ -116,7 +116,7 @@ milestones:
     title: >-
       Convene Blue Ribbon Panel on creating “one million jobs for Syrian
       refugees”
-    link: 'https://rescue.box.com/s/citchy0qr792z5cozxm6lswe6kx4ec1d'
+    link: 'https://rescue.box.com/s/rop8rx87qavza91u2s6pv9aech2z9mn9'
     link_title:
     description_markdown:
   - date: 2016-06-01 00:00:00
