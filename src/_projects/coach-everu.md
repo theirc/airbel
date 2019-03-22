@@ -70,8 +70,7 @@ milestones:
       that individuals differ.
   - date: 2017-09-01 00:00:00
     title: Prototyping sprint in Tanzania
-    link: >-
-      https://docs.google.com/presentation/d/1NGkkGzVKhPbRwZypHfd5OpYWZNLqu0YrEqLBUA1Fem0/edit?usp=sharing
+    link: 'https://rescue.box.com/s/rop8ea30mb8r5xbml8396jzy206yw1vq'
     link_title:
     description_markdown: 'Prototyping mobile-based concepts with caregivers, youth and teachers.'
   - date: 2017-08-01 00:00:00
