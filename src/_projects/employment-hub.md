@@ -80,10 +80,9 @@ milestones:
     description_markdown:
   - date: 2017-12-01 00:00:00
     title: Systems mapping
-    link: >-
-      https://docs.google.com/presentation/d/1nIKH_hRJ_oz9m-9IjZXUovLqtS7riseEvSHML8YrdC4/edit?usp=sharing
+    link: 'https://rescue.box.com/s/tt0d3zf6sj4ho3nogwf17l65cslin4kr'
     link_title:
-    description_markdown: Complete systems mapping and planning for employment hub launch
+    description_markdown: Systems mapping and planning for employment hub conducted.
   - date: 2017-03-01 00:00:00
     title: Research results published
     link: >-
