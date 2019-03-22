@@ -21,8 +21,7 @@ featured_video_url:
 resources:
   - title: Case Study
     description:
-    url: >-
-      https://docs.google.com/presentation/d/1ukYYh8DYMhnDxsl7E8VN7wYyEARJeYUOXGydJ5fDxQw/edit?usp=sharing
+    url: 'https://rescue.box.com/s/oha809u8q4tg1szfnerp4odzi8cigrxu'
 articles:
   - title:
     url:
