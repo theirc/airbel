@@ -104,13 +104,11 @@ milestones:
     description_markdown: >-
       One workstream focuses on employment opportunities and business process
       outsourcing
-  - date: 2016-09-01 00:00:00
-    title: >-
-      Summarize initial findings and evaluate progress made against Jordan
-      Compact
+  - date: 2016-11-01 00:00:00
+    title: Initial findings
     link:
-    link_title:
-    description_markdown:
+    link_title: 'https://rescue.box.com/s/7br0yn9d6lwh1irmocbayl0lwtuuds51'
+    description_markdown: Initial findings are summarized and presented.
   - date: 2016-07-01 00:00:00
     title: Blue Ribbon Panel
     link: 'https://rescue.box.com/s/rop8rx87qavza91u2s6pv9aech2z9mn9'
