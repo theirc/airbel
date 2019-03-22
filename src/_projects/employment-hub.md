@@ -31,45 +31,47 @@ articles:
     url: 'https://www.ft.com/content/fcba4b0f-1558-36b4-be77-e69e2848e275'
 milestones:
   - date: 2018-09-01 00:00:00
-    title: 'Complete prototyping of behavioral interventions, begin piloting'
+    title: Pilot of behavioral interventions
     link:
     link_title:
-    description_markdown:
+    description_markdown: 'Complete prototyping of behavioral interventions, begin piloting.'
   - date: 2018-08-01 00:00:00
-    title: >-
+    title: Algorithm and nudges
+    link:
+    link_title:
+    description_markdown: >-
       Complete basic framework of matching algorithm and prototypes of
       behavioral nudges
+  - date: 2018-07-01 00:00:00
+    title: Cash support begins
     link:
     link_title:
-    description_markdown:
-  - date: 2018-07-01 00:00:00
-    title: >-
+    description_markdown: >-
       Begin delivery of cash support packages to assist beneficiaries with the
       job search
-    link:
-    link_title:
-    description_markdown:
   - date: 2018-05-01 00:00:00
-    title: >-
-      Complete first job placements, begin rapid iteration of service design in
-      response to early learnings
+    title: First job placements
     link:
     link_title:
-    description_markdown:
+    description_markdown: >-
+      Complete first job placements, begin rapid iteration of service design in
+      response to early lessons learned.
   - date: 2018-04-01 00:00:00
-    title: >-
+    title: Focus groups
+    link:
+    link_title:
+    description_markdown: >-
       Conduct focus group discussions with job seekers and firms to test program
       design assumptions; intake of job seekers and firms begins
+  - date: 2018-03-01 00:00:00
+    title: Irbid office established
     link:
     link_title:
-    description_markdown:
+    description_markdown: >-
+      Project Match engaged a team of mobile employment service officers, and
+      established offices in Irbid, Jordan.
   - date: 2018-03-01 00:00:00
-    title: 'Establish offices in Irbid, Jordan'
-    link:
-    link_title:
-    description_markdown: Engage team of mobile employment service officers.
-  - date: 2018-03-01 00:00:00
-    title: Draft initial research plan
+    title: Research plan drafted
     link:
     link_title:
     description_markdown:
