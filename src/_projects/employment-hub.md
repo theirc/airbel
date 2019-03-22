@@ -98,34 +98,34 @@ milestones:
     link_title:
     description_markdown:
   - date: 2016-10-01 00:00:00
-    title: >-
-      Begin simultaneous workstreams researching supply side employment
-      opportunities and constraints and opportunities for business process
-      outsourcing
+    title: Two research workstreams begin
     link: 'https://rescue.box.com/s/1u1tr9dtqt8w6aikr7zdxa79f38etb2m'
     link_title:
-    description_markdown:
+    description_markdown: >-
+      One workstream focuses on employment opportunities and business process
+      outsourcing
   - date: 2016-09-01 00:00:00
     title: >-
       Summarize initial findings and evaluate progress made against Jordan
       Compact
-    link: 'https://rescue.box.com/s/eruyd98scfrttpf6elhoq3y5ke9mex3w'
+    link:
     link_title:
     description_markdown:
   - date: 2016-07-01 00:00:00
-    title: >-
-      Convene Blue Ribbon Panel on creating “one million jobs for Syrian
-      refugees”
+    title: Blue Ribbon Panel
     link: 'https://rescue.box.com/s/rop8rx87qavza91u2s6pv9aech2z9mn9'
     link_title:
-    description_markdown:
+    description_markdown: >-
+      A panel is convened with key stakeholders from various technology and
+      innovation companies on creating “one million jobs for Syrian refugees”
   - date: 2016-06-01 00:00:00
     title: Kick off
     link:
     link_title:
     description_markdown: >-
-      Kick off initial idea generation, evidence review, and firm engagement
-      regarding refugee employment in partnership with McKinsey and Company
+      Initial work around refugee employment begins with McKinsey and Company.
+      This project includes idea generation, evidence review, and firm
+      engagement.
 ---
 
 When mass displacement leads to mass unemployment, both refugees and vulnerable host populations are affected.  Getting refugees into work, and growing the labor market, requires both innovative policy and innovative ideas. In 2016, the Government of Jordan and the international community forged the Jordan Compact, which aims to provide 200,000 employment opportunities to Syrian refugees. One part of the Compact is a set of incentives for employers to hire refugees. To support the Compact and inform the response to future crises, Project Match in Jordan is testing a set of new innovations for matching employers and job seekers.
