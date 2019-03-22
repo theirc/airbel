@@ -94,12 +94,12 @@ milestones:
     description_markdown:
   - date: 2017-02-01 00:00:00
     title: Develop menu of prototypes based on research findings
-    link: 'https://rescue.box.com/s/vok22dvsvgcwrs480dyipvhg3t2hgwnc'
+    link: 'https://rescue.box.com/s/2frvaw0coteejn810louunzv0pcuyfkk'
     link_title:
     description_markdown:
   - date: 2016-10-01 00:00:00
     title: Two research workstreams begin
-    link: 'https://rescue.box.com/s/1u1tr9dtqt8w6aikr7zdxa79f38etb2m'
+    link:
     link_title:
     description_markdown: >-
       One workstream focuses on employment opportunities and business process
