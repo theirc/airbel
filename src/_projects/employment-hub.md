@@ -74,10 +74,10 @@ milestones:
     link_title:
     description_markdown:
   - date: 2018-01-01 00:00:00
-    title: Officially launch Project Match and begin project start-up
-    link: 'https://rescue.box.com/s/77l1lfhbcx8ysacgfyr741m7dxk7sr3g'
+    title: Launch of Project Match
+    link: 'https://rescue.box.com/s/qfgqj9yztrd8pqe26j45f1tddsh7jvvv'
     link_title:
-    description_markdown:
+    description_markdown: Project Match is officially launched. Project start-up begins.
   - date: 2017-12-01 00:00:00
     title: Systems mapping
     link: 'https://rescue.box.com/s/tt0d3zf6sj4ho3nogwf17l65cslin4kr'
