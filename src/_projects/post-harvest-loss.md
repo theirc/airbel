@@ -27,6 +27,22 @@ articles:
   - title: Medium | Malnutrition
     url: 'https://medium.com/airbel/malnutrition/home'
 milestones:
+  - date: 2018-08-01 00:00:00
+    title: >-
+      3 villages were selected for participation in the Tillaberi region of
+      Niger
+    link:
+    link_title:
+    description_markdown: >-
+      One of those villages has an existing community warehouse used for storing
+      food aid from the government and NGOs.
+
+
+      Two community mobilizers per village worked to get to know their community
+      members and build trust with community leaders and caregivers. The
+      mobilizers observed which practices caregivers use for promoting healthy
+      child growth and with the help of IRC nutrition specialists, identified 19
+      positive practices for Sprout to promote.
   - date: 2018-07-01 00:00:00
     title: 'Tillaberi, Niger. Kicked off prototype'
     link: 'https://medium.com/airbel/field-notes-cash-cash-cash-ba1029d22b74'
