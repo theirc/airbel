@@ -27,6 +27,25 @@ articles:
   - title: Medium | Malnutrition
     url: 'https://medium.com/airbel/malnutrition/home'
 milestones:
+  - date: 2018-09-01 00:00:00
+    title: 'Tillaberi, Niger. Caregivers selected for participation in prototype'
+    link:
+    link_title:
+    description_markdown: >-
+      * Twenty caregivers of children under 36 months in each participating
+      village were selected by the community to participate in the Sprout
+      prototype based on the communities definition of “most vulnerable.”
+
+      * Bi-weekly unconditional cash distribution of the equivalent of $5.22 USD
+      was decided upon based on the average cost of adopting 2-3 new positive
+      practices per week and the typical cash spending practices in the
+      communities. The cash is intended to trigger adoption or intensification
+      of positive practices.
+
+      * Airbel designers and community mobilizers worked to design and refine
+      activities that mobilizers will use during bi-weekly household visits to
+      promote positive practices, document their frequency over time, track food
+      consumption of children and families, and track cash use.
   - date: 2018-08-01 00:00:00
     title: 'Tillaberi, Niger. 3 villages selected for participation in prototype'
     link:
