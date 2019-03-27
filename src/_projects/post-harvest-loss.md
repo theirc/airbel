@@ -28,14 +28,13 @@ articles:
     url: 'https://medium.com/airbel/malnutrition/home'
 milestones:
   - date: 2018-08-01 00:00:00
-    title: >-
-      3 villages were selected for participation in the Tillaberi region of
-      Niger
+    title: 'Tillaberi, Niger. 3 villages selected for participation in prototype'
     link:
     link_title:
     description_markdown: >-
-      One of those villages has an existing community warehouse used for storing
-      food aid from the government and NGOs.
+      Three villages were selected for participation in the Tillaberi region of
+      Niger. One of those villages has an existing community warehouse used for
+      storing food aid from the government and NGOs.
 
 
       Two community mobilizers per village worked to get to know their community
