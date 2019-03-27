@@ -27,6 +27,50 @@ articles:
   - title: Medium | Malnutrition
     url: 'https://medium.com/airbel/malnutrition/home'
 milestones:
+  - date: 2019-02-01 00:00:00
+    title: 'Tillaberi, Niger. Over 300 farmers have become warehouse customers.'
+    link:
+    link_title:
+    description_markdown: >-
+      * Mobilizers have good relationships with their households and are seen by
+      caregivers as partners in problem-solving around adoption of positive
+      practices.
+
+      * Some positive practices, such as purchasing fruit (all of which is
+      imported in Niger) and buying soap remains difficult due to the communal
+      nature of resource consumption in the villages.
+
+      * Sprout doubles the amount of cash distributed to $10.43 USD every 2
+      weeks to see how that affects food diversification and hand hygiene
+      practices.
+
+      * Mobilizers recommend further improvements to the activities.
+  - date: 2018-11-01 00:00:00
+    title: 'Tillaberi, Niger. Farmers begin to store goods in the renovated warehouse.'
+    link:
+    link_title:
+    description_markdown: >-
+      * In some cases, farmers are paying the warehouse fee in advance of
+      storing their goods.
+
+      * Cash distribution and household visits by mobilizers begin in Community
+      C.
+  - date: 2018-10-01 00:00:00
+    title: >-
+      Tillaberi, Niger. Community warehouse completes renovations to prevent
+      post-harvest loss
+    link:
+    link_title:
+    description_markdown: >-
+      * In Community C, the community warehouse was renovated to better protect
+      against rodents, insects, and leaks. A community warehouse management
+      committee was convened and trained on warehouse management protocols. The
+      community suggested an appropriate fee for warehouse storage. The fee goes
+      into a fund that is then paid out to caregivers of children until 36
+      months and pregnant women.
+
+      * Cash distribution and household visits by mobilizers begin in
+      Communities A and B.
   - date: 2018-09-01 00:00:00
     title: 'Tillaberi, Niger. Caregivers selected for participation in prototype'
     link:
