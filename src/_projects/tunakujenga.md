@@ -61,24 +61,28 @@ milestones:
     link_title:
     description_markdown:
   - date: 2017-06-01 00:00:00
-    title: Finalized product requirements and project plan
-    link: >-
-      https://docs.google.com/document/d/1zwd5hLbtIU84QLclauvrawK87TXwGmPMPb08wPCS0s4/edit#heading=h.wma4n97vczce
+    title: Product requirement and project plan finalized
+    link: 'https://rescue.box.com/s/xu0dxyzk0pfxaw5ztdmioykcqlf7byc6'
     link_title:
-    description_markdown:
+    description_markdown: >-
+      This document is an overview of Dandelion’s product requirement, followed
+      by a more detailed project plan. It aims to answer the fundamental
+      questions that will drive our next 12 months of work.
   - date: 2016-08-01 00:00:00
-    title: Finalized design brief for 3 concepts
-    link: 'https://rescue.box.com/s/kyu9relvusm8w19fv80cd05ek0h9w5wi'
+    title: Design brief created
+    link: 'https://rescue.box.com/s/4wn8qq49shabp18qckagctfcf3439vpr'
     link_title:
-    description_markdown:
+    description_markdown: >-
+      Brief on how to build on user experience for education in conflict areas
+      in Niger and Tanzania.
   - date: 2016-06-01 00:00:00
-    title: Initial field research in Niger and Tanzania
+    title: Field research
     link: >-
       https://medium.com/airbel/designing-education-for-the-most-vulnerable-people-8d2eb753edcd
     link_title:
     description_markdown: >-
-      The team conducts field research and generates sacrificial concepts for
-      discussion
+      The team conducts initial field research in Niger and Tanzania, generating
+      sacrificial concepts for discussion.
 ---
 
 In partnership with [Ubongo](https://www.ubongo.org/){: target="_blank"}, Africa’s leading children’s edutainment and media company, Tunakujenga aims to cultivate new learning behaviors in the family, focused on teaching children social emotional skills (SEL), such as [grit](https://www.characterlab.org/grit){: target="_blank"} and problem-solving skills. Leveraging the wide reach of television and existing faith-based networks to reach caregivers wherever they are, Tunakujenga builds on existing community practices to encourage family learning and SEL as part of their daily home routines.
