@@ -35,7 +35,7 @@ milestones:
     description_markdown: Rigorous piloting with 140 teachers begins
   - date: 2018-05-01 00:00:00
     title: 4-week high fidelity test
-    link: 'https://github.com/theirc/coach-erevu'
+    link: 'https://rescue.box.com/s/dhnjvnemvufpr5o3e77s65wjk0a0qkga'
     link_title:
     description_markdown: >-
       This rapid test was of the full Coach Erevu product to understand whether
@@ -43,8 +43,7 @@ milestones:
       implementation in Mtendeli, Tanzania.
   - date: 2018-02-01 00:00:00
     title: 'Second round of prototyping with teachers in Mtendeli, Tanzania'
-    link: >-
-      https://docs.google.com/presentation/d/15IPOI_Z_yOiThBoIWomxNAHCPihMcZQBU4Yqkwvur9I/edit?usp=sharing
+    link: 'https://rescue.box.com/s/ta44e516w6p4kq0ct8z28o2ht8m6n1e5'
     link_title:
     description_markdown: >-
       This second round of prototyping coupled the use of a digital coach with
