@@ -85,7 +85,7 @@ milestones:
     link:
     link_title:
     description_markdown: >-
-      Testing SMS-based cognitive behavioral therapy with teachers in Nyarugusu,
+      SMS-based cognitive behavioral therapy tested with teachers in Nyarugusu,
       Tanzania.
   - date: 2017-06-01 00:00:00
     title: Product requirement and project plan
