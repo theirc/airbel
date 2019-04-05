@@ -27,47 +27,37 @@ articles:
   - title:
     url:
 milestones:
-  - date: 2018-09-01 00:00:00
+  - date: 2018-10-01 00:00:00
     title: Pilot Coach Erevu in Tanzania
     link:
-    link_title:
-    description_markdown: Currently in-progress…
-  - date: 2018-06-01 00:00:00
-    title: 'Mtendeli, Tanzania. Synthesis of 4 week pilot of Coach Erevu'
-    link: >-
-      https://docs.google.com/presentation/d/1xGPAkFmrSiwWz3rVud6YTlQ2mYGLIM1CQmt07rU6604/edit?usp=sharing
-    link_title:
-    description_markdown: >-
-      Question: is there evidence to suggest Video Coach increase quality SEL
-      implementation after 3 weeks?
+    link_title: >-
+      https://docs.google.com/presentation/d/1xLokm7pqGOrFEiV3GJvJNm25hvHCg4whaFhMJa0mx6g/edit?usp=sharing
+    description_markdown: Rigorous piloting with 140 teachers begins
   - date: 2018-05-01 00:00:00
-    title: Rapid prototyping of Coach Erevu system
+    title: 4-week high fidelity test
     link: 'https://github.com/theirc/coach-erevu'
     link_title:
-    description_markdown:
-  - date: 2018-05-01 00:00:00
-    title: 'Mtendeli, Tanzania. Refinement of teacher design.'
-    link: >-
-      https://docs.google.com/presentation/d/1xLokm7pqGOrFEiV3GJvJNm25hvHCg4whaFhMJa0mx6g/edit?usp=sharing
-    link_title:
     description_markdown: >-
-      Concept name pivots from *Hekima* to *Coach Erevu* to reflect the pivot in
-      programming.*&nbsp;*
+      This rapid test was of the full Coach Erevu product to understand whether
+      there was evidence to suggest Coach Erevu increased quality SEL
+      implementation in Mtendeli, Tanzania.
   - date: 2018-02-01 00:00:00
     title: 'Second round of prototyping with teachers in Mtendeli, Tanzania'
     link: >-
       https://docs.google.com/presentation/d/15IPOI_Z_yOiThBoIWomxNAHCPihMcZQBU4Yqkwvur9I/edit?usp=sharing
     link_title:
-    description_markdown:
+    description_markdown: >-
+      This second round of prototyping coupled the use of a digital coach with
+      an in-person teacher.
   - date: 2017-12-01 00:00:00
     title: Behavioural science incorporated
     link: >-
       https://medium.com/airbel/how-habits-work-and-can-work-for-our-work-with-refugees-d5a1f4adc661
     link_title:
     description_markdown: >-
-      Investigated the teacher’s routines and how they spent their breaks and
-      started their lessons, diving deeper into what the habits were, knowing
-      that individuals differ.
+      Habit theory used to help develop mobile tools for teachers. Work focused
+      on using interviews and co-design activities to understand teachers'
+      routines, including how they spent breaks and worked on lessons.
   - date: 2017-09-01 00:00:00
     title: Prototyping sprint in Tanzania
     link: 'https://rescue.box.com/s/rop8ea30mb8r5xbml8396jzy206yw1vq'
