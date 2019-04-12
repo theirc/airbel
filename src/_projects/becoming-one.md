@@ -90,16 +90,12 @@ Our program relies on existing structures that the community appreciates and res
 2. Faith leaders spend a lot of time counseling couples through conflict and are highly incentivized to prevent violence as opposed to just respond to it;
 3. Marriage and pre-marital counseling are frequently revenue sources for a church.
 
-&nbsp;
+### **Content and program assets**
 
-&nbsp;
+![](/uploads/site-layout4.jpg)
 
-&nbsp;
+### Becoming One covers three major themes:
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+![](/uploads/bo-3-themes.jpg)
 
 &nbsp;
