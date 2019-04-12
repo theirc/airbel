@@ -112,6 +112,8 @@ Our program relies on existing structures that the community appreciates and res
 
 ### **How does it work?**
 
+&nbsp;
+
 #### 1\. Faith leaders learn digitally
 
 Faith leaders receive a physical Becoming One guide and a tablet with videos on how to conduct sessions, real life scenarios and couple facing videos on harder to discuss topics like sex.
@@ -124,6 +126,8 @@ Becoming One leverages an already existing and large social network of faith lea
 
 #### ![](/uploads/screen-shot-2019-03-19-at-2-35-03-pm.png)
 
+#### &nbsp;
+
 #### 2\. Couples learn
 
 Couples are given a beautiful, full color couples guide that has contextual and relevant illustrations. They attend the Becoming One program once a week for 12 weeks where their local faith leader conducts group sessions and takes them through different lessons focused on everything from calming methods, understanding your partner’s love languages, communicating about consent and desire non-verbally and Bible study.
@@ -132,7 +136,11 @@ The couples guide is an exemplary tool that helps couples remember what they lea
 
 ![](/uploads/quote-2.jpg)
 
+&nbsp;
+
 #### ![](/uploads/quote-3.jpg)
+
+#### &nbsp;
 
 #### ![](/uploads/screen-shot-2019-03-20-at-10-43-18-am.png)
 
@@ -146,12 +154,10 @@ In the following Becoming One group session, the faith leader takes the group th
 
 ### &nbsp;![](/uploads/quote-4.jpg)
 
-#### &nbsp;
-**What's happening now?**
+**What’s happening now?**
 
-Over 1.5  years, we are conducting a full-scale randomized control trial in Uganda to rigorously capture the impact of our design on the prevention of violence. The evaluation launched in September of 2018 in which 140 Faith Leaders and 2381 couples were recruited to receive Becoming One.  
+Over 1.5 years, we are conducting a full-scale randomized control trial in Uganda to rigorously capture the impact of our design on the prevention of violence. The evaluation launched in September of 2018 in which 140 Faith Leaders and 2381 couples were recruited to receive Becoming One.
 
-To measure the effects, our research partners, Innovation for Poverty Action (IPA) is conducting three rounds of surveys with participating couples: a baseline prior to randomization, a midline after the program has concluded for 1 group of couples, and an endline 12 months from the start of the program.
+To measure the effects, our research partners, [Innovations for Poverty Action](https://www.poverty-action.org/){: target="_blank"} (IPA) is conducting three rounds of surveys with participating couples: a baseline prior to randomization, a midline after the program has concluded for 1 group of couples, and an endline 12 months from the start of the program.
 
-During the implementation, we are conducting monitoring activities and interviews with faith leaders to understand how the program is implemented in practice.
-&nbsp;
+During the implementation, we are conducting monitoring activities and interviews with faith leaders to understand how the program is implemented in practice. &nbsp;
