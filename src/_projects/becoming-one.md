@@ -161,3 +161,5 @@ Over 1.5 years, we are conducting a full-scale randomized control trial in Ugand
 To measure the effects, our research partners, [Innovations for Poverty Action](https://www.poverty-action.org/){: target="_blank"} (IPA) is conducting three rounds of surveys with participating couples: a baseline prior to randomization, a midline after the program has concluded for 1 group of couples, and an endline 12 months from the start of the program.
 
 During the implementation, we are conducting monitoring activities and interviews with faith leaders to understand how the program is implemented in practice. &nbsp;
+
+![](/uploads/bo-testimonials.jpg)
