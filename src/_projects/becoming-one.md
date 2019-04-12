@@ -42,18 +42,13 @@ milestones:
       https://drive.google.com/file/d/1iKPIXg711QbBsOWVk4HsYnUSf6S_3MTB/view?usp=sharing
     link_title:
     description_markdown: Becoming One cohort 1 of 3 begins
-  - date: 2017-02-01 00:00:00
-    title:
+  - date: 2018-05-01 00:00:00
+    title: >-
+      Content revisions and research planning for our much larger Randomized
+      Control Trial.
     link:
     link_title:
     description_markdown:
-  - date: 2018-10-01 00:00:00
-    title: Uganda. Launch Impact Evaluation
-    link:
-    link_title:
-    description_markdown: >-
-      Impact evaluation begins with 160 faith leaders in Uganda. In
-      collaboration with IPA and World Vision.
   - date: 2017-11-01 00:00:00
     title: Uganda. Feasibility and Acceptability Pilot
     link: 'https://rescue.box.com/s/pq7wptmop8d72wzra1krjj72431nn336'
