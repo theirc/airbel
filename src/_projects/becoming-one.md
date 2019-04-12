@@ -144,6 +144,14 @@ Couples take what they learned in the group session and put it into practice at 
 
 In the following Becoming One group session, the faith leader takes the group through a discussion of the last week’s home practice and asks the couples to share their experience openly and honestly.
 
-### &nbsp;![](/uploads/quote-4.jpg)**What's happening now?**
+### &nbsp;![](/uploads/quote-4.jpg)
 
-Over 1.5 &nbsp;years, we are conducting a full-scale randomized control trial in Uganda to rigorously capture the impact of our design on the prevention of violence. The evaluation launched in September of 2018 in which 140 Faith Leaders and 2381 couples were recruited to receive Becoming One. &nbsp;
+#### &nbsp;
+**What's happening now?**
+
+Over 1.5  years, we are conducting a full-scale randomized control trial in Uganda to rigorously capture the impact of our design on the prevention of violence. The evaluation launched in September of 2018 in which 140 Faith Leaders and 2381 couples were recruited to receive Becoming One.  
+
+To measure the effects, our research partners, Innovation for Poverty Action (IPA) is conducting three rounds of surveys with participating couples: a baseline prior to randomization, a midline after the program has concluded for 1 group of couples, and an endline 12 months from the start of the program.
+
+During the implementation, we are conducting monitoring activities and interviews with faith leaders to understand how the program is implemented in practice.
+&nbsp;
