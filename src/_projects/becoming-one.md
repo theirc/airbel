@@ -76,7 +76,7 @@ Intimate Partner Violence (IPV) is the most common form of violence against wome
 
 ![](/uploads/sitelayout-text.jpg)
 
-### **What makes Becoming One different? **
+### \*\*What makes Becoming One different? \*\*
 
 ![](/uploads/sitelayout3-text.jpg)
 
@@ -98,4 +98,16 @@ Our program relies on existing structures that the community appreciates and res
 
 ![](/uploads/bo-3-themes.jpg)
 
+### **How does it work?**
+
+#### 1\. Faith leaders learn digitally
+
+Faith leaders receive a physical Becoming One guide and a tablet with videos on how to conduct sessions, real life scenarios and couple facing videos on harder to discuss topics like sex.
+
+We were able to reduce training time and costs by introducing digital training materials. Experience wise, this allowed our faith leaders to learn on their own terms, made training available and accessible at all times and introduced them to new technology that reinforced their position as a leader in the community.
+
+Becoming One
+
 &nbsp;
+
+2\.
