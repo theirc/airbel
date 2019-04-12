@@ -20,7 +20,7 @@ description: >-
   over finances and household duties, sexual consent and pleasure.
 hero_image: /uploads/hero-bo.png
 featured_image: /uploads/header-palava-couple.png
-featured_video_url:
+featured_video_url: 'https://youtu.be/NiAcj19CPx4'
 resources:
   - title: Preventing Intimate Partner Violence at the IRC
     description:
