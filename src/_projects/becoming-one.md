@@ -36,7 +36,7 @@ milestones:
     description_markdown: >-
       By this time a total of 144 faith leaders and over 2,000 couples would
       have completed the full Becoming One program.
-  - date: 2019-09-01 00:00:00
+  - date: 2018-09-01 00:00:00
     title: Impact evaluation
     link: >-
       https://drive.google.com/file/d/1iKPIXg711QbBsOWVk4HsYnUSf6S_3MTB/view?usp=sharing
