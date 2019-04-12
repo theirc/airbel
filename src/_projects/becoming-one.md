@@ -49,6 +49,13 @@ milestones:
     link:
     link_title:
     description_markdown:
+  - date: 2018-01-01 00:00:00
+    title: >-
+      Designed and incorporated new changes to our program based on our pilot
+      results
+    link:
+    link_title:
+    description_markdown:
   - date: 2017-11-01 00:00:00
     title: Uganda. Feasibility and Acceptability Pilot
     link: 'https://rescue.box.com/s/pq7wptmop8d72wzra1krjj72431nn336'
