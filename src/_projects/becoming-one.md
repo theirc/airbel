@@ -64,8 +64,12 @@ milestones:
     description_markdown:
 ---
 
-Humanitarian disasters leave affected populations with severe post-conflict trauma resulting in a myriad of mental health issues, high rates of poverty and reinforced gender inequality. Under these circumstances, Intimate Partner Violence (IPV) becomes both systemic and pervasive.
+Our process began by understanding the magnitude of the problem and how communities were solving it for themselves.
 
-In partnership with Innovations for Poverty Action and World Vision, Becoming One aims to change behaviors, not just attitudes, to prevent partner violence through a couples counseling program delivered by local faith leaders.
+Intimate Partner Violence (IPV) is the most common form of violence against women.
 
-Becoming One leverages an already existing and large social network of faith leaders through World Vision, equipped with engaging and instructional videos on counseling, while couples are provided with materials, such as guidebooks to practice techniques, such as anger management and joint financial decision making, at home. Faith leaders connect these positive behaviors and lessons to biblical principles to achieve lasting change.
+![](/uploads/site-layout2.jpg)
+
+[*\*World Health Organization, 2013*](https://www.who.int/reproductivehealth/publications/violence/9789241564625/en/){: target="_blank"}
+
+&nbsp;
