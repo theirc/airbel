@@ -76,7 +76,7 @@ Intimate Partner Violence (IPV) is the most common form of violence against wome
 
 ![](/uploads/sitelayout-text.jpg)
 
-### \*\*What makes Becoming One different? \*\*
+### **What makes Becoming One different?**
 
 ![](/uploads/sitelayout3-text.jpg)
 
@@ -106,8 +106,19 @@ Faith leaders receive a physical Becoming One guide and a tablet with videos on 
 
 We were able to reduce training time and costs by introducing digital training materials. Experience wise, this allowed our faith leaders to learn on their own terms, made training available and accessible at all times and introduced them to new technology that reinforced their position as a leader in the community.
 
-Becoming One
+Becoming One leverages an already existing and large social network of faith leaders through our partner, World Vision. The program equips church leaders with engaging counseling materials that draws on existing evidence, cognitive behavioral therapy, behavioral science, and Biblical principles to achieve immediate and lasting change.
 
-&nbsp;
 
-2\.
+#### 2\. Couples learn 
+
+Couples are given a beautiful, full color couples guide that has contextual and relevant illustrations. They attend the Becoming One program once a week for 12 weeks where their local faith leader conducts group sessions and takes them through different lessons focused on everything from calming methods, understanding your partner’s love languages, communicating about consent and desire non-verbally and bible study. 
+
+The couples guide is an exemplary tool that helps couples remember what they learned and captures the couple’s growth through activities such as writing vows together and organizing actions that make each other feel loved. It is almost entirely illustrated, designed to be used by illiterate users as an informative and interactive workbook.
+
+#### 3\. Couples practice at home
+Couples take what they learned in the group session and put it into practice at home. Examples of home practice include practicing “warm ups” and getting consent before sex, having hard conversations using new communication skills, and saving money for shared financial goals.
+
+In the following Becoming One group session, the faith leader takes the group through a discussion of the last week’s home practice and asks the couples to share their experience openly and honestly.
+
+
+
