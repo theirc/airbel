@@ -72,4 +72,34 @@ Intimate Partner Violence (IPV) is the most common form of violence against wome
 
 [*\*World Health Organization, 2013*](https://www.who.int/reproductivehealth/publications/violence/9789241564625/en/){: target="_blank"}
 
+### **The problem with current interventions:**
+
+![](/uploads/sitelayout-text.jpg)
+
+### **What makes Becoming One different? **
+
+![](/uploads/sitelayout3-text.jpg)
+
+![](/uploads/731c3603.JPG)
+
+### **Becoming One helps couples build love in their relationship**
+
+Our program relies on existing structures that the community appreciates and respects. In Uganda and many other east African countries, Christian couples are expected and highly motivated to attend pre-marital counseling programs at their local churches. These faith programs were identified during our research as a perfect contact point for preventing intimate partner violence for 3 main reasons:
+
+1. Faith leaders are a trusted source of knowledge and advice, skilled in teaching and counseling;
+2. Faith leaders spend a lot of time counseling couples through conflict and are highly incentivized to prevent violence as opposed to just respond to it;
+3. Marriage and pre-marital counseling are frequently revenue sources for a church.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;
