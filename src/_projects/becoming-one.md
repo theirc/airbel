@@ -30,6 +30,11 @@ articles:
     url:
 milestones:
   - date: 2018-10-01 00:00:00
+    title:
+    link:
+    link_title:
+    description_markdown:
+  - date: 2018-10-01 00:00:00
     title: Uganda. Launch Impact Evaluation
     link:
     link_title:
