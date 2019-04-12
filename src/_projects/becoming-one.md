@@ -134,8 +134,6 @@ The couples guide is an exemplary tool that helps couples remember what they lea
 
 #### ![](/uploads/quote-3.jpg)
 
-&nbsp;
-
 #### ![](/uploads/screen-shot-2019-03-20-at-10-43-18-am.png)
 
 #### &nbsp;
@@ -146,6 +144,6 @@ Couples take what they learned in the group session and put it into practice at 
 
 In the following Becoming One group session, the faith leader takes the group through a discussion of the last week’s home practice and asks the couples to share their experience openly and honestly.
 
-&nbsp;![](/uploads/quote-4.jpg)
+### &nbsp;![](/uploads/quote-4.jpg)**What's happening now?**
 
-&nbsp;
+Over 1.5 &nbsp;years, we are conducting a full-scale randomized control trial in Uganda to rigorously capture the impact of our design on the prevention of violence. The evaluation launched in September of 2018 in which 140 Faith Leaders and 2381 couples were recruited to receive Becoming One. &nbsp;
