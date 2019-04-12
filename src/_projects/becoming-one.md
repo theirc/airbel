@@ -29,11 +29,11 @@ articles:
   - title:
     url:
 milestones:
-  - date: 2018-10-01 00:00:00
-    title:
+  - date: 2019-09-01 00:00:00
+    title: Endline of impact evaluation
     link:
     link_title:
-    description_markdown:
+    description_markdown: By this time a total of 144 faith leaders and over 2,000 couples would have completed the full Becoming One program.
   - date: 2018-10-01 00:00:00
     title: Uganda. Launch Impact Evaluation
     link:
