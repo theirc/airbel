@@ -68,7 +68,7 @@ milestones:
     link: 'https://rescue.box.com/s/pq7wptmop8d72wzra1krjj72431nn336'
     link_title:
     description_markdown: Ran a successful 8 week pilot with 35 faith leaders and over 350 couples
-  - date: 2017-05-01 00:00:00
+  - date: 2017-06-01 00:00:00
     title: Production of new content
     link:
     link_title:
