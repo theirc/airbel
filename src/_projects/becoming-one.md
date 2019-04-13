@@ -37,7 +37,7 @@ milestones:
       By this time a total of 144 faith leaders and over 2,000 couples would
       have completed the full Becoming One program.
   - date: 2018-09-01 00:00:00
-    title: Impact evaluation
+    title: Impact evaluation begins
     link: >-
       https://drive.google.com/file/d/1iKPIXg711QbBsOWVk4HsYnUSf6S_3MTB/view?usp=sharing
     link_title:
@@ -56,16 +56,30 @@ milestones:
     link:
     link_title:
     description_markdown:
-  - date: 2017-11-01 00:00:00
-    title: Uganda. Feasibility and Acceptability Pilot
+  - date: 2017-12-01 00:00:00
+    title: Analyzed results from pilot
+    link:
+    link_title:
+    description_markdown: >-
+      And worked out the costing and scale analysis to bring our program to
+      life.
+  - date: 2017-10-01 00:00:00
+    title: 'Gulu, Uganda. Feasibility and Acceptability Pilot'
     link: 'https://rescue.box.com/s/pq7wptmop8d72wzra1krjj72431nn336'
     link_title:
-    description_markdown: Pilot the Becoming One curriculum and videos with 40 faith leaders
+    description_markdown: Ran a successful 8 week pilot with 35 faith leaders and over 350 couples
+  - date: 2017-05-01 00:00:00
+    title: Production of new content
+    link:
+    link_title:
+    description_markdown: >-
+      We began production of our new content including videos, faith leader,
+      couples guides and all other relevant assets for the program.
   - date: 2017-05-01 00:00:00
     title: 'Airbel, IPA, and World Vision launch official partnership'
     link:
     link_title:
-    description_markdown: Begin preparation for impact evaluation
+    description_markdown:
   - date: 2017-05-01 00:00:00
     title: Prototyped an app for Faith Leaders in Uganda and Ethiopia
     link: >-
