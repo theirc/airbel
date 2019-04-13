@@ -77,25 +77,33 @@ milestones:
       couples guides and all other relevant assets for the program.
   - date: 2017-05-01 00:00:00
     title: 'Airbel, IPA, and World Vision launch official partnership'
-    link:
-    link_title:
-    description_markdown:
-  - date: 2017-05-01 00:00:00
-    title: Prototyped an app for Faith Leaders in Uganda and Ethiopia
     link: >-
       https://medium.com/airbel/field-notes-gaining-clarity-in-premaritial-counseling-through-prototyping-38bfed667310
     link_title:
     description_markdown: >-
-      Tested a 50+ page booklet with Faith Leaders in Uganda and Ethiopia.
-
-
-      Rapidly prototyped an app version of the booklet while in the field to see
-      whether it was more desirable
+      We conducted contextual research and testing in Ethiopia and Uganda with
+      more refined content and prototypes
   - date: 2017-02-01 00:00:00
-    title: Prototyping with faith leaders in Liberia
+    title: Refine prototype and identify communities
     link:
     link_title:
-    description_markdown:
+    description_markdown: >-
+      We refined our prototypes and identified faith communities as a channel
+      for a scalable and sustainable successful intervention.
+  - date: 2017-02-01 00:00:00
+    title: Prototyping with faith leaders
+    link: 'https://rescue.box.com/s/4hgx1an8pjl1peq3st6nuxlgk7cw12tr'
+    link_title:
+    description_markdown: >-
+      We created prototypes and tested them with users including, family
+      members, church leaders and couples.
+  - date: 2016-12-01 00:00:00
+    title: Research in Liberia
+    link:
+    link_title:
+    description_markdown: >-
+      We conducted extensive research in Liberia to understand our users and
+      current prevention methods
 ---
 
 Our process began by understanding the magnitude of the problem and how communities were solving it for themselves.
