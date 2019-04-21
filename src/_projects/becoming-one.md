@@ -114,13 +114,13 @@ Intimate Partner Violence (IPV) is the most common form of violence against wome
 
 [*\*World Health Organization, 2013*](https://www.who.int/reproductivehealth/publications/violence/9789241564625/en/){: target="_blank"}
 
-###  
+### &nbsp;
 
 ### **The problem with current interventions:**
 
 ![](/uploads/sitelayout-text.jpg)
 
-###  
+### &nbsp;
 
 ### **What makes Becoming One different?**
 
@@ -128,7 +128,7 @@ Intimate Partner Violence (IPV) is the most common form of violence against wome
 
 ![](/uploads/731c3603.JPG)
 
-###  
+### &nbsp;
 
 ### **Becoming One helps couples build love in their relationship**
 
@@ -138,23 +138,23 @@ Our program relies on existing structures that the community appreciates and res
 2. Faith leaders spend a lot of time counseling couples through conflict and are highly incentivized to prevent violence as opposed to just respond to it;
 3. Marriage and pre-marital counseling are frequently revenue sources for a church.
 
-###  
+### &nbsp;
 
 ### **Content and program assets**
 
 ![](/uploads/site-layout4.jpg)
 
-###  
+### &nbsp;
 
 ### **Becoming One covers three major themes:**
 
 ![](/uploads/bo-3-themes-1.jpg)
 
-###  
+### &nbsp;
 
 ### **How does it work?**
 
- 
+&nbsp;
 
 #### 1\. Faith leaders learn digitally
 
@@ -168,7 +168,7 @@ Becoming One leverages an already existing and large social network of faith lea
 
 #### ![](/uploads/screen-shot-2019-03-19-at-2-35-03-pm.png)
 
-####  
+#### &nbsp;
 
 #### 2\. Couples learn
 
@@ -178,15 +178,15 @@ The couples guide is an exemplary tool that helps couples remember what they lea
 
 ![](/uploads/quote-2.jpg)
 
- 
+&nbsp;
 
 #### ![](/uploads/quote-3.jpg)
 
-####  
+#### &nbsp;
 
 #### ![](/uploads/screen-shot-2019-03-20-at-10-43-18-am.png)
 
-####  
+#### &nbsp;
 
 #### 3\. Couples practice at home
 
@@ -194,14 +194,14 @@ Couples take what they learned in the group session and put it into practice at 
 
 In the following Becoming One group session, the faith leader takes the group through a discussion of the last week’s home practice and asks the couples to share their experience openly and honestly.
 
-###  ![](/uploads/quote-4.jpg)
+### &nbsp;![](/uploads/quote-4.jpg)
 
-**What’s happening now?**
+### **What’s happening now?**
 
 Over 1.5 years, we are conducting a full-scale randomized control trial in Uganda to rigorously capture the impact of our design on the prevention of violence. The evaluation launched in September of 2018 in which 140 Faith Leaders and 2381 couples were recruited to receive Becoming One.
 
 To measure the effects, our research partners, [Innovations for Poverty Action](https://www.poverty-action.org/){: target="_blank"} (IPA) is conducting three rounds of surveys with participating couples: a baseline prior to randomization, a midline after the program has concluded for 1 group of couples, and an endline 12 months from the start of the program.
 
-During the implementation, we are conducting monitoring activities and interviews with faith leaders to understand how the program is implemented in practice.  
+During the implementation, we are conducting monitoring activities and interviews with faith leaders to understand how the program is implemented in practice. &nbsp;
 
 ![](/uploads/bo-testimonials.jpg)
