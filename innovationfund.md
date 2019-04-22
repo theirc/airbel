@@ -5,7 +5,9 @@ The Innovation Fund provides flexible funding toward the development of innovati
 The Innovation Fund enables the kind of creativity, curiosity and risk-taking that are made difficult by stringent reporting requirements and donor restrictions.
 
 ##Apply now!
-[Fill out this form](https://www.cognitoforms.com/InternationalRescueCommittee2/InnovationFundInvestment) to apply for an investment from the Innovation Fund. Requests of any amount will be considered.
+[Fill out this form](https://www.cognitoforms.com/InternationalRescueCommittee2/InnovationFundInvestment) to apply for an investment from the Innovation Fund. This application is devised to be complementary to the Stage Gate process. Ideally, you should make this request as part of your stage gate proceeding to gain funding to proceed to the next phase.
+
+Requests of any amount will be considered.
 
 Questions? Write to [airbel@rescue.org](mailto:airbel@rescue.org) with "Innovation Fund" in the subject line.
 
