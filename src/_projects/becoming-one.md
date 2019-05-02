@@ -110,13 +110,13 @@ Our process began by understanding the magnitude of the problem and how communit
 
 Intimate Partner Violence (IPV) is the most common form of violence against women.
 
-![](/uploads/731c84738-copy-1.jpg)
+![](/uploads/731c84738-copy-2.jpg)
 
 [*\*World Health Organization, 2013*](https://www.who.int/reproductivehealth/publications/violence/9789241564625/en/){: target="_blank"}
 
 ### **What makes Becoming One different?**
 
-![](/uploads/sitelayout3-text.jpg)
+![](/uploads/731c84738.jpg)
 
 ![](/uploads/731c3603.JPG)
 
@@ -134,13 +134,13 @@ Our program relies on existing structures that the community appreciates and res
 
 ### **Content and program assets**
 
-![](/uploads/site-layout4.jpg)
+![](/uploads/731c84739.jpg)
 
 ### &nbsp;
 
 ### **Becoming One covers three major themes:**
 
-![](/uploads/slices-for-alex10-300.jpg)
+![](/uploads/slices-for-alex10-300-1.jpg)
 
 ### &nbsp;
 
@@ -156,7 +156,7 @@ We were able to reduce training time and costs by introducing digital training m
 
 Becoming One leverages an already existing and large social network of faith leaders through our partner, [World Vision](https://www.wvi.org/){: target="_blank"}. The program equips church leaders with engaging counseling materials that draws on existing evidence, cognitive behavioral therapy, behavioral science, and Biblical principles to achieve immediate and lasting change.
 
-![](/uploads/fl-quote-1.jpg)
+![](/uploads/731c847311-copy.jpg)
 
 #### ![](/uploads/screen-shot-2019-03-19-at-2-35-03-pm.png)
 
@@ -168,13 +168,7 @@ Couples are given a beautiful, full color couples guide that has contextual and 
 
 The couples guide is an exemplary tool that helps couples remember what they learned and captures the couple’s growth through activities such as writing vows together and organizing actions that make each other feel loved. It is almost entirely illustrated, designed to be used by illiterate users as an informative and interactive workbook.
 
-![](/uploads/quote-2.jpg)
-
-&nbsp;
-
-#### ![](/uploads/quote-3.jpg)
-
-#### &nbsp;
+![](/uploads/731c847311-copy-2.jpg)
 
 #### ![](/uploads/screen-shot-2019-03-20-at-10-43-18-am.png)
 
@@ -186,7 +180,7 @@ Couples take what they learned in the group session and put it into practice at 
 
 In the following Becoming One group session, the faith leader takes the group through a discussion of the last week’s home practice and asks the couples to share their experience openly and honestly.
 
-### &nbsp;![](/uploads/quote-4.jpg)
+### &nbsp;![](/uploads/731c847311.jpg)
 
 ### **What’s happening now?**
 
@@ -196,4 +190,4 @@ To measure the effects, our research partners, [Innovations for Poverty Action](
 
 During the implementation, we are conducting monitoring activities and interviews with faith leaders to understand how the program is implemented in practice. &nbsp;
 
-![](/uploads/bo-testimonials.jpg)
+![](/uploads/731c847313.jpg)
