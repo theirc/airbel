@@ -110,17 +110,9 @@ Our process began by understanding the magnitude of the problem and how communit
 
 Intimate Partner Violence (IPV) is the most common form of violence against women.
 
-![](/uploads/site-layout2.jpg)
+![](/uploads/731c84738-copy.jpg)
 
 [*\*World Health Organization, 2013*](https://www.who.int/reproductivehealth/publications/violence/9789241564625/en/){: target="_blank"}
-
-### &nbsp;
-
-### **The problem with current interventions:**
-
-![](/uploads/sitelayout-text.jpg)
-
-### &nbsp;
 
 ### **What makes Becoming One different?**
 
