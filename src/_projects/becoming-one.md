@@ -140,7 +140,7 @@ Our program relies on existing structures that the community appreciates and res
 
 ### **Becoming One covers three major themes:**
 
-![](/uploads/bo-3-themes-1.jpg)
+![](/uploads/slices-for-alex10-300.jpg)
 
 ### &nbsp;
 
