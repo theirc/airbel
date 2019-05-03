@@ -120,8 +120,6 @@ Intimate Partner Violence (IPV) is the most common form of violence against wome
 
 ![](/uploads/731c3603.JPG)
 
-### &nbsp;
-
 ### **Becoming One helps couples build love in their relationship**
 
 Our program relies on existing structures that the community appreciates and respects. In Uganda and many other east African countries, Christian couples are expected and highly motivated to attend pre-marital counseling programs at their local churches. These faith programs were identified during our research as a perfect contact point for preventing intimate partner violence for 3 main reasons:
@@ -130,19 +128,13 @@ Our program relies on existing structures that the community appreciates and res
 2. Faith leaders spend a lot of time counseling couples through conflict and are highly incentivized to prevent violence as opposed to just respond to it;
 3. Marriage and pre-marital counseling are frequently revenue sources for a church.
 
-### &nbsp;
-
 ### **Content and program assets**
 
 ![](/uploads/731c84739.jpg)
 
-### &nbsp;
-
 ### **Becoming One covers three major themes:**
 
 ![](/uploads/slices-for-alex10-300-1.jpg)
-
-### &nbsp;
 
 ### **How does it work?**
 
@@ -156,7 +148,7 @@ We were able to reduce training time and costs by introducing digital training m
 
 Becoming One leverages an already existing and large social network of faith leaders through our partner, [World Vision](https://www.wvi.org/){: target="_blank"}. The program equips church leaders with engaging counseling materials that draws on existing evidence, cognitive behavioral therapy, behavioral science, and Biblical principles to achieve immediate and lasting change.
 
-![](/uploads/731c847311-copy.jpg)
+![](/uploads/731c847311-copy-1.jpg)
 
 #### ![](/uploads/screen-shot-2019-03-19-at-2-35-03-pm.png)
 
@@ -180,7 +172,7 @@ Couples take what they learned in the group session and put it into practice at 
 
 In the following Becoming One group session, the faith leader takes the group through a discussion of the last week’s home practice and asks the couples to share their experience openly and honestly.
 
-### &nbsp;![](/uploads/731c847311.jpg)
+![](/uploads/731c847311.jpg)
 
 ### **What’s happening now?**
 
