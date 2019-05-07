@@ -18,7 +18,7 @@ description: >-
   with local faith leaders, who guide couples through engaging workbooks and
   videos that teach communication skills, emotional regulation, shared control
   over finances and household duties, sexual consent and pleasure.
-hero_image: /uploads/hero-bo.png
+hero_image: /uploads/hero-bo.jpg
 featured_image: /uploads/header-palava-couple.jpg
 featured_video_url: 'https://youtu.be/NiAcj19CPx4'
 resources:
@@ -157,7 +157,7 @@ milestones:
 <h3 class="my-5"><strong>Becoming One covers three major themes:</strong></h3>
 <div class="row align-items-center mb-3 mb-lg-5">
   <div class="col-lg-4">
-    <img src="/uploads/communication.png" class="img-fluid" alt="Communication image">
+    <img src="/uploads/communication.png" class="img-fluid mb-3 mb-lg-0" alt="Communication image">
   </div>
   <div class="col-lg-8">
     <h4><strong>Communication</strong></h4>
@@ -166,7 +166,7 @@ milestones:
 </div>
 <div class="row align-items-center mb-3 mb-lg-5">
   <div class="col-lg-4">
-    <img src="/uploads/finance.png" class="img-fluid" alt="Finance image">
+    <img src="/uploads/finance.png" class="img-fluid mb-3 mb-lg-0" alt="Finance image">
   </div>
   <div class="col-lg-8">
     <h4><strong>Finances</strong></h4>
@@ -175,7 +175,7 @@ milestones:
 </div>
 <div class="row align-items-center mb-3 mb-lg-5">
   <div class="col-lg-4">
-    <img src="/uploads/sex.png" class="img-fluid" alt="Finance image">
+    <img src="/uploads/sex.png" class="img-fluid mb-3 mb-lg-0" alt="Finance image">
   </div>
   <div class="col-lg-8">
     <h4><strong>Sexual Pleasure</strong></h4>
@@ -191,7 +191,7 @@ milestones:
   <p class="mb-0"><mark class="bg-primary">&ldquo;I used to think that I would never get anything good from trainings but this training has opened my heart and has changed me to a new person.&rdquo;</mark></p>
   <p>- Faith Leader</p>
 </div>
-<img src="/uploads/screen-shot-2019-03-19-at-2-35-03-pm.png" class="img-fluid" alt="Becoming one image">
+<img src="/uploads/screen-shot-2019-03-19-at-2-35-03-pm.jpg" class="img-fluid" alt="Becoming one image">
 <h4 class="mt-3">2. Couples learn</h4>
 <p>Couples are given a beautiful, full color couples guide that has contextual and relevant illustrations. They attend the Becoming One program once a week for 12 weeks where their local faith leader conducts group sessions and takes them through different lessons focused on everything from calming methods, understanding your partner’s love languages, communicating about consent and desire non-verbally and Bible study.</p>
 <p>The couples guide is an exemplary tool that helps couples remember what they learned and captures the couple’s growth through activities such as writing vows together and organizing actions that make each other feel loved. It is almost entirely illustrated, designed to be used by illiterate users as an informative and interactive workbook.</p>
@@ -203,7 +203,7 @@ milestones:
   <p>- Becoming One faith leader</p>
 </div>
 
-<img src="/uploads/screen-shot-2019-03-20-at-10-43-18-am.png" class="img-fluid" alt="Becoming one image">
+<img src="/uploads/screen-shot-2019-03-20-at-10-43-18-am.jpg" class="img-fluid" alt="Becoming one image">
 
 <h4 class="mt-3">3. Couples practice at home</h4>
 <p>Couples take what they learned in the group session and put it into practice at home. Examples of home practice include practicing “warm ups” and getting consent before sex, having hard conversations using new communication skills, and saving money for shared financial goals.</p>
