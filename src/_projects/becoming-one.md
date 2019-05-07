@@ -143,14 +143,14 @@ milestones:
 2. Faith leaders spend a lot of time counseling couples through conflict and are highly incentivized to prevent violence as opposed to just respond to it;
 3. Marriage and pre-marital counseling are frequently revenue sources for a church.
 
-<h3><strong>Content and program assets</strong></h3>
+<h3 class="mb-5"><strong>Content and program assets</strong></h3>
 
 <div class="row align-items-center">
   <div class="col-lg-8">
     <img src="/uploads/materials-image.jpg" class="img-fluid mb-3 mb-lg-0">
   </div>
   <div class="col-lg-4">
-    <mark class="bg-primary"><strong>&ldquo;It's like there was a scan to get what was most meaningful and needed for the generation&rdquo;</strong></mark>
+    <mark class="bg-primary h3"><strong>&ldquo;It's like there was a scan to get what was most meaningful and needed for the generation&rdquo;</strong></mark>
     <p> - Christopher, Faith Leader</p>
   </div>
 </div>
