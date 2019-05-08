@@ -225,31 +225,31 @@ milestones:
 "_blank" rel="noopener">Innovations for Poverty Action</a> (IPA) is conducting three rounds of surveys with participating couples: a baseline prior to randomization, a midline after the program has concluded for 1 group of couples, and an endline 12 months from the start of the program.</p>
 <p>During the implementation, we are conducting monitoring activities and interviews with faith leaders to understand how the program is implemented in practice.</p>
 <div class="row mt-5">
-  <div class="col-lg-4">
+  <div class="col-md-6 col-lg-4">
     <img src="/uploads/becoming-one-quote-images-01.jpg" class="img-fluid mb-3" alt="Becoming one image">
   </div>
-  <div class="col-lg-4">
+  <div class="col-md-6 col-lg-4">
     <img src="/uploads/becoming-one-quote-images-02.jpg" class="img-fluid mb-3" alt="Becoming one image">
   </div>
-  <div class="col-lg-4">
+  <div class="col-md-6 col-lg-4">
     <img src="/uploads/becoming-one-quote-images-03.jpg" class="img-fluid mb-3" alt="Becoming one image">
   </div>
-  <div class="col-lg-4">
+  <div class="col-md-6 col-lg-4">
     <img src="/uploads/becoming-one-quote-images-04.jpg" class="img-fluid mb-3" alt="Becoming one image">
   </div>
-  <div class="col-lg-4">
+  <div class="col-md-6 col-lg-4">
     <img src="/uploads/becoming-one-quote-images-05.jpg" class="img-fluid mb-3" alt="Becoming one image">
   </div>
-  <div class="col-lg-4">
+  <div class="col-md-6 col-lg-4">
     <img src="/uploads/becoming-one-quote-images-06.jpg" class="img-fluid mb-3" alt="Becoming one image">
   </div>
-  <div class="col-lg-4">
+  <div class="col-md-6 col-lg-4">
     <img src="/uploads/becoming-one-quote-images-07.jpg" class="img-fluid mb-3" alt="Becoming one image">
   </div>
-  <div class="col-lg-4">
+  <div class="col-md-6 col-lg-4">
     <img src="/uploads/becoming-one-quote-images-08.jpg" class="img-fluid mb-3" alt="Becoming one image">
   </div>
-  <div class="col-lg-4">
+  <div class="col-md-6 col-lg-4">
     <img src="/uploads/becoming-one-quote-images-09.jpg" class="img-fluid mb-3" alt="Becoming one image">
   </div>
 </div>
