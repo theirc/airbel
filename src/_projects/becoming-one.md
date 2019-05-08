@@ -110,9 +110,11 @@ milestones:
 <div class="d-none d-md-block">
   <img src="/uploads/731c84738-copy-2.jpg" class="img-fluid">
 </div>
-<div class="d-block d-md-none text-center">
- <img src="/uploads/graph-01.png" class="img-fluid" alt="Partner violence graphic">
- <img src="/uploads/graph-02.png" class="img-fluid" alt="Partner violence graphic">
+<div class="d-block d-md-none">
+ <img src="/uploads/graph-01.svg" class="img-fluid p-4" alt="Partner violence graphic">
+ <p>In Uganda, <strong>50% of ever-partnered women</strong> aged 15-49 years have experienced intimate partner violence at least once in their lifetime.</p> 
+ <img src="/uploads/graph-02.svg" class="img-fluid p-4" alt="Partner violence graphic">
+ <p>Globally, <strong>35% of women worldwide have experienced either physical and/or sexual violence from an intimate partner.</strong></p>
 </div>
 
 <p class="mt-3 mb-0"><a href="https://www.who.int/reproductivehealth/publications/violence/9789241564625/en/" target="_blank" rel="noopener"><em>*World Health Organization, 2013</em></a></p>
