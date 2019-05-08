@@ -20,7 +20,7 @@ description: >-
   over finances and household duties, sexual consent and pleasure.
 hero_image: /uploads/hero-bo.jpg
 featured_image: /uploads/header-palava-couple.jpg
-featured_video_url: 'https://youtu.be/NiAcj19CPx4'
+featured_video_url:
 resources:
   - title: Preventing Intimate Partner Violence at the IRC
     description:
@@ -186,6 +186,7 @@ milestones:
   </div>
 </div>
 <h3 class="mt-5 mb-4"><strong>How does it work?</strong></h3>
+<iframe style="height: 500px;" src="https://www.youtube.com/embed/NiAcj19CPx4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 <h4 class="mt-4 mb-3"><strong>1. Faith leaders learn digitally</strong></h4>
 <p>Faith leaders receive a physical Becoming One guide and a tablet with videos on how to conduct sessions, real life scenarios and couple facing videos on harder to discuss topics like sex.</p>
 <p>We were able to reduce training time and costs by introducing digital training materials. Experience wise, this allowed our faith leaders to learn on their own terms, made training available and accessible at all times and introduced them to new technology that reinforced their position as a leader in the community.</p>
