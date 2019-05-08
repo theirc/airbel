@@ -111,8 +111,8 @@ milestones:
   <img src="/uploads/731c84738-copy-2.jpg" class="img-fluid">
 </div>
 <div class="d-block d-md-none text-center">
- <img src="/uploads/stats-1.png" class="img-fluid" alt="Partner violence graphic">
- <img src="/uploads/stats-2.png" class="img-fluid" alt="Partner violence graphic">
+ <img src="/uploads/graph-01.png" class="img-fluid" alt="Partner violence graphic">
+ <img src="/uploads/graph-02.png" class="img-fluid" alt="Partner violence graphic">
 </div>
 
 <p class="mt-3 mb-0"><a href="https://www.who.int/reproductivehealth/publications/violence/9789241564625/en/" target="_blank" rel="noopener"><em>*World Health Organization, 2013</em></a></p>
