@@ -110,11 +110,11 @@ Our process began by understanding the magnitude of the problem and how communit
 
 Intimate Partner Violence (IPV) is the most common form of violence against women.
 
-&nbsp;
+![](/uploads/731c84738-copy-3.jpg)
 
 <div class="d-none d-md-block">&nbsp;</div>
 
-<div class="d-block d-md-none"><img class="img-fluid p-4" alt="Partner violence graphic" src="/uploads/graph-01.svg" /><p>In Uganda, <strong>50% of ever-partnered women</strong> aged 15-49 years have experienced intimate partner violence at least once in their lifetime.</p> <img class="img-fluid p-4" alt="Partner violence graphic" src="/uploads/graph-02.svg" /><p>Globally, <strong>35% of women worldwide have experienced either physical and/or sexual violence from an intimate partner.</strong></p></div>
+<div class="d-block d-md-none"><img class="img-fluid p-4" alt="Partner violence graphic" data-cms-popout-id="image-0" src="/uploads/graph-01.svg" /><p>In Uganda, <strong>50% of ever-partnered women</strong> aged 15-49 years have experienced intimate partner violence at least once in their lifetime.</p> <img class="img-fluid p-4" alt="Partner violence graphic" src="/uploads/graph-02.svg" /><p>Globally, <strong>35% of women worldwide have experienced either physical and/or sexual violence from an intimate partner.</strong></p></div>
 
 [*\*World Health Organization, 2013*](https://www.who.int/reproductivehealth/publications/violence/9789241564625/en/){: target="_blank"}
 {: .mt-3.mb-0}
@@ -122,7 +122,7 @@ Intimate Partner Violence (IPV) is the most common form of violence against wome
 ### **What makes Becoming One different?**
 {: .mt-5.mb-4}
 
-<div class="row"><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" data-cms-popout-id="image-0" src="/uploads/why-different-1.jpg" /><p>It is focused on <strong>prevention not response.</strong></p></div></div><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" src="/uploads/why-different-2.jpg" /><p>It is focused on <strong>behavioral change rather than changing attitudes.</strong></p></div></div><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" src="/uploads/why-different-3.jpg" /><p>It uses existing, <strong>already invested systems and messengers to achieve scale and cost efficiency.</strong></p></div></div></div>
+<div class="row"><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" data-cms-popout-id="image-0" src="/uploads/why-different-1.jpg" /><p>It is focused on <strong>prevention not response.</strong></p></div></div><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" data-cms-popout-id="image-2" src="/uploads/why-different-2.jpg" /><p>It is focused on <strong>behavioral change rather than changing attitudes.</strong></p></div></div><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" data-cms-popout-id="image-1" src="/uploads/why-different-3.jpg" /><p>It uses existing, <strong>already invested systems and messengers to achieve scale and cost efficiency.</strong></p></div></div></div>
 
 ![](/uploads/731c3603.JPG){: .img-fluid}
 
@@ -138,12 +138,12 @@ Our program relies on existing structures that the community appreciates and res
 ### **Content and program assets**
 {: .mt-5.mb-4}
 
-<div class="row align-items-center"><div class="col-lg-8"><img class="img-fluid mb-3 mb-lg-0" src="/uploads/materials-image.jpg" /></div><div class="col-lg-4"><mark class="bg-primary">&ldquo;It's like there was a scan to get what was most meaningful and needed for the generation&rdquo;</mark><p>- Christopher, Faith Leader</p></div></div>
+<div class="row align-items-center"><div class="col-lg-8"><img class="img-fluid mb-3 mb-lg-0" data-cms-popout-id="image-3" src="/uploads/materials-image.jpg" /></div><div class="col-lg-4"><mark class="bg-primary">&ldquo;It's like there was a scan to get what was most meaningful and needed for the generation&rdquo;</mark><p>- Christopher, Faith Leader</p></div></div>
 
 ### **Becoming One covers three major themes:**
 {: .mt-5.mb-4}
 
-<div class="row align-items-center mb-3 mb-lg-5"><div class="col-lg-4"><img class="img-fluid mb-3 mb-lg-0" alt="Communication image" src="/uploads/communication.png" /></div><div class="col-lg-8"><h4><strong>Communication</strong></h4><p><strong>Good communication skills leads to better communication between partners and reduces conflict related to violence.</strong> Communication skills help increase positive communication between partners, especially on difficult and potentially contentious topics. It helps problem solve, and to regulate their emotions. Successful interventions such as IMAGE and SASA! Included communication skills in their intervention although these components were not specifically evaluated given the intervention included many components. (Jewkes et al.; Abramsky et al.)</p></div></div>
+<div class="row align-items-center mb-3 mb-lg-5"><div class="col-lg-4"><img class="img-fluid mb-3 mb-lg-0" alt="Communication image" data-cms-popout-id="image-4" src="/uploads/communication.png" /></div><div class="col-lg-8"><h4><strong>Communication</strong></h4><p><strong>Good communication skills leads to better communication between partners and reduces conflict related to violence.</strong> Communication skills help increase positive communication between partners, especially on difficult and potentially contentious topics. It helps problem solve, and to regulate their emotions. Successful interventions such as IMAGE and SASA! Included communication skills in their intervention although these components were not specifically evaluated given the intervention included many components. (Jewkes et al.; Abramsky et al.)</p></div></div>
 
 <div class="row align-items-center mb-3 mb-lg-5"><div class="col-lg-4"><img class="img-fluid mb-3 mb-lg-0" alt="Finance image" src="/uploads/finance.png" /></div><div class="col-lg-8"><h4><strong>Finances</strong></h4><p><strong>Feminist and Economic theory suggest that increasing female control and access to financial resources could lead to reduced violence by increasing a women&rsquo;s bargaining power in the household.</strong> (Bloch and Rao 2002). In practice, interventions that have sought to increase women&rsquo;s economic empowerment within the household have resulted in reduced violence, particularly when combined with training challenging gender norms. (Vyas and Watts 2009).</p></div></div>
 
