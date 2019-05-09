@@ -108,7 +108,7 @@ milestones:
 
 <p>Our process began by understanding the magnitude of the problem and how communities were solving it for themselves.</p><p>Intimate Partner Violence (IPV) is the most common form of violence against women.</p>
 <div class="d-none d-md-block">
-  <img src="/uploads/731c84738-copy-2.jpg" class="img-fluid">
+  <img src="/uploads/stats-desktop.jpg" class="img-fluid">
 </div>
 <div class="d-block d-md-none">
  <img src="/uploads/graph-01.svg" class="img-fluid p-4" alt="Partner violence graphic">
