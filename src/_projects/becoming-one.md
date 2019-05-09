@@ -110,6 +110,8 @@ Our process began by understanding the magnitude of the problem and how communit
 
 Intimate Partner Violence (IPV) is the most common form of violence against women.
 
+&nbsp;
+
 <div class="d-none d-md-block">&nbsp;</div>
 
 <div class="d-block d-md-none"><img class="img-fluid p-4" alt="Partner violence graphic" src="/uploads/graph-01.svg" /><p>In Uganda, <strong>50% of ever-partnered women</strong> aged 15-49 years have experienced intimate partner violence at least once in their lifetime.</p> <img class="img-fluid p-4" alt="Partner violence graphic" src="/uploads/graph-02.svg" /><p>Globally, <strong>35% of women worldwide have experienced either physical and/or sexual violence from an intimate partner.</strong></p></div>
@@ -120,7 +122,7 @@ Intimate Partner Violence (IPV) is the most common form of violence against wome
 ### **What makes Becoming One different?**
 {: .mt-5.mb-4}
 
-<div class="row"><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" src="/uploads/why-different-1.jpg" /><p>It is focused on <strong>prevention not response.</strong></p></div></div><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" src="/uploads/why-different-2.jpg" /><p>It is focused on <strong>behavioral change rather than changing attitudes.</strong></p></div></div><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" src="/uploads/why-different-3.jpg" /><p>It uses existing, <strong>already invested systems and messengers to achieve scale and cost efficiency.</strong></p></div></div></div>
+<div class="row"><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" data-cms-popout-id="image-0" src="/uploads/why-different-1.jpg" /><p>It is focused on <strong>prevention not response.</strong></p></div></div><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" src="/uploads/why-different-2.jpg" /><p>It is focused on <strong>behavioral change rather than changing attitudes.</strong></p></div></div><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" src="/uploads/why-different-3.jpg" /><p>It uses existing, <strong>already invested systems and messengers to achieve scale and cost efficiency.</strong></p></div></div></div>
 
 ![](/uploads/731c3603.JPG){: .img-fluid}
 
