@@ -106,30 +106,43 @@ milestones:
       current prevention methods
 ---
 
-Our process began by understanding the magnitude of the problem and how communities were solving it for themselves.
+<p>Our process began by understanding the magnitude of the problem and how communities were solving it for themselves.</p><p>Intimate Partner Violence (IPV) is the most common form of violence against women.</p>
+<div class="d-none d-md-block">
+  <img src="/uploads/data-graphic-uganda-01.svg" class="img-fluid">
+</div>
+<div class="d-block d-md-none">
+ <img src="/uploads/graph-01.svg" class="img-fluid p-4" alt="Partner violence graphic">
+ <p>In Uganda, <strong>50% of ever-partnered women</strong> aged 15-49 years have experienced intimate partner violence at least once in their lifetime.</p> 
+ <img src="/uploads/graph-02.svg" class="img-fluid p-4" alt="Partner violence graphic">
+ <p>Globally, <strong>35% of women worldwide have experienced either physical and/or sexual violence from an intimate partner.</strong></p>
+</div>
 
-Intimate Partner Violence (IPV) is the most common form of violence against women.
+<p class="mt-3 mb-0"><a href="https://www.who.int/reproductivehealth/publications/violence/9789241564625/en/" target="_blank" rel="noopener"><em>*World Health Organization, 2013</em></a></p>
 
-![](/uploads/731c84738-copy-4.jpg)
-
-<div class="d-none d-md-block">&nbsp;</div>
-
-<div class="d-block d-md-none"><img class="img-fluid p-4" alt="Partner violence graphic" data-cms-popout-id="image-0" src="/uploads/graph-01.svg" /><p>In Uganda, <strong>50% of ever-partnered women</strong> aged 15-49 years have experienced intimate partner violence at least once in their lifetime.</p> <img class="img-fluid p-4" alt="Partner violence graphic" src="/uploads/graph-02.svg" /><p>Globally, <strong>35% of women worldwide have experienced either physical and/or sexual violence from an intimate partner.</strong></p></div>
-
-[*\*World Health Organization, 2013*](https://www.who.int/reproductivehealth/publications/violence/9789241564625/en/){: target="_blank"}
-{: .mt-3.mb-0}
-
-### **What makes Becoming One different?**
-{: .mt-5.mb-4}
-
-<div class="row"><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" data-cms-popout-id="image-0" src="/uploads/why-different-1.jpg" /><p>It is focused on <strong>prevention not response.</strong></p></div></div><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" data-cms-popout-id="image-2" src="/uploads/why-different-2.jpg" /><p>It is focused on <strong>behavioral change rather than changing attitudes.</strong></p></div></div><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" data-cms-popout-id="image-1" src="/uploads/why-different-3.jpg" /><p>It uses existing, <strong>already invested systems and messengers to achieve scale and cost efficiency.</strong></p></div></div></div>
-
-![](/uploads/731c3603.JPG){: .img-fluid}
-
-### **Becoming One helps couples build love in their relationship**
-{: .mt-5.mb-4}
-
-Our program relies on existing structures that the community appreciates and respects. In Uganda and many other east African countries, Christian couples are expected and highly motivated to attend pre-marital counseling programs at their local churches. These faith programs were identified during our research as a perfect contact point for preventing intimate partner violence for 3 main reasons:
+<h3 class="mt-5 mb-4"><strong>What makes Becoming One different?</strong></h3>
+<div class="row">
+  <div class="col-lg-4">
+    <div class="content text-center">
+      <img src="/uploads/why-different-1.jpg" class="img-fluid mb-3">
+      <p>It is focused on <strong>prevention not response.</strong></p>
+    </div>
+  </div>
+  <div class="col-lg-4">
+    <div class="content text-center">
+      <img src="/uploads/why-different-2.jpg" class="img-fluid mb-3">
+      <p>It is focused on <strong>behavioral change rather than changing attitudes.</strong></p>
+    </div>
+  </div>
+  <div class="col-lg-4">
+    <div class="content text-center">
+      <img src="/uploads/why-different-3.jpg" class="img-fluid mb-3">
+      <p>It uses existing, <strong>already invested systems and messengers to achieve scale and cost efficiency.</strong></p>
+    </div>
+  </div>
+</div>
+<img src="/uploads/731c3603.JPG" class="img-fluid">
+<h3 class="mt-5 mb-4"><strong>Becoming One helps couples build love in their relationship</strong></h3>
+<p>Our program relies on existing structures that the community appreciates and respects. In Uganda and many other east African countries, Christian couples are expected and highly motivated to attend pre-marital counseling programs at their local churches. These faith programs were identified during our research as a perfect contact point for preventing intimate partner violence for 3 main reasons:</p>
 
 1. Faith leaders are a trusted source of knowledge and advice, skilled in teaching and counseling;
 2. Faith leaders spend a lot of time counseling couples through conflict and are highly incentivized to prevent violence as opposed to just respond to it;
