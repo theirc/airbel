@@ -5,64 +5,11 @@ The Innovation Fund provides flexible funding toward the development of innovati
 The Innovation Fund enables the kind of creativity, curiosity and risk-taking that are made difficult by stringent reporting requirements and donor restrictions.
 
 ##Apply now!
-Fill out one of the forms below to apply for an investment from the Innovation Fund. Requests of any amount will be considered.
+[Fill out this form](https://www.cognitoforms.com/InternationalRescueCommittee2/InnovationFundInvestment) to apply for an investment from the Innovation Fund. This application is devised to be complementary to the [Stage Gate process](https://rescue.box.com/s/eoqk5o6lgo68reyhgfgh36r3066u2674). Ideally, you should make this request as part of your stage gate proceeding to gain funding to proceed to the next phase.
 
-The investment request form that you will complete depends on the maturity of your solution. Learn more in the [governance overview](https://docs.google.com/document/d/1yFEU7u67W0CZdzrsoZXGnfT8qUjsfvzlFrFvjzFWKuQ/edit?usp=sharing).
+Requests of any amount will be considered.
 
-![alt text](https://github.com/theirc/airbel/blob/master/Stage%20gates-small.PNG?raw=true)
-
-###[Apply for funding to identify solutions](https://docs.google.com/forms/d/e/1FAIpQLSfFTOISRfh9T9K-B8fNEqm3wSo6XEd_RTNCj7G9LTYBnszLDw/viewform?usp=sf_link)
-[This form](https://docs.google.com/forms/d/e/1FAIpQLSfFTOISRfh9T9K-B8fNEqm3wSo6XEd_RTNCj7G9LTYBnszLDw/viewform?usp=sf_link) is the one for you if any of the following apply:
-
-* You’ve identified a big problem and want to understand it better
-
-* You’re at the very early stages of investigating a big problem
-
-* You aren’t sure what solutions to a problem might be, but you want to start generating some 
-
-* You have a vague hypothesis about what might help solve a problem better, but you need to back it up before you start testing
-
-* You need to do desk research to beef up a proposal, including some potential travel
-
-###[Apply for funding to design solutions](https://docs.google.com/forms/d/e/1FAIpQLSeTatNQ3XbaglomB4QRWxPsk9C0H6CZ04piMq2AGQVmLcaQRw/viewform?usp=sf_link)
-[This form](https://docs.google.com/forms/d/e/1FAIpQLSeTatNQ3XbaglomB4QRWxPsk9C0H6CZ04piMq2AGQVmLcaQRw/viewform?usp=sf_link) is the one for you if any of the following apply:
-
-* You have a solid understanding of the problem you’re working on, backed up by research
-
-* You have one or more hypotheses about what could constitute a solution to the problem
-
-* You want to keep brainstorming potential solutions to the problem
-
-* You’re ready to start designing solutions to the problem
-
-* You’re ready to create lo-fi versions of your solution to validate a proof of concept
-
-* You want to iterate on potential solution(s)
-
-* You want to prototype
-
-###[Apply for funding to test a solution](https://goo.gl/forms/3f7SyMMV7eWAa9fC3)
-[This form](https://goo.gl/forms/3f7SyMMV7eWAa9fC3) is the one for you if any of the following apply:
-
-* You’re ready to test out your solution through rigorous piloting
-
-* You need to continue your pilot but with some major pivots
-
-* You want to continue testing by expanding or diversifying your pilot
-
-* You need funding to carry out a randomized control trial or similar test of your project
-
-###[Apply for funding to scale a solution](https://goo.gl/forms/UooPh6jzblcFu4NG3)
-
-* This form is the one for you if any of the following apply:
-
-* You’re ready to take your solution to scale
-
-* You want to support a partner to take your solution to scale
-
-Still not sure which form to fill out? Write to [airbel@rescue.org](mailto:airbel@rescue.org)
-
-If none of the above apply, and you are a member of the Airbel team, you may be eligible for our general [investment fund here](https://docs.google.com/document/d/1k2YEdWixylbz_ogLvSfd8k6e7VsL1615g86pKYcLzSY/edit?usp=sharing).
+Questions? Write to [airbel@rescue.org](mailto:airbel@rescue.org) with "Innovation Fund" in the subject line.
 
 ##What's in scope
 There’s no one recipe for an innovation project, but your project may be eligible if:

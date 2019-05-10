@@ -21,8 +21,7 @@ featured_video_url:
 resources:
   - title: Case Study
     description:
-    url: >-
-      https://docs.google.com/presentation/d/1ukYYh8DYMhnDxsl7E8VN7wYyEARJeYUOXGydJ5fDxQw/edit?usp=sharing
+    url: 'https://rescue.box.com/s/oha809u8q4tg1szfnerp4odzi8cigrxu'
 articles:
   - title:
     url:
@@ -41,8 +40,7 @@ milestones:
       fall.
   - date: 2017-09-01 00:00:00
     title: 'Monrovia, Liberia. 30-day Challenge pilot'
-    link: >-
-      https://docs.google.com/presentation/d/1-MNZ7eMVQdIasGidpR9Lmr-oGAzB9QsqoE8paqWmt6A/edit?usp=sharing
+    link: 'https://rescue.box.com/s/oi947rb1qb7l886aqv0ovkomlzifbqdh'
     link_title:
     description_markdown: Airbel and IPA Liberia pilot Modern Man with 116 men in Monrovia.
   - date: 2017-06-01 00:00:00

@@ -27,6 +27,83 @@ articles:
   - title: Medium | Malnutrition
     url: 'https://medium.com/airbel/malnutrition/home'
 milestones:
+  - date: 2019-02-01 00:00:00
+    title: 'Tillaberi, Niger. Over 300 farmers have become warehouse customers.'
+    link:
+    link_title:
+    description_markdown: >-
+      * Mobilizers have good relationships with their households and are seen by
+      caregivers as partners in problem-solving around adoption of positive
+      practices.
+
+      * Some positive practices, such as purchasing fruit (all of which is
+      imported in Niger) and buying soap remains difficult due to the communal
+      nature of resource consumption in the villages.
+
+      * Sprout doubles the amount of cash distributed to $10.43 USD every 2
+      weeks to see how that affects food diversification and hand hygiene
+      practices.
+
+      * Mobilizers recommend further improvements to the activities.
+  - date: 2018-11-01 00:00:00
+    title: 'Tillaberi, Niger. Farmers begin to store goods in the renovated warehouse.'
+    link:
+    link_title:
+    description_markdown: >-
+      * In some cases, farmers are paying the warehouse fee in advance of
+      storing their goods.
+
+      * Cash distribution and household visits by mobilizers begin in Community
+      C.
+  - date: 2018-10-01 00:00:00
+    title: >-
+      Tillaberi, Niger. Community warehouse completes renovations to prevent
+      post-harvest loss
+    link:
+    link_title:
+    description_markdown: >-
+      * In Community C, the community warehouse was renovated to better protect
+      against rodents, insects, and leaks. A community warehouse management
+      committee was convened and trained on warehouse management protocols. The
+      community suggested an appropriate fee for warehouse storage. The fee goes
+      into a fund that is then paid out to caregivers of children until 36
+      months and pregnant women.
+
+      * Cash distribution and household visits by mobilizers begin in
+      Communities A and B.
+  - date: 2018-09-01 00:00:00
+    title: 'Tillaberi, Niger. Caregivers selected for participation in prototype'
+    link:
+    link_title:
+    description_markdown: >-
+      * Twenty caregivers of children under 36 months in each participating
+      village were selected by the community to participate in the Sprout
+      prototype based on the communities definition of “most vulnerable.”
+
+      * Bi-weekly unconditional cash distribution of the equivalent of $5.22 USD
+      was decided upon based on the average cost of adopting 2-3 new positive
+      practices per week and the typical cash spending practices in the
+      communities. The cash is intended to trigger adoption or intensification
+      of positive practices.
+
+      * Airbel designers and community mobilizers worked to design and refine
+      activities that mobilizers will use during bi-weekly household visits to
+      promote positive practices, document their frequency over time, track food
+      consumption of children and families, and track cash use.
+  - date: 2018-08-01 00:00:00
+    title: 'Tillaberi, Niger. 3 villages selected for participation in prototype'
+    link:
+    link_title:
+    description_markdown: >-
+      * Three villages were selected for participation in the Tillaberi region
+      of Niger. One of those villages has an existing community warehouse used
+      for storing food aid from the government and NGOs.
+
+      * Two community mobilizers per village worked to get to know their
+      community members and build trust with community leaders and caregivers.
+      The mobilizers observed which practices caregivers use for promoting
+      healthy child growth and with the help of IRC nutrition specialists,
+      identified 19 positive practices for Sprout to promote.
   - date: 2018-07-01 00:00:00
     title: 'Tillaberi, Niger. Kicked off prototype'
     link: 'https://medium.com/airbel/field-notes-cash-cash-cash-ba1029d22b74'
@@ -95,4 +172,4 @@ To pinpoint the most impactful methods, Sprout is experimenting with 3 distinct 
 
 1. **Positive Practices:** Identifying and promoting existing practices in communities, like hand washing and diversifying the foods children eat, that are associated with SAM prevention, and then introducing choices for additional, relevant practices that women can decide to adopt. Supporting women in changing their ability, motivation, and opportunity to adopt or intensify positive practices.
 2. **Post-Harvest Loss:** Offering an alternative service to current storage practices that better protects against losses of crops from rodents, insects, and fungus; and may offset the cost of operations.
-3. **Cash:** Providing modest quantifies of unconditional cash to pregnant women and caregivers of children under 3 years to prompt the uptake of new behaviors, like eating (rather than selling) eggs or buying soap.
+3. **Cash:** Providing modest quantities of unconditional cash to pregnant women and caregivers of children under 3 years to prompt the uptake of new behaviors, like eating (rather than selling) eggs or buying soap.

@@ -21,10 +21,7 @@
   profile_image: /uploads/team/rachel.jpg
 - name: Elena Matsui
   title: Innovation Strategy Lead
-  profile_image: /uploads/elena-bw.jpg
-- name: Shirin Ahmed
-  title: Senior Advisor
-  profile_image: /uploads/shirin-bw-square.jpg
+  profile_image: /uploads/image1.jpg
 - name: Carla Lopez
   title: Design Innovation Lead
   profile_image: /uploads/team/carla-bw-1.jpg
@@ -52,6 +49,9 @@
 - name: Chelsea Graham
   title: Knowledge Manager
   profile_image: /uploads/team/chelsea-bw-2.jpg
+- name: Danyah Wafa
+  title: Business Development Manager
+  profile_image: /uploads/danyah-bw-1.jpg
 - name: Tori Crnkovich
   title: Strategy Associate
   profile_image: /uploads/tori-bw.jpg
