@@ -48,9 +48,7 @@ milestones:
 
 33 million children are displaced from their homes because of humanitarian crises. Almost 40% of those children do not have access to formal education. Between funding gaps, political challenges, and poor-to-nonexistent access to educators, it can take months or years for a child to receive adequate education. During this period in a displaced child’s life, education is critical to reducing trauma and stress, creating stability, and generating positive norms around going to school.
 
-Within weeks of a crisis onset and at a low cost-per-child, Pop-Up Learning can deliver locally-relevant, tablet-based learning that fosters emotional support, literacy and numeracy for primary school-aged learners.
-
-Pop-Up adapts to the varying needs of displaced children around the world, including different educational levels and languages.
+Within weeks of a crisis onset and at a low cost-per-child, Pop-Up Learning aims to deliver locally-relevant, tablet-based learning that fosters emotional support, literacy and numeracy for primary school-aged learners. Pop-Up adapts to the varying needs of displaced children around the world, including different educational levels and languages.
 
 #### How it works:
 
@@ -58,6 +56,6 @@ Pop-Up partners with community leaders to transform existing safe spaces, like h
 
 #### First step:
 
-We will begin testing in Cox’s Bazar, Bangladesh, primarily with those displaced by the Rohingya crisis.
-
 Pop-Up aims to fill the critical educational gaps in a displaced child’s life, providing some sense of normalcy, continuity and critical foundational skills while formal education is being established. This product will make it possible to rapidly deploy learning programs in emergencies where no formal education is available and in a way that supports an eventual transition to formal schools.
+
+Pop-Up is beginning to test in Cox’s Bazar, Bangladesh, primarily with those displaced by the Rohingya crisis.
