@@ -3,7 +3,7 @@ layout: project
 title: Pop Up Learning
 tagline: Giving access to learning for children fleeing violence
 status: active
-stage: Generate Solutions
+stage: Prototype
 focuses:
   - education
 geolocation:
