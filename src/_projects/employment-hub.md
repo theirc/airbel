@@ -3,7 +3,7 @@ layout: project
 title: Match
 tagline: 'Combining data, networks and policy to get refugees into work'
 status: active
-stage: Pilot
+stage: Rigorous Evaluation
 focuses:
   - employment
 geolocation:
@@ -124,7 +124,7 @@ milestones:
       engagement.
 ---
 
-When mass displacement leads to mass unemployment, both refugees and vulnerable host populations are affected.  Getting refugees into work, and growing the labor market, requires both innovative policy and innovative ideas. In 2016, the Government of Jordan and the international community forged the Jordan Compact, which aims to provide 200,000 employment opportunities to Syrian refugees. One part of the Compact is a set of incentives for employers to hire refugees. To support the Compact and inform the response to future crises, Project Match in Jordan is testing a set of new innovations for matching employers and job seekers.
+When mass displacement leads to mass unemployment, both refugees and vulnerable host populations are affected. &nbsp;Getting refugees into work, and growing the labor market, requires both innovative policy and innovative ideas. In 2016, the Government of Jordan and the international community forged the Jordan Compact, which aims to provide 200,000 employment opportunities to Syrian refugees. One part of the Compact is a set of incentives for employers to hire refugees. To support the Compact and inform the response to future crises, Project Match in Jordan is testing a set of new innovations for matching employers and job seekers.
 
 Match consists of two core activities:
 
