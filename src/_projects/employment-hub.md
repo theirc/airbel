@@ -30,6 +30,36 @@ articles:
       (paywall)
     url: 'https://www.ft.com/content/fcba4b0f-1558-36b4-be77-e69e2848e275'
 milestones:
+  - date: 2019-09-01 00:00:00
+    title: Conclusion of Randomized Control Trial
+    link:
+    link_title:
+    description_markdown:
+  - date: 2019-03-01 00:00:00
+    title: Exploration of new employment sectors
+    link:
+    link_title:
+    description_markdown: >-
+      Exploring agriculture and service sectors. In addition, development of
+      private sector-oriented interventions begin.
+  - date: 2019-02-01 00:00:00
+    title: Launch of Randomized Control Trial
+    link:
+    link_title:
+    description_markdown: |-
+      This also includes the launch of:
+
+      * job matching algorithm
+      * Thompson algorithm
+      * comprehensive case management platform
+      * new interventions
+  - date: 2019-01-01 00:00:00
+    title: >-
+      Consolidation of year one learning, selection of interventions for
+      testing, and framing of the Randomized Control Trial
+    link:
+    link_title:
+    description_markdown:
   - date: 2018-09-01 00:00:00
     title: Pilot of behavioral interventions
     link:
