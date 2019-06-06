@@ -24,6 +24,11 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2019-05-01 00:00:00
+    title: Small-scale testing takes place in Bangladesh
+    link:
+    link_title:
+    description_markdown:
   - date: 2018-10-01 00:00:00
     title: Pop-Up Learning Supporter Dinner
     link:
@@ -39,11 +44,6 @@ milestones:
     description_markdown: >-
       The feasibility study concluded that Cox’s Bazar, Bangladesh met the
       conditions to serve as a site to prototype Pop-Up Learning.
-  - date: 2019-05-01 00:00:00
-    title: Small-scale testing in Bangladesh
-    link:
-    link_title:
-    description_markdown:
 ---
 
 33 million children are displaced from their homes because of humanitarian crises. Almost 40% of those children do not have access to formal education. Between funding gaps, political challenges, and poor-to-nonexistent access to educators, it can take months or years for a child to receive adequate education. During this period in a displaced child’s life, education is critical to reducing trauma and stress, creating stability, and generating positive norms around going to school.
