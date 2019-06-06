@@ -29,7 +29,7 @@ articles:
 milestones:
   - date: 2019-02-01 00:00:00
     title: 'Tillaberi, Niger. Over 300 farmers have become warehouse customers.'
-    link:
+    link: 'https://rescue.box.com/s/0haf1ketlg0p4194qpvb1ypawpfogtzm'
     link_title:
     description_markdown: >-
       * Mobilizers have good relationships with their households and are seen by
