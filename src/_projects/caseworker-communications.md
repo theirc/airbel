@@ -30,7 +30,7 @@ milestones:
   - date: 2018-06-01 00:00:00
     title: Rollout of expanded pilot to 6 US offices
     link:
-    link_title:
+    link_title: 'https://rescue.box.com/s/ug623yhp6679o3hawnl2e01ouxaxnkik'
     description_markdown:
   - date: 2018-09-01 00:00:00
     title: Pilot and further development
