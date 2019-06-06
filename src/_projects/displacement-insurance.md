@@ -24,20 +24,6 @@ articles:
   - title:
     url:
 milestones:
-  - date: 2017-04-01 00:00:00
-    title: Project begins
-    link: 'https://rescue.box.com/s/14y66hgso9iyejb73zolpglo3myvug0y'
-    link_title:
-    description_markdown: An initial feasibility study is conducted
-  - date: 2018-09-01 00:00:00
-    title: Innovation Labs on risk-based financing held in London & New York City.
-    link:
-    link_title:
-    description_markdown: >-
-      Co-organized by Airbel and DfiD’s Center for Global Disaster Protection,
-      these workshops provide a space to develop innovative financing
-      instruments that can be used to address refugee influxes with key
-      humanitarian and finance partners.
   - date: 2019-06-01 00:00:00
     title: >-
       Report released on challenges and potential solutions in humanitarian
@@ -48,6 +34,20 @@ milestones:
       The report highlights five fundamental challenges in humanitarian
       financing, and several potential solutions, including catastrophe bonds,
       insurance instruments and others.
+  - date: 2018-09-01 00:00:00
+    title: Innovation Labs on risk-based financing held in London & New York City.
+    link:
+    link_title:
+    description_markdown: >-
+      Co-organized by Airbel and DfiD’s Center for Global Disaster Protection,
+      these workshops provide a space to develop innovative financing
+      instruments that can be used to address refugee influxes with key
+      humanitarian and finance partners.
+  - date: 2017-04-01 00:00:00
+    title: Project begins
+    link: 'https://rescue.box.com/s/14y66hgso9iyejb73zolpglo3myvug0y'
+    link_title:
+    description_markdown: An initial feasibility study is conducted
 ---
 
 Available funding is not enough to meet the world’s vast needs for aid. When crises strike or intensify, humanitarian actors often spend their time mobilizing funding rather than directly responding to those in need. This means humanitarian response is often not just too little, but too late.
