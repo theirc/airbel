@@ -49,7 +49,7 @@ articles:
       https://qz.com/1183013/researchers-developed-an-algorithm-to-place-refugees-where-theyre-most-likely-to-find-work/
 milestones:
   - date: 2018-06-01 00:00:00
-    title: Cross-agency partnership towards a pilot
+    title: Cross-agency partnership established
     link: >-
       https://docs.google.com/document/d/18e7XsRGdek4oW_X3rXaVUwk3GalKeHA8eydL-c6CmGk/edit?usp=sharing
     link_title:
