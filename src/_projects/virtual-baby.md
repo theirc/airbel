@@ -25,9 +25,9 @@ articles:
     url:
 milestones:
   - date: 2017-08-01 00:00:00
-    title: What new ideas can design thinking generate for preventing SAM?
+    title: Virtual baby concept developed
     link:
-    link_title:
+    link_title: 'https://rescue.box.com/s/ug623yhp6679o3hawnl2e01ouxaxnkik'
     description_markdown: >-
       Virtual baby concept emerges as a potential way of addressing SAM. Concept
       is not prioritized for initial implementation.
