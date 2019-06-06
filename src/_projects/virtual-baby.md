@@ -26,8 +26,8 @@ articles:
 milestones:
   - date: 2017-08-01 00:00:00
     title: Virtual baby concept developed
-    link:
-    link_title: 'https://rescue.box.com/s/ug623yhp6679o3hawnl2e01ouxaxnkik'
+    link: 'https://rescue.box.com/s/xmhsj0zdo2gv8xxzkc1o8zidvrbo471p'
+    link_title:
     description_markdown: >-
       Virtual baby concept emerges as a potential way of addressing SAM. Concept
       is not prioritized for initial implementation.
