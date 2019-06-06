@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Caseworker Communications
+title: IRC Connect
 tagline: >-
   Streamlining communication between resettlement caseworkers and newly arrived
   refugees
@@ -79,6 +79,11 @@ milestones:
       the timeline, established context for the grant, aligned on pain points to
       solve for, planned for field visit to Atlanta and introduced the pieces of
       the prototype the team will begin to build.
+  - date: 2018-06-01 00:00:00
+    title: Rollout of expanded pilot to 6 US offices
+    link:
+    link_title:
+    description_markdown:
 ---
 
 From the moment refugees arrive in the United States, they have an overwhelming amount of paperwork, appointments, and deadlines they must keep track of in addition to adapting to a new cultural and physical environment. To assist them through this period, the IRC has a team of dedicated caseworkers.
