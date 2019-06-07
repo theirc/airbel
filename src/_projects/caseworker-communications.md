@@ -61,13 +61,13 @@ milestones:
       Team started building the application, in partnership with a developer, in
       an agile and iterative process.
   - date: 2018-05-01 00:00:00
-    title: Field visit
+    title: Field research
     link:
     link_title:
     description_markdown: >-
       The team conducted field research with the IRC Atlanta resettlement office
       to observe the resettlement process firsthand and understand all the
-      touchpoints in this process from both the staff and client’s side.
+      touch-points in this process from both the staff and client’s side.
   - date: 2018-03-01 00:00:00
     title: Internal kick-off
     link: >-
