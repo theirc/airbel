@@ -27,10 +27,10 @@ articles:
   - title:
     url:
 milestones:
-  - date: 2018-05-01 00:00:00
+  - date: 2019-05-01 00:00:00
     title: Rollout of expanded pilot to 6 US offices
-    link:
-    link_title: 'https://rescue.box.com/s/ug623yhp6679o3hawnl2e01ouxaxnkik'
+    link: 'https://rescue.box.com/s/ug623yhp6679o3hawnl2e01ouxaxnkik'
+    link_title:
     description_markdown: >-
       Pilot launches in Wichita, Tucson, Dallas, Seattle, Tallahassee, and New
       Jersey
