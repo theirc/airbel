@@ -25,6 +25,9 @@ resources:
       algorithmic assignment
     description:
     url: 'http://science.sciencemag.org/content/359/6373/325'
+  - title: Overview Concept Note
+    description:
+    url: 'https://rescue.box.com/s/7hne16a6w7i09l4hfl5as2vr6t88z3c7'
 articles:
   - title: >-
       NBC News (Video) - This algorithm can help resettle refugees by giving
