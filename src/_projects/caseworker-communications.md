@@ -35,21 +35,14 @@ milestones:
       Pilot launches in Wichita, Tucson, Dallas, Seattle, Tallahassee, and New
       Jersey
   - date: 2018-09-01 00:00:00
-    title: Pilot and further development
+    title: Pilot begins in Atlanta resettlement office
     link:
     link_title:
     description_markdown: >-
-      Began piloting the product’s core functions with the Atlanta office for
-      user-testing, feedback, data collection and evaluation. The pilot was slow
-      to roll out, due to low client arrival rates at the Atlanta office.
-
-
-      &nbsp;
-
-
-      The team visited the Seattle resettlement office to meet with staff and
-      clients and understand the appetite for, feasibility of and adjustments
-      needed to roll out the application in Seattle.
+      Piloting began to user test the platform, collect data and evaluate its
+      performance. However, low refugee arrivals nationally, and a moratorium in
+      Atlanta due to&nbsp;a lowering of the annual refugee ceiling for 2019
+      meant that the solution couldn't be tested with enough cases.
   - date: 2018-08-01 00:00:00
     title: Production and adjustment
     link:
