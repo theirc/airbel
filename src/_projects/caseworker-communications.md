@@ -42,7 +42,8 @@ milestones:
       Piloting began to user test the platform, collect data and evaluate its
       performance. However, low refugee arrivals nationally, and a moratorium in
       Atlanta due to&nbsp;a lowering of the annual refugee ceiling for 2019
-      meant that the solution couldn't be tested with enough cases.
+      meant that the solution couldn't be tested with enough cases. Some
+      software issues identified.
   - date: 2018-08-01 00:00:00
     title: Production and adjustment
     link:
