@@ -28,12 +28,14 @@ articles:
     url:
 milestones:
   - date: 2019-05-01 00:00:00
-    title: Rollout of expanded pilot to 6 US offices
+    title: Pilot expands to 6 US resettlement offices
     link: 'https://rescue.box.com/s/ug623yhp6679o3hawnl2e01ouxaxnkik'
     link_title:
     description_markdown: >-
-      Pilot launches in Wichita, Tucson, Dallas, Seattle, Tallahassee, and New
-      Jersey
+      Pilot begins in Wichita, Tucson, Dallas, Seattle, Tallahassee, and New
+      Jersey. The aim is to reach over 100 users across the U.S. and conduct an
+      evaluation to show improvements in resettlement outcomes for both clients
+      and caseworkers.
   - date: 2018-09-01 00:00:00
     title: Pilot begins in Atlanta resettlement office
     link:
