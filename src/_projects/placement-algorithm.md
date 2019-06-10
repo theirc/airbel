@@ -25,6 +25,9 @@ resources:
       algorithmic assignment
     description:
     url: 'http://science.sciencemag.org/content/359/6373/325'
+  - title: Overview Concept Note
+    description:
+    url: 'https://rescue.box.com/s/7hne16a6w7i09l4hfl5as2vr6t88z3c7'
 articles:
   - title: >-
       NBC News (Video) - This algorithm can help resettle refugees by giving
@@ -49,7 +52,7 @@ articles:
       https://qz.com/1183013/researchers-developed-an-algorithm-to-place-refugees-where-theyre-most-likely-to-find-work/
 milestones:
   - date: 2018-06-01 00:00:00
-    title: Cross-agency partnership towards a pilot
+    title: Cross-agency partnership established
     link: >-
       https://docs.google.com/document/d/18e7XsRGdek4oW_X3rXaVUwk3GalKeHA8eydL-c6CmGk/edit?usp=sharing
     link_title:
@@ -101,6 +104,4 @@ milestones:
 
 Moving somewhere new is challenging under the best circumstances. It’s especially difficult for refugees, who are driven from their homes by conflict or major threats. Refugee resettlement offers one of the most transformative opportunities to those affected by conflict. When refugees are resettled in the United States, resettlement agencies like the International Rescue Committee determine where to send refugees and caseworkers have played a critical role in helping refugees adapt to new places.
 
-The community where refugees are placed is generally dictated by need and availability. But data shows what common sense states: different people are likely to succeed in different circumstances. Enter the placement algorithm - a collaboration between Stanford and the Airbel Center that analyzes historical data on refugee demographics, local market conditions, individual preferences and outcomes to generate predictions that suggest an ideal location for resettled refugees. This actionable information can then be used to inform decisions about where to place refugees in the U.S. We ultimately aim to scale this approach to help identify where we can place refugees globally. &nbsp;
-
-Placement Algorithm is part of a larger enterprise to revolutionize refugee resettlement, by harnessing private capital, data and volunteers to change the calculus for host countries in determining whether they resettle—and enable many more refugees to start a new life in a welcoming country. Other components include [Resettlement Finance](/projects/resettlement-finance/), a self-sustaining fund provides countries with finance for refugee resettlement, as well as a digital co-sponsorship platform, that mobilizes sponsors to welcome refugees as they arrive. Together, these various components aim to positively change the experience for refugees and host countries. Ultimately, this more sustainable model could increase the volume of refugees resettled globally.&shy;
+The community where refugees are placed is generally dictated by need and availability. But data shows what common sense states: different people are likely to succeed in different circumstances. Enter the placement algorithm - a collaboration between Stanford and the Airbel Center that analyzes historical data on refugee demographics, local market conditions, individual preferences and outcomes to generate predictions that suggest an ideal location for resettled refugees. This actionable information can then be used to inform decisions about where to place refugees in the U.S. We ultimately aim to scale this approach to help identify where we can place refugees globally.

@@ -19,9 +19,9 @@
 - name: Rachel Lehrer
   title: 'Associate Director, Design & Innovation'
   profile_image: /uploads/team/rachel.jpg
-- name: Shirin Ahmed
-  title: Senior Advisor
-  profile_image: /uploads/shirin-bw-square.jpg
+- name: Elena Matsui
+  title: Innovation Strategy Lead
+  profile_image: /uploads/image1.jpg
 - name: Carla Lopez
   title: Design Innovation Lead
   profile_image: /uploads/team/carla-bw-1.jpg
@@ -35,7 +35,7 @@
   title: 'Senior Coordinator, Grants & Operations'
   profile_image: /uploads/team/nick-bw.jpg
 - name: Robert Rutherford
-  title: Grants and Program Manager
+  title: Senior Grants and Program Manager
   profile_image: /uploads/team/rob.jpg
 - name: Logan Cummings
   title: 'Advisor, Innovation Strategy'
@@ -44,11 +44,14 @@
   title: Behavioral Insights Lead
   profile_image: /uploads/team/headshot-karen-bw.jpg
 - name: Alex Bandea
-  title: Communications Associate
+  title: Communications Manager
   profile_image: /uploads/team/alex.jpg
 - name: Chelsea Graham
   title: Knowledge Manager
   profile_image: /uploads/team/chelsea-bw-2.jpg
-- name: Indrani Das
+- name: Danyah Wafa
+  title: Business Development Manager
+  profile_image: /uploads/danyah-bw-1.jpg
+- name: Tori Crnkovich
   title: Strategy Associate
-  profile_image: /uploads/indrani-bw-temp.jpg
+  profile_image: /uploads/tori-bw.jpg

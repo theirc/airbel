@@ -3,7 +3,7 @@ layout: project
 title: Displacement Insurance
 tagline: Insuring against crisis to speed up response and save lives
 status: active
-stage: Research
+stage: Generate Solutions
 focuses:
   - financing
 geolocation:
@@ -24,20 +24,37 @@ articles:
   - title:
     url:
 milestones:
-  - date: 2018-09-01 00:00:00
-    title: Risk-Based Financing Innovation Lab in London & New York City.
+  - date: 2019-06-01 00:00:00
+    title: >-
+      Report released on challenges and potential solutions in humanitarian
+      finance
     link:
     link_title:
     description_markdown: >-
-      Co-organized by Airbel and DfiD’s Center for Global Disaster Protection,
-      these workshops provide a space to develop innovative financing
-      instruments that can be used to address refugee influxes with key
-      humanitarian and finance partners.
+      The report highlights five fundamental challenges in humanitarian
+      financing, and several potential solutions, including catastrophe bonds,
+      insurance instruments and others.
+  - date: 2018-11-01 00:00:00
+    title: Innovation Lab in New York
+    link:
+    link_title:
+    description_markdown: >-
+      This second innovation lab was co-organized by Airbel and DfiD’s Center
+      for Global Disaster Protection to discuss innovative financing instruments
+      for addressing refugee influxes with key humanitarian and finance partners
+  - date: 2018-09-01 00:00:00
+    title: Innovation Lab in London
+    link:
+    link_title:
+    description_markdown: >-
+      This first innovation lab was co-organized by Airbel and DfiD’s Center for
+      Global Disaster Protection to discuss innovative financing instruments for
+      addressing refugee influxes with key humanitarian and finance partners
   - date: 2017-04-01 00:00:00
-    title: Project begins with an initial feasibility study
+    title: Project begins
     link: 'https://rescue.box.com/s/14y66hgso9iyejb73zolpglo3myvug0y'
-    link_title: Resource
-    description_markdown:
+    link_title:
+    description_markdown: An initial feasibility study is conducted
 ---
 
 Available funding is not enough to meet the world’s vast needs for aid. When crises strike or intensify, humanitarian actors often spend their time mobilizing funding rather than directly responding to those in need. This means humanitarian response is often not just too little, but too late.
@@ -46,4 +63,6 @@ Displacement insurance would help countries and NGOs access the funds needed to 
 
 Displacement insurance has the ability to transform the sector by re-structuring the financial incentives that shape the way humanitarian response happens.
 
-Currently, Airbel is working with United Kingdom’s Department for International Development’s Center for Global Disaster Protection to gain a better picture of the market for risk-based financing products. This research aims to create a groundbreaking, innovative and lifesaving redesign of humanitarian crisis response funding.
+Airbel is working with United Kingdom’s Department for International Development’s Centre for Global Disaster Protection to assess the potential to use risk-based financing approaches to respond to refugee influxes. This work has identified five fundamental challenges in humanitarian financing, and developed a number of potential risk-based financing solutions to address those challenges, including catastrophe bonds, insurance instruments, and others.
+
+Over the past year, the Airbel Center and DfID’s Centre for Disaster Protection have conducted a landscaping and series of Innovation Labs to assess the potential to use risk-based financing approaches to respond to refugee influxes. Through this process, we identified five fundamental challenges in humanitarian financing and developed a number of potential risk-based financing solutions to address those challenges, including catastrophe bonds, insurance instruments and others.
