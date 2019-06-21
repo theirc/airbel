@@ -10,9 +10,7 @@ geolocation:
   region:
   latitude:
   longitude:
-description: >-
-  Displacement insurance disburses funds for swift life-saving action during
-  crises, with an overall aim to make humanitarian aid more agile.
+description:
 hero_image: /uploads/hero-displacement-insurance-1.jpeg
 featured_image: /uploads/20180824-kryan-drc-ebola-8.jpg
 featured_video_url:
@@ -60,6 +58,6 @@ milestones:
       insurance is the initial topic explored.
 ---
 
-Available funding is not enough to meet the world’s vast needs for aid. When crises strike or intensify, humanitarian actors often spend their time mobilizing funding rather than directly responding to those in need. This means humanitarian response is often not just too little, but too late.
+Available funding is not enough to meet the world’s vast needs for aid. When crises strike or intensify, humanitarian actors often spend their time mobilizing funding rather than directly responding to those in need. This means humanitarian response is often not just too little, but too late. But humanitarian finance is changing, with advances in innovative finance, and new opportunities opened up through data science and computation.&nbsp;
 
-Airbel is working with United Kingdom’s Department for International Development’s Centre for Global Disaster Protection to assess the potential to use risk-based financing approaches to respond to refugee influxes. This work has identified five fundamental challenges in humanitarian financing, and developed a number of potential risk-based financing solutions to address those challenges, including catastrophe bonds, insurance instruments, and others.
+Together with the DFID's Centre for Global Disaster Protection, Airbel is working to assess the potential to use risk-based financing approaches to respond to refugee influxes. This work has identified five fundamental challenges in humanitarian financing around its speed, duration, use, incentives, and demand. A number of potential risk-based financing solutions have been developed to address those challenges, including catastrophe bonds, insurance instruments, and others.
