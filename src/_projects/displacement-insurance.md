@@ -54,7 +54,10 @@ milestones:
     title: Project begins
     link: 'https://rescue.box.com/s/14y66hgso9iyejb73zolpglo3myvug0y'
     link_title:
-    description_markdown: An initial feasibility study is conducted
+    description_markdown: >-
+      An initial feasibility study is conducted to identify financial
+      instruments with the potential to address refugee influxes. Displacement
+      insurance is the initial topic explored.
 ---
 
 Available funding is not enough to meet the world’s vast needs for aid. When crises strike or intensify, humanitarian actors often spend their time mobilizing funding rather than directly responding to those in need. This means humanitarian response is often not just too little, but too late.
