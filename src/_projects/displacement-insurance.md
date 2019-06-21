@@ -26,7 +26,8 @@ milestones:
     title: >-
       Report released on challenges and potential solutions in humanitarian
       finance
-    link:
+    link: >-
+      https://www.disasterprotection.org/innovative-financing-for-refugee-crises?utm_content=buffer810f6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
     link_title:
     description_markdown: >-
       The report highlights five fundamental challenges in humanitarian
