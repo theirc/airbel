@@ -67,8 +67,8 @@ milestones:
     description_markdown: 'Complete prototyping of behavioral interventions, begin piloting.'
   - date: 2018-08-01 00:00:00
     title: Algorithm and nudges
-    link:
-    link_title:
+    link: 'https://rescue.box.com/s/xigt4vi4i2qq41hsnwb69zyzisx82blv'
+    link_title: Algorithm One Pager
     description_markdown: >-
       Complete basic framework of matching algorithm and prototypes of
       behavioral nudges
