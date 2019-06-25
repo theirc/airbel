@@ -57,8 +57,8 @@ milestones:
     title: >-
       Consolidation of year one learning, selection of interventions for
       testing, and framing of the Randomized Control Trial
-    link:
-    link_title:
+    link: 'https://rescue.box.com/s/l54hbt6lny83aono8yckglb7agy72uyw'
+    link_title: Interventions One Pager
     description_markdown:
   - date: 2018-09-01 00:00:00
     title: Pilot of behavioral interventions
