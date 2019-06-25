@@ -28,7 +28,7 @@ articles:
     url:
 milestones:
   - date: 2019-05-01 00:00:00
-    title: Pilot expands to 6 US resettlement offices
+    title: Pilot expands to six US resettlement offices
     link: 'https://rescue.box.com/s/ug623yhp6679o3hawnl2e01ouxaxnkik'
     link_title:
     description_markdown: >-

@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Resettlement Finance
+title: Resettlement Revolving Fund
 tagline: >-
   Restructuring the way we finance refugee resettlement to see refugees as an
   investment
