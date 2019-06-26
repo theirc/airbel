@@ -21,8 +21,9 @@ resources:
     description:
     url: 'https://github.com/theirc/Tunakujenga'
 articles:
-  - title:
-    url:
+  - title: How to make learning fun and give parents more agency
+    url: >-
+      https://medium.com/airbel/how-to-make-learning-fun-and-give-parents-more-agency-2c1570f64b85
 milestones:
   - date: 2018-09-01 00:00:00
     title: Pilot begins
@@ -89,6 +90,6 @@ milestones:
       sacrificial concepts for discussion.
 ---
 
-In partnership with [Ubongo](https://www.ubongo.org/){: target="_blank"}, Africa’s leading children’s edutainment and media company, Tunakujenga aims to cultivate new learning behaviors in the family, focused on teaching children social emotional skills (SEL), such as [grit](https://www.characterlab.org/grit){: target="_blank"} and problem-solving skills. Leveraging the wide reach of television and existing faith-based networks to reach caregivers wherever they are, Tunakujenga builds on existing community practices to encourage family learning and SEL as part of their daily home routines.
+In partnership with&nbsp;[Ubongo](https://www.ubongo.org/){: target="_blank"}, Africa’s leading children’s edutainment and media company, Tunakujenga aims to cultivate new learning behaviors in the family, focused on teaching children social emotional skills (SEL), such as [grit](https://www.characterlab.org/grit){: target="_blank"} and problem-solving skills. Leveraging the wide reach of television and existing faith-based networks to reach caregivers wherever they are, Tunakujenga builds on existing community practices to encourage family learning and SEL as part of their daily home routines.
 
 ![](/uploads/momsclub-4.png)
