@@ -21,7 +21,10 @@ resources:
     description:
     url: 'https://github.com/theirc/Tunakujenga'
 articles:
-  - title: How to make learning fun and give parents more agency
+  - title: >-
+      How to make learning fun and give parents more agency: A conversation with
+      Nisha Ligon, founder and CEO of Ubongo, Africa’s leading producer of
+      edutainment media
     url: >-
       https://medium.com/airbel/how-to-make-learning-fun-and-give-parents-more-agency-2c1570f64b85
 milestones:
