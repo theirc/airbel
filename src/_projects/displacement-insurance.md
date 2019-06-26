@@ -22,6 +22,9 @@ resources:
   - title: Displacement Insurance Overview Slide Deck
     description:
     url: 'https://rescue.box.com/s/1oz5x00156iy2a4deutck0ggpr4czu4c'
+  - title: 'Briefing Paper: Innovative Financing For Responses to Refugee Crises'
+    description:
+    url: 'https://rescue.box.com/s/fvg5zy2cqily6wo2ey2qbshb4k7jhal2'
 articles:
   - title:
     url:
