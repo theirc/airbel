@@ -31,7 +31,7 @@ articles:
     url: 'https://www.ft.com/content/fcba4b0f-1558-36b4-be77-e69e2848e275'
 milestones:
   - date: 2019-09-01 00:00:00
-    title: Conclusion of Randomized Control Trial
+    title: Randomized Control Trial concludes
     link:
     link_title:
     description_markdown:
@@ -43,41 +43,41 @@ milestones:
       Exploring agriculture and service sectors. In addition, development of
       private sector-oriented interventions begin.
   - date: 2019-02-01 00:00:00
-    title: Launch of Randomized Control Trial
+    title: Randomized Control Trial launches
     link:
     link_title:
     description_markdown: |-
-      This also includes the launch of:
+      This also includes the launch of the:
 
       * job matching algorithm
       * Thompson algorithm
       * comprehensive case management platform
       * new interventions
   - date: 2019-01-01 00:00:00
-    title: >-
-      Consolidation of year one learning, selection of interventions for
-      testing, and framing of the Randomized Control Trial
+    title: 'Consolidation of year one learning, prep for RCT'
     link:
     link_title:
-    description_markdown:
+    description_markdown: >-
+      Interventions are selected for testing and the framing of the Randomized
+      Control Trial is complete.
   - date: 2018-09-01 00:00:00
     title: Pilot of behavioral interventions
     link:
     link_title:
-    description_markdown: 'Complete prototyping of behavioral interventions, begin piloting.'
+    description_markdown: 'Prototyping of behavioral interventions is complete, pilot begins.'
   - date: 2018-08-01 00:00:00
     title: Algorithm and nudges
     link: 'https://rescue.box.com/s/xigt4vi4i2qq41hsnwb69zyzisx82blv'
     link_title: Algorithm One Pager
     description_markdown: >-
-      Complete basic framework of matching algorithm and prototypes of
-      behavioral nudges
+      Basic framework of matching algorithm is completed and prototypes of
+      behavioral nudges begin
   - date: 2018-07-01 00:00:00
     title: Cash support begins
     link:
     link_title:
     description_markdown: >-
-      Begin delivery of cash support packages to assist beneficiaries with the
+      Delivery of cash support packages begins to assist beneficiaries with the
       job search
   - date: 2018-05-01 00:00:00
     title: First job placements
