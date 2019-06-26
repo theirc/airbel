@@ -66,7 +66,7 @@ milestones:
       management, financial planning, and household responsibilities.
 ---
 
-Humanitarian disasters leave affected populations with severe post-conflict trauma resulting in mental health issues, high rates of poverty and reinforced gender inequality. Under these circumstances, Intimate Partner Violence becomes systemic and pervasive.
+Humanitarian disasters leave affected populations with severe post-conflict trauma resulting in mental health issues, high rates of poverty and reinforced gender inequality. Under these circumstances, intimate partner violence--or violence caused by a current or former partner or spouse--becomes systemic and pervasive.
 
 Harnessing the power of communication technology like SMS and WhatsApp, Modern Man provides bite-size, engaging content that challenges harmful gender norms that have been shown to lead to violence. It prompts men to practice behaviorally-informed skills that increase communication, understanding and importance of sexual consent, shared decision making and emotional regulation. Modern Man presents multiple identities that participants can relate to, each aligning to one or more of the skills mentioned and emphasizes the importance of respectful and healthy relationships.
 
