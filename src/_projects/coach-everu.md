@@ -24,8 +24,9 @@ resources:
     description:
     url: 'https://github.com/theirc/coach-erevu'
 articles:
-  - title:
-    url:
+  - title: 5 Lessons for Designing Teacher Coaching Programs in Refugee Camps
+    url: >-
+      https://medium.com/airbel/5-lessons-for-designing-teacher-coaching-programs-in-refugee-camps-f1e47f3f48f9
 milestones:
   - date: 2018-10-01 00:00:00
     title: Pilot Coach Erevu in Tanzania
@@ -122,7 +123,7 @@ milestones:
 
 Social-emotional learning, or “SEL”, can help children develop the skills needed to regulate their emotional responses, positively interact with others and better persevere in adverse situations.
 
-####  
+#### &nbsp;
 
 #### How does it work?
 
