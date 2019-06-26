@@ -10,7 +10,11 @@ geolocation:
   region:
   latitude:
   longitude:
-description:
+description: >-
+  Available funding is not enough to meet the world’s vast needs for aid.
+  Together with the Centre for Global Disaster Protection, Airbel is working to
+  assess the potential to use risk-based financing approaches to respond to
+  refugee influxes.
 hero_image: /uploads/hero-displacement-insurance-1.jpeg
 featured_image: /uploads/20180824-kryan-drc-ebola-8.jpg
 featured_video_url:
