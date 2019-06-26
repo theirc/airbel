@@ -84,24 +84,27 @@ milestones:
     link:
     link_title:
     description_markdown: >-
-      Complete first job placements, begin rapid iteration of service design in
-      response to early lessons learned.
+      First job placements are completed, begin rapid iteration of service
+      design in response to early lessons learned.
   - date: 2018-04-01 00:00:00
-    title: Focus groups
+    title: Focus group discussions and first intake
     link:
     link_title:
     description_markdown: >-
-      Conduct focus group discussions with job seekers and firms to test program
-      design assumptions; intake of job seekers and firms begins
+      Focus group discussions are conducted with job seekers and firms to test
+      program design assumptions.
+
+
+      Intake of job seekers and firms also begin.
   - date: 2018-03-01 00:00:00
-    title: Irbid office established
+    title: Irbid office is established
     link:
     link_title:
     description_markdown: >-
-      Project Match engaged a team of mobile employment service officers, and
-      established offices in Irbid, Jordan.
+      Project Match engages a team of mobile employment service officers, and
+      establishes offices in Irbid, Jordan.
   - date: 2018-03-01 00:00:00
-    title: Research plan drafted
+    title: Research plan is drafted
     link:
     link_title:
     description_markdown:
@@ -114,7 +117,7 @@ milestones:
     title: Systems mapping
     link: 'https://rescue.box.com/s/tt0d3zf6sj4ho3nogwf17l65cslin4kr'
     link_title:
-    description_markdown: Systems mapping and planning for employment hub conducted.
+    description_markdown: Systems mapping and planning for Project Match has been conducted.
   - date: 2017-03-01 00:00:00
     title: Research results published
     link: >-
