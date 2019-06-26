@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Innovative Financing for Refugee Crises
+title: Innovative Financing for Refugee Crises Response
 tagline: Exploring new financial instruments to speed up response and save lives
 status: active
 stage: Generate Solutions
