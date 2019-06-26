@@ -23,8 +23,11 @@ resources:
     description:
     url: 'https://rescue.box.com/s/oha809u8q4tg1szfnerp4odzi8cigrxu'
 articles:
-  - title:
-    url:
+  - title: >-
+      Part 1: The Road to Testing Innovations in Behavior Change and Gender
+      Norms
+    url: >-
+      https://medium.com/airbel/the-road-to-testing-innovations-in-behavior-change-and-gender-norms-7e5f1cf9b19f
 milestones:
   - date: 2018-10-01 00:00:00
     title: 'Monrovia, Liberia. Airbel and IPA Liberia launch impact evaluation'
