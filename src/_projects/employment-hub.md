@@ -24,11 +24,17 @@ resources:
     description:
     url: >-
       https://www.rescue.org/sites/default/files/document/1527/irc-syrianrefugeeemployment-72dpi-041117.pdf
+  - title: How Data is Driving Implementation
+    description:
+    url: 'https://rescue.box.com/s/xigt4vi4i2qq41hsnwb69zyzisx82blv'
 articles:
   - title: >-
       Financial Times - Putting refugees to work: the greatest challenge in 2017
       (paywall)
     url: 'https://www.ft.com/content/fcba4b0f-1558-36b4-be77-e69e2848e275'
+  - title: Matching jobs to job seekers in Jordan
+    url: >-
+      https://medium.com/airbel/matching-jobs-to-job-seekers-in-jordan-d9c1c8bc00a5
 milestones:
   - date: 2019-09-01 00:00:00
     title: Randomized Control Trial concludes
