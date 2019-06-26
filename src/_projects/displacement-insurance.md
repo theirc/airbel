@@ -19,9 +19,6 @@ hero_image: /uploads/hero-displacement-insurance-1.jpeg
 featured_image: /uploads/20180824-kryan-drc-ebola-8.jpg
 featured_video_url:
 resources:
-  - title: Displacement Insurance Overview Slide Deck
-    description:
-    url: 'https://rescue.box.com/s/1oz5x00156iy2a4deutck0ggpr4czu4c'
   - title: 'Briefing Paper: Innovative Financing For Responses to Refugee Crises'
     description:
     url: 'https://rescue.box.com/s/fvg5zy2cqily6wo2ey2qbshb4k7jhal2'
