@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Coach Everu
+title: Coach Erevu
 tagline: >-
   Developing the social-emotional skills of refugee students through a virtual
   coaching program for teachers
