@@ -54,13 +54,7 @@ milestones:
     title: Prototyping sprint in Tanzania
     link: 'https://rescue.box.com/s/rop8ea30mb8r5xbml8396jzy206yw1vq'
     link_title:
-    description_markdown: >-
-      Prototyping sprint takes place in Tanzania to test three mobile-based
-      concepts. One focused on caregivers, one on youth, and one - which later
-      became Coach Erevu - on teachers. The sprint aimed to understand current
-      technology use, feasibility and desirability of different mobile channels
-      of delivery, and validating the concept of teaching SEL through different
-      parties.
+    description_markdown:
   - date: 2017-08-01 00:00:00
     title: Prototyping plan for caregivers concept
     link: 'https://rescue.box.com/s/ozihawijr1r07tty8nrr9d8mn1ojpqwx'
@@ -68,7 +62,6 @@ milestones:
     description_markdown: >-
       A complete plan for prototyping a mobile learning experience for
       caregivers to deliver Social Emotional Learning messages is developed.
-      This plan includes work which will later evolve to be named Coach Erevu.
   - date: 2017-06-01 00:00:00
     title: Product requirements and project plan finalized
     link: 'https://rescue.box.com/s/xu0dxyzk0pfxaw5ztdmioykcqlf7byc6'
