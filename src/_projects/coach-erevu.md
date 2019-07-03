@@ -38,69 +38,76 @@ milestones:
     title: Coach Erevu pilot findings
     link:
     link_title:
-    description_markdown: >- 
-      Pilot results demonstrate positive suggestive evidence in a number of outcome measures and, while not statistically significant, show most outcomes measures trending in the right direction.
+    description_markdown: >-
+      Pilot results demonstrate positive suggestive evidence in a number of
+      outcome measures and, while not statistically significant, show most
+      outcomes measures trending in the right direction.
   - date: 2019-02-01 00:00:00
     title: Coach Erevu prototypes
     link:
     link_title:
-    description_markdown: >- 
-      The team prototypes new aspects of the program to quickly iterate on their findings during the pilot. 
+    description_markdown: >-
+      The team prototypes new aspects of the program to quickly iterate on their
+      findings during the pilot. 
   - date: 2018-10-01 00:00:00
     title: Coach Erevu pilot begins
     link: 'https://rescue.box.com/s/0m9dafxo604ulj4y0j9vs34liuphizkn'
     link_title:
-    description_markdown: >- 
-      Coach Erevu pilot launches in 3 schools with 140 teachers in MtendeliRefugee Camp, Tanzania. 
+    description_markdown: >-
+      Coach Erevu pilot launches in 3 schools with 140 teachers in
+      MtendeliRefugee Camp, Tanzania. 
   - date: 2018-07-01 00:00:00
     title: Pilot research plans
     link:
     link_title:
-    description_markdown: >- 
-      The team designs the pilot research. The plans guides further quantitative survey development and qualitative research.  
+    description_markdown: >-
+      The team designs the pilot research. The plans guides further quantitative
+      survey development and qualitative research.  
   - date: 2018-10-01 00:00:00
     title: Program and service design
-    link: 'https://docs.google.com/presentation/d/1xLokm7pqGOrFEiV3GJvJNm25hvHCg4whaFhMJa0mx6g/edit?usp=sharing'
+    link: >-
+      https://docs.google.com/presentation/d/1xLokm7pqGOrFEiV3GJvJNm25hvHCg4whaFhMJa0mx6g/edit?usp=sharing
     link_title:
-    description_markdown: >- 
-      The team finalizes the Coach Erevu program and service design with their team members in Tanzania.
+    description_markdown: >-
+      The team finalizes the Coach Erevu program and service design with their
+      team members in Tanzania.
   - date: 2018-05-01 00:00:00
-    title: 4-week high fidelity test
+    title: Four-week high fidelity test
     link: 'https://rescue.box.com/s/dhnjvnemvufpr5o3e77s65wjk0a0qkga'
     link_title:
     description_markdown: >-
       This rapid test was of the full Coach Erevu product to understand whether
-      there was evidence to suggest Coach Erevu increased quality SEL
+      there was evidence to suggest Coach Erevu did increase quality SEL
       implementation in Mtendeli, Tanzania.
   - date: 2018-02-01 00:00:00
     title: 'Second round of prototyping with teachers in Mtendeli, Tanzania'
     link: 'https://rescue.box.com/s/ta44e516w6p4kq0ct8z28o2ht8m6n1e5'
     link_title:
     description_markdown: >-
-      This second round of prototyping coupled the use of a digital coach with
+      This second round of prototyping couples the use of a digital coach with
       an in-person teacher.
   - date: 2017-12-01 00:00:00
-    title: Behavioural science incorporated
+    title: Behavioural science is incorporated
     link: >-
       https://medium.com/airbel/how-habits-work-and-can-work-for-our-work-with-refugees-d5a1f4adc661
     link_title:
     description_markdown: >-
-      Habit theory used to help develop mobile tools for teachers. Work focused
-      on using interviews and co-design activities to understand teachers'
-      routines, including how they spent breaks and worked on lessons.
+      We incorporate habit theory to help develop mobile tools for teachers. The
+      work focuses on using interviews and co-design activities to understand
+      teachers' routines, including how they spend breaks and work on lessons.
   - date: 2017-09-01 00:00:00
     title: Prototyping sprint in Tanzania
     link: 'https://rescue.box.com/s/rop8ea30mb8r5xbml8396jzy206yw1vq'
     link_title:
     description_markdown: >-
       Prototyping sprint takes place in Tanzania to test three mobile-based
-      concepts. One focused on caregivers, one on youth, and one - which later
-      became Coach Erevu - on teachers. The sprint aimed to understand current
-      technology use, feasibility and desirability of different mobile channels
-      of delivery, and validating the concept of teaching SEL through different
-      parties.
+      concepts. One focused on caregivers, one on youth, and one - which will
+      later become Coach Erevu - on teachers. The sprint aimed to understand
+      current technology use, feasibility and desirability of different mobile
+      channels of delivery, and validating the concept of teaching SEL through
+      different parties.
   - date: 2017-08-01 00:00:00
-    title: Refined approach to prototyping developed
+    title: Developed a refined approach to prototyping
     link: 'https://rescue.box.com/s/fzzp8f7x3mpxfcol1y3ahrdbcjk63e3w'
     link_title:
     description_markdown: >-
@@ -112,24 +119,23 @@ milestones:
     link:
     link_title:
     description_markdown: >-
-      SMS-based cognitive behavioral therapy tested with teachers in Nyarugusu,
-      Tanzania.
+      We test SMS-based cognitive behavioral therapy&nbsp; with teachers in
+      Nyarugusu, Tanzania.
   - date: 2017-06-01 00:00:00
-    title: Product requirement and project plan
+    title: Finalized product requirements and project plan
     link: 'https://rescue.box.com/s/xu0dxyzk0pfxaw5ztdmioykcqlf7byc6'
     link_title:
     description_markdown: >-
-      Finalized product requirements and project plan. This document is an
-      overview of Dandelion’s product requirement, followed by a more detailed
-      project plan. It aims to answer the fundamental questions that will drive
-      our next 12 months of work.
+      This document is an overview of Dandelion’s product requirement, followed
+      by a more detailed project plan. It aims to answer the fundamental
+      questions that will drive the next 12 months of work.
   - date: 2016-08-01 00:00:00
-    title: Design brief created
+    title: Design brief is created
     link: 'https://rescue.box.com/s/4wn8qq49shabp18qckagctfcf3439vpr'
     link_title:
     description_markdown: >-
-      Brief on how to build on user experience for education in conflict areas
-      in Niger and Tanzania.
+      A brief on how to build on user experience for education in conflict areas
+      in Niger and Tanzania is developed.
   - date: 2016-06-01 00:00:00
     title: Field research
     link: >-
