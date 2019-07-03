@@ -29,32 +29,56 @@ articles:
     url: >-
       https://medium.com/airbel/how-to-make-learning-fun-and-give-parents-more-agency-2c1570f64b85
 milestones:
-  - date: 2018-09-01 00:00:00
-    title: Pilot begins
+  - date: 2019-04-01 00:00:00
+    title: Tunakujenga pilot findings
     link:
     link_title:
-    description_markdown: Tunakujenga is piloted with faith leaders and caregivers
+    description_markdown: >-
+      Pilot results demonstrate positive suggestive evidence in a number of outcome measures and, while not statistically significant, show most outcomes measures trending in the right direction.
+  - date: 2019-02-01 00:00:00
+    title: Tunakujenga prototypes
+    link:
+    link_title:
+    description_markdown: >-
+      The team prototypes new aspects of the program including a cinema model, a maker session model, and english language learning model to quickly iterate on their findings during the pilot. 
+  - date: 2018-10-01 00:00:00
+    title: Tunakujenga pilot begins
+    link:
+    link_title:
+    description_markdown: >-
+      Tunakujenga pilot launches with 5 faith leaders and 50 caregivers in Nyarugusu Refugee Camp, Tanzania.
+  - date: 2018-07-01 00:00:00
+    title: Pilot research plans 
+    link:
+    link_title:
+    description_markdown: >-
+      The team designs the pilot research. The plans guides further quantitative survey development and qualitative research.
+  - date: 2018-05-01 00:00:00
+    title: Program and service design
+    link: 'https://rescue.box.com/s/k1azjug0yg56sofffko1q39g8jvvm630'
+    link_title:
+    description_markdown: >-
+      The team finalizes the Tunakujenga program and service design with their team members in Tanzania.
   - date: 2018-02-01 00:00:00
     title: Content creation and program design
     link: 'https://rescue.box.com/s/mn6pzgg6bq6wm8nu6u43flyxk3di701d'
     link_title: >-
       https://docs.google.com/presentation/d/1l9oPw2y3POHbjg9VOqhpcYcqcXDfDk47lW_2ejTFojo/edit?usp=sharing
     description_markdown: >-
-      Concept takes on the name Tunakujenga, which means "we build you" in
-      Swahili. Recorded 10 videos with Ubongo, cards and other learning
-      materials.
+      Concept takes on the name Tunakujenga, which means "We Build You" in
+      Swahili. The team films  10 videos with Ubongo and creates SEL activity cards and other learning materials.
   - date: 2017-11-01 00:00:00
     title: Second round of prototyping with caregivers
     link: 'https://rescue.box.com/s/y6e7xsbxu5c17xyezgowlnpt7zn3c46h'
     link_title:
     description_markdown: >-
-      This second round of prototyping narrowed in on designing for caregivers.
-      Conducted a design sprint on caregiver clubs in churches and schools.
+      The second round of prototyping narrows in on designing SEL learning for caregivers. The team conducts a design sprint on caregiver clubs for SEL in churches and schools.
   - date: 2017-09-01 00:00:00
     title: Prototyping sprint in Tanzania
     link: 'https://rescue.box.com/s/rop8ea30mb8r5xbml8396jzy206yw1vq'
     link_title:
     description_markdown:
+      The team conducts a prototyping sprint for social-emotional learning (SEL) in Tanzania to test three mobile-based concepts: one focused on caregivers - which will eventually become Tunakujenga - one on youth, and one on teachers. The sprint aims to understand current technology use, feasibility and desirability of different mobile channels of delivery, and validating the concept of teaching SEL through different parties.
   - date: 2017-08-01 00:00:00
     title: Prototyping plan for caregivers concept
     link: 'https://rescue.box.com/s/ozihawijr1r07tty8nrr9d8mn1ojpqwx'
