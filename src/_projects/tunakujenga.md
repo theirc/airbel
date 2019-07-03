@@ -98,59 +98,89 @@ Tunakujenga (“We Build You Up”) uses engaging videos delivered through churc
 
 44% of children aged three to four in Africa experience [lower than normal](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002034) cognitive and social-emotional development. In low-income countries and crisis-affected populations, children face extreme levels of adversity, putting them at [increased risk](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5884058/) for developmental delays that can follow them throughout their lives. These risks are exacerbated when caregivers cope with hardships, stress, and depression, which manifests in harsh disciplining and caregiving ([Betancourt, 2015](https://psycnet.apa.org/record/2015-06125-001); [Dybdahl, 2001](https://www.ncbi.nlm.nih.gov/pubmed/11480943); [Galovski, 2004](https://psycnet.apa.org/record/2004-17053-002)).
 
+## &nbsp;
+
 ## Our vision
 
 Tunakujenga exists to give parents the tools, skills and agency to reach their own parenting goals. We focus on playful learning experiences and empower parents no matter their circumstances, to engage meaningfully with their children and support their social, emotional and cognitive development.
+
+## &nbsp;
 
 ## What makes Tunakujenga different?
 
 At heart of Tunakujenga are engaging videos made with Ubongo - Africa’s largest producer of edu-taining content for children - and delivered through trusted institutions, like churches and their faith leaders. SEL games conform to the everyday routines of parents and their children, and engaging materials motivate and support parents and children to practice SEL every day at home.
 
+### &nbsp;
+
 ### Learning Through Trusted Institutions
 
 Caregiver Clubs in churches with Faith Leaders and existing groups build trust and support learning.
+
+### &nbsp;
 
 ### Daily Routines
 
 Embedding SEL games into daily routines reinforces existing positive parenting and ensures easy implementation.
 
+### &nbsp;
+
 ### Supportive Materials
 
 SEL Reference Cards that summarize the activity reinforce habit building and caregiver certificates with family photos provide motivation.
 
+## &nbsp;
+
 ## Tunakujenga is built with eight ingredients to ensure successful behavioral change
+
+### &nbsp;
 
 ### A bank of engaging videos
 
 Using methodologies adapted from IRC SEL programming we created entertaining and educative videos with [Ubongo](https://www.ubongo.org/) that have been localized, tested with users, and use catchy songs, making them memorable for caregivers.
 
+### &nbsp;
+
 ### Episodes delivered weekly and monthly
 
 Club model: Videos are delivered weekly, to ensure that learning is bite-sized. TV Broadcast: Videos are delivered through a Game of the Month model, to sustain user engagement and enable caregivers to share their own games with the community.
+
+### &nbsp;
 
 ### Caregiver clubs in trusted spaces
 
 We created Tunakujenga clubs where caregivers gather in small groups to go through the content weekly. Tunakujenga clubs take place at churches, with faith leaders, but the model could be extended to other trusted spaces and leaders.
 
+### &nbsp;
+
 ### Social media campaigns
 
 TV broadcast is supplemented by various social media campaigns to increase take up. For example, with the Game of the Month campaign, we encourage users to remix and share back their own stories of play.
+
+### &nbsp;
 
 ### Certificates after completing the program
 
 After completing the program, caregivers and children receive a certificate of completion. It is delivered with a printed family photograph to hang inside the home, reinforcing the sense of family cohesion and accomplishment.
 
+### &nbsp;
+
 ### Programming supported by the appropriate technology
 
 We are technology agnostic and look at different devices and platforms to disseminate videos, based on context (e.g. TV, radio, tablets, mobile phones, projectors, and other technology). In the case of the Tunakujenga club model pilot, we delivered content through tablets.
+
+### &nbsp;
 
 ### Quizzes and intention-setting to prompt reflections and commitments
 
 Android OS tablets allow for a custom app which guides the caregiver clubs through activities. After each video and group session, caregivers can reflect on their learning with a group quiz and receive immediate feedback.
 
+### &nbsp;
+
 ### SEL activity cards
 
 Activity cards display engaging, easy-to-understand summaries of the SEL activities demonstrated in the videos and encourage high fidelity practice and habit building at home.
+
+## &nbsp;
 
 ## What’s happening now?
 
