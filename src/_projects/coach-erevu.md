@@ -34,12 +34,36 @@ articles:
     url: >-
       https://medium.com/airbel/5-lessons-for-designing-teacher-coaching-programs-in-refugee-camps-f1e47f3f48f9
 milestones:
-  - date: 2018-10-01 00:00:00
-    title: Pilot Coach Erevu in Tanzania
+  - date: 2019-04-01 00:00:00
+    title: Coach Erevu pilot findings
     link:
-    link_title: >-
-      https://docs.google.com/presentation/d/1xLokm7pqGOrFEiV3GJvJNm25hvHCg4whaFhMJa0mx6g/edit?usp=sharing
-    description_markdown: Rigorous piloting with 140 teachers begins
+    link_title:
+    description_markdown: >- 
+      Pilot results demonstrate positive suggestive evidence in a number of outcome measures and, while not statistically significant, show most outcomes measures trending in the right direction.
+  - date: 2019-02-01 00:00:00
+    title: Coach Erevu prototypes
+    link:
+    link_title:
+    description_markdown: >- 
+      The team prototypes new aspects of the program to quickly iterate on their findings during the pilot. 
+  - date: 2018-10-01 00:00:00
+    title: Coach Erevu pilot begins
+    link: 'https://rescue.box.com/s/0m9dafxo604ulj4y0j9vs34liuphizkn'
+    link_title:
+    description_markdown: >- 
+      Coach Erevu pilot launches in 3 schools with 140 teachers in MtendeliRefugee Camp, Tanzania. 
+  - date: 2018-07-01 00:00:00
+    title: Pilot research plans
+    link:
+    link_title:
+    description_markdown: >- 
+      The team designs the pilot research. The plans guides further quantitative survey development and qualitative research.  
+  - date: 2018-10-01 00:00:00
+    title: Program and service design
+    link: 'https://docs.google.com/presentation/d/1xLokm7pqGOrFEiV3GJvJNm25hvHCg4whaFhMJa0mx6g/edit?usp=sharing'
+    link_title:
+    description_markdown: >- 
+      The team finalizes the Coach Erevu program and service design with their team members in Tanzania.
   - date: 2018-05-01 00:00:00
     title: 4-week high fidelity test
     link: 'https://rescue.box.com/s/dhnjvnemvufpr5o3e77s65wjk0a0qkga'
