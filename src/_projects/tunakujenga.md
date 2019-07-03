@@ -70,20 +70,21 @@ milestones:
       caregivers to deliver Social Emotional Learning messages is developed.
       This plan includes work which will later evolve to be named Coach Erevu.
   - date: 2017-06-01 00:00:00
-    title: Product requirement and project plan finalized
+    title: Product requirements and project plan finalized
     link: 'https://rescue.box.com/s/xu0dxyzk0pfxaw5ztdmioykcqlf7byc6'
     link_title:
     description_markdown: >-
-      This document is an overview of Dandelion’s product requirement, followed
-      by a more detailed project plan. It aims to answer the fundamental
-      questions that will drive our next 12 months of work.
+      The team creates an overview of the product requirements for Dandelion -
+      which will later become Tunakujenga - followed by a more detailed project
+      plan. It aims to answer the fundamental questions that will drive our next
+      12 months of work.
   - date: 2016-08-01 00:00:00
-    title: Design brief created
+    title: Design brief
     link: 'https://rescue.box.com/s/4wn8qq49shabp18qckagctfcf3439vpr'
     link_title:
     description_markdown: >-
-      Brief on how to build on user experience for education in conflict areas
-      in Niger and Tanzania.
+      The team creates a brief on how to build on user experience for education
+      in conflict areas in Niger and Tanzania.
   - date: 2016-06-01 00:00:00
     title: Field research
     link: >-
