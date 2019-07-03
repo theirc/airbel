@@ -125,7 +125,10 @@ milestones:
       primary school years”
 ---
 
-#### The lack of cost-effective teacher training and continuous professional development for teachers in crisis-affected contexts results in poor quality teaching. 
+#### The lack of cost-effective teacher training and continuous professional development for teachers in crisis-affected contexts results in poor quality teaching.
 
+While access to formal schooling has [increased](https://www.worldbank.org/en/publication/wdr2017) over the past 25 years across low-income countries (LICs), the majority of children complete primary education without basic literacy and numeracy skills. 250 million school-aged children cannot read or write after 4 years of schooling.&nbsp;
+
+&nbsp;
 
 #### There is a narrow focus on purely academic learning outcomes, when there is growing evidence to suggest that social-emotional competencies are critical to later academic achievement, health and wellbeing.
