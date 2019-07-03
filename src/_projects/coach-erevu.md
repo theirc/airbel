@@ -101,11 +101,11 @@ milestones:
     link_title:
     description_markdown: >-
       Prototyping sprint takes place in Tanzania to test three mobile-based
-      concepts. One focused on caregivers, one on youth, and one - which will
-      later become Coach Erevu - on teachers. The sprint aimed to understand
-      current technology use, feasibility and desirability of different mobile
-      channels of delivery, and validating the concept of teaching SEL through
-      different parties.
+      concepts. One focused on caregivers, one on youth, and one on teachers -
+      which will later become Coach Erevu - on teachers. The sprint aimed to
+      understand current technology use, feasibility and desirability of
+      different mobile channels of delivery, and validating the concept of
+      teaching SEL through different parties.
   - date: 2017-08-01 00:00:00
     title: Developed a refined approach to prototyping
     link: 'https://rescue.box.com/s/fzzp8f7x3mpxfcol1y3ahrdbcjk63e3w'
@@ -126,16 +126,17 @@ milestones:
     link: 'https://rescue.box.com/s/xu0dxyzk0pfxaw5ztdmioykcqlf7byc6'
     link_title:
     description_markdown: >-
-      This document is an overview of Dandelion’s product requirement, followed
-      by a more detailed project plan. It aims to answer the fundamental
-      questions that will drive the next 12 months of work.
+      The team creates an overview of the product requirements for Dandelion -
+      which will later become Coach Erevu - followed by a more detailed project
+      plan. It aims to answer the fundamental questions that will drive our next
+      12 months of work.
   - date: 2016-08-01 00:00:00
-    title: Design brief is created
+    title: Design brief
     link: 'https://rescue.box.com/s/4wn8qq49shabp18qckagctfcf3439vpr'
     link_title:
     description_markdown: >-
-      A brief on how to build on user experience for education in conflict areas
-      in Niger and Tanzania is developed.
+      The team creates a brief on how to build on user experience for education
+      in conflict areas in Niger and Tanzania is developed.
   - date: 2016-06-01 00:00:00
     title: Field research
     link: >-
