@@ -131,6 +131,8 @@ While access to formal schooling has [increased](https://www.worldbank.org/en/pu
 
 One of the major drivers of low educational attainment is poor quality teaching. Interventions that [improve](https://doi.org/10.7916/D898854G) teacher instructional techniques can improve student’s academic achievement. Evidence also shows that ongoing teacher support, such as mentoring or coaching, is [more effective](https://doi.org/10.1073/pnas.1121254109) than a one-off training.
 
+### &nbsp;
+
 ### There is a narrow focus on purely academic learning outcomes, when there is growing evidence to suggest that social-emotional competencies are critical to later academic achievement, health and wellbeing.
 
 Social-emotional learning (SEL) can help children develop the skills needed to regulate their emotional responses, positively interact with others and better persevere in adverse situations.
@@ -149,9 +151,13 @@ At the heart of Coach Erevu are high quality, entertaining and informative video
 
 Teacher Video Clubs guided by Coach Erevu - a virtual master teacher and aspirational role model - with in app quizzes and practice sessions to improve learning.
 
+### &nbsp;
+
 ### Habit Building
 
 SEL Time signaled by a tambourine to keep teachers accountable to one another and their students to practice what they learned in the classroom.
+
+### &nbsp;
 
 ### Supportive Materials
 
@@ -179,25 +185,37 @@ An open source application facilitates easy access to the video bank, provides t
 
 Coach Erevu demonstrates a new activity and explains its purpose to teachers, performs the activity on camera in a real classroom with a high teacher-student ratio (over 100 students) to reflect the reality in which teachers operate, reviews teachers’ performance and provides localized “Do’s” and “Don’ts” tips for teachers.
 
+### &nbsp;
+
 ### Weekly Learning Clubs
 
 Each week, teachers gather in small groups to watch these videos. With guidance from Coach Erevu, they practice newly learned activities.
+
+### &nbsp;
 
 ### SEL time and behavioral triggers
 
 The program introduces a bell during SEL time to remind teachers to practice the SEL activity of the day. Children’s excitement increases teachers’ motivation and commitment to implementing the lessons.
 
+### &nbsp;
+
 ### Certificates after completing the program
 
 Teachers receive a certificate at the end of the coaching program. These certificates are valuable to teachers, publicly recognize their achievements, and reaffirm their self-image and the value of professional development.
+
+### &nbsp;
 
 ### SEL Activity Cards
 
 Teachers collect one SEL activity card for each new activity that provides an incentive, supports habit-building, and gives an overview of each activity, supporting regular, high fidelity implementation in the classroom.
 
+### &nbsp;
+
 ### Feedback tokens and intention setting
 
 During the club, teachers use pre-filled feedback cards, or tokens, to give each other feedback to improve their learning and performance. This models best practices and ensures that teachers are learning together. Teachers set an intention to implement SEL in the classroom during the following week, write it down and share it with their headmasters to improve accountability and support habit building.
+
+## &nbsp;
 
 ## What’s happening now?
 
