@@ -77,7 +77,7 @@ milestones:
     title: Prototyping sprint in Tanzania
     link: 'https://rescue.box.com/s/rop8ea30mb8r5xbml8396jzy206yw1vq'
     link_title:
-    description_markdown:
+    description_markdown: >-
       The team conducts a prototyping sprint for social-emotional learning (SEL) in Tanzania to test three mobile-based concepts: one focused on caregivers - which will eventually become Tunakujenga - one on youth, and one on teachers. The sprint aims to understand current technology use, feasibility and desirability of different mobile channels of delivery, and validating the concept of teaching SEL through different parties.
   - date: 2017-08-01 00:00:00
     title: Prototyping plan for caregivers concept
