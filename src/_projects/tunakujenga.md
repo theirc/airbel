@@ -16,7 +16,7 @@ description: >-
   and emotional development.
 hero_image: /uploads/momsclub-3.png
 featured_image: /uploads/screen-shot-2018-09-23-at-20-12-41.png
-featured_video_url:
+featured_video_url: 'https://youtu.be/IH1Fu0Q5jyg'
 resources:
   - title: Tunakujenga Github
     description:
