@@ -129,8 +129,10 @@ milestones:
 
 While access to formal schooling has [increased](https://www.worldbank.org/en/publication/wdr2017) over the past 25 years across low-income countries (LICs), the majority of children complete primary education without basic literacy and numeracy skills. 250 million school-aged children cannot read or write after 4 years of schooling.
 
-One of the major drivers of low educational attainment is poor quality teaching. Interventions that [improve](https://doi.org/10.7916/D898854G) teacher instructional techniques can improve student’s academic achievement. Evidence also shows that ongoing teacher support, such as mentoring or coaching, is [more effective](https://doi.org/10.1073/pnas.1121254109) than a one-off training. 
-
-&nbsp;
+One of the major drivers of low educational attainment is poor quality teaching. Interventions that [improve](https://doi.org/10.7916/D898854G) teacher instructional techniques can improve student’s academic achievement. Evidence also shows that ongoing teacher support, such as mentoring or coaching, is [more effective](https://doi.org/10.1073/pnas.1121254109) than a one-off training.
 
 #### There is a narrow focus on purely academic learning outcomes, when there is growing evidence to suggest that social-emotional competencies are critical to later academic achievement, health and wellbeing.
+
+Social-emotional learning (SEL) can help children develop the skills needed to regulate their emotional responses, positively interact with others and better persevere in adverse situations.
+
+&nbsp;
