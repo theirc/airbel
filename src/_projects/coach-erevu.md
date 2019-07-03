@@ -125,14 +125,7 @@ milestones:
       primary school years”
 ---
 
-#### Why focus on Social-emotional learning?
+#### The lack of cost-effective teacher training and continuous professional development for teachers in crisis-affected contexts results in poor quality teaching. 
 
-Social-emotional learning, or “SEL”, can help children develop the skills needed to regulate their emotional responses, positively interact with others and better persevere in adverse situations.
 
-#### &nbsp;
-
-#### How does it work?
-
-* Coaching sessions and peer-to-peer learning occur during 1-hour weekly video clubs.
-* Refugee teachers implement what they learned in their classroom during daily designated ‘SEL time,’ marked by a school bell.
-* Teachers are rewarded and supported with localized SEL cards that signal they are skilled SEL teachers and can be used as teaching aids in the classroom.
+#### There is a narrow focus on purely academic learning outcomes, when there is growing evidence to suggest that social-emotional competencies are critical to later academic achievement, health and wellbeing.
