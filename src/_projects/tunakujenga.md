@@ -11,8 +11,7 @@ geolocation:
   latitude: '3.42139'
   longitude: '399.51472'
 description: >-
-  Tunakujenga is a family learning program that empowers caregivers to learn and
-  practice social and emotional learning activities with their children at home.
+  Tunakujenga is a family learning program designed to empower caregivers to engage in nurturing and playful parenting to support their children’s social and emotional development.
 hero_image: /uploads/momsclub-3.png
 featured_image: /uploads/screen-shot-2018-09-23-at-20-12-41.png
 featured_video_url:
@@ -92,7 +91,71 @@ milestones:
       The team conducts initial field research in Niger and Tanzania, generating
       sacrificial concepts for discussion.
 ---
+Tunakujenga (“We Build You Up”) uses engaging videos delivered through churches and TV broadcast to cultivate new learning behaviors in the family focused on teaching children social and emotional skills, such as [grit](https://www.characterlab.org/grit) and problem-solving skills. Leveraging the wide reach of television and existing faith-based networks to reach caregivers wherever they are, Tunakujenga builds on existing community practices to encourage social-emotional learning (SEL) as part of families’ daily home routines.
 
-In partnership with&nbsp;[Ubongo](https://www.ubongo.org/){: target="_blank"}, Africa’s leading children’s edutainment and media company, Tunakujenga aims to cultivate new learning behaviors in the family, focused on teaching children social emotional skills (SEL), such as [grit](https://www.characterlab.org/grit){: target="_blank"} and problem-solving skills. Leveraging the wide reach of television and existing faith-based networks to reach caregivers wherever they are, Tunakujenga builds on existing community practices to encourage family learning and SEL as part of their daily home routines.
+44% of children aged three to four in Africa experience [lower than normal](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002034) cognitive and social-emotional development. In low-income countries and crisis-affected populations, children face extreme levels of adversity, putting them at [increased risk](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5884058/) for developmental delays that can follow them throughout their lives. These risks are exacerbated when caregivers cope with hardships, stress, and depression, which manifests in harsh disciplining and caregiving ([Betancourt, 2015](https://psycnet.apa.org/record/2015-06125-001); [Dybdahl, 2001](https://www.ncbi.nlm.nih.gov/pubmed/11480943); [Galovski, 2004](https://psycnet.apa.org/record/2004-17053-002)).
 
-![](/uploads/momsclub-4.png)
+## Our vision
+
+Tunakujenga exists to give parents the tools, skills and agency to reach their own parenting goals. We focus on playful learning experiences and empower parents no matter their circumstances, to engage meaningfully with their children and support their social, emotional and cognitive development. 
+
+## What makes Tunakujenga different? 
+
+At heart of Tunakujenga are engaging videos made with Ubongo - Africa’s largest producer of edu-taining content for children - and delivered through trusted institutions, like churches and their faith leaders. SEL games conform to the everyday routines of parents and their children, and engaging materials motivate and support parents and children to practice SEL every day at home.
+
+### Learning Through Trusted Institutions
+
+Caregiver Clubs in churches with Faith Leaders and existing groups build trust and support learning.
+
+### Daily Routines
+
+Embedding SEL games into daily routines reinforces existing positive parenting and ensures easy implementation.
+
+### Supportive Materials
+
+SEL Reference Cards that summarize the activity reinforce habit building and caregiver certificates with family photos provide motivation. 
+
+## Tunakujenga is built with eight ingredients to ensure successful behavioral change
+
+### A bank of engaging videos
+
+Using methodologies adapted from IRC SEL programming we created entertaining and educative videos with [Ubongo](https://www.ubongo.org/) that have been localized, tested with users, and use catchy songs, making them memorable for caregivers.
+
+### Episodes delivered weekly and monthly
+
+Club model: Videos are delivered weekly, to ensure that learning is bite-sized.
+TV Broadcast: Videos are delivered through a Game of the Month model, to sustain user engagement and enable caregivers to share their own games with the community.
+
+### Caregiver clubs in trusted spaces
+
+We created Tunakujenga clubs where caregivers gather in small groups to go through the content weekly. Tunakujenga clubs take place at churches, with faith leaders, but the model could be extended to other trusted spaces and leaders. 
+
+### Social media campaigns
+
+TV broadcast is supplemented by various social media campaigns to increase take up. For example, with the Game of the Month campaign, we encourage users to remix and share back their own stories of play.
+
+### Certificates after completing the program
+
+After completing the program, caregivers and children receive a certificate of completion. It is delivered with a printed family photograph to hang inside the home, reinforcing the sense of family cohesion and accomplishment.
+
+### Programming supported by the appropriate technology
+
+We are technology agnostic and look at different devices and platforms to disseminate videos, based on context (e.g. TV, radio, tablets, mobile phones, projectors, and other technology). In the case of the Tunakujenga club model pilot, we delivered content through tablets.
+
+### Quizzes and intention-setting to prompt reflections and commitments
+
+Android OS tablets allow for a custom app which guides the caregiver clubs through activities. After each video and group session, caregivers can reflect on their learning with a group quiz and receive immediate feedback.
+
+###SEL activity cards
+
+Activity cards display engaging, easy-to-understand summaries of the SEL activities demonstrated in the videos and encourage high fidelity practice and habit building at home.
+
+## What’s happening now? 
+
+We completed a three-month pilot in Nyarugusu Refugee Camp, Tanzania to understand if learning through engaging media with a trusted Faith Leader at a local church led to consistent and lasting changes in caregivers’ behaviors with their children at home. The pilot program launched in October 2018 and recruited five Faith Leaders and 50 caregivers to take part in Tunakujenga clubs at a local church. We reached *one million households*, on average, during our TV broadcast and social media pilot. 
+
+Our research partner, [Innovations for Poverty Action](https://www.poverty-action.org/) (IPA), conducted a baseline and endline survey to test our measures, to understand our target population, and to detect trends in caregivers’ attitudes and child outcomes. 
+
+During the implementation of caregiver clubs, we conducted three rounds of monitoring and evaluation and numerous qualitative interviews and observations to understand how the program was implemented in practice. We also prototyped new aspects of the program to quickly iterate on our findings. 
+
+Pilot results demonstrated positive suggestive evidence in a number of outcome measures and, while not statistically significant, show most outcomes measures trending in the right direction.
