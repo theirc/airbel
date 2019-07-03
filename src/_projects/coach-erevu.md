@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Coach Everu
+title: Coach Erevu
 tagline: >-
-  Developing the social-emotional skills of refugee students through a virtual
-  coaching program for teachers
+  Empowering teachers to adopt new teaching behaviors that support children’s
+  learning and development.
 status: active
 stage: Pilot
 focuses:
@@ -13,9 +13,9 @@ geolocation:
   latitude: '3.42139'
   longitude: '399.51472'
 description: >-
-  Coach Erevu is a digital coaching program that aims to build the social
-  emotional skills of teachers through weekly peer-to-peer video clubs, timely
-  habit triggers, and bite-sized teaching materials
+  Coach Erevu is a virtual teacher coaching program designed to empower teachers
+  to learn and practice social-emotional learning activities that they can use
+  in their classrooms.
 hero_image: /uploads/dscf1201-1.jpg
 featured_image: /uploads/dscf1201.jpg
 featured_video_url: 'https://youtu.be/-2R3tuNr47g'
@@ -23,9 +23,16 @@ resources:
   - title: Coach Erevu Github
     description:
     url: 'https://github.com/theirc/coach-erevu'
+  - title: Coach Erevu SEL Activity Cards - English
+    description:
+    url: 'https://rescue.app.box.com/file/485662842052'
+  - title: Coach Erevu SEL Activity Cards - Kirundi
+    description:
+    url: 'https://rescue.box.com/s/mey73kpm91c4a4xmtk1h9wgoyck1sg2d'
 articles:
-  - title:
-    url:
+  - title: 5 Lessons for Designing Teacher Coaching Programs in Refugee Camps
+    url: >-
+      https://medium.com/airbel/5-lessons-for-designing-teacher-coaching-programs-in-refugee-camps-f1e47f3f48f9
 milestones:
   - date: 2018-10-01 00:00:00
     title: Pilot Coach Erevu in Tanzania
@@ -118,14 +125,14 @@ milestones:
       primary school years”
 ---
 
-#### Why focus on Social-emotional learning?
+#### The lack of cost-effective teacher training and continuous professional development for teachers in crisis-affected contexts results in poor quality teaching.
 
-Social-emotional learning, or “SEL”, can help children develop the skills needed to regulate their emotional responses, positively interact with others and better persevere in adverse situations.
+While access to formal schooling has [increased](https://www.worldbank.org/en/publication/wdr2017) over the past 25 years across low-income countries (LICs), the majority of children complete primary education without basic literacy and numeracy skills. 250 million school-aged children cannot read or write after 4 years of schooling.
 
-####  
+One of the major drivers of low educational attainment is poor quality teaching. Interventions that [improve](https://doi.org/10.7916/D898854G) teacher instructional techniques can improve student’s academic achievement. Evidence also shows that ongoing teacher support, such as mentoring or coaching, is [more effective](https://doi.org/10.1073/pnas.1121254109) than a one-off training.
 
-#### How does it work?
+#### There is a narrow focus on purely academic learning outcomes, when there is growing evidence to suggest that social-emotional competencies are critical to later academic achievement, health and wellbeing.
 
-* Coaching sessions and peer-to-peer learning occur during 1-hour weekly video clubs.
-* Refugee teachers implement what they learned in their classroom during daily designated ‘SEL time,’ marked by a school bell.
-* Teachers are rewarded and supported with localized SEL cards that signal they are skilled SEL teachers and can be used as teaching aids in the classroom.
+Social-emotional learning (SEL) can help children develop the skills needed to regulate their emotional responses, positively interact with others and better persevere in adverse situations.
+
+&nbsp;

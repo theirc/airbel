@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Innovative Financing for Refugee Crises
+title: Innovative Financing for Refugee Crises Response
 tagline: Exploring new financial instruments to speed up response and save lives
 status: active
 stage: Generate Solutions
@@ -10,14 +10,18 @@ geolocation:
   region:
   latitude:
   longitude:
-description:
+description: >-
+  Available funding is not enough to meet the world’s vast needs for aid.
+  Together with the Centre for Global Disaster Protection, Airbel is working to
+  assess the potential to use risk-based financing approaches to respond to
+  refugee influxes.
 hero_image: /uploads/hero-displacement-insurance-1.jpeg
 featured_image: /uploads/20180824-kryan-drc-ebola-8.jpg
 featured_video_url:
 resources:
-  - title: Displacement Insurance Overview Slide Deck
+  - title: 'Briefing Paper: Innovative Financing For Responses to Refugee Crises'
     description:
-    url: 'https://rescue.box.com/s/1oz5x00156iy2a4deutck0ggpr4czu4c'
+    url: 'https://rescue.box.com/s/fvg5zy2cqily6wo2ey2qbshb4k7jhal2'
 articles:
   - title:
     url:

@@ -23,8 +23,16 @@ resources:
     description:
     url: 'https://rescue.box.com/s/oha809u8q4tg1szfnerp4odzi8cigrxu'
 articles:
-  - title:
-    url:
+  - title: >-
+      Part 1: The Road to Testing Innovations in Behavior Change and Gender
+      Norms
+    url: >-
+      https://medium.com/airbel/the-road-to-testing-innovations-in-behavior-change-and-gender-norms-7e5f1cf9b19f
+  - title: >-
+      ‘Modern Men’ — Harnessing the Telecommunication Boom to Reduce Intimate
+      Partner Violence
+    url: >-
+      https://medium.com/airbel/harnessing-the-telecommunication-boom-to-reduce-partner-violence-bb5343c50964
 milestones:
   - date: 2018-10-01 00:00:00
     title: 'Monrovia, Liberia. Airbel and IPA Liberia launch impact evaluation'
@@ -63,7 +71,7 @@ milestones:
       management, financial planning, and household responsibilities.
 ---
 
-Humanitarian disasters leave affected populations with severe post-conflict trauma resulting in mental health issues, high rates of poverty and reinforced gender inequality. Under these circumstances, Intimate Partner Violence becomes systemic and pervasive.
+Humanitarian disasters leave affected populations with severe post-conflict trauma resulting in mental health issues, high rates of poverty and reinforced gender inequality. Under these circumstances, intimate partner violence–or violence caused by a current or former partner or spouse–becomes systemic and pervasive.
 
 Harnessing the power of communication technology like SMS and WhatsApp, Modern Man provides bite-size, engaging content that challenges harmful gender norms that have been shown to lead to violence. It prompts men to practice behaviorally-informed skills that increase communication, understanding and importance of sexual consent, shared decision making and emotional regulation. Modern Man presents multiple identities that participants can relate to, each aligning to one or more of the skills mentioned and emphasizes the importance of respectful and healthy relationships.
 

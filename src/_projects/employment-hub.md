@@ -24,14 +24,20 @@ resources:
     description:
     url: >-
       https://www.rescue.org/sites/default/files/document/1527/irc-syrianrefugeeemployment-72dpi-041117.pdf
+  - title: How Data is Driving Implementation
+    description:
+    url: 'https://rescue.box.com/s/xigt4vi4i2qq41hsnwb69zyzisx82blv'
 articles:
   - title: >-
       Financial Times - Putting refugees to work: the greatest challenge in 2017
       (paywall)
     url: 'https://www.ft.com/content/fcba4b0f-1558-36b4-be77-e69e2848e275'
+  - title: Matching jobs to job seekers in Jordan
+    url: >-
+      https://medium.com/airbel/matching-jobs-to-job-seekers-in-jordan-d9c1c8bc00a5
 milestones:
   - date: 2019-09-01 00:00:00
-    title: Conclusion of Randomized Control Trial
+    title: Randomized Control Trial concludes
     link:
     link_title:
     description_markdown:
@@ -43,65 +49,68 @@ milestones:
       Exploring agriculture and service sectors. In addition, development of
       private sector-oriented interventions begin.
   - date: 2019-02-01 00:00:00
-    title: Launch of Randomized Control Trial
+    title: Randomized Control Trial launches
     link:
     link_title:
     description_markdown: |-
-      This also includes the launch of:
+      This also includes the launch of the:
 
       * job matching algorithm
       * Thompson algorithm
       * comprehensive case management platform
       * new interventions
   - date: 2019-01-01 00:00:00
-    title: >-
-      Consolidation of year one learning, selection of interventions for
-      testing, and framing of the Randomized Control Trial
+    title: 'Consolidation of year one learning, prep for RCT'
     link:
     link_title:
-    description_markdown:
+    description_markdown: >-
+      Interventions are selected for testing and the framing of the Randomized
+      Control Trial is complete.
   - date: 2018-09-01 00:00:00
     title: Pilot of behavioral interventions
     link:
     link_title:
-    description_markdown: 'Complete prototyping of behavioral interventions, begin piloting.'
+    description_markdown: 'Prototyping of behavioral interventions is complete, pilot begins.'
   - date: 2018-08-01 00:00:00
     title: Algorithm and nudges
-    link:
-    link_title:
+    link: 'https://rescue.box.com/s/xigt4vi4i2qq41hsnwb69zyzisx82blv'
+    link_title: Algorithm One Pager
     description_markdown: >-
-      Complete basic framework of matching algorithm and prototypes of
-      behavioral nudges
+      Basic framework of matching algorithm is completed and prototypes of
+      behavioral nudges begin
   - date: 2018-07-01 00:00:00
     title: Cash support begins
     link:
     link_title:
     description_markdown: >-
-      Begin delivery of cash support packages to assist beneficiaries with the
+      Delivery of cash support packages begins to assist beneficiaries with the
       job search
   - date: 2018-05-01 00:00:00
     title: First job placements
     link:
     link_title:
     description_markdown: >-
-      Complete first job placements, begin rapid iteration of service design in
-      response to early lessons learned.
+      First job placements are completed, begin rapid iteration of service
+      design in response to early lessons learned.
   - date: 2018-04-01 00:00:00
-    title: Focus groups
+    title: Focus group discussions and first intake
     link:
     link_title:
     description_markdown: >-
-      Conduct focus group discussions with job seekers and firms to test program
-      design assumptions; intake of job seekers and firms begins
+      Focus group discussions are conducted with job seekers and firms to test
+      program design assumptions.
+
+
+      Intake of job seekers and firms also begin.
   - date: 2018-03-01 00:00:00
-    title: Irbid office established
+    title: Irbid office is established
     link:
     link_title:
     description_markdown: >-
-      Project Match engaged a team of mobile employment service officers, and
-      established offices in Irbid, Jordan.
+      Project Match engages a team of mobile employment service officers, and
+      establishes offices in Irbid, Jordan.
   - date: 2018-03-01 00:00:00
-    title: Research plan drafted
+    title: Research plan is drafted
     link:
     link_title:
     description_markdown:
@@ -114,7 +123,7 @@ milestones:
     title: Systems mapping
     link: 'https://rescue.box.com/s/tt0d3zf6sj4ho3nogwf17l65cslin4kr'
     link_title:
-    description_markdown: Systems mapping and planning for employment hub conducted.
+    description_markdown: Systems mapping and planning for Project Match has been conducted.
   - date: 2017-03-01 00:00:00
     title: Research results published
     link: >-

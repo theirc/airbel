@@ -18,12 +18,16 @@ hero_image: /uploads/20160518-jacobrussell--lebanon-013-headerimg.jpeg
 featured_image: /uploads/20160518-jacobrussell--lebanon-013.JPG
 featured_video_url:
 resources:
-  - title:
+  - title: 'Urban Refugee: How Cities Are Building Inclusive Communities'
     description:
-    url:
+    url: >-
+      https://www.rescue.org/sites/default/files/document/3273/ircurbanrefugereportlaandkampalahighspreads.pdf
 articles:
-  - title:
-    url:
+  - title: >-
+      A move away from refugee camps requires a collaborative solution for
+      housing
+    url: >-
+      https://medium.com/airbel/a-move-away-from-camps-requires-a-collaborative-solution-for-housing-655c52817c95
 milestones:
   - date: 2019-02-01 00:00:00
     title: Four focus areas selected for further ideation
