@@ -67,7 +67,7 @@ milestones:
       The team finalizes the Tunakujenga program and service design with their
       team members in Tanzania.
   - date: 2018-02-01 00:00:00
-    title:
+    title: Content creation and program design
     link: 'https://rescue.box.com/s/mn6pzgg6bq6wm8nu6u43flyxk3di701d'
     link_title: >-
       https://docs.google.com/presentation/d/1l9oPw2y3POHbjg9VOqhpcYcqcXDfDk47lW_2ejTFojo/edit?usp=sharing
