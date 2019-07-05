@@ -68,9 +68,8 @@ milestones:
       team members in Tanzania.
   - date: 2018-02-01 00:00:00
     title: Content creation and program design
-    link: 'https://rescue.box.com/s/mn6pzgg6bq6wm8nu6u43flyxk3di701d'
-    link_title: >-
-      https://docs.google.com/presentation/d/1l9oPw2y3POHbjg9VOqhpcYcqcXDfDk47lW_2ejTFojo/edit?usp=sharing
+    link:
+    link_title:
     description_markdown: >-
       Concept takes on the name Tunakujenga, which means "We Build You" in
       Swahili. The team films 10 videos with Ubongo and creates SEL activity
