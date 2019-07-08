@@ -7,9 +7,9 @@ stage: Research
 focuses:
   - other
 geolocation:
-  region:
-  latitude:
-  longitude:
+  region: Jordan
+  latitude: '31.963158'
+  longitude: '35.930359'
 description: >-
   Rapid urbanization in many parts of the world has led to a great deal of
   challenges ensuring the availability of adequate housing. In the Middle East,
