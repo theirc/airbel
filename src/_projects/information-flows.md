@@ -7,9 +7,9 @@ stage: Research
 focuses:
   - other
 geolocation:
-  region:
-  latitude:
-  longitude:
+  region: Jordan
+  latitude: '31.963158'
+  longitude: '35.930359'
 description: >-
   Displaced people live in challenging circumstances where accurate information
   can become difficult to obtain. Strengthening information flows can aid in
