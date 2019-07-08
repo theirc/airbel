@@ -9,7 +9,7 @@ stage: Generate Solutions
 focuses:
   - resettlement
 geolocation:
-  region: U.S.
+  region: United States
   latitude: '33.749249'
   longitude: '-84.387314'
 description: >-
