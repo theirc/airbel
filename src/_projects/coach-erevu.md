@@ -2,8 +2,8 @@
 layout: project
 title: Coach Erevu
 tagline: >-
-  Empowering teachers to adopt new teaching behaviors that support children’s
-  learning and development.
+  Empowering teachers to adopt new behaviors that support children’s learning
+  and development.
 status: active
 stage: Pilot
 focuses:
@@ -14,8 +14,7 @@ geolocation:
   longitude: '399.51472'
 description: >-
   Coach Erevu is a virtual teacher coaching program designed to empower teachers
-  to learn and practice social-emotional learning activities that they can use
-  in their classrooms.
+  to use social-emotional learning activities in their classrooms.
 hero_image: /uploads/dscf1201-1.jpg
 featured_image: /uploads/dscf1201.jpg
 featured_video_url: 'https://youtu.be/-2R3tuNr47g'
@@ -156,97 +155,59 @@ milestones:
       primary school years”
 ---
 
-### The lack of cost-effective teacher training and continuous professional development for teachers in crisis-affected contexts results in poor quality teaching.
+## Quality of education
 
-While access to formal schooling has [increased](https://www.worldbank.org/en/publication/wdr2017) over the past 25 years across low-income countries (LICs), the majority of children complete primary education without basic literacy and numeracy skills. 250 million school-aged children cannot read or write after 4 years of schooling.
+Over the past 25 years, access to formal schooling has [increased](https://www.worldbank.org/en/publication/wdr2017){: target="_blank"}&nbsp;across low-income countries. Though more children are in school, the majority complete their primary education without gaining basic literacy and numeracy skills - 250 million school-aged children cannot read or write after 4 years of schooling.
 
-One of the major drivers of low educational attainment is poor quality teaching. Interventions that [improve](https://doi.org/10.7916/D898854G) teacher instructional techniques can improve student’s academic achievement. Evidence also shows that ongoing teacher support, such as mentoring or coaching, is [more effective](https://doi.org/10.1073/pnas.1121254109) than a one-off training.
+The lack of cost-effective teacher training and continuous professional development for teachers in crisis-affected contexts results in poor quality teaching. Efforts to&nbsp;[improve](https://doi.org/10.7916/D898854G) teachers' instructional techniques can also strengthen student’s academic achievement. Evidence shows that ongoing teacher support, such as mentoring or coaching, is [more effective](https://doi.org/10.1073/pnas.1121254109) than a one-off training.
 
-### &nbsp;
+## Social-Emotional learning&nbsp;
 
-### There is a narrow focus on purely academic learning outcomes, when there is growing evidence to suggest that social-emotional competencies are critical to later academic achievement, health and wellbeing.
+However, many mentoring or coaching programs have a narrow focus on purely academic learning outcomes. There is growing evidence to suggest that social-emotional competencies are critical to later academic achievement, health and wellbeing.
 
-Social-emotional learning (SEL) can help children develop the skills needed to regulate their emotional responses, positively interact with others and better persevere in adverse situations.
+Social-emotional learning (SEL) can help children develop the skills needed to regulate their emotional responses, positively interact with others and better persevere in adverse situations. Given the amount of time children spend in school and [extensive evidence](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8624.2010.01564.x) that school-based SEL programs can impact social-emotional skills and academic development, schools are natural environments for intervention, [particularly for at-risk children](https://www.nber.org/papers/w20749).
 
-Given the amount of time children spend in school and [extensive evidence](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8624.2010.01564.x) that school-based SEL programs can impact social-emotional skills and academic development, schools are natural environments for intervention, [particularly for at-risk children](https://www.nber.org/papers/w20749).
+## Enter Coach Erevu
 
-## &nbsp;
+Each week, teachers gather in video clubs to watch high quality, entertaining and informative videos featuring master teacher Coach Erevu. Coach Erevu is a friendly virtual master teacher and an aspirational role model friendly who demonstrates SEL activities. Teachers take in-app quizzes and work through practice sessions to improve learning.
 
-## What makes Coach Erevu different?
+Teachers commit to teaching SEL in their classroom each day during SEL time. By signaling SEL time with a tambourine, teachers are kept accountable to one another and their students to practice what they learn. Teachers leave their virtual lessons with SEL Reference Cards that summarize the SEL activity so they don’t forget what they learned.
 
-At the heart of Coach Erevu are high quality, entertaining and informative videos featuring a master teacher called Coach Erevu. Every week, teachers gather to watch Coach Erevu demonstrate SEL activities. They learn together and commit to teaching SEL in their classroom each day during SEL time signaled by a tambourine. Teachers walk away with reference cards so they don’t forget what they learned.
+### Eight components
 
-### &nbsp;
+Coach Erevu is built with eight ingredients to ensure successful behavioral change
 
-### Training & Coaching
-
-Teacher Video Clubs guided by Coach Erevu - a virtual master teacher and aspirational role model - with in app quizzes and practice sessions to improve learning.
-
-### &nbsp;
-
-### Habit Building
-
-SEL Time signaled by a tambourine to keep teachers accountable to one another and their students to practice what they learned in the classroom.
-
-### &nbsp;
-
-### Supportive Materials
-
-SEL Reference Cards that summarize the SEL activity, steps to practicing it in the classroom, and ‘do’s’ and ‘don’ts’ localized for a specific context.
-
-#### &nbsp;
-
-## Coach Erevu is built with eight ingredients to ensure successful behavioral change
-
-&nbsp;
-
-### An aspirational role model
+#### 1\. An aspirational role model
 
 In East Africa, this is Coach Erevu, a master SEL teacher. “Erevu,” meaning “smart” or “resourceful” in Kiswahili, is a carefully chosen identity to enhance the persona of a virtual coach. As the program is replicated in other contexts, additional role models will be developed.
 
-### &nbsp;
-
-### Coach Erevu app and quiz
+#### 2\. Coach Erevu app and quiz
 
 An open source application facilitates easy access to the video bank, provides teachers with a structured learning path and enables data collection, monitoring and analytics. Videos are followed by a quiz to stimulate group discussion and participation.
 
-### &nbsp;
-
-### A bank of highly engaging coaching videos
+#### 3\. A bank of highly engaging coaching videos
 
 Coach Erevu demonstrates a new activity and explains its purpose to teachers, performs the activity on camera in a real classroom with a high teacher-student ratio (over 100 students) to reflect the reality in which teachers operate, reviews teachers’ performance and provides localized “Do’s” and “Don’ts” tips for teachers.
 
-### &nbsp;
-
-### Weekly Learning Clubs
+#### 4\. Weekly Learning Clubs
 
 Each week, teachers gather in small groups to watch these videos. With guidance from Coach Erevu, they practice newly learned activities.
 
-### &nbsp;
-
-### SEL time and behavioral triggers
+#### 5\. SEL time and behavioral triggers
 
 The program introduces a bell during SEL time to remind teachers to practice the SEL activity of the day. Children’s excitement increases teachers’ motivation and commitment to implementing the lessons.
 
-### &nbsp;
-
-### Certificates after completing the program
+#### 6\. Certificates after completing the program
 
 Teachers receive a certificate at the end of the coaching program. These certificates are valuable to teachers, publicly recognize their achievements, and reaffirm their self-image and the value of professional development.
 
-### &nbsp;
-
-### SEL Activity Cards
+#### 7\. SEL Activity Cards
 
 Teachers collect one SEL activity card for each new activity that provides an incentive, supports habit-building, and gives an overview of each activity, supporting regular, high fidelity implementation in the classroom.
 
-### &nbsp;
-
-### Feedback tokens and intention setting
+#### 8\. Feedback tokens and intention setting
 
 During the club, teachers use pre-filled feedback cards, or tokens, to give each other feedback to improve their learning and performance. This models best practices and ensures that teachers are learning together. Teachers set an intention to implement SEL in the classroom during the following week, write it down and share it with their headmasters to improve accountability and support habit building.
-
-## &nbsp;
 
 ## What’s happening now?
 
