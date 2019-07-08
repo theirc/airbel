@@ -181,7 +181,7 @@ Social-emotional learning (SEL) can help children develop the skills needed to r
 
 &nbsp;
 
-### Eight ingredients for behavioral change
+## How it works
 
 Coach Erevu is built with eight ingredients to ensure successful behavioral change
 
