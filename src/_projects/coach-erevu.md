@@ -173,7 +173,7 @@ Social-emotional learning (SEL) can help children develop the skills needed to r
 
 ## What makes Coach Erevu different
 
-**Training and coaching:&nbsp;**Each week, teachers gather in video clubs to watch high quality, entertaining and informative videos featuring master teacher Coach Erevu. Coach Erevu is a friendly virtual master teacher and an aspirational role model friendly who demonstrates SEL activities. Teachers take in-app quizzes and work through practice sessions to improve learning.
+**Training and coaching:** In the Coach Erevu Program, each week, teachers gather in video clubs to watch high quality, entertaining and informative videos featuring master teacher Coach Erevu. Coach Erevu is a friendly virtual master teacher and an aspirational role model friendly who demonstrates SEL activities. Teachers take in-app quizzes and work through practice sessions to improve learning.
 
 **Habit building:&nbsp;**Teachers commit to teaching SEL in their classroom each day during SEL time. By signaling SEL time with a tambourine, teachers are kept accountable to one another and their students to practice what they learn.
 
