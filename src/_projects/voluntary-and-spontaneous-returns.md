@@ -7,9 +7,9 @@ stage: Research
 focuses:
   - other
 geolocation:
-  region:
-  latitude:
-  longitude:
+  region: Jordan
+  latitude: '31.963158'
+  longitude: '35.930359'
 description: >-
   As people displaced by the Syria crisis begin returning to their homes, new
   approaches will be needed to deal with the unprecedented scale of returns.
