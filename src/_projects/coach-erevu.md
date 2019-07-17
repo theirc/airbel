@@ -35,7 +35,7 @@ articles:
 milestones:
   - date: 2019-04-01 00:00:00
     title: Coach Erevu pilot findings
-    link:
+    link: 'https://rescue.box.com/s/3n5a79gc6ym14igdthx9a07a59hi5b2u'
     link_title:
     description_markdown: >-
       Pilot results demonstrate positive suggestive evidence in a number of
