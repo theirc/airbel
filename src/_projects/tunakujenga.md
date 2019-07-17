@@ -31,7 +31,7 @@ articles:
 milestones:
   - date: 2019-04-01 00:00:00
     title: Tunakujenga pilot findings
-    link:
+    link: 'https://rescue.box.com/s/fzjmj2f5yzzsgy32kjer3fcn88mda5cl'
     link_title:
     description_markdown: >-
       Pilot results demonstrate positive suggestive evidence in a number of
