@@ -159,7 +159,7 @@ milestones:
 
 Over the past 25 years, access to formal schooling has [increased](https://www.worldbank.org/en/publication/wdr2017){: target="_blank"}&nbsp;across low-income countries. Though more children are in school, the majority complete their primary education without gaining basic literacy and numeracy skills - 250 million school-aged children cannot read or write after 4 years of schooling.
 
-The lack of cost-effective teacher training and continuous professional development for teachers in crisis-affected contexts results in poor quality teaching. Efforts to&nbsp;[improve](https://doi.org/10.7916/D898854G) teachers' instructional techniques can also strengthen student’s academic achievement. Evidence shows that ongoing teacher support, such as mentoring or coaching, is [more effective](https://doi.org/10.1073/pnas.1121254109) than a one-off training.
+The lack of cost-effective teacher training and continuous professional development for teachers in crisis-affected contexts results in poor quality teaching. Efforts to&nbsp;[improve](https://doi.org/10.7916/D898854G) teachers' instructional techniques can also strengthen student’s academic achievement. Evidence shows that ongoing teacher support, such as mentoring or coaching, is [more effective](https://journals.sagepub.com/doi/abs/10.3102/0034654314553127?journalCode=rera&amp;) than a one-off training.
 
 &nbsp;
 
