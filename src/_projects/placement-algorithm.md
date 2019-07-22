@@ -53,16 +53,14 @@ articles:
 milestones:
   - date: 2018-06-01 00:00:00
     title: Cross-agency partnership established
-    link: >-
-      https://docs.google.com/document/d/18e7XsRGdek4oW_X3rXaVUwk3GalKeHA8eydL-c6CmGk/edit?usp=sharing
+    link: 'https://rescue.box.com/s/ixpwm8fst35uoo8jxejt8hf2zomxl0dx'
     link_title:
     description_markdown: >-
       The IRC will work with Lutheran Immigration and Refugee Service and other
       potential resettlement agencies to rollout a pilot of the algorithm.
   - date: 2018-03-01 00:00:00
     title: “Moonshot” pitch to a16z
-    link: >-
-      https://docs.google.com/presentation/d/1Ru-oAprdjQN-7cNuAQXGJcmp_KmjLlRD08m9fi-GEww/edit?usp=sharing
+    link: 'https://rescue.box.com/s/806ethwa02fghood1ll4r708kmbqjr4v'
     link_title:
     description_markdown: >-
       Matching becomes one of the cornerstones of how we pitch a “global
@@ -79,8 +77,7 @@ milestones:
       doubling of employment at 90 days for resettled refugees.
   - date: 2017-11-01 00:00:00
     title: Matching algorithm emerges among top ideas
-    link: >-
-      https://docs.google.com/presentation/d/1ERX5V2YsUYjl2ZP8r25xB7GwgdD5HyxaNJogapmBnqY/edit?usp=sharing
+    link: 'https://rescue.box.com/s/n3x6l6d7m0wn22r9c7e06xjdhsiz4r8y'
     link_title:
     description_markdown: >-
       After design workshops, brainstorms, and a look at IRC's US Resettlement
