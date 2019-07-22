@@ -38,7 +38,7 @@ milestones:
       interested in participating in the seed investment round.
   - date: 2018-09-01 00:00:00
     title: Pop-Up Learning Feasibility Study in Bangladesh
-    link: 'https://airbel.rescue.org/projects/pop-up-learning/'
+    link: 'https://rescue.box.com/s/g8qtqtejqrsdmvnn752buu8czqcli428'
     link_title:
     description_markdown: >-
       The feasibility study concluded that Cox’s Bazar, Bangladesh met the
