@@ -26,7 +26,7 @@ articles:
 milestones:
   - date: 2019-02-01 00:00:00
     title: Four focus areas selected for further ideation
-    link: 'https://rescue.box.com/s/g8uujo3o97ic2xhhqfmsw1xmxfxkwirh'
+    link: 'https://rescue.box.com/s/6b6hep76kjuz23273vpu9t1o05h8uwo5'
     link_title: PowerPoint Presentation on Potential Focus Areas
     description_markdown: >-
       Of the eight areas in which initial scoping was conducted, four were
@@ -34,7 +34,7 @@ milestones:
       and information flows.
   - date: 2018-07-01 00:00:00
     title: Scoping exercise to understand problem areas
-    link: 'https://rescue.box.com/s/49dtosybshdew7h7wf9lcnqmcj63b5ih'
+    link: 'https://rescue.box.com/s/lv12bvv64p92w4n308df7pvl99mi2oe3'
     link_title: Briefs on each problem area
     description_markdown: >-
       Eight problem areas arose from various sources, including community-driven
