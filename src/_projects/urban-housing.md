@@ -39,7 +39,7 @@ milestones:
       and information flows.
   - date: 2018-07-01 00:00:00
     title: Scoping exercise to understand problem areas
-    link: 'https://rescue.box.com/s/49dtosybshdew7h7wf9lcnqmcj63b5ih'
+    link: 'https://rescue.box.com/s/lv12bvv64p92w4n308df7pvl99mi2oe3'
     link_title: Briefs on each problem area
     description_markdown: >-
       Eight problem areas arose from various sources, including community-driven
