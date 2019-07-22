@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Innovative Financing for Refugee Crises Response
+title: Financing Refugee Crisis Response
 tagline: Exploring new financial instruments to speed up response and save lives
 status: active
 stage: Generate Solutions
@@ -11,7 +11,6 @@ geolocation:
   latitude:
   longitude:
 description: >-
-  Available funding is not enough to meet the world’s vast needs for aid.
   Together with the Centre for Global Disaster Protection, Airbel is working to
   assess the potential to use risk-based financing approaches to respond to
   refugee influxes.
