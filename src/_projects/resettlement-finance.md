@@ -22,12 +22,12 @@ featured_video_url:
 resources:
   - title: 'Concept Note: Refugee Resettlement Financing Facility'
     description:
-    url: 'https://rescue.box.com/s/wybvsq197c2woo3e6kk7r5gqoeusgk7i'
+    url: 'https://rescue.box.com/s/vmzduu0zf4e4m1w96wwoiwn1j7muey8u'
   - title: >-
       Building the Future of Global Refugee Resettlement: Overview of Financial
       Facility
     description:
-    url: 'https://rescue.box.com/s/4xbulxexla77cokh61exgg3ujsjni230'
+    url: 'https://rescue.box.com/s/aqnb3160q3w89tf8l5qluidxr0jq6g7h'
 articles:
   - title:
     url:
