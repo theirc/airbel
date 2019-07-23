@@ -4,7 +4,7 @@ title: Sprout
 tagline: >-
   Working alongside communities to prevent the risks associated with severe
   acute malnutrition in children
-status: active
+status: graduated
 stage: Prototype
 focuses:
   - nutrition
