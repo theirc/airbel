@@ -31,7 +31,26 @@ milestones:
     title: Prototype concludes
     link: 'https://rescue.box.com/s/675ir2joz1olmeduu7evbaq5bvjqwcac'
     link_title:
-    description_markdown: Sprout concludes the prototype in Niger.
+    description_markdown: >-
+      Sprout finds a number of takeaways including:
+
+
+      * Choice, trust, and problem-solving support were most appreciated by
+      caregivers
+
+
+      * Cash nudges helped caregivers support familiar behaviors, such as
+      handwashing with soap, as well as try new behaviors, such as feeding a
+      child from their own bowl and introducing meat and fruit into a child’s
+      diet.
+
+
+      * While the warehouse was an attractive service, it did not generate
+      enough fees to substantially offset the cash nudges to caregivers.
+
+
+      * When working with subsistence farmers, post-harvest loss reduction isn’t
+      enough - efforts are needed across the entire value chain.
   - date: 2019-02-01 00:00:00
     title: 'Tillaberi, Niger. Over 300 farmers have become warehouse customers.'
     link: 'https://rescue.box.com/s/0haf1ketlg0p4194qpvb1ypawpfogtzm'
