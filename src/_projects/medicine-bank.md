@@ -16,7 +16,7 @@ description: >-
   the cost of pharmaceuticals.
 hero_image: /uploads/medicine-bank-hero.jpg
 featured_image:
-featured_video_url:
+featured_video_url: 'https://youtu.be/GlfqhwewyfE'
 resources:
   - title:
     description:
