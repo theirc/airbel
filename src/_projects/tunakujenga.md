@@ -57,7 +57,7 @@ milestones:
     link:
     link_title:
     description_markdown: >-
-      The team designs the pilot research. The plans guides further quantitative
+      The team designs the pilot research. The plans guide further quantitative
       survey development and qualitative research.
   - date: 2018-05-01 00:00:00
     title: Program and service design
@@ -222,4 +222,4 @@ Our research partner, [Innovations for Poverty Action](https://www.poverty-actio
 
 During the implementation of caregiver clubs, we conducted three rounds of monitoring and evaluation and numerous qualitative interviews and observations to understand how the program was implemented in practice. We also prototyped new aspects of the program to quickly iterate on our findings.
 
-Pilot results demonstrated positive suggestive evidence in a number of outcome measures and, while not statistically significant, show most outcomes measures trending in the right direction.
+Pilot results demonstrated positive suggestive evidence in a number of outcome measures and, while not statistically significant, show most outcomes trending in the right direction.
