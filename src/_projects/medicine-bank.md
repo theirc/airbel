@@ -52,4 +52,4 @@ The medicine bank supply chain management solution helps patients with chronic d
 
 Initially, this solution will be piloted for medication for patients with chronic illness, as demand tends to be more predictable. Eventually, it could be expanded to other medicines, other medical products, and even non-medical supplies. It also has the potential to be scaled to other countries.&nbsp;
 
-*This solution stems from the Mahali Lab in Jordan, an initiative that works with Syrian refugees and socially and economically vulnerable community members to identify and solve challenges posed by long-term displacement. Learn more [here](https://mahali.rescue.org/en/).*
+*Medicine Bank was developed through the Mahali Lab in Jordan, an initiative that works with Syrian refugees and socially and economically vulnerable community members to identify and solve challenges posed by long-term displacement. Learn more [here](https://mahali.rescue.org/en/).*
