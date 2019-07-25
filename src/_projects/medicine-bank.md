@@ -7,13 +7,13 @@ stage: Generate Solutions
 focuses:
   - other
 geolocation:
-  region:
-  latitude:
-  longitude:
+  region: Jordan
+  latitude: '31.963158'
+  longitude: '35.930359'
 description: >-
-  Low-income people in Jordan often struggle to access the medicine they need.
-  This solution is aimed at making supply chains more efficient to reduce the
-  cost of pharmaceuticals.
+  Low-income communities in Jordan often struggle to access the medicine they
+  need. This solution is aimed at making supply chains more efficient to reduce
+  the cost of pharmaceuticals.
 hero_image:
 featured_image:
 featured_video_url:
