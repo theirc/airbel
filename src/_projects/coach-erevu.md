@@ -100,8 +100,7 @@ milestones:
     link_title:
     description_markdown: >-
       Prototyping sprint takes place in Tanzania to test three mobile-based
-      concepts. One focused on caregivers, one on youth, and one on teachers -
-      which will later become Coach Erevu - on teachers. The sprint aimed to
+      concepts. One focused on caregivers, one on youth, and one - which will later become Coach Erevu - on teachers. The sprint aimed to
       understand current technology use, feasibility and desirability of
       different mobile channels of delivery, and validating the concept of
       teaching SEL through different parties.
