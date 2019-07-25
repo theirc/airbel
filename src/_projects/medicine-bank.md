@@ -14,7 +14,7 @@ description: >-
   Low-income communities in Jordan often struggle to access the medicine they
   need. This solution is aimed at making supply chains more efficient to reduce
   the cost of pharmaceuticals.
-hero_image:
+hero_image: /uploads/medicine-bank-hero.jpg
 featured_image:
 featured_video_url:
 resources:
