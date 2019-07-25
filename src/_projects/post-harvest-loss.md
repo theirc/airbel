@@ -27,6 +27,11 @@ articles:
   - title: Medium | Malnutrition
     url: 'https://medium.com/airbel/malnutrition/home'
 milestones:
+  - date: 2019-05-01 00:00:00
+    title: Prototype concludes
+    link: 'https://rescue.box.com/s/675ir2joz1olmeduu7evbaq5bvjqwcac'
+    link_title:
+    description_markdown: Sprout concludes the prototype in Niger.
   - date: 2019-02-01 00:00:00
     title: 'Tillaberi, Niger. Over 300 farmers have become warehouse customers.'
     link: 'https://rescue.box.com/s/0haf1ketlg0p4194qpvb1ypawpfogtzm'
