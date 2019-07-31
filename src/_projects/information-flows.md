@@ -3,7 +3,7 @@ layout: project
 title: Information Flows
 tagline: 'Getting displaced people the information they need, when they need it'
 status: active
-stage: Research
+stage: Generate Solutions
 focuses:
   - other
 geolocation:
@@ -45,6 +45,16 @@ milestones:
       voluntary returns, information flows, healthcare service delivery, and
       smart humanitarianism. IRC-Zolberg Fellows and IRC staff carried out desk
       research along with discussions with community members.
+  - date: 2018-07-01 00:00:00
+    title: Ideation workshops held
+    link:
+    link_title:
+    description_markdown: >-
+      A series of workshops have been held together with key local actors,
+      including with Signpost, Mercy Corps and Stanford Immigration Policy Lab.
+      Two ideas for further exploration have emerged: natural language
+      processing and machine learning and how communication spreads through
+      community.
 ---
 
 Displaced people live in challenging circumstances where accurate information can become difficult to obtain. Strengthening information flows can aid in decision-making and make their circumstances easier to manage.
