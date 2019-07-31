@@ -3,7 +3,7 @@ layout: project
 title: Mental Health
 tagline: Laying mental health foundations to help displaced people rebuild
 status: active
-stage: Research
+stage: Generate Solutions
 focuses:
   - other
 geolocation:
@@ -44,6 +44,13 @@ milestones:
       voluntary returns, information flows, healthcare service delivery, and
       smart humanitarianism. IRC-Zolberg Fellows and IRC staff carried out desk
       research along with discussions with community members.
+  - date: 2018-07-01 00:00:00
+    title: Collaboration and team-building
+    link:
+    link_title:
+    description_markdown: >-
+      Work underway to build a team and connect with relevant stakeholders in
+      Jordan
 ---
 
 A growing body of research points to the outsized impact of mental health issues in the refugee population. Common mental health disorders like anxiety, depression, and post-traumatic stress disorder tend to double during emergencies, and tend to impact the most vulnerably most powerfully. Mental health issues and poverty also form a self-reinforcing cycle which can make it challenging for people to rebuild after facing trauma.
