@@ -15,7 +15,7 @@ description: >-
   need. This solution is aimed at making supply chains more efficient to reduce
   the cost of pharmaceuticals.
 hero_image: /uploads/medicine-bank-hero.jpg
-featured_image:
+featured_image: /uploads/medicine-bank-hero-1.jpg
 featured_video_url: 'https://youtu.be/GlfqhwewyfE'
 resources:
   - title:
