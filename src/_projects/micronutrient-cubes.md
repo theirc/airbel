@@ -18,7 +18,7 @@ description: >-
   private sector supply chains, this product will expand micronutrient access to
   caregivers in an easy-to-use form that mimics bouillon.
 hero_image: /uploads/microcube-hero.png
-featured_image:
+featured_image: /uploads/microcube-hero-1.png
 featured_video_url:
 resources:
   - title:
