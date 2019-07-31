@@ -3,7 +3,7 @@ layout: project
 title: Medicine Bank
 tagline: Reducing the cost of medicine for people with chronic illness
 status: active
-stage: Generate Solutions
+stage: Prototype
 focuses:
   - other
 geolocation:
