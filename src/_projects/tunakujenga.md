@@ -43,8 +43,8 @@ milestones:
     link_title:
     description_markdown: >-
       The team prototypes new aspects of the program including a cinema model, a
-      maker session model, and english language learning model to quickly
-      iterate on their findings during the pilot. 
+      maker session model, and an English language learning model to quickly
+      iterate on their findings during the pilot.
   - date: 2018-10-01 00:00:00
     title: Tunakujenga pilot begins
     link:
@@ -140,7 +140,7 @@ Tunakujenga exists to give parents the tools, skills and agency to reach their o
 
 ## What makes Tunakujenga different?
 
-At heart of Tunakujenga are engaging videos made with Ubongo - Africa’s largest producer of edu-taining content for children - and delivered through trusted institutions, like churches and their faith leaders. SEL games conform to the everyday routines of parents and their children, and engaging materials motivate and support parents and children to practice SEL every day at home.
+At heart of Tunakujenga are engaging videos made with [Ubongo](https://www.ubongo.org/) - Africa’s largest producer of edu-taining content for children - and delivered through trusted institutions, like churches and their faith leaders. SEL games conform to the everyday routines of parents and their children, and engaging materials motivate and support parents and children to practice SEL every day at home.
 
 ### &nbsp;
 
