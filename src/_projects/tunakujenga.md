@@ -72,7 +72,7 @@ milestones:
     link_title:
     description_markdown: >-
       Concept takes on the name Tunakujenga, which means "We Build You" in
-      Swahili. The team films 10 videos with Ubongo and creates SEL activity
+      Kiswahili. The team films 10 videos with Ubongo and creates SEL activity
       cards and other learning materials.
   - date: 2017-11-01 00:00:00
     title: Second round of prototyping with caregivers
