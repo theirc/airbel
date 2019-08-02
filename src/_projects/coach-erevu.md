@@ -14,7 +14,8 @@ geolocation:
   longitude: '399.51472'
 description: >-
   Coach Erevu is a virtual teacher coaching program designed to empower teachers
-  to use social-emotional learning activities in their classrooms.
+  to learn and practice social-emotional learning activities that they can use
+  in their classrooms.
 hero_image: /uploads/dscf1201-1.jpg
 featured_image: /uploads/dscf1201.jpg
 featured_video_url: 'https://youtu.be/-2R3tuNr47g'
@@ -100,10 +101,11 @@ milestones:
     link_title:
     description_markdown: >-
       Prototyping sprint takes place in Tanzania to test three mobile-based
-      concepts. One focused on caregivers, one on youth, and one - which will later become Coach Erevu - on teachers. The sprint aimed to
-      understand current technology use, feasibility and desirability of
-      different mobile channels of delivery, and validating the concept of
-      teaching SEL through different parties.
+      concepts. One focused on caregivers, one on youth, and one - which will
+      later become Coach Erevu - on teachers. The sprint aimed to understand
+      current technology use, feasibility and desirability of different mobile
+      channels of delivery, and validating the concept of teaching SEL through
+      different parties.
   - date: 2017-08-01 00:00:00
     title: Developed a refined approach to prototyping
     link: 'https://rescue.box.com/s/fzzp8f7x3mpxfcol1y3ahrdbcjk63e3w'
@@ -158,7 +160,7 @@ milestones:
 
 Over the past 25 years, access to formal schooling has [increased](https://www.worldbank.org/en/publication/wdr2017){: target="_blank"}&nbsp;across low-income countries. Though more children are in school, the majority complete their primary education without gaining basic literacy and numeracy skills - 250 million school-aged children cannot read or write after 4 years of schooling.
 
-The lack of cost-effective teacher training and continuous professional development for teachers in crisis-affected contexts results in poor quality teaching. Efforts to&nbsp;[improve](https://doi.org/10.7916/D898854G) teachers' instructional techniques can also strengthen student’s academic achievement. Evidence shows that ongoing teacher support, such as mentoring or coaching, is [more effective](https://journals.sagepub.com/doi/abs/10.3102/0034654314553127?journalCode=rera&amp;) than a one-off training.
+The lack of cost-effective teacher training and continuous professional development for teachers in crisis-affected contexts results in poor quality teaching. Efforts to&nbsp;[improve](https://doi.org/10.7916/D898854G) teachers’ instructional techniques can also strengthen student’s academic achievement. Evidence shows that ongoing teacher support, such as mentoring or coaching, is [more effective](https://journals.sagepub.com/doi/abs/10.3102/0034654314553127?journalCode=rera&amp;) than a one-off training.
 
 &nbsp;
 
