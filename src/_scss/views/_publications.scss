@@ -3,12 +3,19 @@
 }
 
 #publication-library {
-  
+  .publication-row {
+    @include media-breakpoint-up(lg){
+      border-left: 10px solid $dark;
+    }
+  }
 }
 .publication-row {
   align-items: center;
   margin-top: 8px;
   position: relative;
+  @include media-breakpoint-down(lg) {
+    padding-bottom: 30px;
+  }
   h4 {
     font-weight: 400;
   }

@@ -1,13 +1,14 @@
 .filters {
   .dropdown {
-    display: inline-block;
+    display: block;
     .dropdown-toggle {
       position: relative;
       padding-right: 50px;
       font-size: 16px;
       color: $dark;
       text-align: left;
-      min-width: 265px;
+      width: 265px;
+      max-width: 100%;
       border: 1px solid $dark;
       background: $light;
       text-transform: capitalize;

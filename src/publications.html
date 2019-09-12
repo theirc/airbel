@@ -22,10 +22,10 @@ featured_publications:
           <div class="row publication-row no-gutters bg-light">
             {% if publication.image %}
               <div class="col-md-4">
-                <div class="bg-image aspect-1x1" style="background-image: url({{ publication.image }})"></div>
+                <div class="bg-image aspect-1x1" style="background-image: url('{{ publication.image }}')"></div>
               </div>
-              <div class="col-md-8">
-                <div class="px-5">
+              <div class="col-lg-8">
+                <div class="p-3 py-lg-2 px-lg-5">
                   <h3>{{ publication.title }} | 
                     {% for focus in publication.focuses %}
                     <em><small>{{ focus }}</small></em>
@@ -54,7 +54,7 @@ featured_publications:
     </div>
   </div>
 </section>
-<section class="publication-library">
+<section id="publication-library">
   <div class="container">
     <div class="row">
       <div class="col-12">
@@ -63,20 +63,110 @@ featured_publications:
         </div>
       </div>
     </div>
+    <div class="row align-items-center filters">
+      <div class="col-lg-3">
+        <div class="content">
+          Filter by type
+          <div class="dropdown" role="group">
+            <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+              <span active-region-filter>All</span>
+              <span class="arrow-down"></span>
+            </button>
+            <ul class="dropdown-menu" data-filter-group="">
+              <li class="dropdown-item">
+                <a class="filter" data-filter="all" data-active-text="" data-mixitup-control>all</a>
+              </li>
+              <li class="dropdown-item">
+                <a class="filter" data-filter="" data-active-text="" data-mixitup-control>Option One</a>
+              </li>
+              <li class="dropdown-item">
+                <a class="filter" data-filter="" data-active-text="" data-mixitup-control>Option Two</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3">
+        <div class="content">
+          Filter by focus
+          <div class="dropdown" role="group">
+            <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+              <span active-region-filter>All</span>
+              <span class="arrow-down"></span>
+            </button>
+            <ul class="dropdown-menu" data-filter-group="">
+              <li class="dropdown-item">
+                <a class="filter" data-filter="all" data-active-text="" data-mixitup-control>all</a>
+              </li>
+              <li class="dropdown-item">
+                <a class="filter" data-filter="" data-active-text="" data-mixitup-control>Option One</a>
+              </li>
+              <li class="dropdown-item">
+                <a class="filter" data-filter="" data-active-text="" data-mixitup-control>Option Two</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3">
+        <div class="content">
+          Filter by location
+          <div class="dropdown" role="group">
+            <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+              <span active-region-filter>All</span>
+              <span class="arrow-down"></span>
+            </button>
+            <ul class="dropdown-menu" data-filter-group="">
+              <li class="dropdown-item">
+                <a class="filter" data-filter="all" data-active-text="" data-mixitup-control>all</a>
+              </li>
+              <li class="dropdown-item">
+                <a class="filter" data-filter="" data-active-text="" data-mixitup-control>Option One</a>
+              </li>
+              <li class="dropdown-item">
+                <a class="filter" data-filter="" data-active-text="" data-mixitup-control>Option Two</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3">
+        <div class="content">
+          Filter by year
+          <div class="dropdown" role="group">
+            <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+              <span active-region-filter>All</span>
+              <span class="arrow-down"></span>
+            </button>
+            <ul class="dropdown-menu" data-filter-group="">
+              <li class="dropdown-item">
+                <a class="filter" data-filter="all" data-active-text="" data-mixitup-control>all</a>
+              </li>
+              <li class="dropdown-item">
+                <a class="filter" data-filter="" data-active-text="" data-mixitup-control>Option One</a>
+              </li>
+              <li class="dropdown-item">
+                <a class="filter" data-filter="" data-active-text="" data-mixitup-control>Option Two</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="row">
       <div class="col-12">
         <div class="content">
           <!--example with image-->
           {% for i in (1..2) %}
-          <div class="row publication-row no-gutters bg-light">
-            <div class="col-md-3">
+          <div class="row publication-row no-gutters bg-light border-purple">
+            <div class="col-md-4 col-lg-3">
               <div class="bg-image aspect-1x1" style="background-image: url(https://via.placeholder.com/500)"></div>
             </div>
-            <div class="col-md-9">
-              <div class="px-5">
-                <p class="mb-0"><em>Category Name</em></p>
+            <div class="col-lg-9">
+              <div class="p-3 py-lg-2 px-lg-5">
+                <p class="mb-0"><em>Focus Name</em></p>
                 <h3>Publication Name</h3>
-                <p><em>2017-2019 | Pakistan &amp; Cameroon</em></p>
+                <p><em>2017-2019 (date range) | Location Name</em></p>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla repellat voluptas amet quia eum aliquid iure
                   doloribus
                   porro saepe. Voluptas odit provident dignissimos fugit praesentium ipsam nam hic placeat laborum.</p>
@@ -87,10 +177,10 @@ featured_publications:
           {% endfor %}
           <!-- example with no image -->
           {% for i in (1..2) %}
-          <div class="row publication-row no-gutters bg-light">
+          <div class="row publication-row no-gutters bg-light border-green">
             <div class="col-12">
               <div class="p-5">
-                <p class="mb-0"><em>Category Name</em></p>
+                <p class="mb-0"><em>Focus Name</em></p>
                 <h3>Publication Name</h3>
                 <p><em>2017-2019 | Pakistan &amp; Cameroon</em></p>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla repellat voluptas amet quia eum aliquid iure
