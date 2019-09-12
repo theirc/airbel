@@ -61,20 +61,14 @@
 }
 
 
-@media (max-width: $screen-md-max) {
-  #page-header {
-    .container {
-      max-width: 100%;
-    }
-  }
-}
 
-@media (min-width: $screen-md-min) {
+
+@media (min-width: $screen-lg-min) {
   #page-header {
     padding-top: 20px;
     padding-bottom: 20px;
     .navbar-brand {
-      width: 200px;
+      width: 250px;
     }
     .nav-item {
       &:last-of-type {
@@ -129,10 +123,27 @@
   }
 }
 
-@media (min-width: $screen-lg-min) {
+// @media (min-width: $screen-lg-min) {
+//   #page-header {
+    
+//     .nav-link {
+//       font-size: 16px;
+//     }
+//   }
+// }
+
+@media (min-width: $screen-xl-min) {
   #page-header {
     .navbar-brand {
       width: 350px;
+    }
+  }
+}
+
+@media (max-width: $screen-lg-max) {
+  #page-header {
+    .container {
+      max-width: 100%;
     }
   }
 }

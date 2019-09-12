@@ -27,6 +27,10 @@ collections:
     output: true
     layout: focus
     permalink: /focuses/:title/
+  publications:
+    output: true
+    layout: publication
+    permalink: /publications/:path/  
 
 # Build settings
 safe: false
@@ -72,3 +76,18 @@ stages:
   - Pilot
   - Rigorous Evaluation
   - Scale
+
+publication_types:
+  - Abstract
+  - Academic
+  - Case Study
+  - Cost Analysis
+  - Factsheet
+  - Practice Brief
+  - Presentation
+  - Protocol
+  - Policy Brief
+  - Poster
+  - Report
+  - Research Brief
+  - Website

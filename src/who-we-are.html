@@ -3,50 +3,56 @@ layout: default
 title: Who We Are
 expertise_fields:
   - title: Design
-    description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores voluptatem laboriosam in autem, necessitatibus soluta tempore iure, veniam corporis modi cupiditate consequuntur temporibus, omnis quisquam enim quia fugiat possimus explicabo!
-    icon_path: /img/icons/education.svg
+    description: "Over 50 million children under the age of 5 are acutely malnourished. Only 10% of those have access to clinic-based
+    standards of care. The IRC is developing a system that enables community health workers to diagnose and deliver
+    lifesaving treatments to children, which does not require literacy or specialized skills. The IRC is also developing and
+    testing new ideas that have a meaningful and sustainable impact on prevention of acute malnutrition."
+    icon_path: /img/icons/design.svg
     projects_link:
     team_members_link:
   - title: Research
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores voluptatem laboriosam in autem,
-    necessitatibus soluta tempore iure, veniam corporis modi cupiditate consequuntur temporibus, omnis quisquam enim quia
-    fugiat possimus explicabo!"
-    icon_path: "/img/icons/education.svg"
+    description: "Over 50 million children under the age of 5 are acutely malnourished. Only 10% of those have access to clinic-based
+    standards of care. The IRC is developing a system that enables community health workers to diagnose and deliver
+    lifesaving treatments to children, which does not require literacy or specialized skills. The IRC is also developing and
+    testing new ideas that have a meaningful and sustainable impact on prevention of acute malnutrition."
+    icon_path: /img/icons/design.svg
     projects_link:
     team_members_link:
   - title: Strategy
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores voluptatem laboriosam in autem,
-    necessitatibus soluta tempore iure, veniam corporis modi cupiditate consequuntur temporibus, omnis quisquam enim quia
-    fugiat possimus explicabo!"
-    icon_path: "/img/icons/education.svg"
+    description: "Over 50 million children under the age of 5 are acutely malnourished. Only 10% of those have access to clinic-based
+    standards of care. The IRC is developing a system that enables community health workers to diagnose and deliver
+    lifesaving treatments to children, which does not require literacy or specialized skills. The IRC is also developing and
+    testing new ideas that have a meaningful and sustainable impact on prevention of acute malnutrition."
+    icon_path: /img/icons/design.svg
     projects_link:
     team_members_link:
   - title: Behavioral Insights
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores voluptatem laboriosam in autem,
-    necessitatibus soluta tempore iure, veniam corporis modi cupiditate consequuntur temporibus, omnis quisquam enim quia
-    fugiat possimus explicabo!"
-    icon_path: "/img/icons/education.svg"
+    description: "Over 50 million children under the age of 5 are acutely malnourished. Only 10% of those have access to clinic-based
+    standards of care. The IRC is developing a system that enables community health workers to diagnose and deliver
+    lifesaving treatments to children, which does not require literacy or specialized skills. The IRC is also developing and
+    testing new ideas that have a meaningful and sustainable impact on prevention of acute malnutrition."
+    icon_path: /img/icons/design.svg
     projects_link:
     team_members_link:
   - title: Project Management
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores voluptatem laboriosam in autem,
     necessitatibus soluta tempore iure, veniam corporis modi cupiditate consequuntur temporibus, omnis quisquam enim quia
     fugiat possimus explicabo!"
-    icon_path: "/img/icons/education.svg"
+    icon_path: /img/icons/design.svg
     projects_link:
     team_members_link:
   - title: Cost-Efficiency
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores voluptatem laboriosam in autem,
     necessitatibus soluta tempore iure, veniam corporis modi cupiditate consequuntur temporibus, omnis quisquam enim quia
     fugiat possimus explicabo!"
-    icon_path: "/img/icons/education.svg"
+    icon_path: /img/icons/design.svg
     projects_link:
     team_members_link:
   - title: Using Evidence
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores voluptatem laboriosam in autem,
     necessitatibus soluta tempore iure, veniam corporis modi cupiditate consequuntur temporibus, omnis quisquam enim quia
     fugiat possimus explicabo!"
-    icon_path: "/img/icons/education.svg"
+    icon_path: /img/icons/design.svg
     projects_link:
     team_members_link:
 ---
@@ -124,7 +130,7 @@ expertise_fields:
             {% for expertise in page.expertise_fields %}
             {% assign slug = expertise.title | slugify %}
             <div class="tab-pane fade show {% cycle 'bg-blue', 'bg-blue-dark', 'bg-yellow', 'bg-green', 'bg-purple', 'bg-orange', 'bg-red'  %} {% if forloop.first %}active{% endif %}" id="{{ slug }}">
-              <h3><img src="{{ expertise.icon_path }}" class="img-fluid" alt="{{ expertise.title }} Icon"> {{ focus.title }}</h3>
+              <h3><img src="{{ expertise.icon_path }}" class="img-fluid" alt="{{ expertise.title }} Icon"> {{ expertise.title }}</h3>
               <p>{{ expertise.description | default: 'Please enter a short description...' }}</p>
               <p><a href="/portfolio?focus={{expertise.title | slugify }}#projectList" class="text-white">See projects that work in this
                 area</a></p>
@@ -138,7 +144,7 @@ expertise_fields:
     </div>
   </div>
 </section>
-<div class="bg-image aspect-wide" style="background-image: url(https://via.placeholder.com/1800x800)"></div>
+<div class="bg-image aspect-wide" style="background-image: url(/img/who-hero.jpg)"></div>
 <section>
   <div class="container">
     <div class="row">
