@@ -21,20 +21,22 @@ featured_publications:
           <div class="row publication-row no-gutters bg-light">
             {% if publication.image %}
               <div class="col-md-4">
-                <div class="bg-image aspect-1x1" style="background-image: url(https://via.placeholder.com/500)"></div>
+                <div class="bg-image aspect-1x1" style="background-image: url({{ publication.image }})"></div>
               </div>
               <div class="col-md-8">
                 <div class="px-5">
                   <h3>{{ publication.title }} | 
                     {% for focus in publication.focuses %}
-                    <em><small>{{ focus }}</small></em></h3>
+                    <em><small>{{ focus }}</small></em>
+                    {% unless forloop.last %},{% endunless %}
                     {% endfor %}
+                  </h3>
                   <p>{{ publication.description }}</p>
                 </div>
               </div>
             {% else %}
               <div class="col-12">
-                <div class="px-5">
+                <div class="p-5">
                   <h3>{{ publication.title }} |
                     {% for focus in publication.focuses %}
                     <em><small>{{ focus }}</small></em></h3>
@@ -43,7 +45,7 @@ featured_publications:
                 </div>
               </div>
             {% endif %}
-            <a href="{{ publication.download_url }}" class="btn btn-dark">Find out more</a>
+            <a href="{{ publication.download_url }}" target="_blank" class="btn btn-dark">Find out more</a>
           </div>
           {% endfor %}
         </div>
