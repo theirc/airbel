@@ -10,44 +10,45 @@ featured_publications:
     <div class="row">
       <div class="col-12">
         <div class="content">
-          <h1>Featured Publications</h1>
+          <h1 class="editable">Featured Publications</h1>
         </div>
       </div>
     </div>
     <div class="row">
       <div class="col-12">
         <div class="content">
-          {% for object in page.featured_publications %}
-          {% assign publication = site.publications | where: "slug", object | first %}
-          <div class="row publication-row no-gutters bg-light">
-            {% if publication.image %}
-              <div class="col-md-4">
-                <div class="bg-image aspect-1x1" style="background-image: url('{{ publication.image }}')"></div>
-              </div>
-              <div class="col-lg-8">
-                <div class="p-3 py-lg-2 px-lg-5">
-                  <h3>{{ publication.title }} | 
-                    {% for focus in publication.focuses %}
-                    <em><small>{{ focus }}</small></em>
-                    {% unless forloop.last %},{% endunless %}
+          {% for publication in site.publications %}
+            {% if publication.featured == true %}
+            <div class="row publication-row no-gutters bg-light">
+              {% if publication.image %}
+                <div class="col-md-4">
+                  <div class="bg-image aspect-1x1" style="background-image: url('{{ publication.image }}')"></div>
+                </div>
+                <div class="col-lg-8">
+                  <div class="p-3 py-lg-2 px-lg-5">
+                    <h3>{{ publication.title }} | 
+                      {% for focus in publication.focuses %}
+                      <em><small>{{ focus }}</small></em>
+                      {% unless forloop.last %},{% endunless %}
+                      {% endfor %}
+                    </h3>
+                    <p>{{ publication.description | truncate: 185 }}</p>
+                  </div>
+                </div>
+              {% else %}
+                <div class="col-12">
+                  <div class="p-5">
+                    <h3>{{ publication.title }} |
+                      {% for focus in publication.focuses %}
+                      <em><small>{{ focus }}</small></em></h3>
                     {% endfor %}
-                  </h3>
-                  <p>{{ publication.description }}</p>
+                    <p>{{ publication.description | truncate: 185 }}</p>
+                  </div>
                 </div>
-              </div>
-            {% else %}
-              <div class="col-12">
-                <div class="p-5">
-                  <h3>{{ publication.title }} |
-                    {% for focus in publication.focuses %}
-                    <em><small>{{ focus }}</small></em></h3>
-                  {% endfor %}
-                  <p>{{ publication.description }}</p>
-                </div>
-              </div>
+              {% endif %}
+              <a href="{{ publication.download_url }}" target="_blank" class="btn btn-dark">Find out more</a>
+            </div>
             {% endif %}
-            <a href="{{ publication.download_url }}" target="_blank" class="btn btn-dark">Find out more</a>
-          </div>
           {% endfor %}
         </div>
       </div>
@@ -59,12 +60,12 @@ featured_publications:
     <div class="row">
       <div class="col-12">
         <div class="content">
-          <h2>Publication Library</h2>
+          <h2 class="editable">Publication Library</h2>
         </div>
       </div>
     </div>
     <div class="row align-items-center filters">
-      <div class="col-lg-3">
+      <div class="col-md-6 col-lg-3">
         <div class="content">
           Filter by type
           <div class="dropdown" role="group">
@@ -86,7 +87,7 @@ featured_publications:
           </div>
         </div>
       </div>
-      <div class="col-lg-3">
+      <div class="col-md-6 col-lg-3">
         <div class="content">
           Filter by focus
           <div class="dropdown" role="group">
@@ -108,7 +109,7 @@ featured_publications:
           </div>
         </div>
       </div>
-      <div class="col-lg-3">
+      <div class="col-md-6 col-lg-3">
         <div class="content">
           Filter by location
           <div class="dropdown" role="group">
@@ -130,7 +131,7 @@ featured_publications:
           </div>
         </div>
       </div>
-      <div class="col-lg-3">
+      <div class="col-md-6 col-lg-3">
         <div class="content">
           Filter by year
           <div class="dropdown" role="group">
@@ -156,45 +157,44 @@ featured_publications:
     <div class="row">
       <div class="col-12">
         <div class="content">
-          <!--example with image-->
-          {% for i in (1..2) %}
-          <div class="row publication-row no-gutters bg-light border-purple">
-            <div class="col-md-4 col-lg-3">
-              <div class="bg-image aspect-1x1" style="background-image: url(https://via.placeholder.com/500)"></div>
-            </div>
-            <div class="col-lg-9">
-              <div class="p-3 py-lg-2 px-lg-5">
-                <p class="mb-0"><em>Focus Name</em></p>
-                <h3>Publication Name</h3>
-                <p><em>2017-2019 (date range) | Location Name</em></p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla repellat voluptas amet quia eum aliquid iure
-                  doloribus
-                  porro saepe. Voluptas odit provident dignissimos fugit praesentium ipsam nam hic placeat laborum.</p>
-              </div>
-            </div>
-            <a href="" class="btn btn-dark">Find out more</a>
-          </div>
-          {% endfor %}
-          <!-- example with no image -->
-          {% for i in (1..2) %}
-          <div class="row publication-row no-gutters bg-light border-green">
-            <div class="col-12">
-              <div class="p-5">
-                <p class="mb-0"><em>Focus Name</em></p>
-                <h3>Publication Name</h3>
-                <p><em>2017-2019 | Pakistan &amp; Cameroon</em></p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla repellat voluptas amet quia eum aliquid iure
-                  doloribus
-                  porro saepe. Voluptas odit provident dignissimos fugit praesentium ipsam nam hic placeat laborum.</p>
-              </div>
-            </div>
-            <a href="" class="btn btn-dark">Find out more</a>
-          </div>
+          {% for publication in site.publications %}
+            {% unless publication.featured == true %}
+              {% assign slug = publication.focuses.first %}
+              {% if publication.image %}
+                <div class="row publication-row no-gutters bg-light border-{{ slug }}">
+                  <div class="col-md-4 col-lg-3">
+                    <div class="bg-image aspect-1x1" style="background-image: url('{{ publication.image }}')"></div>
+                  </div>
+                  <div class="col-lg-9">
+                    <div class="p-3 py-lg-2 px-lg-5">
+                      <p class="mb-0"><em>{% for focus in publication.focuses %}{{focus }}{% unless forloop.last%},{% endunless %}{% endfor %}</em></p>
+                      <h3>{{ publication.title }}</h3>
+                      <p><em>{{ publication.date_range }} {% if publication.location %}| {{ publication.location }}{% endif %}</em></p>
+                      <p><small>{{ publication.description | truncate: 185 }}</small></p>
+                    </div>
+                  </div>
+                  <a href="{{ publication.download_url }}" target="_blank" class="btn btn-dark">Find out more</a>
+                </div>
+              {% else %}
+                <div class="row publication-row no-gutters bg-light border-{{ slug }}">
+                  <div class="col-12">
+                    <div class="p-5">
+                      <p class="mb-0">
+                        <em>{% for focus in publication.focuses %}{{focus }}{% unless forloop.last%},{% endunless %}{% endfor %}</em>
+                      </p>
+                      <h3>{{ publication.title }}</h3>
+                      <p><em>{{ publication.date_range }} {% if publication.location %}| {{ publication.location }}{% endif %}</em></p>
+                      <p>{{ publication.description | truncate: 185 }}</p>
+                    </div>
+                  </div>
+                  <a href="{{ publication.download_url }}" target="_blank" class="btn btn-dark">Find out more</a>
+                </div>
+              {% endif %}
+            {% endunless %}
           {% endfor %}
         </div>
       </div>
     </div>
   </div>
 </section>
-<!-- may need to modify include depending if text if going to change site wide-->
 {% include bring-together.html%}
