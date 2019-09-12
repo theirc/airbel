@@ -1,6 +1,54 @@
 ---
 layout: default
 title: Who We Are
+expertise_fields:
+  - title: Design
+    description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores voluptatem laboriosam in autem, necessitatibus soluta tempore iure, veniam corporis modi cupiditate consequuntur temporibus, omnis quisquam enim quia fugiat possimus explicabo!
+    icon_path: /img/icons/education.svg
+    projects_link:
+    team_members_link:
+  - title: Research
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores voluptatem laboriosam in autem,
+    necessitatibus soluta tempore iure, veniam corporis modi cupiditate consequuntur temporibus, omnis quisquam enim quia
+    fugiat possimus explicabo!"
+    icon_path: "/img/icons/education.svg"
+    projects_link:
+    team_members_link:
+  - title: Strategy
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores voluptatem laboriosam in autem,
+    necessitatibus soluta tempore iure, veniam corporis modi cupiditate consequuntur temporibus, omnis quisquam enim quia
+    fugiat possimus explicabo!"
+    icon_path: "/img/icons/education.svg"
+    projects_link:
+    team_members_link:
+  - title: Behavioral Insights
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores voluptatem laboriosam in autem,
+    necessitatibus soluta tempore iure, veniam corporis modi cupiditate consequuntur temporibus, omnis quisquam enim quia
+    fugiat possimus explicabo!"
+    icon_path: "/img/icons/education.svg"
+    projects_link:
+    team_members_link:
+  - title: Project Management
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores voluptatem laboriosam in autem,
+    necessitatibus soluta tempore iure, veniam corporis modi cupiditate consequuntur temporibus, omnis quisquam enim quia
+    fugiat possimus explicabo!"
+    icon_path: "/img/icons/education.svg"
+    projects_link:
+    team_members_link:
+  - title: Cost-Efficiency
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores voluptatem laboriosam in autem,
+    necessitatibus soluta tempore iure, veniam corporis modi cupiditate consequuntur temporibus, omnis quisquam enim quia
+    fugiat possimus explicabo!"
+    icon_path: "/img/icons/education.svg"
+    projects_link:
+    team_members_link:
+  - title: Using Evidence
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores voluptatem laboriosam in autem,
+    necessitatibus soluta tempore iure, veniam corporis modi cupiditate consequuntur temporibus, omnis quisquam enim quia
+    fugiat possimus explicabo!"
+    icon_path: "/img/icons/education.svg"
+    projects_link:
+    team_members_link:
 ---
 
 <section class="bg-single-plus bg-right bg-top bg-no-repeat pt-md-0">
@@ -33,3 +81,121 @@ title: Who We Are
     </div>
   </div>
 </section>
+<section id="testimonial" class="bg-orange text-white">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="content text-center editable">
+          <p><strong>&ldquo;Impact is the connective thread between teams’ objectives: to achieve large scale, cost-effective, life-changing impact.
+          It speaks to the mission and purpose in the name. Labs speaks to the expert & experimental nature of what the team
+          pursues: exploration, trial and error, use of evidence, technical and behavioral science, precision.</strong></p>
+          <p>Jeannie Annan</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="focus" class="bg-right bt-top bg-no-repeat">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <h2>Our diverse expertise</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6">
+        <div class="content">
+          <ul class="nav nav-tabs flex-column" id="focus-tabs" role="tablist">
+            {% for expertise in page.expertise_fields %}
+            {% assign slug = expertise.title | slugify %}
+            <li class="nav-item">
+              <a class="nav-link {% cycle 'border-blue', 'border-blue-dark', 'border-yellow', 'border-green', 'border-purple', 'border-orange', 'border-red'  %} {% if forloop.first %}active{% endif %}" data-toggle="tab"
+                href="#{{ slug }}">{{ expertise.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-6 d-none d-md-block">
+        <div class="content">
+          <div class="tab-content" id="focus-tab-content">
+            {% for expertise in page.expertise_fields %}
+            {% assign slug = expertise.title | slugify %}
+            <div class="tab-pane fade show {% cycle 'bg-blue', 'bg-blue-dark', 'bg-yellow', 'bg-green', 'bg-purple', 'bg-orange', 'bg-red'  %} {% if forloop.first %}active{% endif %}" id="{{ slug }}">
+              <h3><img src="{{ expertise.icon_path }}" class="img-fluid" alt="{{ expertise.title }} Icon"> {{ focus.title }}</h3>
+              <p>{{ expertise.description | default: 'Please enter a short description...' }}</p>
+              <p><a href="/portfolio?focus={{expertise.title | slugify }}#projectList" class="text-white">See projects that work in this
+                area</a></p>
+              <p><a href="/portfolio?focus={{expertise.title | slugify }}#projectList" class="text-white">See team members that work in
+                this area</a></p>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="bg-image aspect-wide" style="background-image: url(https://via.placeholder.com/1800x800)"></div>
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="content">
+          <h2>Our team of experts</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="content">
+          <h2>Our Board and Advisors</h2>
+          {% include carousel-board.html %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="content">
+          <h2>Zolberg-IRD Fellows</h2>
+          {% include carousel-fellows.html %}
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        <div class="content">
+          <h3>Become a Fellow</h3>
+          <p>We are pleased to offer student fellowships through a partnership with the Zolberg Institute at the New School.</p>
+          <a href="#">Learn More</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="content">
+          <h3 class="h2">Work with Us</h3>
+          <p>Are you a design or systems thinker interested in solving global humanitarian challenges? Get in touch or see current
+            openings at IRC.</p>
+          <a href="#" class="btn btn-dark">IRC Careers</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- may need to modify include depending if text if going to change site wide-->
+{% include bring-together.html%}

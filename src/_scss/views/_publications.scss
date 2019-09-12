@@ -1,0 +1,23 @@
+#featured-publications {
+
+}
+
+#publication-library {
+  
+}
+.publication-row {
+  align-items: center;
+  margin-top: 8px;
+  position: relative;
+  h4 {
+    font-weight: 400;
+  }
+  .btn {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border-width: 10px 0 0 10px;
+    border-style: solid;
+    border-color: $white;
+  }
+}
