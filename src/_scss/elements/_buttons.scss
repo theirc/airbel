@@ -1,4 +1,23 @@
 .btn {
   font-weight: 600;
   padding: 8px 15px;
+  border-radius: 0;
+  &.btn-primary {
+    background-color: $primary;
+    border-color: $primary;
+    color: $dark;
+    &:hover {
+      background-color: $yellow-mid;
+      border-color: $yellow-mid;
+    }
+  }
+  &.btn-dark {
+    color: $white;
+    background-color: $dark;
+    border-color: $dark;
+    &:hover {
+      background-color: $black;
+      border-color: $black;
+    }
+  }
 }

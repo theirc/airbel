@@ -8,6 +8,7 @@
       padding-left: 30px;
       border: 0;
       font-family: $commuter-sans;
+      border-radius: 0;
       &.active {
         background-color: $gray-100;
         border-left: 10px solid;

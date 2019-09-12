@@ -6,7 +6,14 @@
       display: none;
     }
     .c-label {
-      @extend .sr-only;
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0,0,0,0);
+      border: 0;
     }
     .c-editor {
       padding-left: 0;
@@ -42,8 +49,12 @@
   }
 
   #c-submit-button {
-    @extend .btn;
-    @extend .btn-primary;
+    background-color: $primary;
+    border-radius: 0;
+    border-color: $primary;
+    color: $dark;
+    font-weight: 600;
+    padding: 15px;
     font-family: $proxima-nova;
     margin-left: 0;
     margin-right: 0;

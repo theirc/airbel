@@ -46,6 +46,15 @@ iframe {
 .text-underline {
   text-decoration: underline !important;
 }
+
+.text-dark {
+  color: $dark;
+}
+
+.text-light {
+  color: $light;
+}
+
 // Background images
 .bg-image {
   display: block;
@@ -90,6 +99,22 @@ iframe {
 }
 
 //color utilities
+.bg-primary {
+  background-color: $primary !important;
+}
+
+.bg-secondary {
+  background-color: $secondary !important;
+}
+
+.bg-dark {
+  background-color: $dark !important;
+}
+
+.bg-light {
+  background-color: $light !important;
+}
+
 .bg-education {
   background-color: $blue !important;
 }
