@@ -181,7 +181,7 @@ title: Publications
                         <em>{% for focus in publication.focuses %}{{focus }}{% unless forloop.last%},{% endunless %}{% endfor %}</em>
                       </p>
                       <h3>{{ publication.title }}</h3>
-                      <p><em>{{ publication.date_range }} {% if publication.location %}| {{ publication.location }}{% endif %}</em></p>
+                      <p><em>{{ publication.date_range }} {% if publication.geolocation.region %}| {{ publication.geolocation.region }}{% endif %}</em></p>
                       <p>{{ publication.description | truncate: 185 }}</p>
                     </div>
                   </div>
