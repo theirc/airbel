@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Publications
+featured_publications: 
+ - test-publication
+ - test-publication-2
+ - test-publication
 ---
 
 <section id="featured-publications">
@@ -13,43 +17,42 @@ title: Publications
       </div>
     </div>
     <div class="row">
-      <div class="col-12">
+      {% for object in page.featured_publications %}
+      {% assign publication = site.publications | where: "slug", object | first %}
+      <div class="col-12 col-md-6 col-lg-12">
         <div class="content">
-          {% for publication in site.publications %}
-            {% if publication.featured == true %}
-            <div class="row publication-row no-gutters bg-light">
-              {% if publication.image %}
-                <div class="col-md-4">
-                  <div class="bg-image aspect-1x1" style="background-image: url('{{ publication.image }}')"></div>
-                </div>
-                <div class="col-lg-8">
-                  <div class="p-3 py-lg-2 px-lg-5">
-                    <h3>{{ publication.title }} | 
-                      {% for focus in publication.focuses %}
-                      <em><small>{{ focus }}</small></em>
-                      {% unless forloop.last %},{% endunless %}
-                      {% endfor %}
-                    </h3>
-                    <p>{{ publication.description | truncate: 185 }}</p>
-                  </div>
-                </div>
-              {% else %}
-                <div class="col-12">
-                  <div class="p-5">
-                    <h3>{{ publication.title }} |
-                      {% for focus in publication.focuses %}
-                      <em><small>{{ focus }}</small></em></h3>
+          <div class="row publication-row no-gutters bg-light">
+            {% if publication.image %}
+              <div class="col-lg-4">
+                <div class="bg-image aspect-1x1" style="background-image: url('{{ publication.image }}')"></div>
+              </div>
+              <div class="col-lg-8">
+                <div class="p-3 py-lg-2 px-lg-5">
+                  <h3>{{ publication.title }} | 
+                    {% for focus in publication.focuses %}
+                    <em><small>{{ focus }}</small></em>
+                    {% unless forloop.last %},{% endunless %}
                     {% endfor %}
-                    <p>{{ publication.description | truncate: 185 }}</p>
-                  </div>
+                  </h3>
+                  <p>{{ publication.description | truncate: 185 }}</p>
                 </div>
-              {% endif %}
-              <a href="{{ publication.download_url }}" target="_blank" class="btn btn-dark">Find out more</a>
-            </div>
+              </div>
+            {% else %}
+              <div class="col-12">
+                <div class="p-5">
+                  <h3>{{ publication.title }} |
+                    {% for focus in publication.focuses %}
+                    <em><small>{{ focus }}</small></em></h3>
+                  {% endfor %}
+                  <p>{{ publication.description | truncate: 185 }}</p>
+                </div>
+              </div>
             {% endif %}
-          {% endfor %}
+            <a href="{{ publication.download_url }}" target="_blank" class="btn btn-dark">Find out more</a>
+          </div>
         </div>
       </div>
+      {% endfor %}
     </div>
   </div>
 </section>
@@ -156,39 +159,37 @@ title: Publications
       <div class="col-12">
         <div class="content">
           {% for publication in site.publications %}
-            {% unless publication.featured == true %}
-              {% assign slug = publication.focuses.first %}
-              {% if publication.image %}
-                <div class="row publication-row no-gutters bg-light border-{{ slug }}">
-                  <div class="col-md-4 col-lg-3">
-                    <div class="bg-image aspect-1x1" style="background-image: url('{{ publication.image }}')"></div>
-                  </div>
-                  <div class="col-lg-9">
-                    <div class="p-3 py-lg-2 px-lg-5">
-                      <p class="mb-0"><em>{% for focus in publication.focuses %}{{focus }}{% unless forloop.last%},{% endunless %}{% endfor %}</em></p>
-                      <h3>{{ publication.title }}</h3>
-                      <p><em>{{ publication.date_range }} {% if publication.location %}| {{ publication.location }}{% endif %}</em></p>
-                      <p><small>{{ publication.description | truncate: 185 }}</small></p>
-                    </div>
-                  </div>
-                  <a href="{{ publication.download_url }}" target="_blank" class="btn btn-dark">Find out more</a>
+            {% assign slug = publication.focuses.first %}
+            {% if publication.image %}
+              <div class="row publication-row no-gutters bg-light border-{{ slug }}">
+                <div class="col-md-5 col-lg-4">
+                  <div class="bg-image aspect-1x1 mt-md-3 ml-md-3 mt-lg-0 ml-lg-0" style="background-image: url('{{ publication.image }}')"></div>
                 </div>
-              {% else %}
-                <div class="row publication-row no-gutters bg-light border-{{ slug }}">
-                  <div class="col-12">
-                    <div class="p-5">
-                      <p class="mb-0">
-                        <em>{% for focus in publication.focuses %}{{focus }}{% unless forloop.last%},{% endunless %}{% endfor %}</em>
-                      </p>
-                      <h3>{{ publication.title }}</h3>
-                      <p><em>{{ publication.date_range }} {% if publication.geolocation.region %}| {{ publication.geolocation.region }}{% endif %}</em></p>
-                      <p>{{ publication.description | truncate: 185 }}</p>
-                    </div>
+                <div class="col-lg-8">
+                  <div class="p-3 py-lg-2 px-lg-5">
+                    <p class="mb-0"><em>{% for focus in publication.focuses %}{{focus }}{% unless forloop.last%},{% endunless %}{% endfor %}</em></p>
+                    <h3>{{ publication.title }}</h3>
+                    <p><em>{{ publication.date_range }} {% if publication.location %}| {{ publication.location }}{% endif %}</em></p>
+                    <p><small>{{ publication.description | truncate: 185 }}</small></p>
                   </div>
-                  <a href="{{ publication.download_url }}" target="_blank" class="btn btn-dark">Find out more</a>
                 </div>
-              {% endif %}
-            {% endunless %}
+                <a href="{{ publication.download_url }}" target="_blank" class="btn btn-dark">Find out more</a>
+              </div>
+            {% else %}
+              <div class="row publication-row no-gutters bg-light border-{{ slug }}">
+                <div class="col-12">
+                  <div class="p-5">
+                    <p class="mb-0">
+                      <em>{% for focus in publication.focuses %}{{focus }}{% unless forloop.last%},{% endunless %}{% endfor %}</em>
+                    </p>
+                    <h3>{{ publication.title }}</h3>
+                    <p><em>{{ publication.date_range }} {% if publication.geolocation.region %}| {{ publication.geolocation.region }}{% endif %}</em></p>
+                    <p>{{ publication.description | truncate: 185 }}</p>
+                  </div>
+                </div>
+                <a href="{{ publication.download_url }}" target="_blank" class="btn btn-dark">Find out more</a>
+              </div>
+            {% endif %}
           {% endfor %}
         </div>
       </div>
