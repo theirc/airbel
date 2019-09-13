@@ -7,6 +7,7 @@ title: >-
   Development Program
 featured: false
 focuses:
+  - economic-wellbeing
 description:
 geolocation:
   region: Pakistan
