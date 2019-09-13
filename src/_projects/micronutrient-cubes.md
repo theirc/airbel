@@ -17,8 +17,8 @@ description: >-
   Many have little access to diverse foods or supplements. By working through
   private sector supply chains, this product will expand micronutrient access to
   caregivers in an easy-to-use form that mimics bouillon.
-hero_image: /uploads/microcube-hero.png
-featured_image: /uploads/microcube-hero-1.png
+hero_image: /uploads/microcube-hero.jpg
+featured_image: /uploads/microcube-hero.jpg
 featured_video_url:
 resources:
   - title:

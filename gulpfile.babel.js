@@ -8,16 +8,16 @@ const webpackHotMiddleware = require('webpack-hot-middleware');
 const { config } = require('./tasks/webpack');
 const bundler = webpack(config);
 
-// suite.dev(gulp, {
-//   serve: {
-//     middleware: [
-//       webpackDevMiddleware(bundler, { /* options */ }),
-//       webpackHotMiddleware(bundler)
-//     ]
-//   }
-// });
+suite.dev(gulp, {
+  serve: {
+    middleware: [
+      webpackDevMiddleware(bundler, { /* options */ }),
+      webpackHotMiddleware(bundler)
+    ]
+  }
+});
 
-suite.dev(gulp);
+// suite.dev(gulp);
 
 
-// exports.buildScripts = buildScripts;
+exports.buildScripts = buildScripts;
