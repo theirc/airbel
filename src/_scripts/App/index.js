@@ -2,10 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import HelloWorld from './components/HelloWorld';
 import Publication from './components/publication';
+import Team from "./components/team";
 
 const APPS = {
   HelloWorld,
-  Publication
+  Publication,
+  Team
 }
 
 function renderAppInElement(el) {

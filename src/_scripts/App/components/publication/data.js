@@ -1,6 +1,7 @@
 export const PUBLICATION_DATA = [
   {
     title: "Generating Evidence for the Use of Cash Relief for Health Outcomes (Ongoing)",
+    publication_type: "",
     published_date: "2019-09-11 00:00:00",
     date_range: "2017-2019",
     featured: false,

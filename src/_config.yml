@@ -30,7 +30,11 @@ collections:
   publications:
     output: true
     layout: publication
-    permalink: /publications/:path/  
+    permalink: /publications/:path/
+  team_members:
+    output: true
+    layout: team_member
+    permalink: /team/:path/   
 
 # Build settings
 safe: false
