@@ -8,6 +8,7 @@ title: >-
   in Eastern DRC
 featured: false
 focuses:
+  - power
 description: >-
   Community-Driven Reconstruction (CDR) is a widely applied and growing form of
   intervention that takes a bottom-up approach to designing and implementing
