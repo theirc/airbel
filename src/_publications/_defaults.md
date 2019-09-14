@@ -3,6 +3,7 @@ layout: publication
 published_date:
 date_range:
 title:
+publication_type:
 featured: false
 focuses:
 description:

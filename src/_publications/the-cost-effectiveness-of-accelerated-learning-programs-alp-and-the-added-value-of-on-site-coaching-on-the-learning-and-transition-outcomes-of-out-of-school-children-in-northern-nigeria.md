@@ -6,6 +6,7 @@ title: >-
   The Cost-Effectiveness of Accelerated Learning Programs (ALP) and the Added
   Value of On-Site Coaching on the Learning and Transition Outcomes of
   Out-of-School Children in Northern Nigeria
+publication_type:
 featured: false
 focuses:
   - education

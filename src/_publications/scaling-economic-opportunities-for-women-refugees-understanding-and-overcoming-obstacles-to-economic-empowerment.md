@@ -5,6 +5,7 @@ date_range:
 title: >-
   Scaling Economic Opportunities for Women Refugees: Understanding and
   Overcoming Obstacles to Economic Empowerment
+publication_type:  
 featured: false
 focuses:
   - economic-wellbeing
