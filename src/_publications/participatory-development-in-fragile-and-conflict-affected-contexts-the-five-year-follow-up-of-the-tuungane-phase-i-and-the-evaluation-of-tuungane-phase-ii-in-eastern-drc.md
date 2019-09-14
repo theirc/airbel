@@ -6,10 +6,10 @@ title: >-
   Participatory Development in Fragile and Conflict-Affected Contexts: The Five
   Year Follow up of the Tuungane Phase I and the Evaluation of Tuungane Phase II
   in Eastern DRC
-publication_type:  
+publication_type:
 featured: false
 focuses:
-  - power
+  - empowerment
 description: >-
   Community-Driven Reconstruction (CDR) is a widely applied and growing form of
   intervention that takes a bottom-up approach to designing and implementing
