@@ -1,0 +1,10 @@
+.team-member-details {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 30%;
+  padding: 20px;
+  @include transition(0.5s);
+  background-color: $white;
+  z-index: 500;
+}
