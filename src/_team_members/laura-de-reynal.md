@@ -4,7 +4,7 @@ name: Laura De Reynal
 role_title: 'Design Innovation Lead, Education'
 focuses:
   - education
-practice: Design
+expertise_area: design
 leadership: false
 image:
 ---

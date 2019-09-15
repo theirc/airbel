@@ -3,7 +3,7 @@ layout: team_member
 name: Danyah Wafa
 role_title: Business Development Manager
 focuses:
-practice:
+expertise_area:
 leadership: false
 image:
 ---

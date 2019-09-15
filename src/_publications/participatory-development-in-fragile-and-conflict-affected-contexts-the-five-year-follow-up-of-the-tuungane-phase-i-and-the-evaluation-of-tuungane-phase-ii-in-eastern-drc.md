@@ -10,6 +10,7 @@ publication_type:
 featured: false
 focuses:
   - empowerment
+expertise_area:  
 description: >-
   Community-Driven Reconstruction (CDR) is a widely applied and growing form of
   intervention that takes a bottom-up approach to designing and implementing

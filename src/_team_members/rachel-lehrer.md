@@ -4,7 +4,7 @@ name: Rachel Lehrer
 role_title: 'Associate Director, Design'
 focuses:
   - safety
-practice: Design
+expertise_area: design
 leadership: false
 image:
 ---

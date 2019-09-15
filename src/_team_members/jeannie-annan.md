@@ -3,7 +3,7 @@ layout: team_member
 name: Jeannie Annan
 role_title: Chief Scientist
 focuses:
-practice:
+expertise_area:
 leadership: true
 image:
 ---

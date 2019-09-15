@@ -4,7 +4,7 @@ name: Hira Siddiqui
 role_title: Research Advisor
 focuses:
   - education
-practice: Research
+expertise_area: research
 leadership: false
 image:
 ---

@@ -4,7 +4,7 @@ name: Carla Lopez
 role_title: 'Design Innovation Lead, Health'
 focuses:
   - health
-practice: Design
+expertise_area: design
 leadership: false
 image:
 ---

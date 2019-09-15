@@ -4,7 +4,7 @@ name: Sylvia Sable
 role_title: Design Project Manager
 focuses:
   - education
-practice: Project Management
+expertise_area: project-management
 leadership: false
 image:
 ---

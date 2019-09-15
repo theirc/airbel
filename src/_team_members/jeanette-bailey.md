@@ -4,7 +4,7 @@ name: Jeanette Bailey
 role_title: 'Senior Advisor, Nutrition Research and Thought Leader'
 focuses:
   - health
-practice: Research
+expertise_area: research
 leadership: false
 image:
 ---

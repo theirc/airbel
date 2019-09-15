@@ -3,7 +3,7 @@ layout: team_member
 name: Karen Tan
 role_title: Behavioral Insights Lead
 focuses:
-practice: Behavioral Insights
+expertise_area: behavioral-insights
 leadership: false
 image:
 ---

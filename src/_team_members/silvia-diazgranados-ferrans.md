@@ -4,7 +4,7 @@ name: Silvia Diazgranados Ferrans
 role_title: Senior Education Researcher
 focuses:
   - education
-practice: Research
+expertise_area: research
 leadership: false
 image:
 ---

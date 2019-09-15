@@ -3,7 +3,7 @@ layout: team_member
 name: Robert Rutherford
 role_title: Senior Program and Finance Manager
 focuses:
-practice:
+expertise_area:
 leadership: false
 image:
 ---

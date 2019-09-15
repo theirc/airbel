@@ -3,7 +3,7 @@ layout: team_member
 name: Estefania Gutierrez
 role_title: Strategy Associate
 focuses:
-practice: Strategy
+expertise_area: strategy
 leadership: false
 image:
 ---

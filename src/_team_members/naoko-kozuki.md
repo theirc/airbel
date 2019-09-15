@@ -4,7 +4,7 @@ name: Naoko Kozuki
 role_title: Senior Health Researcher
 focuses:
   - health
-practice: Research
+expertise_area: research
 leadership: false
 image:
 ---

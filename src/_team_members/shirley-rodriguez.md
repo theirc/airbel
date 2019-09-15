@@ -3,7 +3,7 @@ layout: team_member
 name: Shirley Rodriguez
 role_title: Associate Designer
 focuses:
-practice: Design
+expertise_area: design
 leadership: false
 image:
 ---

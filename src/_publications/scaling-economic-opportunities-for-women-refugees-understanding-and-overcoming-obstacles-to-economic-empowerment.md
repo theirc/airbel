@@ -1,7 +1,7 @@
 ---
 layout: publication
 published_date:
-date_range:
+date_range: "2019"
 title: >-
   Scaling Economic Opportunities for Women Refugees: Understanding and
   Overcoming Obstacles to Economic Empowerment
@@ -9,6 +9,7 @@ publication_type:
 featured: false
 focuses:
   - economic-wellbeing
+expertise_area:  
 description: >-
   In order to better understand the constraints refugee women face across
   contexts,  the IRC is undertaking exploratory research in three different

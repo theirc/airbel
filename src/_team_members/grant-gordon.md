@@ -3,7 +3,7 @@ layout: team_member
 name: Grant Gordon
 role_title: 'Director, Innovation Strategy'
 focuses:
-practice:
+expertise_area:
 leadership: false
 image:
 ---

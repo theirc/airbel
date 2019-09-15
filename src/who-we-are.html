@@ -1,58 +1,6 @@
 ---
 layout: default
-title: Who We Are
-expertise_fields:
-  - title: Behavioral Insights
-    practice:
-    description: "Behavioral science combines theories and evidence from economics, psychology, anthropology, and cognitive science to
-    build an understanding of human behaviors and decision-making processes. Insights from behavioral science can be rapidly
-    tested and applied to the design of policies and interventions to ensure they are effectively delivered and adopted in
-    practice."
-    icon_path: /img/icons/icon-design.svg
-    projects_link:
-    team_members_link:
-  - title: Cost-Efficiency
-    practice:
-    description: "The IRC is a leader on humanitarian efficiency, helping policymakers and practitioners make better decisions about how
-    to allocate and use funding. We track the cost-efficiency of our interventions and adapt project design or delivery to
-    ensure that cost per output meets our targets."
-    icon_path: /img/icons/icon-design.svg
-    projects_link:
-    team_members_link:
-  - title: Design
-    description: "Human-centered design can be used to help solve some of the world’s biggest problems. Our design-led approach centers
-    the people facing these problems. It focuses on understanding people’s desires and needs, coming up with new ideas, and
-    rapidly prototyping potential solutions."
-    icon_path: /img/icons/icon-design.svg
-    projects_link:
-    team_members_link:
-  - title: Project Management
-    description: "Running a humanitarian project requires substantial skill and knowledge of key implementation challenges in the field.
-    Strong project management enables us to reach better outcomes - better research findings and scalable, life-changing
-    solutions."
-    icon_path: /img/icons/icon-design.svg
-    projects_link:
-    team_members_link:
-  - title: Research
-    description: "The lack of evidence and data in crisis-affected contexts often leaves humanitarians working in the dark. We are the
-    single largest contributor of impact evidence among humanitarian response agencies, conducting rigorous evaluations, and
-    generating evidence about areas of work to help inform the sector and ensure we’re reaching the greatest impact."
-    icon_path: /img/icons/icon-design.svg
-    projects_link:
-    team_members_link:
-  - title: Strategy
-    description: "Strategy refers to breaking down complex, ambiguous problems, prioritizing the most important areas to focus on, and
-    finding rigorous, but efficient means of arriving at solutions. We focus on issues that are the highest impact, while
-    also being resource- and time-efficient."
-    icon_path: /img/icons/icon-design.svg
-    projects_link:
-    team_members_link:
-  - title: Using evidence in decision-making
-    description: "We conduct thorough evidence reviews to help highlight and interpret available academic findings and technical knowledge
-    for application to programmatic and strategic decision-making."
-    icon_path: /img/icons/icon-design.svg
-    projects_link:
-    team_members_link:
+title: Who We Are  
 board_and_advisors:
   - name: Firstname Lastname
     description_1: PhD Public and Urban Policy
@@ -165,7 +113,7 @@ zolberg_ird_fellows:
       <div class="col-md-6">
         <div class="content">
           <ul class="nav nav-tabs flex-column" id="focus-tabs" role="tablist">
-            {% for expertise in page.expertise_fields %}
+            {% for expertise in site.expertise_areas %}
             {% assign slug = expertise.title | slugify %}
             <li class="nav-item">
               <a class="nav-link {% cycle 'border-blue', 'border-blue-dark', 'border-yellow', 'border-green', 'border-purple', 'border-orange', 'border-red'  %} {% if forloop.first %}active{% endif %}" data-toggle="tab"
@@ -178,7 +126,7 @@ zolberg_ird_fellows:
       <div class="col-md-6 d-none d-md-block">
         <div class="content">
           <div class="tab-content" id="focus-tab-content">
-            {% for expertise in page.expertise_fields %}
+            {% for expertise in site.expertise_areas %}
             {% assign slug = expertise.title | slugify %}
             <div class="tab-pane fade show {% cycle 'bg-blue', 'bg-blue-dark', 'bg-yellow', 'bg-green', 'bg-purple', 'bg-orange', 'bg-red'  %} {% if forloop.first %}active{% endif %}" id="{{ slug }}">
               <h3><img src="{{ expertise.icon_path }}" class="img-fluid" alt="{{ expertise.title }} Icon"> {{ expertise.title }}</h3>

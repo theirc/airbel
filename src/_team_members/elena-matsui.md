@@ -3,7 +3,7 @@ layout: team_member
 name: Elena Matsui
 role_title: Innovation Strategy Lead
 focuses:
-practice: Strategy
+expertise_area: strategy
 leadership: false
 image:
 ---

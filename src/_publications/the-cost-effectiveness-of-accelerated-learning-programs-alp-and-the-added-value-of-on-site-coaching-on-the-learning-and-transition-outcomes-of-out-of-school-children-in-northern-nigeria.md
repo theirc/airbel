@@ -10,6 +10,7 @@ publication_type:
 featured: false
 focuses:
   - education
+expertise_area:
 description: >-
   DFID EiE NFLC project was funded by the UK Department for International
   Development (DFID) to support out-of-school (OOS) children in the states of

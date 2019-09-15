@@ -3,7 +3,7 @@ layout: team_member
 name: Daniel Cohn
 role_title: Partnership Lead
 focuses:
-practice:
+expertise_area:
 leadership: false
 image:
 ---

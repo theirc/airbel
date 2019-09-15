@@ -7,6 +7,7 @@ publication_type:
 featured: false
 focuses:
   - health
+expertise_area:  
 description: >-
   The RISE study will build on this evidence by positioning the IRC to lead a
   coalition of other implementing agencies who will operationally test the

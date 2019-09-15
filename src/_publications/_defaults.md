@@ -6,6 +6,7 @@ title:
 publication_type:
 featured: false
 focuses:
+expertise_area:
 description:
 geolocation:
   region:

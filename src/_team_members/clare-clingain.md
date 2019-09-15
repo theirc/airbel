@@ -4,7 +4,7 @@ name: Clare Clingain
 role_title: 'Research Coordinator, Economic Recovery'
 focuses:
   - economic-wellbeing
-practice: Research
+expertise_area: research
 leadership: false
 image:
 ---

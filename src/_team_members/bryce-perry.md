@@ -3,7 +3,7 @@ layout: team_member
 name: Bryce Perry
 role_title: 'Director, Implementation and Scaling'
 focuses:
-practice: Project Management
+expertise_area: project-management
 leadership: false
 image:
 ---

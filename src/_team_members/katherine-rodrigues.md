@@ -3,7 +3,7 @@ layout: team_member
 name: Katherine Rodrigues
 role_title: 'Deputy Director, Strategy and Quality'
 focuses:
-practice: Research
+expertise_area: research
 leadership: true
 image:
 ---

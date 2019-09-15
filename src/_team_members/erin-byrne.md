@@ -3,7 +3,7 @@ layout: team_member
 name: Erin Byrne
 role_title: 'Senior Coordinator, Best Use of Resources'
 focuses:
-practice: Cost-Efficiency
+expertise_area: cost-efficiency
 leadership: false
 image:
 ---

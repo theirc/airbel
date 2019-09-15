@@ -4,7 +4,7 @@ name: Marie-France Guimond
 role_title: Project Management and Ethics Lead
 focuses:
   - empowerment
-practice: Project Management
+expertise_area: project-management
 leadership: false
 image:
 ---

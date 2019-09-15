@@ -3,7 +3,7 @@ layout: team_member
 name: Lucian Lee
 role_title: 'Senior Officer, SCAN'
 focuses:
-practice: Cost-Efficiency
+expertise_area: cost-efficiency
 leadership: false
 image:
 ---

@@ -4,7 +4,7 @@ name: Jeongmin Lee
 role_title: 'Research Advisor, Education'
 focuses:
   - education
-practice: Research
+expertise_area: research
 leadership: false
 image:
 ---

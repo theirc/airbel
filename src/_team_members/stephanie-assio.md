@@ -3,7 +3,7 @@ layout: team_member
 name: Stephanie Assio
 role_title: Regional Design Specialist
 focuses:
-practice: Design
+expertise_area: design
 leadership: false
 image:
 ---
