@@ -8,3 +8,44 @@
   background-color: $white;
   z-index: 500;
 }
+
+.team-list {
+  position: relative;
+  list-style-type: none;
+  height: 600px;
+  .team-item {
+    width: 25%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    &:nth-of-type(1){
+      top: 15%;
+    }
+    &:nth-of-type(2){
+      left: 25%;
+      margin-left: 25px;
+    }
+    &:nth-of-type(3){
+      left: 50%;
+      top: 12%;
+    }
+    &:nth-of-type(4){
+      left: 75%;
+    }
+    &:nth-of-type(5){
+      top: 50%;
+      left: 15%;
+    }
+    &:nth-of-type(6){
+      left: 60%;
+      top: 55%;
+    }
+    &:nth-of-type(7){
+      top: 75%;
+    }
+    &:nth-of-type(8){
+      top: 70%;
+      left: 34%;
+    }
+  }
+}

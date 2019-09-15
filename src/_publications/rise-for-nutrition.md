@@ -1,6 +1,6 @@
 ---
 layout: publication
-published_date: 2019-09-14 00:00:00
+published_date: 2017-09-14 00:00:00
 date_range: 2017-2019
 title: RISE for Nutrition
 publication_type:

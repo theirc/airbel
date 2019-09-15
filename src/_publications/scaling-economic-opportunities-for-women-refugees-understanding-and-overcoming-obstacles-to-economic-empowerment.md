@@ -1,6 +1,6 @@
 ---
 layout: publication
-published_date:
+published_date: 2019-09-14 00:00:00
 date_range: "2019"
 title: >-
   Scaling Economic Opportunities for Women Refugees: Understanding and

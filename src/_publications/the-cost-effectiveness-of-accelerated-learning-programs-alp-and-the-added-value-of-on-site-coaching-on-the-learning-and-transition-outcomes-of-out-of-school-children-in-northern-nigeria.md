@@ -1,6 +1,6 @@
 ---
 layout: publication
-published_date: 2019-09-14 00:00:00
+published_date: 2018-09-14 00:00:00
 date_range: 2018-2019
 title: >-
   The Cost-Effectiveness of Accelerated Learning Programs (ALP) and the Added
