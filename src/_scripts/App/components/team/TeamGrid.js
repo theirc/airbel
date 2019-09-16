@@ -27,19 +27,21 @@ const TeamGrid = ({team}) => {
 
   return (
     <>
-      <div className="row">
-        {shuffledTeam && shuffledTeam.slice(0, 4).map(team => (
-          <>
-            <TeamMember team={team} />
-          </>
-        ))}
-      </div>
-      <div className="row">
-        {shuffledTeam && shuffledTeam.slice(4, 8).map(team => (
-          <>
-            <TeamMember team={team} />
-          </>
-        ))}
+      <div className="team-wrapper">
+        <ul className="team-list">
+          {shuffledTeam && shuffledTeam.slice(0, 4).map(team => (
+            <>
+              <TeamMember team={team} />
+            </>
+          ))}
+
+
+          {shuffledTeam && shuffledTeam.slice(4, 8).map(team => (
+            <>
+              <TeamMember team={team} />
+            </>
+          ))}
+        </ul>
       </div>
     </>
   )

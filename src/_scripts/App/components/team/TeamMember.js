@@ -8,10 +8,10 @@ const TeamMember = (team) => {
   }
   return (
     <>
-      <div className="col-lg-3">
+      <li className="team-item">
         <div className="bg-image aspect-1x1" style={BackgroundImage} onClick={() => setShowMemberDetails(!showMemberDetails)}></div>
         
-      </div>
+      </li>
       {showMemberDetails && <div className="team-member-details">
         <h3>{team.team.name}</h3>
         <p><em>{team.team.role_title}</em></p>
