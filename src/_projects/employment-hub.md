@@ -36,7 +36,7 @@ articles:
     url: >-
       https://medium.com/airbel/matching-jobs-to-job-seekers-in-jordan-d9c1c8bc00a5
 milestones:
-  - date: 2019-09-01 00:00:00
+  - date: 2019-11-01 00:00:00
     title: Randomized Control Trial concludes
     link:
     link_title:
