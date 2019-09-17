@@ -1,47 +1,77 @@
 import React, { useState, useEffect } from "react"
 import TeamMember from "./TeamMember"
 
-
-//function for randomizing array
-function shuffleArray(array) {
-  let i = array.length - 1;
-  for (; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    const temp = array[i];
-    array[i] = array[j];
-    array[j] = temp;
-  }
-  return array;
-}
-
-
-
 const TeamGrid = ({team}) => {
-
-  //pass array through shuffleArray function
-  const shuffledTeam = shuffleArray(team);
-
-  //define how many elements to show from array
-  // const itemsToShow = 4;
-  // const totalItems = team.length;
+  function getRandomTeam() {
+    const randomTeam = team.sort(function (a, b) { return 0.5 - Math.random() })
+    const shortList = randomTeam.slice(0, 8)
+    return shortList;
+  }
+  const [randomTeam, setRandomTeam] = React.useState(getRandomTeam())
+  const [showMemberDetails, setShowMemberDetails] = useState(false)
+  const [selectedTeamMember, setSelectedTeamMember] = useState({})
 
   return (
     <>
-      <div className="team-wrapper">
+      <button onClick={() => setRandomTeam(getRandomTeam())}>Get Random</button>
+      <div className={showMemberDetails ? 'team-wrapper show-details' : 'team-wrapper'}>
         <ul className="team-list">
-          {shuffledTeam && shuffledTeam.slice(0, 4).map(team => (
-            <>
-              <TeamMember team={team} />
-            </>
-          ))}
-
-
-          {shuffledTeam && shuffledTeam.slice(4, 8).map(team => (
-            <>
-              <TeamMember team={team} />
-            </>
-          ))}
+          {randomTeam && randomTeam.map((teamMember, index) => {
+            const BackgroundImage = {
+              backgroundImage: `url(` + teamMember.image + `)`,
+            }
+            return (
+              <li className={selectedTeamMember === teamMember ? 'team-item active' : 'team-item'} key={index} onClick={() => {
+                setSelectedTeamMember(teamMember)
+                setShowMemberDetails(true)
+              }}>
+                <div className="bg-image aspect-1x1" style={BackgroundImage}></div>
+              </li>
+            )
+          }
+          )}
         </ul>
+        
+        <div className={showMemberDetails && selectedTeamMember ? 'team-member-details active' : 'team-member-details'}>
+          <button className="close-details" onClick={() => {
+            setShowMemberDetails(false)
+            setSelectedTeamMember({})
+          }}>x</button>
+          {showMemberDetails && selectedTeamMember && (
+            <>
+            <h3>{selectedTeamMember.name}</h3>
+            <p><em>{selectedTeamMember.role_title}</em></p>
+            <hr />
+            <p><strong>Focus:</strong><br />
+              {selectedTeamMember.focuses}
+            </p>
+            <p><strong>Practice:</strong><br />
+              {selectedTeamMember.practice}
+            </p>
+            <hr />
+            <p>{selectedTeamMember.bio}</p>
+            {selectedTeamMember.leadership}
+            </>
+          )}
+          
+        </div>
+  
+        {/* {showMemberDetails && selectedTeamMember && (
+          <div className="team-member-details">
+            <h3>{selectedTeamMember.name}</h3>
+            <p><em>{selectedTeamMember.role_title}</em></p>
+            <hr />
+            <p><strong>Focus:</strong><br />
+              {selectedTeamMember.focuses}
+            </p>
+            <p><strong>Practice:</strong><br />
+              {selectedTeamMember.practice}
+            </p>
+            <hr />
+            <p>{selectedTeamMember.bio}</p>
+            {selectedTeamMember.leadership}
+          </div>
+        )} */}
       </div>
     </>
   )

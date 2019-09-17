@@ -8,6 +8,13 @@
       border-left: 10px solid $dark;
     }
   }
+  .filters {
+    @include media-breakpoint-down(md) {
+      .filter-title {
+        font-size: 13px;
+      }
+    }
+  }
 }
 .publication-row {
   align-items: center;

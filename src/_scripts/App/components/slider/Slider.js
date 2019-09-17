@@ -10,7 +10,7 @@ const Slider = ({ slides }) => {
     return null;
   }
 
-  console.log(curr);
+  // console.log(curr);
   const goToNext = () => {
     const { length } = defaultSlides;
     setCurr(curr === length - 1 ? 0 : curr + 1);
@@ -19,8 +19,6 @@ const Slider = ({ slides }) => {
   React.useEffect(() => {
     setTimeout(goToNext, 2000)
   })
-
-  console.log(defaultSlides)
 
   return (
     <>

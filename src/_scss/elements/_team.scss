@@ -1,61 +1,98 @@
 .team-member-details {
   position: absolute;
-  right: 0;
+  right: -35%;
   top: 0;
-  width: 30%;
+  width: 35%;
   padding: 20px;
-  @include transition(0.5s);
+  opacity: 0;
+  @include transition(right, 0.5s);
   background-color: $white;
   z-index: 500;
+  font-size: 14px;
+  &.active {
+    right: 0;
+    opacity: 1;
+  }
+  .close-details {
+    position: absolute;
+    left: -20px;
+    border: 1px solid $dark;
+    color: $dark;
+  }
 }
 
 .team-wrapper {
   width: 100%;
   margin-bottom: 75px;
-  &.team-details-active {
-    width: 70%;
+  @include transition(0.5s);
+  &.show-details {
+    margin-bottom: 50vh;
+    width: 65%;
+    // .team-member-details {
+    //   right: 0;
+    //   opacity: 1;
+    // }
   }
 }
 
 .team-list {
+  padding-left: 0;
   position: relative;
   list-style-type: none;
   width: 100%;
-  height: 600px;
-  
+  display: flex;
+  flex-wrap: wrap;
+  @include media-breakpoint-up(md) {
+    display: block;
+    height: 500px;
+  }
+  @include media-breakpoint-up(lg) {
+    height: 600px;
+  }
   .team-item {
-    width: 25%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    &:nth-of-type(1){
-      top: 15%;
+    width: 50%;
+    @include transition(0.5s);
+    &.active {
+      z-index: 1000;
+      left: 30% !important;
+      top: 5% !important;
+      width: 45%;
+      border: 10px solid $primary;
     }
-    &:nth-of-type(2){
-      left: 25%;
-      margin-left: 25px;
-    }
-    &:nth-of-type(3){
-      left: 50%;
-      top: 12%;
-    }
-    &:nth-of-type(4){
-      left: 75%;
-    }
-    &:nth-of-type(5){
-      top: 50%;
-      left: 15%;
-    }
-    &:nth-of-type(6){
-      left: 60%;
-      top: 55%;
-    }
-    &:nth-of-type(7){
-      top: 75%;
-    }
-    &:nth-of-type(8){
-      top: 70%;
-      left: 34%;
+    @include media-breakpoint-up(md) {
+      width: 25%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      &:nth-of-type(1){
+        top: 15%;
+      }
+      &:nth-of-type(2){
+        left: 25%;
+        margin-left: 25px;
+      }
+      &:nth-of-type(3){
+        left: 50%;
+        top: 12%;
+      }
+      &:nth-of-type(4){
+        left: 75%;
+      }
+      &:nth-of-type(5){
+        top: 50%;
+        left: 15%;
+      }
+      &:nth-of-type(6){
+        left: 60%;
+        top: 55%;
+      }
+      &:nth-of-type(7){
+        top: 75%;
+      }
+      &:nth-of-type(8){
+        top: 70%;
+        left: 34%;
+      }
     }
   }
 }
