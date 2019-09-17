@@ -2,8 +2,8 @@
 layout: project
 title: Micronutrient Cubes
 tagline: >-
-  Bouillon-shaped cubes that introduce micronutrients into food for children at
-  risk of malnutrition
+  Fortified bouillon cubes that introduce micronutrients into food for children
+  at risk of malnutrition
 status: active
 stage: Research
 focuses:
