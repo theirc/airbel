@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Sesame Seeds
+title: Ahlan Simsim
 tagline: Teaching the world’s most vulnerable children
 status: graduated
 stage: Pilot
@@ -11,8 +11,9 @@ geolocation:
   latitude:
   longitude:
 description: >-
-  In this historic effort, IRC and Sesame Workshop help children whose lives
-  have been uprooted by the Syrian war to build brighter futures.
+  In this historic effort, IRC and Sesame Workshop have partnered to help
+  children whose lives have been uprooted by the war in Syria to build brighter
+  futures.
 hero_image: /uploads/hero-sesame.jpg
 featured_image: /uploads/irc-muppets-2.jpg
 featured_video_url: 'https://youtu.be/yy7z8PUxNDY'
@@ -73,10 +74,22 @@ milestones:
       development humanitarian response with 84 participants from UN agencies,
       government and non-government organizations, academic experts, and
       humanitarian organizations.&nbsp;
+  - date: 2017-03-01 00:00:00
+    title: App prototyped
+    link: >-
+      https://docs.google.com/presentation/d/165RLsBuOV0NVDwK0WQ4NB_bKYF5oXF6paGWIu2eo1SA/edit?usp=sharing
+    link_title:
+    description_markdown: >-
+      Airbel supports the prototyping and creation of materials for
+      facilitators, particularly an app, which can increase facilitators’ skills
+      by providing them with key background information without requiring
+      training. The app can help facilitators manage behavior through positive
+      discipline, learn more about activities they can undertake with students,
+      and access multimedia content to share with children.&nbsp;
 ---
 
-Sesame Street and the IRC have partnered on Sesame Seeds, a historic initiative that will bring hope and opportunity to a generation of children affected by the Syrian conflict. Refugees around the world are displaced for an average of 10 years, and the humanitarian system struggles to support them. The humanitarian system is was created to respond to short-term problems and focus on meeting basic needs. Plus, only 2% of funding goes to education—and just a fraction to early childhood. Sesame Seeds is the largest early childhood intervention in the history of humanitarian response, combining an educational broadcast reaching 9.4 million children in the region with direct services for 1.5 million of the most vulnerable.
+With refugees around the world displaced for longer and longer periods - now an average of 10 years - the humanitarian system struggles to support them. Few displaced children have opportunities to learn and play; some have been exposed to extreme violence. They are at risk of “toxic stress,” a biological response to adversity that disrupts normal brain development. Though there are opportunities to address toxic stress through education, only 2% of humanitarian funding goes to this area - and just a fraction of it focuses on early childhood.
 
-Few Syrian children have opportunities to learn and play; some have been exposed to extreme violence. They are at risk of “toxic stress,” a biological response to adversity that disrupts normal brain development. Sesame Seeds harnesses the unique strengths of IRC and Sesame Seeds to deliver early learning and care at scale. It combines high quality, research-driven educational content, engaging characters who connect deeply with children’s lives and experiences, and extensive on-the-ground operations to support families in fragile settings.
+Under the MacArthur Foundation $100 million grant, the Sesame Workshop and the IRC have come together to deliver early childhood content. Ahlan Simsim - or “Welcome Sesame” - is the largest early childhood intervention in the history of humanitarian response, combining an educational broadcast reaching 9.4 million children in the region with direct services for 1.5 million of the most vulnerable children and caretakers. Ahlan Simsim harnesses the unique strengths of IRC and Sesame Seeds to deliver early learning and care at scale. It combines high quality, research-driven educational content, engaging characters who connect deeply with children’s lives and experiences, and extensive on-the-ground operations to support families in fragile settings.
 
-Sesame Seeds aims to help parents provide the care children need to overcome toxic stress, through in-person support as well as video and audio content. Community sites are transformed into nurturing care and learning centers. Frontline staff are trained, and centers equipped to provide support for managing and overcoming toxic stress. And finally, a locally-produced television show will introduce children to characters and role models who understand their experiences, including the Sesame Muppets. The show focuses on language, literacy, numeracy, and socio-emotional skills. Most of all, Sesame Seeds helps promote understanding—children spend time with characters that help them be smarter and kinder.
+Ahlan Simsim aims to help parents provide the care children need to overcome toxic stress, through in-person support as well as video and audio content. Community sites are transformed into nurturing care and learning centers. Frontline staff are trained, and centers equipped to provide support for managing and overcoming toxic stress. And finally, a locally-produced television show will introduce children to characters and role models who understand their experiences, including the Sesame Muppets. The show focuses on language, literacy, numeracy, and socio-emotional skills. Most of all, Sesame Seeds helps promote understanding—children spend time with characters that help them be smarter and kinder.
