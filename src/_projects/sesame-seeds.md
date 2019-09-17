@@ -53,23 +53,43 @@ milestones:
       discipline, learn more about activities they can undertake with students,
       and access multimedia content to share with children.&nbsp;
   - date: 2018-01-01 00:00:00
-    title: Joint project team established.
+    title: Joint project team established
     link:
     link_title:
-    description_markdown: Project transitioned and graduates from Airbel.
+    description_markdown: Project transitions and graduates from incubation at the Airbel Center.
   - date: 2017-12-01 00:00:00
-    title: MacArthur Foundation 100&Change Grant awarded to Sesame Workshop and IRC
-    link: 'https://refugee.sesameinternational.org/finalist-presentation/'
-    link_title: Resource
-    description_markdown:
+    title: Sesame Workshop and IRC awarded MAcArthur 100&Change grant
+    link: >-
+      https://www.macfound.org/press/press-releases/sesame-workshop-and-international-rescue-committee-awarded-100-million-early-childhood-education-syrian-refugees/
+    link_title:
+    description_markdown: >-
+      The Foundation's Board selected the joint Sesame Workshop-IRC project on
+      education for Syrian refugees as the winner of its single $100 million
+      grant.
+
+
+      "We are compelled to respond to the urgent Syrian refugee crisis by
+      supporting what will be the largest early childhood intervention program
+      ever created in a humanitarian setting" — Julia Stasch, MacArthur
+      President
+
+
+      &nbsp;
   - date: 2017-09-01 00:00:00
-    title: Named as finalists  in MacArthur Foundation 100&Change Grant Competition
+    title: >-
+      Project named finalist in MacArthur Foundation 100 & Change grant
+      competition
     link: >-
       http://www.sesameworkshop.org/press-releases/sesame-workshop-and-international-rescue-committee-named-as-finalist-in-global-competition-for-100-million-grant/
-    link_title: Resource
-    description_markdown:
+    link_title:
+    description_markdown: >-
+      Four solutions to social problems were named finalists in MacArthur's
+      global competition for a $100 million grant
+      called&nbsp;*[100&Change](https://www.macfound.org/programs/100change/){:
+      target="_blank"}&nbsp;*together with Catholic Relief Services,
+      HarvestPlus, and Rice 360.
   - date: 2017-04-01 00:00:00
-    title: Launch of pilot
+    title: Pilot launches
     link:
     link_title:
     description_markdown: >-
@@ -79,7 +99,7 @@ milestones:
     title: Advisory Meeting held
     link: >-
       https://refugee.sesameinternational.org/wp-content/uploads/2017/05/REPORT-SW-IRC-Humanitarian-Initiative-Advisory-Meeting-4-18-2....pdf
-    link_title: Resource
+    link_title:
     description_markdown: >-
       Early work funded by the Bernard van Leer Foundation and the Open Society
       Foundation supports a Global Advisory Meeting to discuss early childhood
