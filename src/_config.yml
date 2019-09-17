@@ -78,7 +78,7 @@ statuses:
   - graduated
 
 stages:
-  - Research
+  - Design Research
   - Generate Solutions
   - Prototype
   - Pilot
@@ -97,12 +97,3 @@ publication_types:
   - Report
   - Research Brief
   - Website
-
-practices:
-  - Behavioral Insights
-  - Cost-Efficiency
-  - Design
-  - Project Management
-  - Research
-  - Strategy
-  - Using evidence in decision-making

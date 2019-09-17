@@ -126,30 +126,36 @@ iframe {
 }
 
 .bg-orange,
-.bg-resettlement {
+.bg-resettlement,
+.bg-empowerment {
   background-color: $orange !important;
 }
 
 .border-orange,
-.border-resettlement {
+.border-resettlement,
+.border-empowerment {
   border-color: $orange !important;
 }
 
 .bg-blue-dark,
-.bg-employment {
+.bg-employment,
+.bg-economic-wellbeing {
   background-color: $blue-dark;
 }
 .border-blue-dark,
-.border-employment {
+.border-employment,
+.border-economic-wellbeing {
   border-color: $blue-dark !important;
 }
 
 .bg-green,
-.bg-nutrition {
+.bg-nutrition,
+.bg-health {
   background-color: $green !important;
 }
 .border-nutrition,
-.border-green {
+.border-green,
+.border-health {
   border-color: $green !important;
 }
 

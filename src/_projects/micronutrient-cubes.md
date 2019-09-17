@@ -5,7 +5,7 @@ tagline: >-
   Bouillon-shaped cubes that introduce micronutrients into food for children at
   risk of malnutrition
 status: active
-stage: Research
+stage: Design Research
 focuses:
   - nutrition
 geolocation:
