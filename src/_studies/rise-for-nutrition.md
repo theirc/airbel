@@ -1,5 +1,5 @@
 ---
-layout: publication
+layout: study
 published_date: 2017-09-14 00:00:00
 date_range: 2017-2019
 title: RISE for Nutrition

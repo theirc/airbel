@@ -3,7 +3,7 @@ layout: team_member
 name:
 role_title:
 focuses:
-practice:
+expertise_area:
 leadership: false
 image:
 ---

@@ -1,6 +1,6 @@
 import React from "react"
 
-const PublicationFilters = () => {
+const StudyFilters = () => {
   return (
     <>
       <div className="row align-items-center filters">
@@ -112,4 +112,4 @@ const PublicationFilters = () => {
   )
 }
 
-export default PublicationFilters
+export default StudyFilters

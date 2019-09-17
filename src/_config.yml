@@ -31,10 +31,10 @@ collections:
     output: true
     layout: expertise_area
     permalink: /expertise-areas/:title/  
-  publications:
+  studies:
     output: true
-    layout: publication
-    permalink: /publications/:path/
+    layout: study
+    permalink: /studies/:path/
   team_members:
     output: true
     layout: team_member

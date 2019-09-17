@@ -1,4 +1,4 @@
-export const PUBLICATION_DATA = [
+export const STUDY_DATA = [
   {
     title: "Generating Evidence for the Use of Cash Relief for Health Outcomes (Ongoing)",
     publication_type: "",

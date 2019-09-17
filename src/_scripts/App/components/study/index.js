@@ -1,10 +1,10 @@
 import React from "react"
-import PublicationFilters from './PublicationFilters'
-import PublicationList from './PublicationList'
-import {PUBLICATION_DATA} from './data';
+import StudyFilters from './StudyFilters'
+import StudyList from './StudyList'
+import {STUDY_DATA} from './data';
 
-const Publication = () => {
-  const publications = PUBLICATION_DATA;
+const Study = () => {
+  const studies = STUDY_DATA;
   return( 
     <>
       <section>
@@ -16,11 +16,11 @@ const Publication = () => {
               </div>
             </div>
           </div>
-          <PublicationFilters />
+          <StudyFilters />
           <div className="row">
             <div className="col-12">
               <div className="content">
-                <PublicationList publications={publications} />
+                <StudyList studies={studies} />
               </div>
             </div>
           </div>
@@ -30,4 +30,4 @@ const Publication = () => {
   )
 }
 
-export default Publication
+export default Study

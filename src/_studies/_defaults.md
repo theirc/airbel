@@ -1,5 +1,5 @@
 ---
-layout: publication
+layout: study
 published_date:
 date_range:
 title:
