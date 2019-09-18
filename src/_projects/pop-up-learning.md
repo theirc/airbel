@@ -61,7 +61,9 @@ With thoughtful facilitation and the best autonomous learning software, we can i
 
 We are currently piloting autonomous learning with the Rohingya community in Bangladesh, where over 380,000 Rohyinga children don’t have access to learning opportunities.
 
-#### How it works
+&nbsp;
+
+### How it works
 
 Personalized, adaptive technology serves to enable children with the tools needed to reach their development potential regardless of environmental circumstances. Autonomous learning can:
 
@@ -71,6 +73,8 @@ Personalized, adaptive technology serves to enable children with the tools neede
 
 Pop-Up aims to fill the critical educational gaps in a displaced child’s life, providing some sense of normalcy, continuity and critical foundational skills while formal education is being established. This product will make it possible to rapidly deploy learning programs in emergencies where no formal education is available and in a way that supports an eventual transition to formal schools.
 
-#### What's next
+&nbsp;
+
+### What's next
 
 With the support of donors and the help of our partners, we will be testing, adapting, and implementing different delivery models in Bangladesh, with the Rohingya community; in Tanzania, with refugees from Burundi and DRC; and in Niger with refugees from Mali and Nigeria. We are on the cusp of scaling these solutions to serve 125,000 children affected by crisis, helping to lay the groundwork for its global adoption.
