@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import HelloWorld from './components/HelloWorld';
-import Study from './components/study';
+import StudyLibrary from './components/StudyLibrary';
 import Team from "./components/team";
 
 const APPS = {
   HelloWorld,
-  Study,
+  StudyLibrary,
   Team
 }
 

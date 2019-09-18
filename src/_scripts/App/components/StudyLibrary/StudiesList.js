@@ -1,13 +1,13 @@
 import React from "react"
-import StudyListItem from "./StudyListItem"
+import StudiesListItem from "./StudiesListItem"
 
-const StudyList = ({studies}) => {
+const StudiesList = ({ studies }) => {
   return (
     <>
       <div className="row">
         {studies && studies.map(study => (
           <>
-            <StudyListItem study={study} />
+            <StudiesListItem study={study} />
           </>
         ))}
       </div>
@@ -15,4 +15,4 @@ const StudyList = ({studies}) => {
   )
 }
 
-export default StudyList
+export default StudiesList
