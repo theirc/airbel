@@ -54,14 +54,20 @@ export const SwitchInput = ({
 
 // Selects
 
-export const SelectInput = ({ input, placeholder, defaultValue, label, isMulti, isSearchable, options }) => {
+export const SelectInput = ({
+  // input, placeholder,
+  defaultValue, isMulti, isSearchable, options,
+  field, label, hint, onChange,// { name, value, onChange, onBlur }
+  form: { touched, errors }, // also values, setXXXX, handleXXXX, dirty, isValid, status, etc.
+  ...props
+}) => {
   const groupStyles = {
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'space-between',
-  };
+  }
   const groupBadgeStyles = {
-    backgroundColor: '#EBECF0',
+    backgroundColor: '#FEC938',
     borderRadius: '2em',
     color: '#172B4D',
     display: 'inline-block',
@@ -71,25 +77,34 @@ export const SelectInput = ({ input, placeholder, defaultValue, label, isMulti, 
     minWidth: 1,
     padding: '0.16666666666667em 0.5em',
     textAlign: 'center',
-  };
+  }
 
   const formatGroupLabel = data => (
     <div style={groupStyles}>
       <span>{data.label}</span>
       <span style={groupBadgeStyles}>{data.options.length}</span>
     </div>
-  );
+  )
+
+  // handleChange = value => {
+  //   // this is going to call setFieldValue and manually update values.topcis
+  //   this.props.onChange('topics', value);
+  // };
+
+  // handleBlur = () => {
+  //   // this is going to call setFieldTouched and manually update touched.topcis
+  //   this.props.onBlur('topics', true);
+  // };
 
   return (
     <div className="form-group">
       <label className={label ? '' : 'sr-only'}>{label}</label>
       <Select
-        {...input}
+        {...field}
         defaultValue={defaultValue}
         formatGroupLabel={formatGroupLabel}
-        onChange={(value) => input.onChange(value)}
-        onBlur={() => input.onBlur(input.value)}
-        placeholder={placeholder}
+        // value={getValue()}
+        // onChange={onChange}
         options={options}
         isMulti={isMulti}
         isSearchable={isSearchable}
@@ -103,6 +118,7 @@ export const SelectInput = ({ input, placeholder, defaultValue, label, isMulti, 
             primary: '#172B4D',
           },
         })}
+        {...props}
       />
     </div>
   )

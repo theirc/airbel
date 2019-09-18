@@ -55,41 +55,27 @@ export const EuropeAndNorthAfricaOptions = [
   { value: "LY", label: "Libya" }
 ];
 
-export const leadUnitOptions = [
-  { value: "emergency_unit", label: "Emergency Unit(EPRU)" },
-  { value: "asia", label: "Asia" },
-  { value: "east_africa", label: "East Africa" },
-  { value: "great_lakes", label: "Great Lakes" },
-  { value: "middle_east", label: "Middle East" },
-  { value: "west_africa", label: "West Africa" },
-  { value: "europe_north_africa", label: "Europe & North Africa" },
-  { value: "governance", label: "Governance" },
-  { value: "economic_recovery", label: "Economic Recovery" },
-  { value: "research_evaluation_learning", label: "Research, Eval & Learning" },
-  { value: "gender", label: "Gender" },
-  { value: "vpru", label: "VPRU" },
-  { value: "education", label: "Education" },
-  { value: "health", label: "Health" },
-  { value: "measurement", label: "Measurement" },
-  { value: "management", label: "Management" },
-  { value: "p_p_management", label: "P & P Management" },
-  { value: "president", label: "President's Office" },
-  { value: "advocacy", label: "Advocacy" },
-  { value: "usp", label: "USP" },
-  { value: "communications", label: "Communications" }
+export const typeOptions = [
+  { value: "Abstract", label: "Abstract" },
+  { value: "Academic", label: "Academic" },
+  { value: "Case study", label: "Case study" },
+  { value: "Cost analysis", label: "Cost analysis" },
+  { value: "Factsheet", label: "Factsheet" },
+  { value: "Presentation", label: "Presentation" },
+  { value: "Protocol", label: "Protocol" },
+  { value: "Policy brief", label: "Policy brief" },
+  { value: "Report", label: "Report" },
+  { value: "Research brief", label: "Research brief" },
+  { value: "Website", label: "Website" }
 ];
 
-export const themeOptions = [
-  { value: "economic", label: "Economic Recovery" },
+export const focusOptions = [
+  { value: "economic", label: "Economic Wellbeing" },
   { value: "education", label: "Education" },
-  { value: "power", label: "Power" },
+  { value: "empowerment", label: "Empowerment" },
   { value: "health", label: "Health" },
   { value: "safety", label: "Safety" },
-  { value: "emergency", label: "Emergency" },
-  { value: "innovation", label: "Innovation" },
-  { value: "research", label: "Research" },
-  { value: "resettlment", label: "Resettlement" },
-  { value: "advocacy", label: "Advocacy" }
+  { value: "other", label: "Other" },
 ];
 
 export const uspOfficeOptions = [
@@ -217,14 +203,3 @@ export const currencyOptions = [
   { value: "UK", label: "Pound(£)", symbol: "£" },
   { value: "EU", label: "Euro(€)", symbol: "€" },
 ];
-
-export const regionOptions = [
-  { value: "Uganda", label: "Uganda" },
-  { value: "United States", label: "United States" },
-  { value: "Tanzania", label: "Tanzania" },
-  { value: "South Sudan", label: "South Sudan" },
-  { value: "Jordan", label: "Jordan" },
-  { value: "Liberia", label: "Liberia" },
-  { value: "Bangladesh", label: "Bangladesh" },
-  { value: "Niger", label: "Niger" },
-]
