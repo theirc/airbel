@@ -4,6 +4,7 @@
 @import "vendor/bootstrap/breakpoints";
 
 @import 'base/mixins';
+// @import 'base/fonts';
 @import 'base/utilities';
 @import 'base/animations';
 @import 'base/global';
@@ -22,6 +23,7 @@
 @import 'elements/carousel';
 @import 'elements/cognito';
 @import 'elements/filters';
+@import 'elements/board_tabs';
 @import 'elements/focus_tabs';
 @import 'elements/map_modal';
 @import 'elements/project_visualizer';
@@ -37,4 +39,5 @@
 @import 'views/project';
 @import 'views/portfolio';
 @import 'views/publications';
+@import 'views/study';
 @import 'views/who_we_are';

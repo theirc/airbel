@@ -55,6 +55,10 @@ iframe {
   color: $light;
 }
 
+.text-orange {
+  color: $orange;
+}
+
 // Background images
 .bg-image {
   display: block;
@@ -113,6 +117,10 @@ iframe {
 
 .bg-light {
   background-color: $light !important;
+}
+
+.bg-gray-alt {
+  background-color: $gray-alt;
 }
 
 .bg-education,
@@ -209,5 +217,8 @@ mark {
   }
   &.bg-dark {
     box-shadow: 4px 0 0 $dark, -4px 0 0 $dark;
+  }
+  &.bg-white {
+    box-shadow: 4px 0 0 $white, -4px 0 0 $white;
   }
 }

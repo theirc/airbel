@@ -1,49 +1,39 @@
-#focus-tabs,
-#expertise-tabs {
-  border: 0;
+#board-tabs {
+  border-color: $black;
   .nav-item {
-    background-color: $gray-100;
-    margin-bottom: 5px;
     .nav-link {
       color: $black;
       padding-left: 30px;
       border: 0;
       font-family: $commuter-sans;
       border-radius: 0;
+      @include media-breakpoint-down(lg) {
+        font-size: 15px;
+      }
       &.active {
-        background-color: $gray-100;
-        border-left: 10px solid;
+        background-color: $black;
+        color: $white;
+      }
+      h4 {
+        img {
+          width: 35px;
+        }
       }
     }
   }
 }
 
-#focus-tab-content,
-#expertise-tab-content {
+#board-tab-content {
   .tab-pane {
-    padding: 30px 30px 50px;
-    color: $white;
-    .btn {
-      position: absolute;
-      bottom: 20px;
-      right: 20px;
-      border-style: solid;
-      border-color: $white;
-      border-width: 10px 0 0 10px;
-    }
-    h3 {
-      display: flex;
-      align-items: center;
+    h4 {
       img {
-        width: 50px;
-        margin-right: 15px;
+        width: 35px;
       }
     }
   }
 }
 
-#focus-tabs-accordion,
-#expertise-tabs-accordion {
+#board-tabs-accordion {
   .card-block {
     margin-bottom: 5px;
   }
@@ -82,14 +72,9 @@
     padding: 20px;
     margin-top: 5px;
     margin-bottom: 5px;
-    color: $white;
-    h3 {
-      display: flex;
-      align-items: center;
-      color: $white;
+    h4 {
       img {
-        width: 40px;
-        margin-right: 15px;
+        width: 35px;
       }
     }
     .btn {
@@ -100,35 +85,25 @@
       }
     }
   }
-  #education-collapse,
-  #behavioral-insights-collapse {
+  #education-collapse {
     background-color: $blue;
   }
-  #resettlement-collapse,
-  #strategy-collapse {
+  #resettlement-collapse {
     background-color: $orange;
   }
-  #employment-collapse,
-  #cost-efficiency-collapse {
+  #employment-collapse {
     background-color: $blue-dark;
   }
-  #nutrition-collapse,
-  #project-management-collapse {
+  #nutrition-collapse {
     background-color: $success;
   }
-  #safety-collapse,
-  #using-evidence-collapse
-   {
+  #safety-collapse {
     background-color: $danger;
   }
   #finance-collapse {
     background-color: $primary;
   }
-  #other-collapse,
-  #research-collapse {
+  #other-collapse {
     background-color: $purple;
-  }
-  #design-collapse {
-    background-color: $yellow;
   }
 }

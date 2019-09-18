@@ -33,5 +33,8 @@
     border-width: 10px 0 0 10px;
     border-style: solid;
     border-color: $white;
+    &:hover {
+      border-color: $white;
+    }
   }
 }

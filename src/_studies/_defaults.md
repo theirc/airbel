@@ -1,22 +1,23 @@
 ---
 layout: study
-published_date:
-date_range:
+start_date:
+end_date:
 title:
-publication_type:
 featured: false
-focuses:
-expertise_area:
+evergreen:
+focus:
 description:
-geolocation:
-  region:
-  latitude:
-  longitude:
+regions:
+  -
 image:
 partners:
-donor:
-download_url:
-resources:
+  - name: 
+    link:
+donors:
+  - name:
+    link:
+publications:
   - title:
     link:
+    publication_type: 
 ---
