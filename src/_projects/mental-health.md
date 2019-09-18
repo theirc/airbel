@@ -24,6 +24,14 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2019-08-01 00:00:00
+    title: Design assessment kick-off
+    link: 'https://rescue.box.com/s/nxyr5b4wvehbfc2agji1ibjtdv5vnc4x'
+    link_title:
+    description_markdown: >-
+      An assessment to better understand user experience of mental health and
+      psychosocial support services in Jordan is kicked off, following approval
+      by the Mental Health and Psychosocial Support Working Group
   - date: 2019-02-01 00:00:00
     title: Four focus areas selected for further ideation
     link: 'https://rescue.box.com/s/6b6hep76kjuz23273vpu9t1o05h8uwo5'
@@ -51,14 +59,6 @@ milestones:
     description_markdown: >-
       Work underway to build a team and connect with relevant stakeholders in
       Jordan
-  - date: 2019-08-01 00:00:00
-    title: Design assessment kick-off
-    link: 'https://rescue.box.com/s/nxyr5b4wvehbfc2agji1ibjtdv5vnc4x'
-    link_title:
-    description_markdown: >-
-      An assessment to better understand user experience of mental health and
-      psychosocial support services in Jordan is kicked off, following approval
-      by the Mental Health and Psychosocial Support Working Group
 ---
 
 A growing body of research points to the outsized impact of mental health issues in the refugee population. Common mental health disorders like anxiety, depression, and post-traumatic stress disorder tend to double during emergencies, and tend to impact the most vulnerably most powerfully. Mental health issues and poverty also form a self-reinforcing cycle which can make it challenging for people to rebuild after facing trauma.
