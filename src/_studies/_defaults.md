@@ -4,8 +4,8 @@ start_date:
 end_date:
 title:
 featured: false
-evergreen:
-focus:
+evergreen: false
+focuses:
 description:
 regions:
   -

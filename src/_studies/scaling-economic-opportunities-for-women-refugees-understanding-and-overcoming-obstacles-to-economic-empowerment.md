@@ -7,7 +7,8 @@ title: >-
   Overcoming Obstacles to Economic Empowerment
 featured: false
 evergreen: false
-focus: economic-wellbeing
+focuses: 
+  - economic-wellbeing
 description: >-
   In order to better understand the constraints refugee women face across
   contexts,  the IRC is undertaking exploratory research in three different

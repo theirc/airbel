@@ -33,8 +33,8 @@ featured_studies:
             <div class="col-md-12 col-lg-8">
               <div class="p-3 py-lg-2 px-lg-5">
                 <h3>
-                  {% if study.focus %}
-                  {% assign focus = site.focuses | where: "slug", study.focus | first %}
+                  {% if study.focuses.first != null %}
+                  {% assign focus = site.focuses | where: "slug", study.focuses.first | first %}
                   <span class="d-block mb-2">
                     <em><small>{{ focus.title }}</small></em>
                   </span>
@@ -48,8 +48,8 @@ featured_studies:
             <div class="col-12">
               <div class="p-5">
                 <h3>
-                  {% if study.focus %}
-                  {% assign focus = site.focuses | where: "slug", study.focus | first %}
+                  {% if study.focuses.first != null %}
+                  {% assign focus = site.focuses | where: "slug", study.focuses.first | first %}
                   <span class="d-block mb-2">
                     <em><small>{{ focus.title }}</small></em>
                   </span>

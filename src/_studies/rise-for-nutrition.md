@@ -5,7 +5,8 @@ end_date: 2019-09-14 00:00:00
 title: RISE for Nutrition
 featured: false
 evergreen: false
-focus: health
+focuses: 
+  - health
 description: >-
   The RISE study will build on this evidence by positioning the IRC to lead a
   coalition of other implementing agencies who will operationally test the

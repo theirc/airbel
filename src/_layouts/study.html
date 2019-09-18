@@ -13,8 +13,8 @@ layout: default
       </div>
       <div class="col-12 col-lg-7">
         <div class="content">
-          {% if page.focus %}
-            {% assign focus = site.focuses | where: "slug", page.focus | first %}
+          {% if page.focuses.first != null %}
+            {% assign focus = site.focuses | where: "slug", page.focuses.first | first %}
             <p class="mb-1"><em>{{ focus.title }}</em></p>
           {% endif %}
           <h1 class="h2">{{ page.title }}</h1>
