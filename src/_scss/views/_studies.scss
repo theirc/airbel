@@ -1,11 +1,11 @@
-#featured-publications {
+#featured-studies {
 
 }
 
 #publication-library {
-  .publication-row {
-    @include media-breakpoint-up(lg){
-      border-left: 10px solid $dark;
+  .study-row {
+    p {
+      line-height: 1;
     }
   }
   .filters {
@@ -16,13 +16,21 @@
     }
   }
 }
-.publication-row {
+.study-row {
   align-items: center;
   margin-top: 8px;
   position: relative;
+  color: $dark;
+  border-left: 10px solid $dark;
+  &:hover {
+    text-decoration: none;
+    color: $dark;
+  }
+  
   @include media-breakpoint-down(md) {
     padding-bottom: 30px;
   }
+  
   h4 {
     font-weight: 400;
   }

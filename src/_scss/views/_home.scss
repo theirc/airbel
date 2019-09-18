@@ -4,19 +4,25 @@
   }
 }
 
-#how {
-  h3 {
-    // font-weight: 400;
-    // margin-top: 20px;
-    // margin-bottom: 20px;
-    // display: inline-block;
-    // padding: 10px 20px;
-    // color: $white;
+#mission {
+  h1 {
+    font-size: 3rem;
   }
+}
+
+#how {
   .bg-image {
     background-size: contain;
     margin: -40px auto;
     max-width: 70%;
+  }
+}
+
+#work-stats {
+  .bg-image {
+    background-size: contain;
+    width: 60%;
+    margin: 0 auto 10px;
   }
 }
 

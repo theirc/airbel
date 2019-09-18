@@ -18,46 +18,54 @@ featured_studies:
         </div>
       </div>
     </div>
-    {% for object in page.featured_studies %}
-    {% assign study = site.studies | where: "slug", object | first %}
-    <div class="row publication-row no-gutters bg-light">
-      {% if study.image %}
-      <div class="col-md-4">
-        <div class="bg-image aspect-1x1 ml-md-3 mt-md-3 ml-lg-0 mt-lg-0" style="background-image: url('{{ study.image }}')"></div>
-      </div>
-      <div class="col-lg-8">
-        <div class="p-3 py-lg-2 px-lg-5">
-          <h3>
-            {% if study.focus %}
-            {% assign focus = site.focuses | where: "slug", study.focus | first %}
-            <span class="d-block mb-2">
-              <em><small>{{ focus.title }}</small></em>
-            </span>
-            {% endif %}
-            {{ study.title }}
-          </h3>
-          <p>{{ study.description | truncate: 185 }}</p>
-        </div>
-      </div>
-      {% else %}
+    <div class="row">
       <div class="col-12">
-        <div class="p-5">
-          <h3>
-            {% if study.focus %}
-            {% assign focus = site.focuses | where: "slug", study.focus | first %}
-            <span class="d-block mb-2">
-              <em><small>{{ focus.title }}</small></em>
-            </span>
+        <div class="content">
+          {% for object in page.featured_studies %}
+          {% assign study = site.studies | where: "slug", object | first %}
+          {% assign slug = study.focus %}
+          <div class="row study-row no-gutters bg-light border-{{ slug }}">
+            {% if study.image %}
+            <div class="col-md-5 col-lg-4">
+              <div class="bg-image aspect-1x1 ml-md-3 mt-md-3 ml-lg-0 mt-lg-0" style="background-image: url('{{ study.image }}')">
+              </div>
+            </div>
+            <div class="col-md-12 col-lg-8">
+              <div class="p-3 py-lg-2 px-lg-5">
+                <h3>
+                  {% if study.focus %}
+                  {% assign focus = site.focuses | where: "slug", study.focus | first %}
+                  <span class="d-block mb-2">
+                    <em><small>{{ focus.title }}</small></em>
+                  </span>
+                  {% endif %}
+                  {{ study.title }}
+                </h3>
+                <p>{{ study.description | truncate: 185 }}</p>
+              </div>
+            </div>
+            {% else %}
+            <div class="col-12">
+              <div class="p-5">
+                <h3>
+                  {% if study.focus %}
+                  {% assign focus = site.focuses | where: "slug", study.focus | first %}
+                  <span class="d-block mb-2">
+                    <em><small>{{ focus.title }}</small></em>
+                  </span>
+                  {% endif %}
+                  {{ study.title }}
+                </h3>
+                <p>{{ study.description | truncate: 185 }}</p>
+              </div>
+            </div>
             {% endif %}
-            {{ study.title }}
-          </h3>
-          <p>{{ study.description | truncate: 185 }}</p>
+            <a href="{{ study.url }}" class="btn btn-dark">Find out more</a>
+          </div>
+          {% endfor %}
         </div>
       </div>
-      {% endif %}
-      <a href="{{ study.url }}" class="btn btn-dark">Find out more</a>
     </div>
-    {% endfor %}
   </div>
 </section>
 <section id="publication-library">
@@ -69,7 +77,7 @@ featured_studies:
         </div>
       </div>
     </div>
-    <div class="row">
+    <div class="row" style="display: none;">
       <div class="col-12">
         <div class="content">
           <div class="row align-items-lg-center filters">
@@ -162,37 +170,36 @@ featured_studies:
       <div class="col-12">
         <div class="content">
           {% for study in site.studies %}
-            {% assign slug = study.focuses.first %}
-            {% if study.image %}
-              <div class="row publication-row no-gutters bg-light border-{{ slug }}">
-                <div class="col-md-5 col-lg-4">
-                  <div class="bg-image aspect-1x1 mt-md-3 ml-md-3 mt-lg-0 ml-lg-0" style="background-image: url('{{ study.image }}')"></div>
-                </div>
-                <div class="col-lg-8">
-                  <div class="p-3 py-lg-2 px-lg-5">
-                    <p class="mb-0"><em>{% for focus in study.focuses %}{{focus }}{% unless forloop.last%},{% endunless %}{% endfor %}</em></p>
-                    <h3>{{ study.title }}</h3>
-                    <p><em>{{ study.date_range }} {% if study.location %}| {{ study.location }}{% endif %}</em></p>
-                    <p><small>{{ study.description | truncate: 185 }}</small></p>
-                  </div>
-                </div>
-                <a href="{{ study.download_url }}" target="_blank" class="btn btn-dark">Find out more</a>
-              </div>
-            {% else %}
-              <div class="row publication-row no-gutters bg-light border-{{ slug }}">
+            {% assign slug = study.focus %}
+            {% assign focus = site.focuses | where: "slug", study.focus | first %}
+              <a href="{{ study.url }}" class="row study-row no-gutters bg-light border-{{ slug }}">
                 <div class="col-12">
-                  <div class="p-5">
-                    <p class="mb-0">
-                      <em>{% for focus in study.focuses %}{{focus }}{% unless forloop.last%},{% endunless %}{% endfor %}</em>
+                  <div class="px-5 py-3">
+                    <!-- <p class="mb-0">
+                      <em>{{ focus.title }}</em>
+                    </p> -->
+
+                    <h4 class="mb-2">{{ study.title }}</h4>
+                    <p class="mb-2">
+                      <small>
+                      {% if study.start_date %}
+                      <em>{{ study.start_date | date: "%Y" }}</em>
+                      {% endif %}
+                      {% if study.end_date %}
+                       <em>- {{ study.end_date | date: "%Y" }}</em>
+                      {% endif %}
+                      {% if study.regions.first != null %}
+                        | 
+                        {% for region in study.regions %}
+                          <em>{{ region }}{% unless forloop.last %},{% endunless %}</em>
+                        {% endfor %}
+                      {% endif %}
+                      </small>
                     </p>
-                    <h3>{{ study.title }}</h3>
-                    <p><em>{{ study.date_range }} {% if study.geolocation.region %}| {{ study.geolocation.region }}{% endif %}</em></p>
-                    <p>{{ study.description | truncate: 185 }}</p>
+                    <p class="mb-0"><small>{{ study.description | truncate: 185 }}</small></p>
                   </div>
                 </div>
-                <a href="{{ study.download_url }}" target="_blank" class="btn btn-dark">Find out more</a>
-              </div>
-            {% endif %}
+              </a>
           {% endfor %}
         </div>
       </div>

@@ -18,8 +18,15 @@
           {% assign slug = focus.title | slugify %}
           <div class="tab-pane fade show bg-{{ slug }} {% if forloop.first %}active{% endif %}" id="{{ slug }}">
             <h3><img src="{{ focus.icon_path }}" class="img-fluid" alt="{{ focus.title }} Icon"> {{ focus.title }}</h3>
-            <p>{{ focus.description | default: 'Please enter a short description...' }}</p>
-            <a href="/portfolio?focus={{focus.title | slugify }}#projectList" class="btn btn-dark">Find out more</a>
+            <p>{{ focus.description }}</p>
+            <p>
+              <a href="/portfolio?focus={{focus.title | slugify }}#projectList"><img src="/img/icons/projects-team-icon.png"
+                  alt="Projects icon"> See projects in this area</a>
+            </p>
+            <p>
+              <a href="/studies?focus={{ focus.title | slugify }}#studiesList"><img src="/img/icons/studies-icon.png"
+                  alt="Studies icon">See studies in this area</a>
+            </p>
           </div>
         {% endfor %}
       </div>

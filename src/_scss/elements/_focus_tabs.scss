@@ -39,6 +39,21 @@
         margin-right: 15px;
       }
     }
+    a {
+      color: $white;
+      border-bottom: 1px solid #ffffff;
+      margin-left: 40px;
+      position: relative;
+      &:hover {
+        text-decoration: none;
+      }
+      img {
+        width: 35px;
+        position: absolute;
+        left: -40px;
+        top: -7px;
+      }
+    }
   }
 }
 
