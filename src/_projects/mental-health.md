@@ -51,7 +51,7 @@ milestones:
     description_markdown: >-
       Work underway to build a team and connect with relevant stakeholders in
       Jordan
-  - date: 2018-07-01 00:00:00
+  - date: 2019-08-01 00:00:00
     title: Design assessment kick-off
     link: 'https://rescue.box.com/s/nxyr5b4wvehbfc2agji1ibjtdv5vnc4x'
     link_title:
