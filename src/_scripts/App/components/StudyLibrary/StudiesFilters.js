@@ -15,37 +15,32 @@ const StudiesFilters = () => {
             <div className="row">
               <div className="col-12 col-sm-6 col-md-4">
                 <Field
-                  type="text"
                   name="publicationTypes"
-                  component={SelectInput}
                   options={typeOptions}
-                  value={values.publicationTypes}
-                  onChange={setFieldValue}
-                  onBlur={setFieldTouched}
-                  isMulti
+                  component={SelectInput}
                   label="Filter by type"
-                  placeholder="Choose publication types..."
+                  placeholder="Select publication types..."
+                  isMulti={true}
                 />
               </div>
               <div className="col-12 col-sm-6 col-md-4">
                 <Field
-                  type="text"
                   name="focus"
-                  component={SelectInput}
                   options={focusOptions}
+                  component={SelectInput}
                   label="Filter by focus"
-                  placeholder="Choose a focus..."
+                  placeholder="Select a focus..."
+                  isMulti={true}
                 />
               </div>
               <div className="col-12 col-sm-6 col-md-4">
                 <Field
-                  type="text"
                   name="regions"
+                  options={focusOptions}
                   component={SelectInput}
-                  options={groupedOptions}
-                  isMulti
                   label="Filter by region"
-                  placeholder="Choose regions..."
+                  placeholder="Select regions..."
+                  isMulti={true}
                 />
               </div>
             </div>

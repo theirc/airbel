@@ -55,9 +55,14 @@ export const SwitchInput = ({
 // Selects
 
 export const SelectInput = ({
-  // input, placeholder,
-  defaultValue, isMulti, isSearchable, options,
-  field, label, hint, onChange,// { name, value, onChange, onBlur }
+  className,
+  placeholder,
+  field,
+  form,
+  options,
+  defaultValue,
+  isMulti,
+  label, hint,
   form: { touched, errors }, // also values, setXXXX, handleXXXX, dirty, isValid, status, etc.
   ...props
 }) => {
@@ -85,30 +90,41 @@ export const SelectInput = ({
       <span style={groupBadgeStyles}>{data.options.length}</span>
     </div>
   )
+  const onChange = option => {
+    form.setFieldValue(
+      field.name,
+      isMulti
+        ? option.map((item) => item.value)
+        : option.value
+    );
+  };
 
-  // handleChange = value => {
-  //   // this is going to call setFieldValue and manually update values.topcis
-  //   this.props.onChange('topics', value);
-  // };
+  const getValue = () => {
+    if (options && field.value) {
+      return isMulti
+        ? options.filter(option => field.value.indexOf(option.value) >= 0)
+        : options.find(option => option.value === field.value);
+    } else {
+      return isMulti ? [] : "";
+    }
+  };
 
-  // handleBlur = () => {
-  //   // this is going to call setFieldTouched and manually update touched.topcis
-  //   this.props.onBlur('topics', true);
-  // };
 
   return (
     <div className="form-group">
       <label className={label ? '' : 'sr-only'}>{label}</label>
       <Select
-        {...field}
+        className={className}
+        name={field.name}
+        value={getValue()}
+        onChange={onChange}
         defaultValue={defaultValue}
         formatGroupLabel={formatGroupLabel}
-        // value={getValue()}
-        // onChange={onChange}
+        placeholder={placeholder}
         options={options}
         isMulti={isMulti}
-        isSearchable={isSearchable}
-        isClearable
+        // isSearchable={isSearchable}
+        // isClearable
         theme={(theme) => ({
           ...theme,
           borderRadius: 0,
@@ -118,8 +134,20 @@ export const SelectInput = ({
             primary: '#172B4D',
           },
         })}
-        {...props}
       />
+      {/* <Select
+        {...field}
+        defaultValue={defaultValue}
+        formatGroupLabel={formatGroupLabel}
+        // value={getValue()}
+        // onChange={onChange}
+        options={options}
+        isMulti={isMulti}
+        isSearchable={isSearchable}
+        isClearable
+
+        {...props}
+      /> */}
     </div>
   )
 }

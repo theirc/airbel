@@ -56,17 +56,17 @@ export const EuropeAndNorthAfricaOptions = [
 ];
 
 export const typeOptions = [
-  { value: "Abstract", label: "Abstract" },
-  { value: "Academic", label: "Academic" },
-  { value: "Case study", label: "Case study" },
-  { value: "Cost analysis", label: "Cost analysis" },
-  { value: "Factsheet", label: "Factsheet" },
-  { value: "Presentation", label: "Presentation" },
-  { value: "Protocol", label: "Protocol" },
-  { value: "Policy brief", label: "Policy brief" },
-  { value: "Report", label: "Report" },
-  { value: "Research brief", label: "Research brief" },
-  { value: "Website", label: "Website" }
+  { value: "abstract", label: "Abstract" },
+  { value: "academic", label: "Academic" },
+  { value: "case-study", label: "Case Study" },
+  { value: "cost-analysis", label: "Cost Analysis" },
+  { value: "factsheet", label: "Factsheet" },
+  { value: "presentation", label: "Presentation" },
+  { value: "protocol", label: "Protocol" },
+  { value: "policy-brief", label: "Policy Brief" },
+  { value: "report", label: "Report" },
+  { value: "research-brief", label: "Research Brief" },
+  { value: "website", label: "Website" }
 ];
 
 export const focusOptions = [
