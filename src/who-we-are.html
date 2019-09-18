@@ -129,11 +129,18 @@ board_advisors_and_partners:
         medium_link:
 ---
 <div class="d-flex">
-  {% for i in (1..4) %}
   <div>
-    <img src="https://via.placeholder.com/500x350" class="img-fluid" alt="">
+    <img src="/img/airbel-whoweare-top-01.jpg" class="img-fluid" alt="Who we are image">
   </div>
-  {% endfor %}
+  <div>
+    <img src="/img/airbel-whoweare-top-02.jpg" class="img-fluid" alt="Who we are image">
+  </div>
+  <div>
+    <img src="/img/airbel-whoweare-top-03.jpg" class="img-fluid" alt="Who we are image">
+  </div>
+  <div>
+    <img src="/img/airbel-whoweare-top-04.jpg" class="img-fluid" alt="Who we are image">
+  </div>
 </div>
 <section class="bg-single-plus bg-right bg-top bg-no-repeat">
   <div class="container">
@@ -200,10 +207,8 @@ board_advisors_and_partners:
             <div class="tab-pane fade show {% cycle 'bg-blue', 'bg-blue-dark', 'bg-yellow', 'bg-green', 'bg-purple', 'bg-orange', 'bg-red'  %} {% if forloop.first %}active{% endif %}" id="{{ slug }}">
               <h3><img src="{{ expertise.icon_path }}" class="img-fluid" alt="{{ expertise.title }} Icon"> {{ expertise.title }}</h3>
               <p>{{ expertise.description | default: 'Please enter a short description...' }}</p>
-              <p><a href="/portfolio?focus={{expertise.title | slugify }}#projectList" class="text-white">See projects that work in this
-                area</a></p>
-              <p><a href="/portfolio?focus={{expertise.title | slugify }}#projectList" class="text-white">See team members that work in
-                this area</a></p>
+              <p><a href="#team" class="text-white"><img src="/img/icons/projects-team-icon.png" alt="Projects icon"><small>See team members that work in
+              this area</small></a></p>
             </div>
             {% endfor %}
           </div>
@@ -212,8 +217,8 @@ board_advisors_and_partners:
     </div>
   </div>
 </section>
-<div class="bg-image aspect-wide" style="background-image: url(/img/who-hero.jpg)"></div>
-<section>
+<div class="bg-image aspect-wide" style="background-image: url(/img/airbel-whoweare-divider.jpg)"></div>
+<section id="team">
   <div class="container">
     <div class="row">
       <div class="col-12">
