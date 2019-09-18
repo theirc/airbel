@@ -114,21 +114,39 @@
         border: 1px solid $white;
       }
     }
+    a {
+      color: $white;
+      border-bottom: 1px solid #ffffff;
+      margin-left: 40px;
+      position: relative;
+      &:hover {
+        text-decoration: none;
+      }
+      img {
+        width: 35px;
+        position: absolute;
+        left: -40px;
+        top: -7px;
+      }
+    }
   }
   #education-collapse,
   #behavioral-insights-collapse {
     background-color: $blue;
   }
   #resettlement-collapse,
-  #strategy-collapse {
+  #strategy-collapse,
+  #empowerment-collapse {
     background-color: $orange;
   }
   #employment-collapse,
-  #cost-efficiency-collapse {
+  #cost-efficiency-collapse,
+  #economic-wellbeing-collapse {
     background-color: $blue-dark;
   }
   #nutrition-collapse,
-  #project-management-collapse {
+  #project-management-collapse,
+  #health-collapse {
     background-color: $success;
   }
   #safety-collapse,
