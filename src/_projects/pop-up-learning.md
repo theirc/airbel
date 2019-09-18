@@ -30,10 +30,13 @@ milestones:
     link_title:
     description_markdown:
   - date: 2019-05-01 00:00:00
-    title: Small-scale testing takes place in Bangladesh
+    title: Prototyping takes in Bangladesh
     link:
     link_title:
-    description_markdown:
+    description_markdown: >-
+      Prototyping begins to test out hardware and software for use in Cox's
+      Bazaar, one of the world's largest refugee camps. Localization needs begin
+      to be identified and met by translating content into local languages.
   - date: 2018-10-01 00:00:00
     title: Pop-Up Learning Supporter Dinner
     link:
