@@ -169,7 +169,9 @@ featured_studies:
     <div class="row">
       <div class="col-12">
         <div class="content">
-          {% for study in site.studies %}
+          {% assign sorted = site.studies | sort: 'start_date' %}
+
+          {% for study in sorted reversed%}
             {% assign slug = study.focus %}
             {% assign focus = site.focuses | where: "slug", study.focus | first %}
               <a href="{{ study.url }}" class="row study-row no-gutters bg-light border-{{ slug }}">
@@ -179,7 +181,7 @@ featured_studies:
                       <em>{{ focus.title }}</em>
                     </p> -->
 
-                    <h4 class="mb-2">{{ study.title }}</h4>
+                    <h4 class="mb-2">{{ study.title }} {% if study.evergreen %}<span class="text-yellow">(Ongoing)</span>{% endif %}</h4>
                     <p class="mb-2">
                       <small>
                       {% if study.start_date %}
