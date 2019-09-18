@@ -24,6 +24,11 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2018-10-01 00:00:00
+    title: Bangladesh pilot launch
+    link:
+    link_title:
+    description_markdown:
   - date: 2019-05-01 00:00:00
     title: Small-scale testing takes place in Bangladesh
     link:
@@ -51,10 +56,18 @@ Within weeks of a crisis onset and at a low cost-per-child, Pop-Up Learning aims
 
 #### How it works:
 
-Pop-Up partners with community leaders to transform existing safe spaces, like homes and community centers, into temporary classrooms.&nbsp; We identify, recruit, and empower community members to oversee primary school-aged children, and we provide tablets for children to use Pop-Up Learning to develop key competencies.
+Personalized, adaptive technology serves to enable children with the tools needed to reach their development potential regardless of environmental circumstances. Autonomous learning can:
 
-#### First step:
+1. Low cost, flexible and mobile technology enables deployments in homes, centers, schools. Learning can happen anywhere, at anytime.
+2. Interactive, engaging and adaptive learning games enable children to learn at their level.
+3. Thoughtful human support guides children through their learning, without the need for academic expertise, which can be difficult to find in crisis contexts.
+
+#### First step
 
 Pop-Up aims to fill the critical educational gaps in a displaced child’s life, providing some sense of normalcy, continuity and critical foundational skills while formal education is being established. This product will make it possible to rapidly deploy learning programs in emergencies where no formal education is available and in a way that supports an eventual transition to formal schools.
 
-Pop-Up is beginning to test in Cox’s Bazar, Bangladesh, primarily with those displaced by the Rohingya crisis.
+We are currently piloting autonomous learning with the Rohingya community in Bangladesh, where over 380,000 Rohyinga children don’t have access to learning opportunities.
+
+#### Where we're going
+
+With the support of donors and the help of our partners, we will be testing, adapting, and implementing different delivery models in Bangladesh, with the Rohingya community; in Tanzania, with refugees from Burundi and DRC; and in Niger with refugees from Mali and Nigeria. We are on the cusp of scaling these solutions to serve 125,000 children affected by crisis, helping to lay the groundwork for its global adoption.
