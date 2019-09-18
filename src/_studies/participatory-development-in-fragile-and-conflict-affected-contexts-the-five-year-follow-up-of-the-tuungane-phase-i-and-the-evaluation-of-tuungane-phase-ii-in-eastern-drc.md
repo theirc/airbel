@@ -1,16 +1,14 @@
 ---
 layout: study
-published_date: 2015-09-14 00:00:00
-date_range: 2015 - 2017
+start_date: 2015-09-14 00:00:00
+end_date: 2017-09-14 00:00:00
 title: >-
   Participatory Development in Fragile and Conflict-Affected Contexts: The Five
   Year Follow up of the Tuungane Phase I and the Evaluation of Tuungane Phase II
   in Eastern DRC
-publication_type:
 featured: false
-focuses:
-  - empowerment
-expertise_area:  
+evergreen: false
+focus: empowerment
 description: >-
   Community-Driven Reconstruction (CDR) is a widely applied and growing form of
   intervention that takes a bottom-up approach to designing and implementing
@@ -18,25 +16,31 @@ description: >-
   deliberation, build social capital, foster more successful project
   implementation, and ultimately align projects to the needs and preferences of
   the communities that they are meant to serve.
-geolocation:
-  region:
-  latitude:
-  longitude:
+regions:
+  -
 image: /uploads/20190510--oacland-goma--26.jpg
-partners: >-
-  Development Impact Evaluation Initiative of the World Bank, NYU/Abu Dhabi,
-  Bristol University
-donor: DFID
-download_url:
-resources:
+partners: 
+  - name: Development Impact Evaluation Initiative of the World Bank
+    link:
+  - name: NYU/Abu Dhabi
+    link:
+  - name: Bristol University
+    link:
+donors: 
+  - name: DFID
+    link:
+publications:
   - title: Fact Sheet
     link: 'https://rescue.box.com/s/wchdcn4imzxzx9lkqei33jttxxcg2t97'
+    publication_type:
   - title: Final report Tuungane Phase 1 Long Term
     link: >-
       https://www.rescue.org/report/participatory-development-fragile-and-conflict-affected-contexts-impact-evaluation-tuungane-1
+    publication_type:  
   - title: Final report Tuungane Phase 2
     link: >-
       https://www.rescue.org/report/participatory-development-fragile-and-conflict-affected-contexts-impact-evaluation-tuungane-2
+    publication_type:  
 ---
 
 Community-Driven Reconstruction (CDR) is a widely applied and growing form of intervention that takes a bottom-up approach to designing and implementing development projects. It seeks to engage community members, encourage deliberation, build social capital, foster more successful project implementation, and ultimately align projects to the needs and preferences of the communities that they are meant to serve. There is a growing body of impact evaluations that find mixed results on these scores. Yet, there is a paucity of long-run assessments of the effectiveness of CDR programs, even while CDR programs ultimately seek to foster long-term sustainable development.
