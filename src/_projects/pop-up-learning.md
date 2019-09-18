@@ -52,9 +52,13 @@ milestones:
 
 33 million children are displaced from their homes because of humanitarian crises. Almost 40% of those children do not have access to formal education. Between funding gaps, political challenges, and poor-to-nonexistent access to educators, it can take months or years for a child to receive adequate education. During this period in a displaced child’s life, education is critical to reducing trauma and stress, creating stability, and generating positive norms around going to school.
 
-Within weeks of a crisis onset and at a low cost-per-child, Pop-Up Learning aims to deliver locally-relevant, tablet-based learning that fosters emotional support, literacy and numeracy for primary school-aged learners. Pop-Up adapts to the varying needs of displaced children around the world, including different educational levels and languages.
+**Even when in school, children are not learning.&nbsp;**Many leave school without the skills needed to calculate the correct change from a transaction, read a doctor’s instructions, or interpret a political campaign promise—let alone build a fulfilling career or educate future generations.&nbsp;
 
-#### How it works:
+With thoughtful facilitation and the best autonomous learning software, we can improve education access and quality in emergency settings. Within weeks of crisis onset and at a low cost-per-child, Pop-Up Learning aims to deliver locally-relevant, tablet-based learning that fosters emotional support, literacy and numeracy for primary school-aged learners. Pop-Up adapts to the varying needs of displaced children around the world, including different educational levels and languages.
+
+We are currently piloting autonomous learning with the Rohingya community in Bangladesh, where over 380,000 Rohyinga children don’t have access to learning opportunities.
+
+#### How it works
 
 Personalized, adaptive technology serves to enable children with the tools needed to reach their development potential regardless of environmental circumstances. Autonomous learning can:
 
@@ -62,12 +66,8 @@ Personalized, adaptive technology serves to enable children with the tools neede
 2. Interactive, engaging and adaptive learning games enable children to learn at their level.
 3. Thoughtful human support guides children through their learning, without the need for academic expertise, which can be difficult to find in crisis contexts.
 
-#### First step
-
 Pop-Up aims to fill the critical educational gaps in a displaced child’s life, providing some sense of normalcy, continuity and critical foundational skills while formal education is being established. This product will make it possible to rapidly deploy learning programs in emergencies where no formal education is available and in a way that supports an eventual transition to formal schools.
 
-We are currently piloting autonomous learning with the Rohingya community in Bangladesh, where over 380,000 Rohyinga children don’t have access to learning opportunities.
-
-#### Where we're going
+#### What's next
 
 With the support of donors and the help of our partners, we will be testing, adapting, and implementing different delivery models in Bangladesh, with the Rohingya community; in Tanzania, with refugees from Burundi and DRC; and in Niger with refugees from Mali and Nigeria. We are on the cusp of scaling these solutions to serve 125,000 children affected by crisis, helping to lay the groundwork for its global adoption.
