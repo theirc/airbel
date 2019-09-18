@@ -3,8 +3,10 @@
 }
 
 #publication-library {
-  .publication-row {
-    
+  .study-row {
+    p {
+      line-height: 1;
+    }
   }
   .filters {
     @include media-breakpoint-down(md) {
@@ -19,12 +21,12 @@
   margin-top: 8px;
   position: relative;
   color: $dark;
+  border-left: 10px solid $dark;
   &:hover {
     text-decoration: none;
+    color: $dark;
   }
-  @include media-breakpoint-up(lg){
-    border-left: 10px solid $dark;
-  }
+  
   @include media-breakpoint-down(md) {
     padding-bottom: 30px;
   }
