@@ -22,9 +22,9 @@ donors:
   - name:
     link:
 publications:
-  - title:
-    link:
-    publication_type:
+  - title: Project website
+    link: 'https://www.sesameworkshop.org/what-we-do/refugee-response'
+    publication_type: Website
 ---
 
 The IRC and Sesame Workshop have partnered to create Ahlan Simsim, an Early Childhood Development program that aims to restore hope and opportunity for a generation of children affected by the Syrian refugee crisis. Delivered through television, mobile phones, and direct services in homes and schools, Sesame Seeds is designed to give children the language, reading, math, and socio-emotional skills they need to succeed in school and later in life. As part of this project we will conduct different types of research, including:&nbsp;
