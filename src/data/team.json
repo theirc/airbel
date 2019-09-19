@@ -7,7 +7,7 @@ layout: none
     "name": "{{ member.name }}",
     "role_title": "{{ member.role_title }}",
     "focus": "{{ member.focuses.first }}",
-    "expertise_area": "{{ member.expertise_area}}",
+    "expertise_area": "{{ member.expertise_areas.first }}",
     "leadership": "{{ member.leadership }}",
     "image": "{{ member.image | absolute_url }}",
     "bio": "{% if member.content != null %}{{ member.content | strip | strip_html | xml_escape}}{% endif %}"
