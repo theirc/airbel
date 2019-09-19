@@ -1,10 +1,11 @@
 import React from "react"
 
 const StudiesListItem = ({ study }) => {
-  const { title, focus, startDate, endDate, regions, url, evergreen } = study
+  const { title, focus, slug, startDate, endDate, regions, url, evergreen } = study
+  console.log(focus)
   return (
     <>
-      <a href={url} className={`row study-row no-gutters bg-light border-${focus.toLowerCase()}`}>
+      <a href={url} className={`row study-row no-gutters bg-light border-${slug}`}>
         <div class="col-12">
           <div class="px-5 py-3">
             <p className="mb-0">

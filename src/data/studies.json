@@ -3,11 +3,12 @@ layout: none
 ---
 [
   {% for study in site.studies %}
-  {% assign slug = study.focus %}
-  {% assign focus = site.focuses | where: "slug", study.focus | first %}
+  {% assign slug = study.focuses.first %}
+  {% assign focus = site.focuses | where: "slug", slug | first %}
   {
     "title": "{{ study.title }}",
     "evergreen": {{ study.evergreen }},
+    "slug": "{{ slug }}",
     "focus": "{{ focus.title }}",
     "startDate": "{{ study.start_date | date: '%Y' }}",
     "endDate": "{{ study.end_date | date: '%Y' }}",

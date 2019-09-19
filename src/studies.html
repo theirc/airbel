@@ -23,7 +23,7 @@ featured_studies:
         <div class="content">
           {% for object in page.featured_studies %}
           {% assign study = site.studies | where: "slug", object | first %}
-          {% assign slug = study.focus %}
+          {% assign slug = study.focuses.first %}
           <div class="row study-row no-gutters bg-light border-{{ slug }}">
             {% if study.image %}
             <div class="col-md-5 col-lg-4">
@@ -85,8 +85,8 @@ featured_studies:
           {% assign sorted = site.studies | sort: 'start_date' %}
 
           {% for study in sorted reversed%}
-            {% assign slug = study.focus %}
-            {% assign focus = site.focuses | where: "slug", study.focus | first %}
+            {% assign slug = study.focuses.first %}
+            {% assign focus = site.focuses | where: "slug", slug | first %}
               <a href="{{ study.url }}" class="row study-row no-gutters bg-light border-{{ slug }}">
                 <div class="col-12">
                   <div class="px-3 px-lg-5 py-3">
@@ -111,7 +111,6 @@ featured_studies:
                       {% endif %}
                       </small>
                     </p>
-                    <p class="mb-0"><small>{{ study.description | truncate: 185 }}</small></p>
                   </div>
                 </div>
               </a>
