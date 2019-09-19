@@ -9,9 +9,11 @@ title: >-
 featured: false
 evergreen: false
 focuses:
+  - education
 description:
 regions:
-  -
+  - Niger
+  - Lebanon
 image:
 partners:
   - name: Global TIES for Children
