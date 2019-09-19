@@ -24,7 +24,7 @@ publications:
     publication_type: Report
 ---
 
-The IRC conducted research in Pakistan in order to develop a better 5 Economic Wellbeing understanding of the challenges with short-term mobile money bulk payments and to understand the constraints, limitations and incentives faced by service providers and the agents on the ground. Specifically, the research had two primary objectives:
+The IRC conducted research in Pakistan in order to develop a better understanding of the challenges with short-term mobile money bulk payments and to understand the constraints, limitations and incentives faced by service providers and the agents on the ground. Specifically, the research had two primary objectives:
 
 1. Identify and document barriers and challenges faced by service providers and agents when handling large scale cash-outs in Pakistan
 2. Generate ideas and solutions to tackle these barriers and constraints
