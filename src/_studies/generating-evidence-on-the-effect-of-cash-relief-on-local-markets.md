@@ -29,5 +29,5 @@ Although there is substantial research on the impact of cash assistance on benef
 The goal of this study is to generate evidence that will help promote the uptake and design of emergency response and early recovery programming that supports the improved functioning of market systems that are crucial to crisis-affected populations. This research will do so by undertaking the following activities:&nbsp;
 
 1. Establish indicators to measure vendor health in market places&nbsp;
-2. Assess the effect of cash and voucher assistance on vendors&nbsp;
+2. Qualitatively assess the effect of cash and voucher assistance on vendors&nbsp;
 3. Develop guidance on designing market support interventions&nbsp;
