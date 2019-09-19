@@ -9,7 +9,7 @@ focuses:
   - economic-wellbeing
 description:
 regions:
-  -
+  - Chad
 image:
 partners:
   - name:
