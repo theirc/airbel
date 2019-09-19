@@ -7,7 +7,7 @@ tagline: >-
 status: active
 stage: Generate Solutions
 focuses:
-  - resettlement
+  - other
 geolocation:
   region:
   latitude:
