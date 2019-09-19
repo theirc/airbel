@@ -50,6 +50,16 @@
   @include transition(0.5s);
   &.show-details {
     @include media-breakpoint-up(md){
+      .team-item {
+        .bg-image {
+          opacity: 0.5;
+        }
+        &.active {
+          .bg-image {
+            opacity: 1;
+          }
+        }
+      }
       margin-bottom: 50vh;
       width: 65%;
     }
