@@ -1,0 +1,18 @@
+---
+layout: none
+---
+[
+  {% for study in site.studies %}
+  {% assign slug = study.focus %}
+  {% assign focus = site.focuses | where: "slug", study.focus | first %}
+  {
+    "title": "{{ study.title }}",
+    "evergreen": {{ study.evergreen }},
+    "focus": "{{ focus.title }}",
+    "startDate": "{{ study.start_date | date: '%Y' }}",
+    "endDate": "{{ study.end_date | date: '%Y' }}",
+    "regions": [{% if study.regions.first != null %}{% for region in study.regions %}"{{region}}"{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}],
+    "url": "{{ study.url }}"
+  }{% unless forloop.last %}, {% endunless %}
+  {% endfor %}
+]

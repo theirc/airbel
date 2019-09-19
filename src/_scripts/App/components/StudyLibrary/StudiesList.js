@@ -5,6 +5,7 @@ const StudiesList = ({ studies }) => {
   return (
     <>
       <div className="row">
+        {/* {errors && <div className="alert alert-danger">There was an error fetching studies data.</div>} */}
         {studies && studies.map(study => (
           <>
             <StudiesListItem study={study} />

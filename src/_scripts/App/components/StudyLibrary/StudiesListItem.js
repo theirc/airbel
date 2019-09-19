@@ -1,20 +1,28 @@
 import React from "react"
 
 const StudiesListItem = ({ study }) => {
-  const { title, focus, startDate, endDate, regions, url } = study
-  const dateRange = `${startDate} - ${endDate}`
+  const { title, focus, startDate, endDate, regions, url, evergreen } = study
   return (
     <>
-      <div className="row bg-light border-green">
-        <div className="col-12">
-          <div className="p-3 py-lg-2 px-lg-5">
-            <p className="mb-0"><em>{focus}</em></p>
-            <h3>{title}</h3>
-            <p><em>{dateRange} | {regions}</em></p>
+      <a href={url} className={`row study-row no-gutters bg-light border-${focus.toLowerCase()}`}>
+        <div class="col-12">
+          <div class="px-5 py-3">
+            <p className="mb-0">
+              <em>{focus}</em>
+            </p>
+
+            <h4 className="mb-2">{title} {evergreen && <span className="text-yellow">(Ongoing)</span>}</h4>
+            <p className="mb-2">
+              <small>
+                {startDate && endDate && <em>{startDate} - {endDate}</em>}
+                {regions && regions.map(region => {
+                  <em>{region}</em>
+                })}
+              </small>
+            </p>
           </div>
         </div>
-        <a href={url} target="_blank" className="btn btn-dark">Find out more</a>
-      </div>
+      </a>
     </>
   )
 }
