@@ -7,7 +7,7 @@ tagline: >-
 status: graduated
 stage: Prototype
 focuses:
-  - nutrition
+  - health
 geolocation:
   region: Niger
   latitude: '14.64895'
