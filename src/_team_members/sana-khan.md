@@ -4,7 +4,8 @@ name: Sana Khan
 role_title: Research and Development Advisor
 focuses:
   - economic-wellbeing
-expertise_area: research
+expertise_areas:
+  - research
 leadership: false
 image:
 ---

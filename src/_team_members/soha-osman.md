@@ -4,7 +4,8 @@ name: Soha Osman
 role_title:
 focuses:
   - economic-wellbeing
-expertise_area: research
+expertise_areas:
+  - research
 leadership: false
 image:
 ---

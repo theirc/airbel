@@ -4,7 +4,8 @@ name: Grace McLain
 role_title: Health Research and Evaluation
 focuses:
   - health
-expertise_area: research
+expertise_areas:
+  - research
 leadership: false
 image:
 ---

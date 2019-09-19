@@ -4,7 +4,8 @@ name: Anthony Pusatory
 role_title: Employment Hub Coordinator
 focuses:
   - economic-wellbeing
-expertise_area: project-management
+expertise_areas: 
+  - project-management
 leadership: false
 image:
 ---

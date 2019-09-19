@@ -4,7 +4,8 @@ name: Alexandra Blackwell
 role_title: 'Research Coordinator, Cash and Protection'
 focuses:
   - economic-wellbeing
-expertise_area: research
+expertise_areas: 
+  - research
 leadership: false
 image: /uploads/Blackwell-head-shot.jpg
 ---

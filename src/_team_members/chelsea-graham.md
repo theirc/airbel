@@ -3,7 +3,7 @@ layout: team_member
 name: Chelsea Graham
 role_title: 'Senior Officer, Governance and Knowledge Management'
 focuses:
-expertise_area:
+expertise_areas:
 leadership: false
 image:
 ---

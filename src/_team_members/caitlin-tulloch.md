@@ -3,7 +3,8 @@ layout: team_member
 name: Caitlin Tulloch
 role_title: 'Senior Advisor, Best Use of Resources'
 focuses:
-expertise_area: cost-efficiency
+expertise_areas: 
+  - cost-efficiency
 leadership: false
 image:
 ---

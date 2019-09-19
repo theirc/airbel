@@ -3,7 +3,7 @@ layout: team_member
 name: Alex Bandea
 role_title: Communications Manager
 focuses:
-expertise_area:
+expertise_areas:
 leadership: false
 image: /uploads/Alex_bw_sq_1.jpg
 ---

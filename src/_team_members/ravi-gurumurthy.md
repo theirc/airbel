@@ -3,7 +3,7 @@ layout: team_member
 name: Ravi Gurumurthy
 role_title: Chief Innovation Officer
 focuses:
-expertise_area:
+expertise_areas:
 leadership: true
 image:
 ---

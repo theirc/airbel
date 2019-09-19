@@ -3,7 +3,8 @@ layout: team_member
 name: Logan Cummings
 role_title: Strategy Advisor
 focuses:
-expertise_area: strategy
+expertise_areas:
+  - strategy
 leadership: false
 image:
 ---
