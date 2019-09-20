@@ -3,10 +3,21 @@ import { TEAM_DATA } from './data';
 import { TEAM_FILTERED } from './data';
 import TeamGrid from "./TeamGrid"
 import TeamFilters from "./TeamFilters"
+import axios from 'axios'
 
 const Team = () => {
-  const [team, setTeam] = useState(TEAM_DATA)
-  const [filteredTeam, setFilteredTeam] = useState(TEAM_DATA)
+  const [team, setTeam] = useState([])
+  const [filteredTeam, setFilteredTeam] = useState([])
+
+  useEffect(async () => {
+    const result = await axios('/data/team.json')
+    setTeam(result.data)
+    const teamWithHeadshots = result.data.filter(teamMember => {
+      // console.log(teamMember.image)
+      return teamMember.image !== '' ? true : false
+    })
+    setFilteredTeam(teamWithHeadshots)
+  }, [])
 
   const filterString = 'design'
 
@@ -21,7 +32,7 @@ const Team = () => {
 
   return (
     <>
-      <section>
+      <section id="team">
         <div className="container">
           <div className="row">
             <div className="col-12">
@@ -30,17 +41,21 @@ const Team = () => {
               </div>
             </div>
           </div>
-          <div className="row">
+          {/* <div className="row">
             <div className="col-12">
               <div className="content">
                 <TeamFilters filterData={filterData} />
               </div>
             </div>
-          </div>
+          </div> */}
           <div className="row">
             <div className="col-12">
               <div className="content">
-                <TeamGrid filteredTeam={filteredTeam} />
+                {filteredTeam && filteredTeam.length &&
+                  (
+                    <TeamGrid filteredTeam={filteredTeam} />
+                  )
+                }
               </div>
             </div>
           </div>

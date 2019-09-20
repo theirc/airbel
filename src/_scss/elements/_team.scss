@@ -11,11 +11,23 @@
   z-index: 1000;
   font-size: 14px;
   line-height: 1.4;
+  &.active {
+    right: 0;
+    opacity: 1;
+  }
   @include media-breakpoint-up(md) {
-    position: absolute;
-    width: 35%;
-    right: -35%;
+    position: relative;
+    width: 40%;
+    margin-right: -100%;
     height: auto;
+    right: auto;
+    opacity: 0;
+    @include transition(opacity, 0.6s);
+    // @include transition(transform, 1s);
+    &.active {
+      right: auto;
+      transform: translateX(0);
+    }
   }
   @include media-breakpoint-up(lg) {
     font-size: 15px;
@@ -23,10 +35,7 @@
   @include media-breakpoint-up(xl) {
     font-size: 17px;
   }
-  &.active {
-    right: 0;
-    opacity: 1;
-  }
+  
   .close-details {
     position: absolute;
     right: 20px;
@@ -34,9 +43,6 @@
     color: $dark;
     line-height: 1;
     padding: 1px 5px;
-    @include media-breakpoint-up(md) {
-      left: -20px;
-    }
     &:hover {
       background-color: $black;
       color: $white;
@@ -48,8 +54,18 @@
   width: 100%;
   margin-bottom: 75px;
   @include transition(0.5s);
-  &.show-details {
-    @include media-breakpoint-up(md){
+  @include media-breakpoint-up(md){
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    .team-list {
+      width: 100%;
+    }
+    &.show-details {
+      width: 100%;
+      .team-list {
+        width: 60%;
+      }
       .team-item {
         .bg-image {
           opacity: 0.5;
@@ -60,8 +76,6 @@
           }
         }
       }
-      margin-bottom: 50vh;
-      width: 65%;
     }
   }
 }
@@ -73,6 +87,7 @@
   width: 100%;
   display: flex;
   flex-wrap: wrap;
+  @include transition(width, 0.5s);
   @include media-breakpoint-up(md) {
     display: block;
     height: 500px;
@@ -199,5 +214,19 @@
         }
       }  
     }
+  }
+}
+
+.refresh-team {
+  background-color: transparent;
+  width: 55px;
+  border: 0;
+  margin-bottom: 20px;
+  @include transition(transform, 0.5s);
+  &:hover {
+    transform: rotate(-10deg);
+  }
+  &:focus {
+    outline: none;
   }
 }
