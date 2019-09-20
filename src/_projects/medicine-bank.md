@@ -5,7 +5,7 @@ tagline: Reducing the cost of medicine for people with chronic illness
 status: active
 stage: Prototype
 focuses:
-  - other
+  - health
 geolocation:
   region: Jordan
   latitude: '31.963158'

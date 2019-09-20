@@ -7,7 +7,7 @@ tagline: >-
 status: graduated
 stage: Pilot
 focuses:
-  - nutrition
+  - health
 geolocation:
   region: South Sudan
   latitude: '7.8626845'

@@ -7,7 +7,7 @@ tagline: >-
 status: active
 stage: Generate Solutions
 focuses:
-  - resettlement
+  - empowerment
 geolocation:
   region: United States
   latitude: '33.749249'

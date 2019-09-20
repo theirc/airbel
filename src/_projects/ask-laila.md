@@ -5,7 +5,7 @@ tagline: Real-time answers to commonly-asked questions from resettled refugees
 status: discontinued
 stage: Prototype
 focuses:
-  - resettlement
+  - empowerment
 geolocation:
   region:
   latitude:

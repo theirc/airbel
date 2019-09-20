@@ -7,7 +7,7 @@ tagline: >-
 status: active
 stage: Design Research
 focuses:
-  - nutrition
+  - health
 geolocation:
   region:
   latitude:
