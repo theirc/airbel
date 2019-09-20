@@ -6,7 +6,7 @@ title: >-
   Investigating and Improving a Community Health Worker-Based Model for
   Non-Communicable Diseases: Care Among Syrian Refugees in Jordan
 featured: false
-evergreen: false
+evergreen: true
 focuses:
   - health
 description:
