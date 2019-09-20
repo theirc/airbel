@@ -3,10 +3,11 @@ layout: none
 ---
 [
   {% for member in site.team_members %}{
+    {% assign focus = site.focuses | where: "slug", member.focuses.first | first %}
     "id": {{ forloop.index}},
     "name": "{{ member.name }}",
     "role_title": "{{ member.role_title }}",
-    "focus": "{{ member.focuses.first }}",
+    "focus": "{{ focus.title }}",
     "expertise_areas": [
       {% for object in member.expertise_areas %}
         {% assign area = site.expertise_areas | where: "slug", object | first %}
@@ -18,7 +19,7 @@ layout: none
       {% endfor %}
     ],
     "leadership": "{{ member.leadership }}",
-    "image": "{{ member.image | default: '/uploads/team-noheadshot.png' }}",
+    "image": "{{ member.image }}",
     "bio": "{% if member.content != null %}{{ member.content | strip | strip_html | xml_escape}}{% endif %}"
   }{% unless forloop.last %},
   {% endunless %}

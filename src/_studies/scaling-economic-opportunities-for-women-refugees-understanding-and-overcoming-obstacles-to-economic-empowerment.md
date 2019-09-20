@@ -19,7 +19,7 @@ regions:
   - Niger
   - Kenya
   - Germany
-image: /uploads/20170425--adunienville-hammamalalil-031-2.jpg
+image: /uploads/20170824-aoberstadt-dallas46.jpg
 partners:
   - name:
     link:

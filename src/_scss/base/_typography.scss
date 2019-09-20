@@ -28,7 +28,13 @@ h6,
 a,
 .stage-heading,
 p {
-  @include transition(.8s);
+  @include transition(.7s);
+}
+
+a {
+  &:hover {
+    color: $dark;
+  }
 }
 
 .wf-loading {

@@ -2,18 +2,19 @@ import React, { useState, useEffect } from "react"
 import TeamMember from "./TeamMember"
 
 const TeamGrid = ({filteredTeam}) => {
+
   function getRandomTeam() {
     const randomTeam = filteredTeam.sort(function (a, b) { return 0.5 - Math.random() })
     const shortList = randomTeam.slice(0, 8)
     return shortList;
   }
-  const [randomTeam, setRandomTeam] = React.useState(getRandomTeam())
+  const [randomTeam, setRandomTeam] = useState(getRandomTeam())
   const [showMemberDetails, setShowMemberDetails] = useState(false)
   const [selectedTeamMember, setSelectedTeamMember] = useState({})
 
   return (
     <>
-      <button onClick={() => setRandomTeam(getRandomTeam())}>Get Random</button>
+      <button onClick={() => setRandomTeam(getRandomTeam())} className="refresh-team" title="more team"><img src="/img/icons/refresh.png" className="img-fluid" alt="refresh icon"/></button>
       <div className={showMemberDetails ? 'team-wrapper show-details' : 'team-wrapper'}>
         <ul className="team-list">
           {randomTeam && randomTeam.map((teamMember, index) => {
@@ -38,28 +39,41 @@ const TeamGrid = ({filteredTeam}) => {
             setSelectedTeamMember({})
           }}>x</button>
           {showMemberDetails && selectedTeamMember && (
-            <>
-            <h3>{selectedTeamMember.name}</h3>
-            {selectedTeamMember.role_title ? (
-              <p><em>{selectedTeamMember.role_title}</em></p>
-            ) : ("")}
-            <hr />
-            {selectedTeamMember.focus ? (
-              <p><strong>Focus:</strong><br />
-                {selectedTeamMember.focus}
-              </p>
-            ) : ("")}
-            <p><strong>Practice:</strong><br />
-              {selectedTeamMember.expertise_areas.map((expertise, index) => {
-                return (
-                  <span key={index}>{expertise.title}</span>
+            <div className="team-member-info">
+              <div className="d-flex align-items-center">
+                <div className="details-image d-block d-md-none w-25 mb-3">
+                  <img src={selectedTeamMember.image} className="img-fluid " alt="{selectedTeamMember.name}" />
+                </div>  
+                <div className="p-3 p-md-0">
+                  <h3>{selectedTeamMember.name}</h3>
+                  {selectedTeamMember.role_title ? (
+                    <p className="mb-0 mb-md-3"><em>{selectedTeamMember.role_title}</em></p>
+                  ) : ("")}
+                </div>
+              </div>
+              <hr />
+               
+              {selectedTeamMember && selectedTeamMember.focus && (
+                <p><strong>Focus:</strong><br />
+                  {selectedTeamMember.focus}
+                </p>
+              )}
+
+              {selectedTeamMember.expertise_areas.length !== 0 && 
+                (
+                  <p><strong>Practice:</strong><br />
+                    {selectedTeamMember.expertise_areas.map((expertise, index) => {
+                      return (
+                        <span key={index}>{expertise.title}</span>
+                      )
+                    })}
+                  </p>
                 )
-              })}
-            </p>
-            <hr />
-            <p>{selectedTeamMember.bio}</p>
-            <p>Leadership: {selectedTeamMember.leadership}</p>
-            </>
+              }
+              {selectedTeamMember && (selectedTeamMember.focus || selectedTeamMember.expertise_areas.length !== 0) && <hr />}
+              <p>{selectedTeamMember.bio}</p>
+              {/* <p>Leadership: {selectedTeamMember.leadership}</p> */}
+            </div>
           )}
           
         </div>
