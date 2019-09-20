@@ -37,7 +37,7 @@ const Team = () => {
           <div className="row">
             <div className="col-12">
               <div className="content">
-                <h2>Our Team of experts</h2>
+                <h2>Our team of experts</h2>
               </div>
             </div>
           </div>

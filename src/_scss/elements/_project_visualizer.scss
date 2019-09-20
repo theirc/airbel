@@ -1,4 +1,12 @@
 #project-visualizer {
+  .no-projects-results {
+    display: none;
+  }
+  .mixitup-container-failed {
+    .no-projects-results {
+      display: block;
+    }
+  }
   .view-nav {
     border: 0;
     .nav-link {
