@@ -40,18 +40,6 @@ articles:
   - title: The Smart Way ' Sesame Street' is Tackling the Refugee Crisis
     url: 'https://www.glamour.com/story/sesame-street-refugee-crisis'
 milestones:
-  - date: 2019-06-01 00:00:00
-    title: App prototyped
-    link: >-
-      https://docs.google.com/presentation/d/165RLsBuOV0NVDwK0WQ4NB_bKYF5oXF6paGWIu2eo1SA/edit?usp=sharing
-    link_title:
-    description_markdown: >-
-      Prototyping and creation of materials for facilitators, particularly an
-      app, which can increase facilitators’ skills by providing them with key
-      background information without requiring training. The app can help
-      facilitators manage behavior through positive discipline, learn more about
-      activities they can undertake with students, and access multimedia content
-      to share with children.&nbsp;
   - date: 2018-01-01 00:00:00
     title: Joint project team established
     link:
