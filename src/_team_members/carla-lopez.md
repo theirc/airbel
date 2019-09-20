@@ -7,6 +7,6 @@ focuses:
 expertise_areas: 
   - design
 leadership: false
-image:
+image: /uploads/team/carla.jpg
 ---
 

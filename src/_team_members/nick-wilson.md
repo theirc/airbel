@@ -5,6 +5,6 @@ role_title: 'Deputy Director, People & Operations'
 focuses:
 expertise_areas:
 leadership: false
-image:
+image: /uploads/team/nick.jpg
 ---
 

@@ -2,7 +2,7 @@ import React from "react"
 
 const StudiesListItem = ({ study }) => {
   const { title, focus, slug, startDate, endDate, regions, url, evergreen } = study
-  console.log(focus)
+  
   return (
     <>
       <a href={url} className={`row study-row no-gutters bg-light border-${slug}`}>

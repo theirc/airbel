@@ -5,6 +5,6 @@ role_title: Senior Program and Finance Manager
 focuses:
 expertise_areas:
 leadership: false
-image:
+image: /uploads/team/rob.jpg
 ---
 

@@ -6,6 +6,6 @@ focuses:
 expertise_areas: 
   - strategy
 leadership: false
-image:
+image: /uploads/team/elena.jpg
 ---
 

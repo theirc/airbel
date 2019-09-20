@@ -5,6 +5,6 @@ role_title: Communications Manager
 focuses:
 expertise_areas:
 leadership: false
-image: /uploads/Alex_bw_sq_1.jpg
+image: /uploads/team/alex.jpg
 ---
 

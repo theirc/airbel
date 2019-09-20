@@ -5,6 +5,6 @@ role_title: Partnership Lead
 focuses:
 expertise_areas:
 leadership: false
-image:
+image: /uploads/team/daniel.jpg
 ---
 

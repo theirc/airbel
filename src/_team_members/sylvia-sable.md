@@ -7,6 +7,6 @@ focuses:
 expertise_areas: 
   - project-management
 leadership: false
-image:
+image: /uploads/team/sylvia.jpg
 ---
 
