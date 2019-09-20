@@ -4,7 +4,7 @@ start_date: 2019-01-01 00:00:00
 end_date: 2021-01-01 00:00:00
 title: Financial Integration in Displacement
 featured: false
-evergreen: false
+evergreen: true
 focuses:
   - economic-wellbeing
 description: >-
