@@ -1,0 +1,49 @@
+<div class="row">
+  <div class="col-12">
+    <div class="content">
+      <h2 class="editable">Studies Library</h2>
+    </div>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-12">
+    <div class="content">
+      {% assign sorted = site.studies | sort: 'start_date' %}
+
+      {% for study in sorted reversed%}
+      {% assign slug = study.focuses.first %}
+      {% assign focus = site.focuses | where: "slug", slug | first %}
+      <a href="{{ study.url }}" class="row study-row no-gutters bg-light border-{{ slug }}">
+        <div class="col-12">
+          <div class="px-3 px-lg-5 py-3">
+            <!-- <p class="mb-0">
+                      <em>{{ focus.title }}</em>
+                    </p> -->
+
+            <h4 class="mb-2">{{ study.title }} {% if study.evergreen %}<span
+                class="text-yellow">(Ongoing)</span>{% endif %}</h4>
+            <p class="mb-2">
+              <small>
+                {% if study.start_date %}
+                <em>{{ study.start_date | date: "%Y" }}</em>
+                {% endif %}
+                {% if study.end_date %}
+                <em>- {{ study.end_date | date: "%Y" }}</em>
+                {% endif %}
+                {% if study.regions.first != null %}
+                |
+                {% for region in study.regions %}
+                <em>{{ region }}{% unless forloop.last %},{% endunless %}</em>
+                {% endfor %}
+                {% endif %}
+              </small>
+            </p>
+          </div>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
