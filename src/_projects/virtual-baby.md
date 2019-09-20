@@ -5,7 +5,7 @@ tagline: Tamagotchi-style game normalizes healthy behaviors for children
 status: discontinued
 stage: Generate Solutions
 focuses:
-  - nutrition
+  - health
 geolocation:
   region:
   latitude:

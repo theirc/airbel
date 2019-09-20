@@ -5,7 +5,7 @@ tagline: 'Combining data, networks and policy to get refugees into work'
 status: active
 stage: Rigorous Evaluation
 focuses:
-  - employment
+  - economic-wellbeing
 geolocation:
   region: Jordan
   latitude: '31.94537'

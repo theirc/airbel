@@ -8,19 +8,19 @@ title: >-
   Out-of-School Children in Northern Nigeria
 featured: false
 evergreen: false
-focuses: 
+focuses:
   - education
 description: >-
   DFID EiE NFLC project was funded by the UK Department for International
   Development (DFID) to support out-of-school (OOS) children in the states of
   Yobe and Borno in Nigeria with their education and psychosocial well-being.
-regions: 
+regions:
   -
-image: /uploads/20170425--adunienville-hammamalalil-031-1.jpg
-partners: 
+image: /uploads/pbiro-mangaize-316.jpg
+partners:
   - name: Creative
     link:
-donors: 
+donors:
   - name: DFID
     link:
 publications:

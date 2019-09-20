@@ -7,9 +7,18 @@ layout: none
     "name": "{{ member.name }}",
     "role_title": "{{ member.role_title }}",
     "focus": "{{ member.focuses.first }}",
-    "expertise_area": "{{ member.expertise_area}}",
+    "expertise_areas": [
+      {% for object in member.expertise_areas %}
+        {% assign area = site.expertise_areas | where: "slug", object | first %}
+         {
+           "title": "{{ area.title }}",
+           "slug": "{{ area.slug }}"
+          }
+        {% unless forloop.last%},{% endunless %}
+      {% endfor %}
+    ],
     "leadership": "{{ member.leadership }}",
-    "image": "{{ member.image | absolute_url }}",
+    "image": "{{ member.image | default: '/uploads/team-noheadshot.png' }}",
     "bio": "{% if member.content != null %}{{ member.content | strip | strip_html | xml_escape}}{% endif %}"
   }{% unless forloop.last %},
   {% endunless %}

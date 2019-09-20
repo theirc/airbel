@@ -5,7 +5,7 @@ tagline: Seeking new solutions for host communities and displaced people
 status: active
 stage: Design Research
 focuses:
-  - other
+  - empowerment
 geolocation:
   region: Jordan
   latitude: '31.963158'

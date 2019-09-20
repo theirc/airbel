@@ -5,7 +5,7 @@ tagline: Exploring new financial instruments to speed up response and save lives
 status: active
 stage: Generate Solutions
 focuses:
-  - financing
+  - other
 geolocation:
   region:
   latitude:

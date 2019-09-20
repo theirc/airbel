@@ -5,7 +5,7 @@ tagline: Helping displaced people on the long road home
 status: active
 stage: Design Research
 focuses:
-  - other
+  - empowerment
 geolocation:
   region: Jordan
   latitude: '31.963158'

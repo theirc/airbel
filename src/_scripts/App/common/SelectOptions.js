@@ -203,3 +203,30 @@ export const currencyOptions = [
   { value: "UK", label: "Pound(£)", symbol: "£" },
   { value: "EU", label: "Euro(€)", symbol: "€" },
 ];
+
+export const teamCategoyOptions = [
+  { value: "all", label: "Full Team" },
+  { value: "leadership", label: "Leadership" }
+];
+
+export const expertiseAreaOptions = [
+  { value: "behavioral-insights", label: "Behavioral Insights" },
+  { value: "cost-efficiency", label: "Cost-Efficiency" },
+  { value: "design", label: "Design" },
+  { value: "project-management", label: "Project Management" },
+  { value: "research", label: "Research" },
+  { value: "strategy", label: "Strategy" },
+  { value: "using-evidence", label: "Using Evidence" }
+];
+
+export const groupedTeamOptions = [
+  {
+    label: "Team Category",
+    options: teamCategoyOptions
+  },
+  {
+    label: "Areas of expertise",
+    options: expertiseAreaOptions
+  }
+];
+

@@ -10,7 +10,6 @@ const StudyLibrary = () => {
 
   useEffect(async () => {
     const result = await axios('/data/studies.json')
-    console.log(result.data)
     setStudies(result.data)
   }, [])
 

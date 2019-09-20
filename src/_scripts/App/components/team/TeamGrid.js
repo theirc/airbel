@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react"
 import TeamMember from "./TeamMember"
 
-const TeamGrid = ({team}) => {
+const TeamGrid = ({filteredTeam}) => {
   function getRandomTeam() {
-    const randomTeam = team.sort(function (a, b) { return 0.5 - Math.random() })
+    const randomTeam = filteredTeam.sort(function (a, b) { return 0.5 - Math.random() })
     const shortList = randomTeam.slice(0, 8)
     return shortList;
   }
@@ -40,38 +40,29 @@ const TeamGrid = ({team}) => {
           {showMemberDetails && selectedTeamMember && (
             <>
             <h3>{selectedTeamMember.name}</h3>
-            <p><em>{selectedTeamMember.role_title}</em></p>
+            {selectedTeamMember.role_title ? (
+              <p><em>{selectedTeamMember.role_title}</em></p>
+            ) : ("")}
             <hr />
-            <p><strong>Focus:</strong><br />
-              {selectedTeamMember.focuses}
-            </p>
+            {selectedTeamMember.focus ? (
+              <p><strong>Focus:</strong><br />
+                {selectedTeamMember.focus}
+              </p>
+            ) : ("")}
             <p><strong>Practice:</strong><br />
-              {selectedTeamMember.practice}
+              {selectedTeamMember.expertise_areas.map((expertise, index) => {
+                return (
+                  <span key={index}>{expertise.title}</span>
+                )
+              })}
             </p>
             <hr />
             <p>{selectedTeamMember.bio}</p>
-            {selectedTeamMember.leadership}
+            <p>Leadership: {selectedTeamMember.leadership}</p>
             </>
           )}
           
         </div>
-  
-        {/* {showMemberDetails && selectedTeamMember && (
-          <div className="team-member-details">
-            <h3>{selectedTeamMember.name}</h3>
-            <p><em>{selectedTeamMember.role_title}</em></p>
-            <hr />
-            <p><strong>Focus:</strong><br />
-              {selectedTeamMember.focuses}
-            </p>
-            <p><strong>Practice:</strong><br />
-              {selectedTeamMember.practice}
-            </p>
-            <hr />
-            <p>{selectedTeamMember.bio}</p>
-            {selectedTeamMember.leadership}
-          </div>
-        )} */}
       </div>
     </>
   )
