@@ -13,111 +13,58 @@ featured_studies:
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <div class="content">
-          <h1 class="editable">Featured Studies</h1>
-        </div>
+        <h1 class="editable">Featured Studies</h1>
       </div>
     </div>
     <div class="row">
       <div class="col-12">
-        <div class="content">
-          {% for object in page.featured_studies %}
-          {% assign study = site.studies | where: "slug", object | first %}
-          {% assign slug = study.focuses.first %}
-          <div class="row study-row no-gutters bg-light border-{{ slug }}">
-            {% if study.image %}
-            <div class="col-md-5 col-lg-4">
-              <div class="bg-image aspect-1x1 ml-md-3 mt-md-3 ml-lg-0 mt-lg-0" style="background-image: url('{{ study.image }}')">
-              </div>
+        {% for object in page.featured_studies %}
+        {% assign study = site.studies | where: "slug", object | first %}
+        {% assign slug = study.focuses.first %}
+        <div class="row study-row no-gutters bg-light border-{{ slug }}">
+          {% if study.image %}
+          <div class="col-md-5 col-lg-4">
+            <div class="bg-image aspect-1x1 ml-md-3 mt-md-3 ml-lg-0 mt-lg-0" style="background-image: url('{{ study.image }}')">
             </div>
-            <div class="col-md-12 col-lg-8">
-              <div class="p-3 py-lg-2 px-lg-5">
-                <h3>
-                  {% if study.focuses.first != null %}
-                  {% assign focus = site.focuses | where: "slug", study.focuses.first | first %}
-                  <span class="d-block mb-2">
-                    <em><small>{{ focus.title }}</small></em>
-                  </span>
-                  {% endif %}
-                  {{ study.title }}
-                </h3>
-                <p>{{ study.description | truncate: 185 }}</p>
-              </div>
-            </div>
-            {% else %}
-            <div class="col-12">
-              <div class="p-5">
-                <h3>
-                  {% if study.focuses.first != null %}
-                  {% assign focus = site.focuses | where: "slug", study.focuses.first | first %}
-                  <span class="d-block mb-2">
-                    <em><small>{{ focus.title }}</small></em>
-                  </span>
-                  {% endif %}
-                  {{ study.title }}
-                </h3>
-                <p>{{ study.description | truncate: 185 }}</p>
-              </div>
-            </div>
-            {% endif %}
-            <a href="{{ study.url }}" class="btn btn-dark">Find out more</a>
           </div>
-          {% endfor %}
+          <div class="col-md-12 col-lg-8">
+            <div class="p-3 py-lg-2 px-lg-5">
+              <h3>
+                {% if study.focuses.first != null %}
+                {% assign focus = site.focuses | where: "slug", study.focuses.first | first %}
+                <span class="d-block mb-2">
+                  <em><small>{{ focus.title }}</small></em>
+                </span>
+                {% endif %}
+                {{ study.title }}
+              </h3>
+              <p>{{ study.description | truncate: 185 }}</p>
+            </div>
+          </div>
+          {% else %}
+          <div class="col-12">
+            <div class="p-5">
+              <h3>
+                {% if study.focuses.first != null %}
+                {% assign focus = site.focuses | where: "slug", study.focuses.first | first %}
+                <span class="d-block mb-2">
+                  <em><small>{{ focus.title }}</small></em>
+                </span>
+                {% endif %}
+                {{ study.title }}
+              </h3>
+              <p>{{ study.description | truncate: 185 }}</p>
+            </div>
+          </div>
+          {% endif %}
+          <a href="{{ study.url }}" class="btn btn-dark">Find out more</a>
         </div>
+        {% endfor %}
       </div>
     </div>
   </div>
 </section>
-<section id="publication-library">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <div class="content">
-          <h2 class="editable">Studies Library</h2>
-        </div>
-      </div>
-    </div>
 
+{% include components/StudyLibrary.html %}
 
-    <div class="row">
-      <div class="col-12">
-        <div class="content">
-          {% assign sorted = site.studies | sort: 'start_date' %}
-
-          {% for study in sorted reversed%}
-            {% assign slug = study.focuses.first %}
-            {% assign focus = site.focuses | where: "slug", slug | first %}
-              <a href="{{ study.url }}" class="row study-row no-gutters bg-light border-{{ slug }}">
-                <div class="col-12">
-                  <div class="px-3 px-lg-5 py-3">
-                    <!-- <p class="mb-0">
-                      <em>{{ focus.title }}</em>
-                    </p> -->
-
-                    <h4 class="mb-2">{{ study.title }} {% if study.evergreen %}<span class="text-yellow">(Ongoing)</span>{% endif %}</h4>
-                    <p class="mb-2">
-                      <small>
-                      {% if study.start_date %}
-                      <em>{{ study.start_date | date: "%Y" }}</em>
-                      {% endif %}
-                      {% if study.end_date %}
-                       <em>- {{ study.end_date | date: "%Y" }}</em>
-                      {% endif %}
-                      {% if study.regions.first != null %}
-                        |
-                        {% for region in study.regions %}
-                          <em>{{ region }}{% unless forloop.last %},{% endunless %}</em>
-                        {% endfor %}
-                      {% endif %}
-                      </small>
-                    </p>
-                  </div>
-                </div>
-              </a>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
 {% include bring-together.html%}

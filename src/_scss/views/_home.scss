@@ -10,6 +10,9 @@
 #mission {
   h1 {
     font-size: 3rem;
+    @include media-breakpoint-down(lg) {
+      font-size: 2.5rem;
+    }
   }
 }
 
@@ -36,6 +39,6 @@
     }
   }
   #focus {
-    background-image: url('/img/airbel-focus-illustration.png');
+    background-image: url("/img/airbel-focus-illustration.png");
   }
 }

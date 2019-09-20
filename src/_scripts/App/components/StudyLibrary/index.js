@@ -1,20 +1,13 @@
 import React, { useState, useEffect } from "react"
+import { StudyLibraryProvider } from './StudyLibraryContext'
 import StudiesFilters from './StudiesFilters'
 import StudiesList from './StudiesList'
-import { STUDY_DATA } from './data';
-import axios from 'axios'
 
 const StudyLibrary = () => {
-  // const studies = STUDY_DATA;
-  const [studies, setStudies] = useState([])
 
-  useEffect(async () => {
-    const result = await axios('/data/studies.json')
-    setStudies(result.data)
-  }, [])
 
   return (
-    <>
+    <StudyLibraryProvider>
       <section className="bg-light">
         <div className="container">
           <div className="row">
@@ -25,15 +18,19 @@ const StudyLibrary = () => {
               </h2>
             </div>
           </div>
-          <StudiesFilters />
+          {/* <StudiesFilters /> */}
+        </div>
+      </section>
+      <section>
+        <div className="container">
           <div className="row">
             <div className="col-12">
-              {studies && <StudiesList studies={studies} />}
+              <StudiesList />
             </div>
           </div>
         </div>
       </section>
-    </>
+    </StudyLibraryProvider>
   )
 }
 

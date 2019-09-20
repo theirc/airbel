@@ -62,6 +62,7 @@ export const SelectInput = ({
   options,
   defaultValue,
   isMulti,
+  isSearchable,
   label, hint,
   form: { touched, errors }, // also values, setXXXX, handleXXXX, dirty, isValid, status, etc.
   ...props
@@ -94,20 +95,20 @@ export const SelectInput = ({
     form.setFieldValue(
       field.name,
       isMulti
-        ? option.map((item) => item.value)
+        ? option
         : option.value
-    );
-  };
+    )
+  }
 
-  const getValue = () => {
-    if (options && field.value) {
-      return isMulti
-        ? options.filter(option => field.value.indexOf(option.value) >= 0)
-        : options.find(option => option.value === field.value);
-    } else {
-      return isMulti ? [] : "";
-    }
-  };
+  // const getValue = () => {
+  //   if (options && field.value) {
+  //     return isMulti
+  //       ? options.filter(option => field.value.indexOf(option.value) >= 0)
+  //       : options.find(option => option.value === field.value)
+  //   } else {
+  //     return isMulti ? [] : ""
+  //   }
+  // }
 
 
   return (
@@ -116,15 +117,16 @@ export const SelectInput = ({
       <Select
         className={className}
         name={field.name}
-        value={getValue()}
+        // value={getValue()}
         onChange={onChange}
+        onBlur={() => { console.log("hello", field.value) }}
         defaultValue={defaultValue}
         formatGroupLabel={formatGroupLabel}
         placeholder={placeholder}
         options={options}
         isMulti={isMulti}
-        // isSearchable={isSearchable}
-        // isClearable
+        isSearchable={isSearchable}
+        isClearable
         theme={(theme) => ({
           ...theme,
           borderRadius: 0,
