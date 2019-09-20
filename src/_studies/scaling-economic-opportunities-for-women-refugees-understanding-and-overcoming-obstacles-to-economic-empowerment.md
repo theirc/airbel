@@ -6,7 +6,7 @@ title: >-
   Scaling Economic Opportunities for Refugee Women: Understanding and Overcoming
   Obstacles to Women’s  Economic Empowerment
 featured: false
-evergreen: false
+evergreen: true
 focuses:
   - economic-wellbeing
 description: >-
