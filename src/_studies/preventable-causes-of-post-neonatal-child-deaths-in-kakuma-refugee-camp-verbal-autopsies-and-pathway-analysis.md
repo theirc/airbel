@@ -6,7 +6,7 @@ title: >-
   Preventable Causes of Post-Neonatal Child Deaths in Kakuma Refugee Camp:
   Verbal Autopsies and Pathway Analysis
 featured: false
-evergreen: true
+evergreen: false
 focuses:
   - health
 description:
