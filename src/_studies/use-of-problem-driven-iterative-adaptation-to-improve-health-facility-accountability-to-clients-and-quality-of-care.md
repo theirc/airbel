@@ -6,7 +6,7 @@ title: >-
   Use of Problem-Driven Iterative Adaptation to Improve Health Facility
   Accountability to Clients and Quality of Care
 featured: false
-evergreen: false
+evergreen: true
 focuses:
   - health
 description:
