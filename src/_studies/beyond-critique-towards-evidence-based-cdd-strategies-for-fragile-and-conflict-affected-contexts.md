@@ -17,7 +17,7 @@ partners:
   - name:
     link:
 donors:
-  - name:
+  - name: DFID
     link:
 publications:
   - title: Final working paper
