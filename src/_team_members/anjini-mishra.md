@@ -8,4 +8,3 @@ expertise_areas:
 leadership: false
 image:
 ---
-
