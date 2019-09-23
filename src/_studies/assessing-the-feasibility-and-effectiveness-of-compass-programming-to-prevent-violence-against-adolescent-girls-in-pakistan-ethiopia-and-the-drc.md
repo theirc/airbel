@@ -9,7 +9,12 @@ featured: false
 evergreen: false
 focuses:
   - safety
-description:
+description: >-
+  Findings from  these  studies  combined  indicate  very  high  acceptability 
+  and feasibility of the COMPASS program.  While no significant changes related 
+  to  violence  were  observed,  numerous  secondary  outcomes  such  as 
+  gender  norms,  aspirational  attitudes,  and  increased  social  networks 
+  were improved.
 regions:
   - Pakistan
   - Ethiopia
@@ -68,3 +73,8 @@ publications:
     publication_type: Academic
 ---
 
+Significant&nbsp; gaps persist&nbsp; in the evidence&nbsp; base on the most&nbsp; effective interventions&nbsp; to prevent violence against&nbsp; adolescent girls aged 10–19 years old in humanitarian crisis settings. The COMPASS program (Creating Opportunities &nbsp; through Mentorship, Parental involvement, and Safe Spaces) provides opportunities for girls to gain life skills and build assets to protect against and respond to GBV through mentorship, learning, and peer&nbsp; interaction in safe spaces and is combined with capacity-building activities to improve the ability of service providers and caregivers to address the specific needs of young girls. The feasibility, acceptability, and impact of these activities on reducing violence experienced by young girls were being assessed in Ethiopia, the DRC, and Pakistan.&nbsp;
+
+Approximately 900 girls in the DRC and their caregivers, as well as nearly 1,000 girls in Ethiopia were interviewed as part of two independent cluster-randomized&nbsp; controlled trials. The primary outcome was sexual violence while secondary outcomes included family violence, early marriage, positive relationships, and gender norms. More than 200 girls participated in a pre-and post-test in Pakistan, which centered on feasibility and acceptability. Specific&nbsp; research questions included: What is the overall impact of the COMPASS program on girls’ experiences of violence and well-being compared to a waitlist group (Ethiopia)? What is the incremental impact of the parental component of the COMPASS program in addition to the girls’ programming on girl’s experiences of violence and well-being compared to girls’ programming only (DRC)? What is the feasibility and acceptability of delivering COMPASS (Pakistan)?&nbsp;
+
+Findings from&nbsp; these studies combined&nbsp; indicate very high acceptability&nbsp; and feasibility of the COMPASS program.&nbsp; While no significant changes related to violence&nbsp; were observed, numerous secondary outcomes such&nbsp; as gender norms, aspirational attitudes, and increased&nbsp; social networks were improved. Results of this work have led to an adapted adolescent girl program, Girl Shine.
