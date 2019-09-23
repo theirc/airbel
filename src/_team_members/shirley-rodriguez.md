@@ -6,6 +6,6 @@ focuses:
 expertise_areas:
   - design
 leadership: false
-image:
+image: /uploads/shirley-bw-web.jpg
 ---
 
