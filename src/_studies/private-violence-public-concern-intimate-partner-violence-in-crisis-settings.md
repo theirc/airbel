@@ -42,3 +42,6 @@ publications:
     publication_type: Research Brief
 ---
 
+“Private Violence,&nbsp; Public Concern” was&nbsp; a State/PRM-funded project&nbsp; that sought to ignite action to better address IPV in humanitarian settings by answering the fundamental questions needed to build a foundation for better programming. The IRC, in partnership with expert researchers, conducted qualitative research in Anjong Thok, South Sudan; Dadaab, Kenya; and Domiz, Iraq with over 280 respondents.
+
+This resulted in a published and widely disseminated report to guide the humanitarian&nbsp; community to understand: What are the drivers and nature of IPV in refugee and conflict-affected humanitarian settings? How have the refugee and humanitarian contexts affected the manifestation of IPV?&nbsp; How do women in these contexts experience and cope with IPV? What are the entry points and challenges for humanitarian organizations implementing GBV programs? What are women’s suggestions and perspectives on how organizations can address this issue?
