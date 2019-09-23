@@ -4,8 +4,8 @@ start_date: 2017-09-14 00:00:00
 end_date: 2019-09-14 00:00:00
 title: RISE for Nutrition
 featured: false
-evergreen: false
-focuses: 
+evergreen: true
+focuses:
   - health
 description: >-
   The RISE study will build on this evidence by positioning the IRC to lead a
@@ -14,7 +14,7 @@ description: >-
   their own ICCM (integrated community case management) programs, share
   experiences, and consider necessary revisions to bring the protocol and
   toolkit to scale.
-regions: 
+regions:
   - Kenya
   - Malawi
   - Nigeria
@@ -22,7 +22,7 @@ image: /uploads/20110331-storfinn-dadaabmf03381-1.jpg
 partners:
   - name:
     link:
-donors: 
+donors:
   - name: Eleanor Crook Foundation
     link:
 publications:

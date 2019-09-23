@@ -4,7 +4,7 @@ start_date: 2019-01-01 00:00:00
 end_date: 2019-01-01 00:00:00
 title: Effect of Community Engagement on Infection Prevention and Control for Ebola
 featured: false
-evergreen: false
+evergreen: true
 focuses:
   - health
 description:

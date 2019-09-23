@@ -4,7 +4,7 @@ start_date: 2019-01-01 00:00:00
 end_date: 2021-01-01 00:00:00
 title: Impact Evaluation of Leave No Girl Behind in Pakistan and Sierra Leone
 featured: false
-evergreen: false
+evergreen: true
 focuses:
   - education
 description: >-

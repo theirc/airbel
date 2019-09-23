@@ -59,4 +59,12 @@
     margin-left: 0;
     margin-right: 0;
   }
+  > div {
+    &:last-of-type {
+      a {
+        display: none !important;
+        visibility: hidden !important;
+      }
+    }
+  }
 }

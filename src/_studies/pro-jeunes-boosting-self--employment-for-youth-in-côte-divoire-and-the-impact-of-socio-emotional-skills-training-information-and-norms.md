@@ -6,7 +6,7 @@ title: >-
   PRO-Jeunes: Boosting (Self-) Employment for Youth in Côte d’Ivoire and the
   Impact of Socio-Emotional Skills Training, Information and Norms
 featured: false
-evergreen: false
+evergreen: true
 focuses:
   - economic-wellbeing
 description: >-
