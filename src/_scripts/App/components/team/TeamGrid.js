@@ -15,12 +15,10 @@ const TeamGrid = ({filteredTeam}) => {
   return (
     <>
       <button onClick={() => {
-          setShowMemberDetails(false)
-          setSelectedTeamMember({})
-          setRandomTeam(getRandomTeam())
-        }
-        
-        } className="refresh-team" title="more team"><img src="/img/icons/refresh.png" className="img-fluid" alt="refresh icon"/></button>
+        setShowMemberDetails(false)
+        setSelectedTeamMember({})
+        setRandomTeam(getRandomTeam())
+      }} className="refresh-team" title="more team"><img src="/img/icons/refresh.png" className="img-fluid" alt="refresh icon"/></button>
       <div className={showMemberDetails ? 'team-wrapper show-details' : 'team-wrapper'}>
         <ul className="team-list">
           {randomTeam && randomTeam.map((teamMember, index) => {
