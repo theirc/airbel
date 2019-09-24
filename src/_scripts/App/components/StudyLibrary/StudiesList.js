@@ -11,7 +11,7 @@ const StudiesList = () => {
       {filteredStudies.length === 0 && (
         <div className="row">
           <div className="col-12">
-            <p className="lead text-center">There are no studies that meet those criteria. <a onClick={() => console.log("RESET")}>Click here</a> to reset your filter preferences.</p>
+            <p className="lead text-center">There are no studies that meet those criteria. Please adjust your filter preferences.</p>
           </div>
         </div>
       )}
