@@ -3,7 +3,7 @@ layout: project
 title: Revolutionizing Treatment for Acute Malnutrition
 tagline: Transforming the way acute malnutrition is treated to save lives and cost
 status: active
-stage: Scale
+stage: Pilot
 focuses:
   - health
 geolocation:
@@ -26,11 +26,65 @@ articles:
   - title:
     url:
 milestones:
-  - date:
-    title:
+  - date: 2019-07-01 00:00:00
+    title: UN issues joint statement on wasting
+    link: >-
+      https://www.unicef.org/press-releases/joint-statement-principals-fao-who-unhcr-unicef-wfp-and-un-ocha
+    link_title:
+    description_markdown: >-
+      UN leaders publically committed to developing a Global Action Plan on
+      Wasting and to updating WHO treatment guidelines. This commitment
+      represents critical progress toward policy reform. The IRC played a key
+      role in generating the political will needed to make this statement.
+  - date: 2018-10-01 00:00:00
+    title: Multi-country pilot begins
+    link:
+    link_title:
+    description_markdown: >-
+      In Mali and Chad, UNICEF, WFP and ECHO endorse the combined protocol for
+      further exploration and unite to fund and organize a large-scale,
+      multi-country pilot of the combined protocol. These pilots will generate
+      additional evidence from which the IRC will drive meaningful policy change
+      and produce programmatic guidance.&nbsp;
+  - date: 2018-01-01 00:00:00
+    title: Severe acute malnutrition protocol tested in Somalia
+    link: 'https://www.ennonline.net/fex/60/treatmentprotocolsomalia'
+    link_title:
+    description_markdown: >-
+      The IRC conducted a prospective cohort study to test an adapted protocol
+      for treating SAM in Somalia using RUTF dosage based on the treatment
+      protocol implemented in the ComPAS research trial in Kenya and South
+      Sudan. To further understand requirements for adaptation and adoption of
+      the combined protocol in different contexts, the IRC also conducted a
+      policy analysis on the use of the protocol in five different food-crisis
+      affected contexts.&nbsp;
+  - date: 2017-06-01 00:00:00
+    title: Testing of treatment led by community health workers begins
+    link:
+    link_title:
+    description_markdown: >-
+      The IRC serves at the technical lead of the Simplified Tools Working
+      Group, a consortium of implementing partners (Action Against Hunger,
+      Concern Worldwide, Malaria Consortium and Save the Children),
+      field-testing the low-literate tools developed in South Sudan in Nigeria,
+      Malawi and Kenya.
+  - date: 2017-05-01 00:00:00
+    title: Randomized control trial begins in Kenya and South Sudan
     link:
     link_title:
     description_markdown:
+  - date: 2018-08-01 00:00:00
+    title: Randomized control trial in Kenya and South Sudan concludes
+    link: 'https://www.ennonline.net/fex/60/compastrialsouthsudankenya'
+    link_title:
+    description_markdown: >-
+      Working closely with partners Action Against Hunger and the London School
+      of Hygiene and Tropical Medicine, the IRC implemented a randomized
+      controlled research study (RCT) in Kenya and South Sudan to test a
+      combined protocol to treat children with SAM and MAM. Preliminary results
+      from the trial suggest that the combined protocol is not only successful
+      at recovering children with both SAM and MAM to full recovery, but can do
+      so at a lower cost.
 ---
 
 Acute malnutrition is a continuum condition meaning a child’s condition improves or deteriorates continuously along a single spectrum. Today, children suffering from acute malnutrition are divided into two different categories based on the severity of their illness: severe acute malnutrition (SAM) and moderate acute malnutrition (MAM). &nbsp; This impacts what kind of treatment they access, where treatment is available to them, and far too often, whether they can access treatment at all.&nbsp;
