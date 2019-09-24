@@ -85,6 +85,11 @@ milestones:
     link:
     link_title:
     description_markdown:
+  - date: 2016-01-01 00:00:00
+    title: Test of severe acute malnutrition protocol begins in Somalia
+    link:
+    link_title:
+    description_markdown:
   - date: 2017-03-01 00:00:00
     title: Study on delivering care through community health workers begins
     link: >-
@@ -119,11 +124,6 @@ milestones:
       a new optimized dosage of RUTF to treat SAM and MAM.&nbsp;
   - date: 2016-01-01 00:00:00
     title: Design of combined simplified protocol begins
-    link:
-    link_title:
-    description_markdown:
-  - date: 2016-01-01 00:00:00
-    title: Test of severe acute malnutrition protocol begins in Somalia
     link:
     link_title:
     description_markdown:
