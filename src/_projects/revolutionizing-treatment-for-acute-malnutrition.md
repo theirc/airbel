@@ -46,6 +46,18 @@ milestones:
       multi-country pilot of the combined protocol. These pilots will generate
       additional evidence from which the IRC will drive meaningful policy change
       and produce programmatic guidance.&nbsp;
+  - date: 2018-08-01 00:00:00
+    title: Randomized control trial in Kenya and South Sudan concludes
+    link: 'https://www.ennonline.net/fex/60/compastrialsouthsudankenya'
+    link_title:
+    description_markdown: >-
+      Working closely with partners Action Against Hunger and the London School
+      of Hygiene and Tropical Medicine, the IRC implemented a randomized
+      controlled research study (RCT) in Kenya and South Sudan to test a
+      combined protocol to treat children with SAM and MAM. Preliminary results
+      from the trial suggest that the combined protocol is not only successful
+      at recovering children with both SAM and MAM to full recovery, but can do
+      so at a lower cost.
   - date: 2018-01-01 00:00:00
     title: Severe acute malnutrition protocol tested in Somalia
     link: 'https://www.ennonline.net/fex/60/treatmentprotocolsomalia'
@@ -73,18 +85,43 @@ milestones:
     link:
     link_title:
     description_markdown:
-  - date: 2018-08-01 00:00:00
-    title: Randomized control trial in Kenya and South Sudan concludes
-    link: 'https://www.ennonline.net/fex/60/compastrialsouthsudankenya'
+  - date: 2017-03-01 00:00:00
+    title: Study on delivering care through community health workers begins
+    link: >-
+      https://tall-salute.cloudvent.net/studies/effectiveness-of-a-simplified-protocol-for-community-health-workers-to-treat-severe-acute-malnutrition-sam-in-an-emergency-prone-setting/
     link_title:
     description_markdown: >-
-      Working closely with partners Action Against Hunger and the London School
-      of Hygiene and Tropical Medicine, the IRC implemented a randomized
-      controlled research study (RCT) in Kenya and South Sudan to test a
-      combined protocol to treat children with SAM and MAM. Preliminary results
-      from the trial suggest that the combined protocol is not only successful
-      at recovering children with both SAM and MAM to full recovery, but can do
-      so at a lower cost.
+      The IRC has piloted and tested delivering treatment through community
+      health workers which enables families to access care directly in the
+      communities they live, from providers they know. To make this feasible,
+      the IRC designed and developed simplified tools to support even
+      low-literate CHWs to accurately diagnose and treat acute malnutrition.
+  - date: 2017-09-01 00:00:00
+    title: Study on delivering care through community health workers concludes
+    link: >-
+      https://tall-salute.cloudvent.net/studies/effectiveness-of-a-simplified-protocol-for-community-health-workers-to-treat-severe-acute-malnutrition-sam-in-an-emergency-prone-setting/
+    link_title:
+    description_markdown: >-
+      The IRC has piloted and tested delivering treatment through community
+      health workers which enables families to access care directly in the
+      communities they live, from providers they know. To make this feasible,
+      the IRC designed and developed simplified tools to support even
+      low-literate CHWs to accurately diagnose and treat acute malnutrition.
+  - date: 2016-01-01 00:00:00
+    title: 'Design of combined, simplified protocol concludes'
+    link: 'https://www.ennonline.net/fex/53/thecompasstudy'
+    link_title:
+    description_markdown: >-
+      Working with an expert task force of scientists at the London School of
+      Hygiene and Tropical Medicine, Washington University School of Medicine,
+      and University of Tampere/University of Copenhagen, the IRC conducts
+      secondary data analysis of 10,000 acutely malnourished children to propose
+      a new optimized dosage of RUTF to treat SAM and MAM.&nbsp;
+  - date: 2016-01-01 00:00:00
+    title: Design of combined simplified protocol begins
+    link:
+    link_title:
+    description_markdown:
 ---
 
 Acute malnutrition is a continuum condition meaning a child’s condition improves or deteriorates continuously along a single spectrum. Today, children suffering from acute malnutrition are divided into two different categories based on the severity of their illness: severe acute malnutrition (SAM) and moderate acute malnutrition (MAM). &nbsp; This impacts what kind of treatment they access, where treatment is available to them, and far too often, whether they can access treatment at all.&nbsp;
