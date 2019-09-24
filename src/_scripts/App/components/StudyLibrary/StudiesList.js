@@ -8,16 +8,33 @@ const StudiesList = () => {
 
   return (
     <>
-      <div className="row">
-        {/* {errors && <div className="alert alert-danger">There was an error fetching studies data.</div>} */}
-        {filteredStudies.length === 0 && <p className="alert alert-info">There are no studies that meet those criteria. Click here to reset your filter preferences.</p>}
+      {filteredStudies.length === 0 && (
+        <div className="row">
+          <div className="col-12">
+            <p className="lead text-center">There are no studies that meet those criteria. <a onClick={() => console.log("RESET")}>Click here</a> to reset your filter preferences.</p>
+          </div>
+        </div>
+      )}
 
-        {filteredStudies && filteredStudies.map(study => (
-          <>
-            <StudiesListItem study={study} />
-          </>
-        ))}
-      </div>
+      {filteredStudies && (
+        <>
+          <div className="row">
+            <div className="col-12 text-right">
+              <small className="text-muted">Showing <span>{state.filteredStudies.length}</span> studies</small>
+            </div>
+          </div>
+          <div className="row">
+            {/* {errors && <div className="alert alert-danger">There was an error fetching studies data.</div>} */}
+            <div className="col-12">
+              {filteredStudies.map(study => (
+                <>
+                  <StudiesListItem study={study} />
+                </>
+              ))}
+            </div>
+          </div>
+        </>
+      )}
     </>
   )
 }

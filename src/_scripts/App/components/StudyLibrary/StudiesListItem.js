@@ -1,11 +1,15 @@
-import React from "react"
+import React, { useContext } from "react"
+import { StudyLibraryContext } from './StudyLibraryContext'
 
 const StudiesListItem = ({ study }) => {
+  // const [state, setState] = useContext(StudyLibraryContext)
   const { title, focus, slug, startDate, endDate, regions, url, evergreen } = study
+  // const visible = state.filters.showOnlyEvergreen && !evergreen ? 'd-none' : ''
+  const str = `row study-row no-gutters bg-light w-100 border-${slug}`
 
   return (
     <>
-      <a href={url} className={`row study-row no-gutters bg-light w-100 border-${slug}`}>
+      <a href={url} className={str}>
         <div class="col-12">
           <div class="px-5 py-3">
             <p className="mb-0">

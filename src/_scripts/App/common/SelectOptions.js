@@ -70,6 +70,7 @@ export const typeOptions = [
 ];
 
 export const focusOptions = [
+  { value: "", label: "Show All" },
   { value: "economic", label: "Economic Wellbeing" },
   { value: "education", label: "Education" },
   { value: "empowerment", label: "Empowerment" },
@@ -204,7 +205,7 @@ export const currencyOptions = [
   { value: "EU", label: "Euro(€)", symbol: "€" },
 ];
 
-export const teamCategoyOptions = [
+export const teamCategoryOptions = [
   { value: "all", label: "Full Team" },
   { value: "leadership", label: "Leadership" }
 ];
@@ -222,7 +223,7 @@ export const expertiseAreaOptions = [
 export const groupedTeamOptions = [
   {
     label: "Team Category",
-    options: teamCategoyOptions
+    options: teamCategoryOptions
   },
   {
     label: "Areas of expertise",
