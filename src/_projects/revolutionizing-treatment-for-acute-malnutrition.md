@@ -70,6 +70,17 @@ milestones:
       the combined protocol in different contexts, the IRC also conducted a
       policy analysis on the use of the protocol in five different food-crisis
       affected contexts.&nbsp;
+  - date: 2017-09-01 00:00:00
+    title: Study on delivering care through community health workers concludes
+    link: >-
+      https://tall-salute.cloudvent.net/studies/effectiveness-of-a-simplified-protocol-for-community-health-workers-to-treat-severe-acute-malnutrition-sam-in-an-emergency-prone-setting/
+    link_title:
+    description_markdown: >-
+      The IRC has piloted and tested delivering treatment through community
+      health workers which enables families to access care directly in the
+      communities they live, from providers they know. To make this feasible,
+      the IRC designed and developed simplified tools to support even
+      low-literate CHWs to accurately diagnose and treat acute malnutrition.
   - date: 2017-06-01 00:00:00
     title: Testing of treatment led by community health workers begins
     link:
@@ -85,26 +96,15 @@ milestones:
     link:
     link_title:
     description_markdown:
-  - date: 2017-09-01 00:00:00
-    title: Study on delivering care through community health workers concludes
-    link: >-
-      https://tall-salute.cloudvent.net/studies/effectiveness-of-a-simplified-protocol-for-community-health-workers-to-treat-severe-acute-malnutrition-sam-in-an-emergency-prone-setting/
-    link_title:
-    description_markdown: >-
-      The IRC has piloted and tested delivering treatment through community
-      health workers which enables families to access care directly in the
-      communities they live, from providers they know. To make this feasible,
-      the IRC designed and developed simplified tools to support even
-      low-literate CHWs to accurately diagnose and treat acute malnutrition.
-  - date: 2016-01-01 00:00:00
-    title: Test of severe acute malnutrition protocol begins in Somalia
-    link:
-    link_title:
-    description_markdown:
   - date: 2017-03-01 00:00:00
     title: Study on delivering care through community health workers begins
     link: >-
       https://tall-salute.cloudvent.net/studies/effectiveness-of-a-simplified-protocol-for-community-health-workers-to-treat-severe-acute-malnutrition-sam-in-an-emergency-prone-setting/
+    link_title:
+    description_markdown:
+  - date: 2016-01-01 00:00:00
+    title: Test of severe acute malnutrition protocol begins in Somalia
+    link:
     link_title:
     description_markdown:
   - date: 2016-01-01 00:00:00
