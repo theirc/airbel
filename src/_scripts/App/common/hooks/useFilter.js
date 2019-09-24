@@ -70,13 +70,19 @@ const useFilter = (context) => {
 
   const matchFocus = (study) => {
     if (!state.filters.focus) return true
-    if (!study.focus) return false
+    if (!study.slug) return false
 
     let match = false
-    if (study.focus && state.filters.focus) {
-      match = state.filters.focus.toLowerCase() === study.focus.toLowerCase() ? true : false
+    if (study.slug && state.filters.focus) {
+      match = state.filters.focus === study.slug ? true : false
     }
     return match
+  }
+
+  const matchSearch = (study) => {
+    const { filterString } = state
+    const { title = '' } = study
+    return title.toLowerCase().includes(filterString.toLowerCase())
   }
 
 

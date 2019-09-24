@@ -32,11 +32,17 @@ const StudiesFilters = () => {
 
         {/* <div className="row">
           <div className="col-12">
-            <TextInput
-              type="text"
-              name="searchTerm"
-              placeholder="Search..."
-            />
+            <div className="input-group mb-2">
+              <input
+                className="form-control"
+                placeholder="Search study titles..."
+                type="text"
+                onKeyUp={input => setState(state => ({ ...state, filterString: input.value }))}
+              />
+              <div className="input-group-append">
+                <div className="input-group-text"><i class="ri-search-line"></i></div>
+              </div>
+            </div>
           </div>
         </div> */}
 

@@ -10,7 +10,6 @@ export const AsiaOptions = [
   { value: "BD", label: "Bangladesh" },
   { value: "MM", label: "Myanmar" },
   { value: "PK", label: "Pakistan" },
-  { value: "PRP", label: "Pakistan Reading Program" },
   { value: "TH", label: "Thailand" }
 ];
 
@@ -61,17 +60,14 @@ export const typeOptions = [
   { value: "case-study", label: "Case Study" },
   { value: "cost-analysis", label: "Cost Analysis" },
   { value: "factsheet", label: "Factsheet" },
-  { value: "presentation", label: "Presentation" },
-  { value: "protocol", label: "Protocol" },
   { value: "policy-brief", label: "Policy Brief" },
   { value: "report", label: "Report" },
-  { value: "research-brief", label: "Research Brief" },
-  { value: "website", label: "Website" }
+  { value: "research-brief", label: "Research Brief" }
 ];
 
 export const focusOptions = [
   { value: "", label: "Show All" },
-  { value: "economic", label: "Economic Wellbeing" },
+  { value: "economic-wellbeing", label: "Economic Wellbeing" },
   { value: "education", label: "Education" },
   { value: "empowerment", label: "Empowerment" },
   { value: "health", label: "Health" },
