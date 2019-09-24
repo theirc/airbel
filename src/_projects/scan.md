@@ -60,11 +60,11 @@ milestones:
       Finalized 2.0 software to fit any NGO’s finance system. Case studies of
       SCAN analyses show the value of cost-efficiency data.
   - date: 2018-08-01 00:00:00
-    title:
-    link:
-    link_title: >-
+    title: >-
       SCAN is made available in all IRC countries, and other NGOs have expressed
       interest in the tool.
+    link:
+    link_title:
     description_markdown: >-
       A proof-of-concept pilot with five NGOs shows that the SCAN approach is
       applicable and meaningful, helping them identify more than &pound;80,000
