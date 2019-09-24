@@ -19,6 +19,7 @@ const useFilter = (context) => {
 
     } else {
       // Show only matching studies
+      console.log("CHECKING MATCHES")
       showMatches()
     }
   }, [state.filters]);
@@ -26,7 +27,7 @@ const useFilter = (context) => {
 
   function showMatches() {
     let matches = state.studies.filter((study) => {
-      return matchFocus(study) && matchRegions(study) && matchPublicationTypes(study)
+      return matchFocus(study) && matchRegions(study) && matchPublicationTypes(study) && matchSearch(study)
     })
 
     // Check evergreen
@@ -70,13 +71,19 @@ const useFilter = (context) => {
 
   const matchFocus = (study) => {
     if (!state.filters.focus) return true
-    if (!study.focus) return false
+    if (!study.slug) return false
 
     let match = false
-    if (study.focus && state.filters.focus) {
-      match = state.filters.focus.toLowerCase() === study.focus.toLowerCase() ? true : false
+    if (study.slug && state.filters.focus) {
+      match = state.filters.focus === study.slug ? true : false
     }
     return match
+  }
+
+  const matchSearch = (study) => {
+    const { filterString } = state.filters
+    const { title = '' } = study
+    return title.toLowerCase().includes(filterString.toLowerCase())
   }
 
 

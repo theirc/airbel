@@ -10,6 +10,7 @@ const StudyLibraryProvider = (props) => {
     filteredStudies: [],
     isFiltered: false,
     filters: {
+      filterString: '',
       showOnlyEvergreen: false,
       regions: [],
       publicationTypes: [],
