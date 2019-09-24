@@ -61,6 +61,7 @@ export const SelectInput = ({
   form,
   options,
   defaultValue,
+  onChange,
   isMulti,
   isSearchable,
   label, hint,
@@ -91,14 +92,14 @@ export const SelectInput = ({
       <span style={groupBadgeStyles}>{data.options.length}</span>
     </div>
   )
-  const onChange = option => {
-    form.setFieldValue(
-      field.name,
-      isMulti
-        ? option
-        : option.value
-    )
-  }
+  // const onChange = option => {
+  //   form.setFieldValue(
+  //     field.name,
+  //     isMulti
+  //       ? option
+  //       : option.value
+  //   )
+  // }
 
   // const getValue = () => {
   //   if (options && field.value) {
@@ -119,7 +120,6 @@ export const SelectInput = ({
         name={field.name}
         // value={getValue()}
         onChange={onChange}
-        onBlur={() => { console.log("hello", field.value) }}
         defaultValue={defaultValue}
         formatGroupLabel={formatGroupLabel}
         placeholder={placeholder}

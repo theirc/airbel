@@ -19,9 +19,10 @@ const StudiesListItem = ({ study }) => {
                 {startDate && <em>{startDate}</em>}
                 {startDate && endDate && ` - `}
                 {endDate && <em>{endDate}</em>}
-                {regions && regions.map(region => {
-                  <em>{region}</em>
-                })}
+                &nbsp;|&nbsp;
+                {regions && (
+                  regions.join(", ")
+                )}
               </small>
             </p>
           </div>

@@ -8,6 +8,7 @@ const StudyLibraryProvider = (props) => {
   const [state, setState] = useState({
     studies: [],
     filteredStudies: [],
+    isFiltered: false,
     filters: {
       regions: [],
       publicationsTypes: [],
@@ -32,41 +33,3 @@ const StudyLibraryProvider = (props) => {
 export { StudyLibraryContext, StudyLibraryProvider };
 
 
-// const matchRegions = ({ regions }) => {
-//   let match = filters.regions.length ? false : true;
-
-//   if (regions && regions.length && filters.regions.length > 0) {
-//     const studyRegions = objectToArray(regions).map(region => region['label']);
-//     match = studyRegions.filter(region => filters.regions.includes(region)).length > 0 ? true : false;
-//   }
-//   return match
-// }
-// const matchPublicationTypes = ({ publicationTypes }) => {
-//   let match = filters.publicationTypes.length ? false : true;
-
-//   if (publicationTypes && publicationTypes.length && filters.publicationTypes.length > 0) {
-//     const studyPublications = objectToArray(publicationTypes).map(publication => publication['value']);
-//     match = studyPublications.filter(publication => filters.studyPublications.includes(publication)).length > 0 ? true : false;
-//   }
-//   return match
-// }
-
-// const matchFocus = ({ focus }) => {
-//   let match = filters.focus ? false : true;
-//   if (focus && filters.focus) {
-//     match = filters.focus === focus ? true : false
-//   }
-//   return match
-// }
-
-
-const filterStudies = () => {
-
-  const matches = studies.filter((study) => {
-    console.log(study)
-    return matchFocus(study) && matchPublicationTypes(study) && matchRegions(study)
-  })
-
-  console.log("MATCHES:", matches)
-  // setFilteredStudies(matches)
-}
