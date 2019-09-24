@@ -5,7 +5,7 @@ tagline: >-
   A multi-agency tool to simplify conducting cost-analyses and increase
   transparency in the sector.
 status: active
-stage: Design Research
+stage: Pilot
 focuses:
   - other
 geolocation:
