@@ -5,7 +5,7 @@ tagline: Helping teachers to end physical violence in schools
 status: active
 stage: Rigorous Evaluation
 focuses:
-  - safety
+  - education
 geolocation:
   region:
   latitude:
@@ -26,11 +26,68 @@ articles:
   - title:
     url:
 milestones:
-  - date:
-    title:
+  - date: 2020-07-01 00:00:00
+    title: Randomized control trial to conclude
+    link: 'https://www.lshtm.ac.uk/research/centres-projects-groups/pvac-study'
+    link_title:
+    description_markdown:
+  - date: 2018-11-01 00:00:00
+    title: Randomized control trial begins
+    link: 'https://www.lshtm.ac.uk/research/centres-projects-groups/pvac-study'
+    link_title:
+    description_markdown: >-
+      Randomized controlled trial to evaluate the effectiveness of the EmpaTeach
+      program
+  - date: 2018-03-02 00:00:00
+    title: Pilot concludes
+    link: 'https://rescue.box.com/s/kd8oh0m248pchoyaoy75nuzuwkcp1zvf'
+    link_title:
+    description_markdown: >-
+      &nbsp;
+
+
+      The pilot shows the potential of this program to reduce violence against
+      children in the classroom as well as to improve student wellbeing and
+      their relationship with school
+  - date: 2018-03-02 00:00:00
+    title: Pilot begins
+    link:
+    link_title:
+    description_markdown: >-
+      Initiation of small-scale pilot in two schools to assess the feasibility
+      and desirability of the EmpaTeach program.
+  - date: 2018-03-02 00:00:00
+    title: Nimble impact evaluation concludes
+    link: >-
+      https://medium.com/airbel/encouraging-empathy-sharing-science-or-raising-awareness-of-rights-106e205e5191
+    link_title:
+    description_markdown: >-
+      Prototyping and nimble impact evaluation to uncover promising solutions
+      and effective program components
+  - date: 2017-03-02 00:00:00
+    title: Prototyping begins
     link:
     link_title:
     description_markdown:
+  - date: 2016-11-01 00:00:00
+    title: Co-creation workshop
+    link:
+    link_title:
+    description_markdown: >-
+      Co-creation workshop with teachers and community leaders to design program
+      building blocks
+  - date: 2016-10-01 00:00:00
+    title: Formative research
+    link:
+    link_title:
+    description_markdown: Formative research conducted to better understand the context
+  - date: 2016-06-01 00:00:00
+    title: Evidence review
+    link:
+    link_title:
+    description_markdown: >-
+      Evidence review of behavioral science literature to help understand
+      effective strategies for shifting hard-to-change behavior
 ---
 
 ### The problem
