@@ -56,8 +56,8 @@ milestones:
     description_markdown: >-
       Initiation of small-scale pilot in two schools to assess the feasibility
       and desirability of the EmpaTeach program.
-  - date: 2018-03-02 00:00:00
-    title: Nimble impact evaluation concludes
+  - date: 2018-02-01 00:00:00
+    title: Prototype and nimble impact evaluation concludes
     link: >-
       https://medium.com/airbel/encouraging-empathy-sharing-science-or-raising-awareness-of-rights-106e205e5191
     link_title:
