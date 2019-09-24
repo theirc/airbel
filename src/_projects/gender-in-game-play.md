@@ -2,7 +2,7 @@
 layout: project
 title: Gender in Game Play
 tagline: Promoting workplace diversity and inclusiveness through games
-status: active
+status: graduated
 stage: Design Research
 focuses:
   - empowerment
