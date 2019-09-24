@@ -3,7 +3,7 @@ layout: project
 title: Revolutionizing Treatment for Acute Malnutrition
 tagline: Transforming the way acute malnutrition is treated to save lives and cost
 status: active
-stage: Pilot
+stage: Scale
 focuses:
   - health
 geolocation:
