@@ -11,6 +11,9 @@ const StudiesFilters = () => {
   const [state, setState] = useContext(StudyLibraryContext)
   const { applyFilters, isFiltered } = useFilter(StudyLibraryContext)
 
+  const updateString = (str) => {
+    setState(state => ({ ...state, filters: { ...state.filters, filterString: str } }))
+  }
   return (
     <>
       <form>
@@ -30,21 +33,22 @@ const StudiesFilters = () => {
           </div>
         </div>
 
-        {/* <div className="row">
+        <div className="row">
           <div className="col-12">
             <div className="input-group mb-2">
               <input
+                name="search"
                 className="form-control"
                 placeholder="Search study titles..."
                 type="text"
-                onKeyUp={input => setState(state => ({ ...state, filterString: input.value }))}
+                onKeyUp={e => updateString(e.target.value)}
               />
               <div className="input-group-append">
                 <div className="input-group-text"><i class="ri-search-line"></i></div>
               </div>
             </div>
           </div>
-        </div> */}
+        </div>
 
         <div className="row">
           <div className="col-12 col-sm-6 col-md-4">
