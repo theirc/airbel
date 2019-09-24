@@ -14,7 +14,11 @@ const TeamGrid = ({filteredTeam}) => {
 
   return (
     <>
-      <button onClick={() => setRandomTeam(getRandomTeam())} className="refresh-team" title="more team"><img src="/img/icons/refresh.png" className="img-fluid" alt="refresh icon"/></button>
+      <button onClick={() => {
+        setShowMemberDetails(false)
+        setSelectedTeamMember({})
+        setRandomTeam(getRandomTeam())
+      }} className="refresh-team" title="more team"><img src="/img/icons/refresh.png" className="img-fluid" alt="refresh icon"/></button>
       <div className={showMemberDetails ? 'team-wrapper show-details' : 'team-wrapper'}>
         <ul className="team-list">
           {randomTeam && randomTeam.map((teamMember, index) => {
@@ -71,7 +75,11 @@ const TeamGrid = ({filteredTeam}) => {
                 )
               }
               {selectedTeamMember && (selectedTeamMember.focus || selectedTeamMember.expertise_areas.length !== 0) && <hr />}
-              <p>{selectedTeamMember.bio}</p>
+              <div dangerouslySetInnerHTML={{ __html: selectedTeamMember.bio }}>
+
+              </div>
+              
+              {/* <p>{selectedTeamMember.bio}</p> */}
               {/* <p>Leadership: {selectedTeamMember.leadership}</p> */}
             </div>
           )}

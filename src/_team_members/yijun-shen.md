@@ -6,6 +6,6 @@ focuses:
 expertise_areas:
   - cost-efficiency
 leadership: false
-image:
+image: /uploads/yijun-bw-web.jpg
 ---
 

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react"
 import { TEAM_DATA } from './data';
 import { TEAM_FILTERED } from './data';
 import TeamGrid from "./TeamGrid"
-import TeamFilters from "./TeamFilters"
+//import TeamFilters from "./TeamFilters"
 import axios from 'axios'
 
 const Team = () => {

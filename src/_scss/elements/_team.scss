@@ -97,6 +97,7 @@
   }
   .team-item {
     width: 50%;
+    background-color: $gray-300;
     @include transition(0.5s);
     @include media-breakpoint-up(md) {
       &.active {

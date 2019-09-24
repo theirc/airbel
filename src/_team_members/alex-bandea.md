@@ -7,4 +7,3 @@ expertise_areas:
 leadership: false
 image: /uploads/team/alex.jpg
 ---
-
