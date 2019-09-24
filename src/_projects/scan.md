@@ -82,7 +82,7 @@ milestones:
 
 Humanitarian organizations do not routinely use cost data to compare the efficiency or effectiveness of different interventions and delivery models. This is because existing methods to calculate cost-efficiency are inconsistent and time-consuming, creating opportunity for error. And the data that is available cannot be meaningfully compared. As a result, policymakers and practitioners have little data with which to make informed decisions about where money should be spent in a humanitarian response.
 
-SCAN, or the Systematic Cost Analysis (SCAN) tool simplifies the process of conducting cost analyses for field staff. SCAN calculates the full cost per output for an individual activity and compares it with other projects to identify opportunities for cost improvement. It also provides guidance on strategies to improve cost-efficiency based on existing studies.
+SCAN, or the Systematic Cost Analysis tool, simplifies the process of conducting cost analyses for field staff. SCAN calculates the full cost per output for an individual activity and compares it with other projects to identify opportunities for cost improvement. It also provides guidance on strategies to improve cost-efficiency based on existing studies.
 
 The IRC, together with Mercy Corps, Save the Children, Action Against Hunger Spain, and CARE USA, have formed a consortium to jointly develop, pilot, and launch the multi-agency tool. The consortium will develop forums in which data can be shared to spread the learning agenda and address key questions in program value for money.
 
