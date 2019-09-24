@@ -38,7 +38,7 @@ milestones:
     description_markdown: >-
       Randomized controlled trial to evaluate the effectiveness of the EmpaTeach
       program
-  - date: 2018-03-02 00:00:00
+  - date: 2018-06-01 00:00:00
     title: Pilot concludes
     link: 'https://rescue.box.com/s/kd8oh0m248pchoyaoy75nuzuwkcp1zvf'
     link_title:
