@@ -38,6 +38,46 @@ milestones:
       * We will leverage the sharing of meaningful data in multiple sectors, and
       improve the use of limited resources in the delivery of health, education,
       and cash services to the most people in need.
+  - date: 2019-08-01 00:00:00
+    title: Clarify desired reporting and use of cost data with advisory group
+    link:
+    link_title:
+    description_markdown: >-
+      The risks and opportunities for transparency of SCAN results are
+      discussed. Aligned with donor initiatives to gather and use cost data.
+  - date: 2019-08-01 00:00:00
+    title: Plan future governance and financial sustainability of consortium
+    link:
+    link_title:
+    description_markdown: >-
+      Developed future governance model and licensing plan as network of SCAN
+      users grows. Created cost recovery plan for hosting and maintenance.
+  - date: 2019-08-01 00:00:00
+    title: Build and pilot SCAN 2.0 across multiple NGOs
+    link:
+    link_title:
+    description_markdown: >-
+      Finalized 2.0 software to fit any NGO’s finance system. Case studies of
+      SCAN analyses show the value of cost-efficiency data.
+  - date: 2018-08-01 00:00:00
+    title:
+    link:
+    link_title: >-
+      SCAN is made available in all IRC countries, and other NGOs have expressed
+      interest in the tool.
+    description_markdown: >-
+      A proof-of-concept pilot with five NGOs shows that the SCAN approach is
+      applicable and meaningful, helping them identify more than &pound;80,000
+      in efficiency gains for beneficiaries.
+  - date: 2017-08-01 00:00:00
+    title: Scan is first developed
+    link:
+    link_title:
+    description_markdown: >-
+      The SCAN tool is initially developed by the IRC, and piloted with country
+      programs in Chad, Jordan, Lebanon, Liberia, and Pakistan. Pilots show that
+      SCAN enables rigorous analysis in a fraction of the time that it would
+      take by hand.
 ---
 
 Humanitarian organizations do not routinely use cost data to compare the efficiency or effectiveness of different interventions and delivery models. This is because existing methods to calculate cost-efficiency are inconsistent and time-consuming, creating opportunity for error. And the data that is available cannot be meaningfully compared. As a result, policymakers and practitioners have little data with which to make informed decisions about where money should be spent in a humanitarian response.
