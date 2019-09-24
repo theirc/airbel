@@ -61,7 +61,7 @@ export const SelectInput = ({
         options={options}
         isMulti={isMulti}
         isSearchable={isSearchable}
-        isClearable
+        isClearable={false}
         theme={(theme) => ({
           ...theme,
           borderRadius: 0,
@@ -72,19 +72,6 @@ export const SelectInput = ({
           },
         })}
       />
-      {/* <Select
-        {...field}
-        defaultValue={defaultValue}
-        formatGroupLabel={formatGroupLabel}
-        // value={getValue()}
-        // onChange={onChange}
-        options={options}
-        isMulti={isMulti}
-        isSearchable={isSearchable}
-        isClearable
-
-        {...props}
-      /> */}
     </div>
   )
 }
