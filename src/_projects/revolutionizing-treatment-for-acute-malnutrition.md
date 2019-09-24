@@ -70,11 +70,6 @@ milestones:
       the combined protocol in different contexts, the IRC also conducted a
       policy analysis on the use of the protocol in five different food-crisis
       affected contexts.&nbsp;
-  - date: 2018-01-01 00:00:00
-    title: Test of severe acute malnutrition protocol begins in Somalia
-    link:
-    link_title:
-    description_markdown:
   - date: 2017-09-01 00:00:00
     title: Study on delivering care through community health workers concludes
     link: >-
@@ -86,27 +81,6 @@ milestones:
       communities they live, from providers they know. To make this feasible,
       the IRC designed and developed simplified tools to support even
       low-literate CHWs to accurately diagnose and treat acute malnutrition.
-  - date: 2017-06-01 00:00:00
-    title: Testing of treatment led by community health workers begins
-    link:
-    link_title:
-    description_markdown: >-
-      The IRC serves at the technical lead of the Simplified Tools Working
-      Group, a consortium of implementing partners (Action Against Hunger,
-      Concern Worldwide, Malaria Consortium and Save the Children),
-      field-testing the low-literate tools developed in South Sudan in Nigeria,
-      Malawi and Kenya.
-  - date: 2017-05-01 00:00:00
-    title: Randomized control trial begins in Kenya and South Sudan
-    link:
-    link_title:
-    description_markdown:
-  - date: 2017-03-01 00:00:00
-    title: Study on delivering care through community health workers begins
-    link: >-
-      https://tall-salute.cloudvent.net/studies/effectiveness-of-a-simplified-protocol-for-community-health-workers-to-treat-severe-acute-malnutrition-sam-in-an-emergency-prone-setting/
-    link_title:
-    description_markdown:
   - date: 2016-01-01 00:00:00
     title: 'Design of combined, simplified protocol concludes'
     link: 'https://www.ennonline.net/fex/53/thecompasstudy'
