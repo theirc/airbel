@@ -58,8 +58,8 @@ milestones:
       from the trial suggest that the combined protocol is not only successful
       at recovering children with both SAM and MAM to full recovery, but can do
       so at a lower cost.
-  - date: 2018-01-01 00:00:00
-    title: Severe acute malnutrition protocol tested in Somalia
+  - date: 2018-03-01 00:00:00
+    title: Test of severe acute malnutrition protocol concludes in Somalia
     link: 'https://www.ennonline.net/fex/60/treatmentprotocolsomalia'
     link_title:
     description_markdown: >-
@@ -119,6 +119,11 @@ milestones:
       a new optimized dosage of RUTF to treat SAM and MAM.&nbsp;
   - date: 2016-01-01 00:00:00
     title: Design of combined simplified protocol begins
+    link:
+    link_title:
+    description_markdown:
+  - date: 2016-01-01 00:00:00
+    title: Test of severe acute malnutrition protocol begins in Somalia
     link:
     link_title:
     description_markdown:
