@@ -59,7 +59,7 @@ milestones:
       at recovering children with both SAM and MAM to full recovery, but can do
       so at a lower cost.
   - date: 2018-03-01 00:00:00
-    title: Test of severe acute malnutrition protocol concludes in Somalia
+    title: Conclusion of test of severe acute malnutrition protocol in Somalia
     link: 'https://www.ennonline.net/fex/60/treatmentprotocolsomalia'
     link_title:
     description_markdown: >-
@@ -70,6 +70,11 @@ milestones:
       the combined protocol in different contexts, the IRC also conducted a
       policy analysis on the use of the protocol in five different food-crisis
       affected contexts.&nbsp;
+  - date: 2018-01-01 00:00:00
+    title: Test of severe acute malnutrition protocol begins in Somalia
+    link:
+    link_title:
+    description_markdown:
   - date: 2017-09-01 00:00:00
     title: Study on delivering care through community health workers concludes
     link: >-
@@ -100,11 +105,6 @@ milestones:
     title: Study on delivering care through community health workers begins
     link: >-
       https://tall-salute.cloudvent.net/studies/effectiveness-of-a-simplified-protocol-for-community-health-workers-to-treat-severe-acute-malnutrition-sam-in-an-emergency-prone-setting/
-    link_title:
-    description_markdown:
-  - date: 2018-01-01 00:00:00
-    title: Test of severe acute malnutrition protocol begins in Somalia
-    link:
     link_title:
     description_markdown:
   - date: 2016-01-01 00:00:00
