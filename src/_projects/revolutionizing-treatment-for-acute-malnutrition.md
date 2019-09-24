@@ -102,7 +102,7 @@ milestones:
       https://tall-salute.cloudvent.net/studies/effectiveness-of-a-simplified-protocol-for-community-health-workers-to-treat-severe-acute-malnutrition-sam-in-an-emergency-prone-setting/
     link_title:
     description_markdown:
-  - date: 2016-01-01 00:00:00
+  - date: 2018-01-01 00:00:00
     title: Test of severe acute malnutrition protocol begins in Somalia
     link:
     link_title:
