@@ -20,7 +20,7 @@ layout: none
     ],
     "leadership": "{{ member.leadership }}",
     "image": "{{ member.image }}",
-    "bio": {% if member.content != null %}"{{ member.content | smartify | strip_newlines }}"{% else %}""{% endif %}
+    "bio": {% if member.content != null %}"{{ member.content | strip_newlines | replace: '"', '\"'  }}"{% else %}""{% endif %}
   }{% unless forloop.last %},
   {% endunless %}
   {% endfor %}
