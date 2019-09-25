@@ -27,7 +27,7 @@ articles:
   - title:
     url:
 milestones:
-  - date: 2020-09-01 00:00:00
+  - date: 2020-03-01 00:00:00
     title: SCAN 2.0 to roll out for the humanitarian and development communities
     link:
     link_title:
@@ -39,26 +39,15 @@ milestones:
       improve the use of limited resources in the delivery of health, education,
       and cash services to the most people in need.
   - date: 2019-08-01 00:00:00
-    title: Clarify desired reporting and use of cost data with advisory group
-    link:
-    link_title:
-    description_markdown: >-
-      The risks and opportunities for transparency of SCAN results are
-      discussed. Aligned with donor initiatives to gather and use cost data.
-  - date: 2019-08-01 00:00:00
-    title: Plan future governance and financial sustainability of consortium
-    link:
-    link_title:
-    description_markdown: >-
-      Developed future governance model and licensing plan as network of SCAN
-      users grows. Created cost recovery plan for hosting and maintenance.
-  - date: 2019-08-01 00:00:00
     title: Build and pilot SCAN 2.0 across multiple NGOs
     link:
     link_title:
     description_markdown: >-
-      Finalized 2.0 software to fit any NGO’s finance system. Case studies of
+      * Finalized 2.0 software to fit any NGO’s finance system. Case studies of
       SCAN analyses show the value of cost-efficiency data.
+
+      * Developed future governance model and licensing plan as network of SCAN
+      users grows. Created cost recovery plan for hosting and maintenance.
   - date: 2018-08-01 00:00:00
     title: >-
       SCAN is made available in all IRC countries, and other NGOs have expressed
