@@ -40,8 +40,8 @@ milestones:
       and cash services to the most people in need.
   - date: 2019-08-01 00:00:00
     title: Build and pilot SCAN 2.0 across multiple NGOs
-    link:
-    link_title:
+    link: 'https://rescue.box.com/s/nojvcvse4koccidmlh54czhouu1g7v3w'
+    link_title: Jordan Case Study
     description_markdown: >-
       * Finalized 2.0 software to fit any NGO’s finance system. Case studies of
       SCAN analyses show the value of cost-efficiency data.
