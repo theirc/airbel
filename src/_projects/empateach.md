@@ -23,8 +23,9 @@ resources:
     description:
     url:
 articles:
-  - title:
-    url:
+  - title: 'Encouraging Empathy, Sharing Science, or Raising Awareness of Rights?'
+    url: >-
+      https://medium.com/airbel/encouraging-empathy-sharing-science-or-raising-awareness-of-rights-106e205e5191
 milestones:
   - date: 2020-07-01 00:00:00
     title: Randomized control trial to conclude
