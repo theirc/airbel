@@ -16,8 +16,8 @@ description: >-
   The Systematic Cost Analysis (SCAN) tool simplifies the process of conducting
   cost analyses, helping humanitarian and development actors make use of limited
   resources in a transparent and effective way.
-hero_image:
-featured_image:
+hero_image: /uploads/scan-hero.jpeg
+featured_image: /uploads/scan-feat.jpg
 featured_video_url:
 resources:
   - title: SCAN 2.0 Flipbook
