@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Revolutionizing Treatment for Acute Malnutrition
+title: Transforming Treatment for Acute Malnutrition
 tagline: Transforming the way acute malnutrition is treated to save lives and cost
 status: active
 stage: Scale
@@ -13,7 +13,7 @@ geolocation:
 description: >-
   IRC is proposing a suite of five approaches to simplify treatment for acute
   malnutrition and to make it more accessible. Alongside an ambitious advocacy
-  campaign, they have the potential to revolutionize the way children with acute
+  campaign, they have the potential to transform the way children with acute
   malnutrition are treated.
 hero_image:
 featured_image:
@@ -98,7 +98,7 @@ milestones:
     description_markdown:
 ---
 
-Acute malnutrition is a continuum condition meaning a child’s condition improves or deteriorates continuously along a single spectrum. Today, children suffering from acute malnutrition are divided into two different categories based on the severity of their illness: severe acute malnutrition (SAM) and moderate acute malnutrition (MAM). &nbsp; This impacts what kind of treatment they access, where treatment is available to them, and far too often, whether they can access treatment at all.&nbsp;
+Acute malnutrition is a continuum condition meaning a child’s condition improves or deteriorates continuously along a single spectrum. Today, children suffering from acute malnutrition are divided into two different categories based on the severity of their illness: severe acute malnutrition (SAM) and moderate acute malnutrition (MAM).&nbsp; This impacts what kind of treatment they access, where treatment is available to them, and far too often, whether they can access treatment at all.&nbsp;
 
 Treatment for SAM and MAM is rarely available at the same place and time and in many locations, treatment for MAM is not available at all, meaning children must wait until their health deteriorates before accessing the care that they need. Worse still, the treatment for both conditions is currently available only in formal health facilities putting the burden on families to traverse long, often dangerous distances, to reach the life-saving care their children desperately need. &nbsp;
 
