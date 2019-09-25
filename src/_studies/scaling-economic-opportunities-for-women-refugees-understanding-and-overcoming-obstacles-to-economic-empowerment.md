@@ -11,10 +11,9 @@ focuses:
   - economic-wellbeing
 description: >-
   In order to better understand the constraints refugee women face across
-  contexts,  the IRC is undertaking exploratory research in three different
-  contexts (Niger,   Kenya,and   Germany) to understand the barriers and
-  challenges displaced women face in entering and participating in the labor
-  market (including  participation in livelihoods interventions).
+  contexts, the IRC is undertaking exploratory research in three different
+  contexts, to understand the barriers and challenges displaced women face in
+  entering and participating in the labor market.
 regions:
   - Niger
   - Kenya
