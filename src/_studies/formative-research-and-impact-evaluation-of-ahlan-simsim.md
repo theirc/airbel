@@ -7,7 +7,11 @@ featured: false
 evergreen: true
 focuses:
   - education
-description:
+description: >-
+  Formative research and impact evaluations are being conducted of Ahlan Simsim,
+  an Early Childhood Development program that aims to restore hope and
+  opportunity for a generation of children affected by the Syrian refugee
+  crisis.
 regions:
   - Jordan
   - Iraq
