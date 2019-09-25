@@ -20,9 +20,9 @@ hero_image:
 featured_image:
 featured_video_url:
 resources:
-  - title:
+  - title: SCAN 2.0 Flipbook
     description:
-    url:
+    url: 'https://rescue.box.com/s/17r5sr3nuaaxwl2dv63fdtokrcrrqtsw'
 articles:
   - title:
     url:
