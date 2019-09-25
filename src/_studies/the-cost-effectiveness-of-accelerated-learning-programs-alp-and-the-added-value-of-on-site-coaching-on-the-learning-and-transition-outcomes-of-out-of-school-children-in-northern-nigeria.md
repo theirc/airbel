@@ -3,17 +3,14 @@ layout: study
 start_date: 2018-09-14 00:00:00
 end_date: 2019-01-01 00:00:00
 title: >-
-  The Cost-Effectiveness of Accelerated Learning Programs (ALP) and the Added
-  Value of On-Site Coaching on the Learning and Transition Outcomes of
-  Out-of-School Children in Northern Nigeria
+  The Cost-Effectiveness of Accelerated Learning Programs and the Added Value of
+  On-Site Coaching on the Learning and Transition Outcomes of Out-of-School
+  Children in Northern Nigeria
 featured: false
 evergreen: true
 focuses:
   - education
-description: >-
-  DFID EiE NFLC project was funded by the UK Department for International
-  Development (DFID) to support out-of-school (OOS) children in the states of
-  Yobe and Borno in Nigeria with their education and psychosocial well-being.
+description: "During two years of intervention, about 20,000 eligible out-of-school children will receive structured instruction in literacy, numeracy, and social-emotional learning.\_Researchers from the IRC are conducting a mixed methods, randomized control trial to evaluate the cost-effectiveness of the program on the learning and transition outcomes."
 regions:
   -
 image: /uploads/pbiro-mangaize-316.jpg
