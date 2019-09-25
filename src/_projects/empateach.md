@@ -26,6 +26,8 @@ articles:
   - title: 'Encouraging Empathy, Sharing Science, or Raising Awareness of Rights?'
     url: >-
       https://medium.com/airbel/encouraging-empathy-sharing-science-or-raising-awareness-of-rights-106e205e5191
+  - title: When Words Don’t Work
+    url: 'https://medium.com/airbel/when-words-dont-work-36c6e220f41b'
 milestones:
   - date: 2020-07-01 00:00:00
     title: Randomized control trial to conclude
@@ -91,13 +93,9 @@ milestones:
       effective strategies for shifting hard-to-change behavior
 ---
 
-### The problem
-
 Violence erodes the foundation children need to live healthy and productive lives, and can have devastating, long-lasting effects on their development, school performance, and overall educational attainment. Schools are one of the most common settings where children experience violence. Sixty-eight countries still do not have laws protecting children against physical punishment in schools - leaving about 720 million school-age children vulnerable to violence. And even where laws do exist, additional efforts are needed to turn policy into practice. Little evidence exists about how best to end the practice of teachers using corporal punishment against students, particularly in crisis-affected contexts. What’s clear is that current approaches, including rulemaking and awareness-raising campaigns, are not enough.
 
 EmpaTeach was co-designed with refugee teachers in partnership with the Behavioral Insights Team. It was tailored specifically to be a low-intensity, contextually adapted program for a resource-constrained humanitarian setting. The program is currently being implemented in Nyarugusu refugee camp in Tanzania, where a staggering 82% of students report having experienced physical violence from a school staff member in their lifetime. This project is expected to reduce incidents of violence in schools, affecting thousands of children.
-
-### The solution
 
 Drawing on insights from the behavioral sciences and cognitive behavioral therapy, teachers take part in a 10-week intervention led by their own peers in which:
 
