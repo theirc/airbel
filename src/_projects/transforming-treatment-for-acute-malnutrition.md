@@ -15,8 +15,8 @@ description: >-
   malnutrition and to make it more accessible. Alongside an ambitious advocacy
   campaign, they have the potential to transform the way children with acute
   malnutrition are treated.
-hero_image:
-featured_image:
+hero_image: /uploads/20180614-southsudan-clomodong-20-header.jpeg
+featured_image: /uploads/20180614-southsudan-clomodong-20-feat.jpeg
 featured_video_url:
 resources:
   - title:
