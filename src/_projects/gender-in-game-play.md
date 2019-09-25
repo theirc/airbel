@@ -16,7 +16,7 @@ description: >-
   mechanisms with wide appeal, that can be easily integrated into workplace
   routines.
 hero_image:
-featured_image:
+featured_image: /uploads/gender-game-feat.jpg
 featured_video_url:
 resources:
   - title:
