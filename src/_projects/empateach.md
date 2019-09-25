@@ -7,7 +7,7 @@ stage: Rigorous Evaluation
 focuses:
   - education
 geolocation:
-  region:
+  region: Tanzania
   latitude:
   longitude:
 description: >-
@@ -15,8 +15,8 @@ description: >-
   settings by helping teachers learn positive discipline methods, change
   destructive thought patterns, and plan ahead for positive reactions to
   students’ misbehavior.
-hero_image:
-featured_image:
+hero_image: /uploads/empateach-header.jpg
+featured_image: /uploads/empateach-feat.jpeg
 featured_video_url:
 resources:
   - title:
