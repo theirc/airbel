@@ -3,7 +3,7 @@ layout: team_member
 name: Kathryn Falb
 role_title: Senior Reseacher
 focuses:
-  - economic-wellbeing
+  - safety
 expertise_areas:
   - research
 leadership: false
