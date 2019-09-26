@@ -5,7 +5,7 @@ end_date: 2018-09-14 00:00:00
 title: >-
   Evaluating the Potential Impact of Cash Transfers on Women’s Experience of
   Violence and Wellbeing in in Raqqa, Governorate, Syria
-featured: false
+featured: true
 evergreen: false
 focuses:
   - safety
