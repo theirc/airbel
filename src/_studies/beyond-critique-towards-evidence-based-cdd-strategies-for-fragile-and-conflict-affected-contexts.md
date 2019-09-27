@@ -9,7 +9,7 @@ focuses:
   - empowerment
 description:
 regions:
-  - Global
+  - Other
 image:
 partners:
   - name:
