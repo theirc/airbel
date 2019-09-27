@@ -2,8 +2,8 @@
 layout: project
 title: Ahlan Simsim
 tagline: Teaching the world’s most vulnerable children
-status: graduated
-stage: Pilot
+status: active
+stage: Rigorous Evaluation
 focuses:
   - education
 geolocation:
