@@ -4,7 +4,7 @@ start_date: 2018-01-01 00:00:00
 end_date: 2018-01-01 00:00:00
 title: >-
   Long-Term Risks and Benefits for Children Treated for Moderate Acute
-  Malnutrition Using Ready-to-Use Foods (FU-ComPAS)
+  Malnutrition Using Ready-to-Use Foods
 featured: false
 evergreen: false
 focuses:
