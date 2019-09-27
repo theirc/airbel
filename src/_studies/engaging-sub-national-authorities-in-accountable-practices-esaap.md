@@ -2,7 +2,7 @@
 layout: study
 start_date: 2019-01-01 00:00:00
 end_date: 2020-01-01 00:00:00
-title: Engaging Sub-national Authorities in Accountable Practices (ESAAP)
+title: Engaging Sub-national Authorities in Accountable Practices
 featured: false
 evergreen: true
 focuses:
