@@ -11,7 +11,7 @@ focuses:
   - safety
 description:
 regions:
-  -
+  - Burundi
 image:
 partners:
   - name: London School of Economics
