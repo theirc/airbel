@@ -11,7 +11,7 @@ focuses:
   - health
 description:
 regions:
-  - Côte d’Ivoire
+  - Ivory Coast
 image:
 partners:
   - name: Université de Montréal
