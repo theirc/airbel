@@ -1,0 +1,44 @@
+.homepage-template {
+  .logo-tagline {
+    opacity: 0;
+  }
+  .logo-wordmark {
+    transform: translateY(10px);
+  }
+}
+
+#mission {
+  h1 {
+    font-size: 3rem;
+    @include media-breakpoint-down(lg) {
+      font-size: 2.5rem;
+    }
+  }
+}
+
+#how {
+  .bg-image {
+    background-size: contain;
+    margin: -40px auto;
+    max-width: 70%;
+  }
+}
+
+#work-stats {
+  .bg-image {
+    background-size: contain;
+    width: 50%;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: $screen-md-min) {
+  #how {
+    .bg-image {
+      margin: -20px auto;
+    }
+  }
+  #focus {
+    background-image: url("/img/airbel-focus-illustration.png");
+  }
+}

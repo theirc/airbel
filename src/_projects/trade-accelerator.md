@@ -7,7 +7,7 @@ tagline: >-
 status: discontinued
 stage: Generate Solutions
 focuses:
-  - employment
+  - economic-wellbeing
 geolocation:
   region:
   latitude:

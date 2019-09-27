@@ -3,9 +3,9 @@ layout: project
 title: Urban Housing
 tagline: Seeking new solutions for host communities and displaced people
 status: active
-stage: Research
+stage: Design Research
 focuses:
-  - other
+  - empowerment
 geolocation:
   region: Jordan
   latitude: '31.963158'

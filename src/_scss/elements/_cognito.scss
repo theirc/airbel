@@ -1,0 +1,70 @@
+.cognito {
+  max-width: 100% !important;
+  .c-forms-form {
+    max-width: 100% !important;
+    .c-forms-heading {
+      display: none;
+    }
+    .c-label {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0,0,0,0);
+      border: 0;
+    }
+    .c-editor {
+      padding-left: 0;
+    }
+    input[type="text"],
+    input[type="email"],
+    select,
+    textarea {
+      padding: 15px;
+      color: $gray-600;
+      font-family: $commuter-sans;
+      font-weight: 600;
+      border: 1px solid $dark;
+    }
+    ::placeholder {
+      color: $dark;
+      font-family: $commuter-sans;
+    }
+    .c-validation {
+      border-radius: 0;
+      margin: 0 8px 0 0;
+      padding: 3px 5px;
+      background-color: $yellow !important;
+    }
+  }
+
+  .c-forms-confirmation-message {
+    padding: 30px !important;
+    text-align: center;
+    color: $dark;
+    background-color: $yellow;
+    font-size: 21px !important;
+  }
+
+  #c-submit-button {
+    background-color: $primary;
+    border-radius: 0;
+    border-color: $primary;
+    color: $dark;
+    font-weight: 600;
+    padding: 15px;
+    font-family: $proxima-nova;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  > div {
+    &:last-of-type {
+      a {
+        display: none !important;
+        visibility: hidden !important;
+      }
+    }
+  }
+}

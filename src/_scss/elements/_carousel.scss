@@ -1,0 +1,25 @@
+.carousel-control-prev,
+.carousel-control-next {
+  width: 50px;
+  background-image: none;
+  &::after {
+    content: '';
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-top: 1px solid $gray-900;
+    border-left: 1px solid $gray-900;
+  }
+}
+
+
+
+.carousel-control-prev {
+  left: -50px;
+  transform: rotate(-45deg);
+}
+
+.carousel-control-next {
+  right: -50px;
+  transform: rotate(135deg)
+}

@@ -14,8 +14,8 @@ description: >-
   Tunakujenga is a family learning program designed to empower caregivers to
   engage in nurturing and playful parenting to support their children’s social
   and emotional development.
-hero_image: /uploads/momsclub-3.png
-featured_image: /uploads/screen-shot-2018-09-23-at-20-12-41.png
+hero_image: /uploads/momsclub-3.jpg
+featured_image: /uploads/screen-shot-2018-09-23-at-20-12-41.jpg
 featured_video_url: 'https://youtu.be/IH1Fu0Q5jyg'
 resources:
   - title: Tunakujenga Github

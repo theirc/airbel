@@ -1,0 +1,30 @@
+<div class="row">
+  <div class="col-12">
+    <div class="content">
+      <ul class="nav nav-tabs flex-column flex-md-row" id="board-tabs" role="tablist">
+        {% for item in page.board_advisors_and_partners %}
+        {% assign slug = item.title | slugify %}
+        <li class="nav-item">
+          <a class="nav-link {% if forloop.first %}active{% endif %}" data-toggle="tab"
+            href="#{{ slug }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+      <div class="tab-content py-5" id="board-tab-content">
+        {% for item in page.board_advisors_and_partners %}
+        {% assign slug = item.title | slugify %}
+        <div class="tab-pane fade show bg-{{ slug }} {% if forloop.first %}active{% endif %}" id="{{ slug }}">
+          <div class="row">
+            {% for person in item.people %}
+              <div class="col-md-6 col-lg-4">
+                <h4>{{ person.name }} {% if person.medium_link %}<a href="{{ person.medium_link }}" target="_blank"><img src="/img/airbel-medium-icon.svg" class="img-fluid" alt="Medium Icon"></a>{% endif %}</h4>
+                <p><em>{{ person.description }}</em></p>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

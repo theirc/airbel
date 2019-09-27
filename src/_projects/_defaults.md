@@ -3,7 +3,7 @@ layout: project
 title: 
 tagline:
 status: active
-stage: Research
+stage: Design Research
 focuses: 
 geolocation:
   region:

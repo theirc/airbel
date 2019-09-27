@@ -1,0 +1,20 @@
+---
+layout: none
+---
+[
+  {% for study in site.studies %}
+  {% assign slug = study.focuses.first %}
+  {% assign focus = site.focuses | where: "slug", slug | first %}
+  {
+    "title": "{{ study.title }}",
+    "evergreen": {{ study.evergreen }},
+    "slug": "{{ slug }}",
+    "focus": "{{ focus.title }}",
+    "startDate": "{{ study.start_date | date: '%Y' }}",
+    "endDate": "{{ study.end_date | date: '%Y' }}",
+    "regions": [{% if study.regions.first != null %}{% for region in study.regions %}"{{region}}"{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}],
+    "publicationTypes": [{% if study.publications.first != null %}{% for publication in study.publications %}"{{publication.publication_type | default: 'other'}}"{% unless forloop.last %},{% endunless %}{% endfor %}{% endif %}],
+    "url": "{{ study.url }}"
+  }{% unless forloop.last %}, {% endunless %}
+  {% endfor %}
+]

@@ -1,0 +1,48 @@
+#featured-studies {
+
+}
+
+#publication-library {
+  .study-row {
+    p {
+      line-height: 1;
+    }
+  }
+  .filters {
+    @include media-breakpoint-down(md) {
+      .filter-title {
+        font-size: 13px;
+      }
+    }
+  }
+}
+.study-row {
+  align-items: center;
+  margin-top: 8px;
+  position: relative;
+  color: $dark;
+  border-left: 10px solid $dark;
+  &:hover {
+    text-decoration: none;
+    color: $dark;
+  }
+  
+  @include media-breakpoint-down(md) {
+    padding-bottom: 30px;
+  }
+  
+  h4 {
+    font-weight: 400;
+  }
+  .btn {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border-width: 10px 0 0 10px;
+    border-style: solid;
+    border-color: $white;
+    &:hover {
+      border-color: $white;
+    }
+  }
+}

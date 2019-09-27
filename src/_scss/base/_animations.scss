@@ -1,0 +1,41 @@
+@keyframes cardSlideIn {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 100%, 0);
+    visibility: visible;
+  }
+
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.card {
+    // Loop through the cards and delay the loading animation.
+  @for $i from 1 through 20 {
+    &:nth-child(#{$i}) {
+      @include animation(cardSlideIn, .8s, .1s * $i);
+    }
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0)
+  }
+}
+
+.team-list .team-item {
+    // Loop through the cards and delay the loading animation.
+  @for $i from 1 through 20 {
+    &:nth-child(#{$i}) {
+      @include animation(fadeInUp, .8s, .1s * $i);
+    }
+  }
+}

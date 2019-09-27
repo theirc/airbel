@@ -1,0 +1,106 @@
+// Color Palette TODO - Needs to adjust.
+// -------------------------
+
+
+$white:    #ffffff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #6c757d !default;
+$gray-700: #495057 !default;
+$gray-800: #343a40 !default;
+$gray-900: #212018;
+$black:    #000000 !default;
+$gray-alt: #f1efed;
+
+$blue:        #81e2f3;
+$blue-dark:   #196baf;
+$indigo:      #6610f2 !default;
+$purple:      #a135c9;
+$pink:        #e83e8c !default;
+$red:         #dc3545 !default;
+$orange:      #ef8f11;
+$orange-dark: #eF6B11;
+$yellow:      #fec938;
+$yellow-mid:  #e5af28;
+$yellow-dark: #d19b13;
+$green:       #69ad3d;
+$teal:        #20c997 !default;
+$cyan:        #7dd0e8 !default;
+
+$primary:       $yellow;
+$secondary:     #23405e;
+$success:       $green !default;
+$info:          $cyan !default;
+$warning:       $yellow;
+$danger:        $red !default;
+$light:         $gray-100;
+$dark:          $gray-900;
+
+
+$body-bg:               $white;
+$body-color:            $dark;
+
+// Fonts
+$roboto-condensed: "roboto-condensed", sans-serif;
+$azo: "azo-sans-web", sans-serif;
+$motiva-sans: "motiva-sans", sans-serif;
+$commuter-sans: "commuters-sans", sans-serif;
+$proxima-nova:  "proxima-nova", sans-serif;
+$font-family-base: $proxima-nova;
+
+
+
+$font-size-base:              1rem !default; // Assumes the browser default, typically `16px`
+$font-size-lg:                ($font-size-base * 1.25) !default;
+$font-size-sm:                ($font-size-base * .875) !default;
+
+$font-weight-light:           300 !default;
+$font-weight-normal:          400 !default;
+$font-weight-bold:            700 !default;
+
+$font-weight-base:            $font-weight-normal !default;
+$line-height-base:            1.7;
+
+
+
+$h1-font-size:                $font-size-base * 3;
+$h2-font-size:                $font-size-base * 1.8;
+$h3-font-size:                $font-size-base * 1.3;
+$h4-font-size:                $font-size-base * 1.2;
+$h5-font-size:                $font-size-base * 1.1;
+$h6-font-size:                $font-size-base !default;
+
+$headings-font-family:        $commuter-sans;
+$headings-font-weight:        800;
+$headings-line-height:        1.2 !default;
+$headings-color:              inherit !default;
+
+
+$border-radius:           0;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px
+) !default;
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px
+) !default;
+
+$screen-sm-min:           576px;
+$screen-md-min:           768px;
+$screen-lg-min:           992px;
+$screen-xl-min:           1200px;
+
+$screen-sm-max:           767px;
+$screen-md-max:           991px;
+$screen-lg-max:           1199px;

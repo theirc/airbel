@@ -5,7 +5,7 @@ tagline: 'Getting displaced people the information they need, when they need it'
 status: active
 stage: Generate Solutions
 focuses:
-  - other
+  - empowerment
 geolocation:
   region: Jordan
   latitude: '31.963158'

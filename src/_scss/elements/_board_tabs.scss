@@ -1,0 +1,109 @@
+#board-tabs {
+  border-color: $black;
+  .nav-item {
+    .nav-link {
+      color: $black;
+      padding-left: 30px;
+      border: 0;
+      font-family: $commuter-sans;
+      border-radius: 0;
+      @include media-breakpoint-down(lg) {
+        font-size: 15px;
+      }
+      &.active {
+        background-color: $black;
+        color: $white;
+      }
+      h4 {
+        img {
+          width: 35px;
+        }
+      }
+    }
+  }
+}
+
+#board-tab-content {
+  .tab-pane {
+    h4 {
+      img {
+        width: 35px;
+      }
+    }
+  }
+}
+
+#board-tabs-accordion {
+  .card-block {
+    margin-bottom: 5px;
+  }
+  .card-title {
+    margin-bottom: 0;
+    .nav-link {
+      &::after {
+        content: "";
+        border: solid $black;
+        border-width: 0 3px 3px 0;
+        display: inline-block;
+        padding: 3px;
+        position: absolute;
+        top: 25px;
+        right: 25px;
+        transform: rotate(-135deg);
+        pointer-events: none;
+        @include transition(.4s);
+      }
+      &.collapsed {
+        &::after {
+          transform: rotate(45deg);
+        }
+      }
+    }
+    a {
+      color: $dark;
+      font-weight: 400;
+      padding: 20px;
+    }
+    .collapse {
+      border-top: 5px solid $white;
+    }
+  }
+  .js-tabcollapse-card-block {
+    padding: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    h4 {
+      img {
+        width: 35px;
+      }
+    }
+    .btn {
+      &.btn-dark {
+        color: $white;
+        background-color: transparent;
+        border: 1px solid $white;
+      }
+    }
+  }
+  #education-collapse {
+    background-color: $blue;
+  }
+  #resettlement-collapse {
+    background-color: $orange;
+  }
+  #employment-collapse {
+    background-color: $blue-dark;
+  }
+  #nutrition-collapse {
+    background-color: $success;
+  }
+  #safety-collapse {
+    background-color: $danger;
+  }
+  #finance-collapse {
+    background-color: $primary;
+  }
+  #other-collapse {
+    background-color: $purple;
+  }
+}

@@ -7,7 +7,7 @@ tagline: >-
 status: active
 stage: Pilot
 focuses:
-  - resettlement
+  - empowerment
 geolocation:
   region: United States
   latitude: '33.74900'

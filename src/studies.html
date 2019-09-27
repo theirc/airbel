@@ -1,0 +1,74 @@
+---
+layout: default
+title: Publications
+featured_studies:
+  - >-
+    scaling-economic-opportunities-for-women-refugees-understanding-and-overcoming-obstacles-to-economic-empowerment
+  - >-
+    the-cost-effectiveness-of-accelerated-learning-programs-alp-and-the-added-value-of-on-site-coaching-on-the-learning-and-transition-outcomes-of-out-of-school-children-in-northern-nigeria
+  - rise-for-nutrition
+  - >-
+    participatory-development-in-fragile-and-conflict-affected-contexts-the-five-year-follow-up-of-the-tuungane-phase-i-and-the-evaluation-of-tuungane-phase-ii-in-eastern-drc
+  - >-
+    evaluating-the-potential-impact-of-cash-transfers-on-womens-experience-of-violence-and-wellbeing
+---
+
+<section id="featured-publications">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1 class="editable">Featured Studies</h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        {% for object in page.featured_studies %}
+        {% assign study = site.studies | where: "slug", object | first %}
+        {% assign slug = study.focuses.first %}
+        <div class="row study-row no-gutters bg-light border-{{ slug }}">
+          {% if study.image %}
+          <div class="col-md-5 col-lg-4">
+            <div class="bg-image aspect-1x1 ml-md-3 mt-md-3 ml-lg-0 mt-lg-0" style="background-image: url('{{ study.image }}')">
+            </div>
+          </div>
+          <div class="col-md-12 col-lg-8">
+            <div class="p-3 py-lg-2 px-lg-5">
+              <h3>
+                {% if study.focuses.first != null %}
+                {% assign focus = site.focuses | where: "slug", study.focuses.first | first %}
+                <span class="d-block mb-2">
+                  <em><small>{{ focus.title }}</small></em>
+                </span>
+                {% endif %}
+                {{ study.title }}
+              </h3>
+              <p>{{ study.description | truncate: 185 }}</p>
+            </div>
+          </div>
+          {% else %}
+          <div class="col-12">
+            <div class="p-5">
+              <h3>
+                {% if study.focuses.first != null %}
+                {% assign focus = site.focuses | where: "slug", study.focuses.first | first %}
+                <span class="d-block mb-2">
+                  <em><small>{{ focus.title }}</small></em>
+                </span>
+                {% endif %}
+                {{ study.title }}
+              </h3>
+              <p>{{ study.description | truncate: 185 }}</p>
+            </div>
+          </div>
+          {% endif %}
+          <a href="{{ study.url }}" class="btn btn-dark">Find out more</a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
+{% include components/StudyLibrary.html %}
+
+{% include bring-together.html%}

@@ -2,12 +2,17 @@
 .sass-cache
 .bundle
 .jekyll-metadata
+.jekyll-cache
 
-# Site build
-_site
+# Site build & Distribution
+dist
 
 # Logs
 *.log
 
 # Packages
 node_modules
+
+vendor/**/*
+
+gatsby/**/*

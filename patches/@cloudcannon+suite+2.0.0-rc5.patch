@@ -1,0 +1,57 @@
+diff --git a/node_modules/@cloudcannon/suite/packages/jekyll-dev/index.js b/node_modules/@cloudcannon/suite/packages/jekyll-dev/index.js
+index acc6827..c0b37b4 100644
+--- a/node_modules/@cloudcannon/suite/packages/jekyll-dev/index.js
++++ b/node_modules/@cloudcannon/suite/packages/jekyll-dev/index.js
+@@ -15,6 +15,7 @@ var configDefaults = {
+ 	},
+ 	tasks: [],
+ 	serve: {
++		middleware: [],
+ 		port: 4000,
+ 		open: true,
+ 		path: "/"
+@@ -115,10 +116,10 @@ module.exports = function (gulp, config) {
+ 		};
+ 
+ 		var child = childProcess.spawn("bundle", commands, {
+-				cwd: config.jekyll.src
+-			}).on("close", function () {
+-				done(null, output);
+-			});
++			cwd: config.jekyll.src
++		}).on("close", function () {
++			done(null, output);
++		});
+ 
+ 		child.stdout.on("data", readOutput);
+ 		child.stderr.on("data", readOutput);
+@@ -200,7 +201,7 @@ module.exports = function (gulp, config) {
+ 			}
+ 
+ 			log("Checking for local theme repo...");
+-			runBundleCommand(["config", "local." + theme], true, function(err, output) {
++			runBundleCommand(["config", "local." + theme], true, function (err, output) {
+ 				if (err) {
+ 					log(c.yellow("! running `bundle config` failed"));
+ 					return completeWatch();
+@@ -233,10 +234,10 @@ module.exports = function (gulp, config) {
+ 								try {
+ 									var itemPath = path.join(baseThemeWatch, item);
+ 									var stat = fs.lstatSync(itemPath);
+-									if(stat.isDirectory() && !folderIsIgnored(baseThemeWatch, item, ignores)) {
++									if (stat.isDirectory() && !folderIsIgnored(baseThemeWatch, item, ignores)) {
+ 										jekyllWatchFiles.push(path.relative(cwd, path.join(itemPath)) + "/**/*");
+ 									}
+-								} catch(err) {
++								} catch (err) {
+ 									console.error(err);
+ 								}
+ 							});
+@@ -267,6 +268,7 @@ module.exports = function (gulp, config) {
+ 			server: {
+ 				baseDir: config.jekyll.dest
+ 			},
++			middleware: config.serve.middleware,
+ 			port: config.serve.port,
+ 		});
+ 		done();

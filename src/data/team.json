@@ -1,0 +1,27 @@
+---
+layout: none
+---
+[
+  {% for member in site.team_members %}{
+    {% assign focus = site.focuses | where: "slug", member.focuses.first | first %}
+    "id": {{ forloop.index}},
+    "name": "{{ member.name }}",
+    "role_title": "{{ member.role_title }}",
+    "focus": "{{ focus.title }}",
+    "expertise_areas": [
+      {% for object in member.expertise_areas %}
+        {% assign area = site.expertise_areas | where: "slug", object | first %}
+         {
+           "title": "{{ area.title }}",
+           "slug": "{{ area.slug }}"
+          }
+        {% unless forloop.last%},{% endunless %}
+      {% endfor %}
+    ],
+    "leadership": "{{ member.leadership }}",
+    "image": "{{ member.image }}",
+    "bio": {% if member.content != null %}"{{ member.content | strip_newlines | replace: '"', '\"'  }}"{% else %}""{% endif %}
+  }{% unless forloop.last %},
+  {% endunless %}
+  {% endfor %}
+]

@@ -12,17 +12,26 @@
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
   <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-  <meta name="msapplication-TileColor" content="#2d89ef">
+  <meta name="msapplication-TileColor" content="#2b5797">
   <meta name="theme-color" content="#ffffff">
 
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
-  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.css' rel='stylesheet' />
+  <script type="text/javascript" src="//use.typekit.com/kdc7cba.js"></script>
+  <style type="text/css">
+    .tk-akzidenz-grotesk {
+      font-family: "akzidenz-grotesk", sans-serif;
+    }
+  </style>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/components/checkbox.min.css" />
+
+  <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
+  <link href="https://cdn.remixicon.com/releases/v2.0.0/remixicon.css" rel="stylesheet">
 
   <!-- JS -->
-  <script src="{{ '/assets/js/head.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ '/js/head_bundled.js' | prepend: site.baseurl }}"></script>
   <!-- Analytics -->
   {% include analytics.html %}
 </head>

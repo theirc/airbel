@@ -1,0 +1,99 @@
+# Site settings
+title: Airbel Center - Innovation at the IRC
+description: 'The Airbel Center is the innovation team at the International Rescue Committee. We develop products, services, and systems to improve humanitarian response—creating lasting impact for people affected by conflict and crisis.'
+email: dev@ocupop.com
+url: "https://icy-ship.cloudvent.net"
+permalink: pretty
+# analytics_code:
+
+twitter:
+  handle: airbel
+  image: assets/img/airbel_socialshare_twitter.jpg
+facebook:
+  image: assets/img/airbel_socialshare_facebook.jpg
+
+placeholders:
+  hero: https://via.placeholder.com/1800x500?text=Hero+image
+  thumbnail_4x3: https://via.placeholder.com/768x500?text=4x3
+  thumbnail_1x1:  https://via.placeholder.com/768x768?text=1x1
+
+# Collections
+collections:
+  projects:
+    output: true
+    layout: project
+    permalink: /projects/:path/
+  focuses:
+    output: true
+    layout: focus
+    permalink: /focuses/:title/
+  expertise_areas:
+    output: true
+    layout: expertise_area
+    permalink: /expertise-areas/:title/  
+  studies:
+    output: true
+    layout: study
+    permalink: /studies/:path/
+  team_members:
+    output: true
+    layout: team_member
+    permalink: /team/:path/  
+
+# Build settings
+safe: false
+sass:
+  # style: compressed
+  sass_dir: _scss
+
+plugins:
+  - jekyll-sitemap
+
+_options:
+  layout:
+    hidden: true
+  _block:
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    bold: true
+    italic: true
+    removeformat: true
+    link: true
+    undo: true
+    underline: true
+    blockquote: true
+    numberedlist: true
+    bulletedlist: true
+    image: true
+    embed: true
+    code: false
+    table: false
+    right: text-right
+    left: text-left
+    center: text-center
+
+statuses:
+  - active
+  - hidden
+  - discontinued
+  - graduated
+
+stages:
+  - Design Research
+  - Generate Solutions
+  - Prototype
+  - Pilot
+  - Rigorous Evaluation
+  - Scale
+
+publication_types:
+  - Abstract
+  - Academic
+  - Case Study
+  - Cost Analysis
+  - Factsheet
+  - Presentation
+  - Protocol
+  - Policy Brief
+  - Report
+  - Research Brief
+  - Website

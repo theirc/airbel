@@ -5,7 +5,7 @@ tagline: Laying mental health foundations to help displaced people rebuild
 status: active
 stage: Generate Solutions
 focuses:
-  - other
+  - health
 geolocation:
   region: Jordan
   latitude: '31.963158'

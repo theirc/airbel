@@ -1,7 +1,9 @@
 <header id="page-header">
   <div class="container">
-    <nav id="mainnav" class="navbar navbar-expand-md navbar-light">
-      <a class="navbar-brand" href="/"><img src="/assets/img/airbel-header-logo.svg" class="img-fluid" alt="Airbel Logo"></a>
+    <nav id="mainnav" class="navbar navbar-expand-lg navbar-light">
+      <a class="navbar-brand" href="/">
+        {% include svg/logo.svg %}
+      </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#primarynav" aria-controls="primarynav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="bar"></span>
         <span class="bar"></span>
@@ -13,7 +15,11 @@
             <a class="nav-link{% if page.url == '/portfolio/' %} active{% endif %}" href="/portfolio">Portfolio {% if page.url == '/portfolio/' %}<span class="sr-only">(current)</span>{% endif %}</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link{% if page.url == '/team/' %} active{% endif %}" href="/team">Team {% if page.url == '/team/' %}<span class="sr-only">(current)</span>{% endif %}</a>
+            <a class="nav-link{% if page.url == '/studies/' %} active{% endif %}" href="/studies">Studies
+              {% if page.url == '/studies/' %}<span class="sr-only">(current)</span>{% endif %}</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link{% if page.url == '/who-we-are/' %} active{% endif %}" href="/who-we-are">Who we are {% if page.url == '/who-we-are/' %}<span class="sr-only">(current)</span>{% endif %}</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="https://medium.com/airbel" target="_blank">Blog</a>
@@ -22,7 +28,7 @@
             <a class="nav-link bg-dark{% if page.url == '/get-in-touch/' %} active{% endif %}" href="/get-in-touch">Get In Touch {% if page.url == '/get-in-touch/' %}<span class="sr-only">(current)</span>{% endif %}</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://www.rescue.org/" target="_blank"><img src="/assets/img/irc-header.png" class="img-fluid"></a>
+            <a class="nav-link" href="https://www.rescue.org/" target="_blank"><img src="/img/irc-header.png" class="img-fluid"></a>
           </li>
         </ul>
       </div>
