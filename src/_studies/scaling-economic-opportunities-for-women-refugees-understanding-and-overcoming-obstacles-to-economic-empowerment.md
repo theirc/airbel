@@ -3,8 +3,8 @@ layout: study
 start_date: 2019-09-14 00:00:00
 end_date:
 title: >-
-  Scaling Economic Opportunities for Refugee Women: Understanding and Overcoming
-  Obstacles to Women’s  Economic Empowerment
+  Scaling economic opportunities for refugee women: Understanding and overcoming
+  obstacles to women’s economic empowerment
 featured: false
 evergreen: true
 focuses:
