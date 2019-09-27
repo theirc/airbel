@@ -1,7 +1,7 @@
 ---
 layout: study
 start_date: 2011-01-01 00:00:00
-end_date:
+end_date: 2011-01-01 00:00:00
 title: >-
   Assessing the State of Economic Wellbeing and Protection for Urban Refugees
   and Internally Displaced Persons in Thailand
