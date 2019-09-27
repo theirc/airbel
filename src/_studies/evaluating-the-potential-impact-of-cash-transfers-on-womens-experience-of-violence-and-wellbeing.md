@@ -9,7 +9,7 @@ featured: false
 evergreen: false
 focuses:
   - safety
-description:
+description: "The use of cash has been exponentially increasing in recent years as a mechanism to help households meet their basic needs in emergencies.\_ Yet, evidence from more stable contexts suggest that cash also has the potential to influence household dynamics and (mostly positively) impact women’s experiences of violence in the home, but little is known about this relationship in more insecure settings."
 regions:
   - Syria
 image:
