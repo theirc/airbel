@@ -2,7 +2,9 @@
 layout: study
 start_date: 2013-01-01 00:00:00
 end_date: 2013-01-01 00:00:00
-title: A Critical Review of CDD Programs in Conflict-Affected Contexts
+title: >-
+  A Critical Review of Community-Driven Development Programs in
+  Conflict-Affected Contexts
 featured: false
 evergreen: false
 focuses:
