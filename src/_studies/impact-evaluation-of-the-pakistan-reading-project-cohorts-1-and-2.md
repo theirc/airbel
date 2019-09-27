@@ -9,7 +9,7 @@ focuses:
   - education
 description:
 regions:
-  -
+  - Pakistan
 image:
 partners:
   - name:
