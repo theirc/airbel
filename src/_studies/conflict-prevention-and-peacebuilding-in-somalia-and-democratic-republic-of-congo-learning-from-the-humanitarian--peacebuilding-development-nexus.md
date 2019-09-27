@@ -4,7 +4,7 @@ start_date: 2018-01-01 00:00:00
 end_date: 2020-01-01 00:00:00
 title: >-
   Conflict Prevention and Peacebuilding in Somalia and Democratic Republic of
-  Congo: Learning from the Humanitarian- Peacebuilding-Development Nexus
+  Congo: Learning from the Humanitarian-Peacebuilding-Development Nexus
 featured: false
 evergreen: true
 focuses:
@@ -26,7 +26,9 @@ publications:
     publication_type:
 ---
 
-Violent conflicts have created a weak protective environment for communities in Somalia and the DRC. The IRC in partnership with the Benadar Regional Administration (BRA) in Mogadishu, Somalia and the Commission Dioc&eacute;saine pour la Justice et la Paix (CDJP) in Tanganyika province, DRC is seeking to implement a comprehensive program aimed at preventing violent conflict and supporting peace and state building processes and human security.” The program is designed to promote communities’ ability to participate in group dialogue as part of a process that provides them with increased access to services, while also enhancing the local government’s ability to engage with communities and support their needs, including response capacities to effectively mitigate and manage conflicts. In Somalia, the program focuses on access to, and capacities of, justice systems in Benadir Region (Mogadishu). In the DRC, the program will focus on conflict-affected Bantu and Twa communities by supporting increased access to equitable healthcare services in Tanganyia province.&nbsp;
+Violent conflicts have created a weak protective environment for communities in Somalia and the Democratic Republic of Congo (DRC). The IRC in partnership with the Benadar Regional Administration in Mogadishu, Somalia and the Commission Dioc&eacute;saine pour la Justice et la Paix in Tanganyika province, DRC is seeking to implement a comprehensive program aimed at preventing violent conflict and supporting peace and state building processes and human security.
+
+The program is designed to promote communities’ ability to participate in group dialogue as part of a process that provides them with increased access to services, while also enhancing the local government’s ability to engage with communities and support their needs, including response capacities to effectively mitigate and manage conflicts. In Somalia, the program focuses on access to, and capacities of, justice systems in Benadir Region (Mogadishu). In the DRC, the program will focus on conflict-affected Bantu and Twa communities by supporting increased access to equitable healthcare services in Tanganyia province.&nbsp;
 
 This project aims to determine whether the program’s theory of change in order to determine whether the program’s theory of change holds, through which mechanisms, and under which conditions.&nbsp;
 
