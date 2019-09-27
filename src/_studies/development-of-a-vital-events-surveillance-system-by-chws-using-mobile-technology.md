@@ -3,8 +3,8 @@ layout: study
 start_date: 2006-01-01 00:00:00
 end_date: 2012-01-01 00:00:00
 title: >-
-  Development of a Vital Events Surveillance System by CHWs Using Mobile
-  Technology
+  Development of a vital events surveillance system by community health workers
+  using mobile technology
 featured: false
 evergreen: false
 focuses:
