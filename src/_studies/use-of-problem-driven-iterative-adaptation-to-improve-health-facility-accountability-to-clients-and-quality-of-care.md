@@ -27,7 +27,7 @@ publications:
 
 In collaboration with IRC’s Governance Unit, this project is testing a participatory systems strengthening approach called “Problem-Driven Iterative Adaptation,” founded on four principles:
 
-1. focusing on specific problems as prioritised by local actors;
+1. focusing on specific problems as prioritized by local actors;
 2. fostering active, ongoing experimental iterations to turn ideas into solutions;
 3. establishing an “authorizing environment” for decision-making that encourages experimentation and “positive deviance”; and
 4. engaging broad sets of agents to ensure that reforms are viable, legitimate, and relevant.&nbsp;
