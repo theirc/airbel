@@ -2,14 +2,16 @@
 layout: study
 start_date: 2013-01-01 00:00:00
 end_date: 2014-01-01 00:00:00
-title: 'GBV Among Urban IDPs in Abidjan, Côte d’Ivoire'
+title: >-
+  Gender-Based Violence Among Urban Internally Displaced People in Abidjan, Côte
+  d’Ivoire
 featured: false
 evergreen: false
 focuses:
   - safety
 description:
 regions:
-  - Côte d’Ivoire
+  - Ivory Coast
 image:
 partners:
   - name: Yale University
