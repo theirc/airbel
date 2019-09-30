@@ -11,7 +11,7 @@ focuses:
   - safety
 description:
 regions:
-  -
+  - Liberia
 image:
 partners:
   - name: Duke University

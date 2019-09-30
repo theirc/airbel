@@ -4,14 +4,14 @@ start_date: 2010-01-01 00:00:00
 end_date: 2013-01-01 00:00:00
 title: >-
   Comparing Mental Health and Socio-Economic Programming for Survivors of Sexual
-  Violence in Eastern DRC
+  Violence in Eastern Democratic Republic of Congo
 featured: false
 evergreen: false
 focuses:
   - safety
 description:
 regions:
-  -
+  - Democratic Republic of Congo
 image:
 partners:
   - name: Johns Hopkins University
@@ -55,6 +55,6 @@ publications:
     publication_type: Academic
 ---
 
-This study aimed to identify low-cost, scalable interventions that demonstrably improve the mental, social, physical, and economic functioning of survivors of sexual violence living in eastern DRC. While social and economic development in&nbsp; conflict-affected areas like eastern DRC relies on populations who are ready and able to work, the psychological effects of conflict and sexual violence may mean that survivors living in these low-resource areas are less able&nbsp; to engage in economic opportunities even when they are available. Currently, little data exists on which strategies are most effective at helping survivor increase their ability to function.
+This study aimed to identify low-cost, scalable interventions that demonstrably improve the mental, social, physical, and economic functioning of survivors of sexual violence living in eastern Democratic Republic of Congo (DRC). While social and economic development in&nbsp; conflict-affected areas like eastern DRC relies on populations who are ready and able to work, the psychological effects of conflict and sexual violence may mean that survivors living in these low-resource areas are less able&nbsp; to engage in economic opportunities even when they are available. Currently, little data exists on which strategies are most effective at helping survivor increase their ability to function.
 
 This&nbsp; project&nbsp; investigated&nbsp; the impact of&nbsp; a mental health&nbsp; intervention (interpersonal&nbsp; psychotherapy) and a socio-economic&nbsp; program (VSLAs) on specific domains&nbsp; of social, physical, and economic functioning, and on the reduction of mental health problems associated&nbsp; with experiencing sexual violence, including depression, anxiety, and feelings of stigma and shame. While the program was diverse in terms of its elements and who received them, the evidence from this study suggests that&nbsp; a service program can improve the mental health and functioning of women affected by GBV.

@@ -27,6 +27,9 @@ resources:
   - title: How Data is Driving Implementation
     description:
     url: 'https://rescue.box.com/s/xigt4vi4i2qq41hsnwb69zyzisx82blv'
+  - title: Leveraging Behavioral Science to Improve Employment Outcomes
+    description:
+    url: 'https://rescue.box.com/s/egfbipc7fuenivnx1wxuge3gb3w3k3l0'
 articles:
   - title: >-
       Financial Times - Putting refugees to work: the greatest challenge in 2017

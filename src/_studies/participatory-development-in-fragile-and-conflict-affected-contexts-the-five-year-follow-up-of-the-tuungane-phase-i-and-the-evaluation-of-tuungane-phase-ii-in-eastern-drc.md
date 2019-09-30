@@ -8,26 +8,24 @@ title: >-
   in Eastern DRC
 featured: false
 evergreen: false
-focuses: 
+focuses:
   - empowerment
 description: >-
-  Community-Driven Reconstruction (CDR) is a widely applied and growing form of
-  intervention that takes a bottom-up approach to designing and implementing
-  development projects. It seeks to engage community members, encourage
-  deliberation, build social capital, foster more successful project
-  implementation, and ultimately align projects to the needs and preferences of
-  the communities that they are meant to serve.
+  This impact evaluation was designed to assess the long-term effects of the
+  Tuungane program’s phases 1 and 2, a large-scale community-driven
+  reconstruction program implemented in over 1,000 communities in the eastern
+  Democratic Republic of Congo.
 regions:
-  -
+  - Democratic Republic of Congo
 image: /uploads/20190510--oacland-goma--26.jpg
-partners: 
+partners:
   - name: Development Impact Evaluation Initiative of the World Bank
     link:
   - name: NYU/Abu Dhabi
     link:
   - name: Bristol University
     link:
-donors: 
+donors:
   - name: DFID
     link:
 publications:
@@ -37,11 +35,11 @@ publications:
   - title: Final report Tuungane Phase 1 Long Term
     link: >-
       https://www.rescue.org/report/participatory-development-fragile-and-conflict-affected-contexts-impact-evaluation-tuungane-1
-    publication_type:  
+    publication_type:
   - title: Final report Tuungane Phase 2
     link: >-
       https://www.rescue.org/report/participatory-development-fragile-and-conflict-affected-contexts-impact-evaluation-tuungane-2
-    publication_type:  
+    publication_type:
 ---
 
 Community-Driven Reconstruction (CDR) is a widely applied and growing form of intervention that takes a bottom-up approach to designing and implementing development projects. It seeks to engage community members, encourage deliberation, build social capital, foster more successful project implementation, and ultimately align projects to the needs and preferences of the communities that they are meant to serve. There is a growing body of impact evaluations that find mixed results on these scores. Yet, there is a paucity of long-run assessments of the effectiveness of CDR programs, even while CDR programs ultimately seek to foster long-term sustainable development.

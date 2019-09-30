@@ -101,11 +101,17 @@ milestones:
 
 Gender, power, and culture are familiar lenses used in the aid sector when thinking about programming. However, we don’t consistently turn those lenses on ourselves. The literature is rife with examples of gender bias in recruitment, workplace sexual harassment, and challenges women face in advancement. What is less obvious is how to counteract these issues, particularly in Asian workplaces, where the literature is silent. In recognition of these challenges, the IRC is conducting workshops, and undertaking efforts to roll out new guidance on areas such as hiring, protection, and HR policies.
 
+### The idea
+
 IRC-Asia partnered with Airbel to develop this concept. The Asia Regional Director and Gender Advisor hypothesized that a game or an app could appeal to a broad audience, even to colleagues for whom gender is not a priority. We believed that to be effective, colleagues must be engaged for prolonged periods, without a need for training or facilitation. Game play is a growing area of exploration by social research institutions for shifting attitudes and behaviors, making it an interesting starting place for our work.
+
+### The development
 
 The Asia team and Airbel collaborated to prototype different types of group, individual, digital, and analogue activities to better understand their appeal to colleagues in a work setting, as well as how they may be integrated into the workday. As a starting point, the team began looking at games which colleagues were already playing and how sensitive conversations happen in the workplace.
 
-Consequently, five different game prototypes were tested by IRC-Pakistan, IRC-Afghanistan, IRC-Malaysia and IRC IHUB in Nairobi. The prototypes included a mix of analog and digital games as well as individual play and team play games. The tests confirmed that a game-based approach has a strong potential for positively impacting on gender equality and inclusion in a workplace by:
+### Prototyping results
+
+Five different game prototypes were tested in Afghanistan, Malaysia, Pakistan, and IRC IHUB in Nairobi. The prototypes included a mix of analog and digital games as well as individual and team play games. Tests confirmed that a game-based approach has a strong potential for positively impacting on gender equality and inclusion in a workplace by:
 
 * Creating opportunities for male and female colleagues to interact informally within the egalitarian and participatory framework of the game;
 * Building women’s confidence to participate in a team and speak out in a group;
@@ -115,4 +121,4 @@ Consequently, five different game prototypes were tested by IRC-Pakistan, IRC-Af
 * Fostering inter-cultural understanding and promoting celebration of diversity; and
 * Creating opportunities to exercise a range of skills and qualities, e.g. listening, expressing oneself, decision-making, empathy, reflection, sense of humor, etc.
 
-Based on the overwhelmingly positive feedback and learning from these tests, the concept was further articulated to develop an interactive package that includes two card games accompanied by a manual and on-line/digital activities.
+Based on the overwhelmingly positive feedback and learning from these tests, the concept was further articulated to develop an interactive package that includes two card games accompanied by a manual and on-line and digital activities.

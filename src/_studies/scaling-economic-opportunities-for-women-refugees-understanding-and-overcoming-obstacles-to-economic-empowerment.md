@@ -1,10 +1,10 @@
 ---
 layout: study
 start_date: 2019-09-14 00:00:00
-end_date:
+end_date: 2019-01-01 00:00:00
 title: >-
   Scaling Economic Opportunities for Refugee Women: Understanding and Overcoming
-  Obstacles to Women’s  Economic Empowerment
+  Obstacles to Women’s Economic Empowerment
 featured: false
 evergreen: true
 focuses:
@@ -15,9 +15,9 @@ description: >-
   contexts, to understand the barriers and challenges displaced women face in
   entering and participating in the labor market.
 regions:
-  - Niger
-  - Kenya
   - Germany
+  - Kenya
+  - Niger
 image: /uploads/20170824-aoberstadt-dallas46.jpg
 partners:
   - name:

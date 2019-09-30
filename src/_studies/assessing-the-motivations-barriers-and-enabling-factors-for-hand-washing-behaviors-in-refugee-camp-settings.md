@@ -11,9 +11,9 @@ focuses:
   - health
 description:
 regions:
-  - Thailand
-  - Kenya
   - Ethiopia
+  - Kenya
+  - Thailand
 image:
 partners:
   - name: London School of Hygiene and Tropical Medicine

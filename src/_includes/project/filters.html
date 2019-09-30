@@ -1,7 +1,9 @@
 <div class="row align-items-center filters">
   <div class="col-12 col-md-4">
     <div class="content pb-0 mt-4">
-      <h2 class="editable">All Projects</h2>
+      <h2 class="editable">
+        All projects
+      </h2>
     </div>
   </div>
   <div class="col-6 col-md-4">
@@ -43,17 +45,11 @@
         </button>
         <ul class="dropdown-menu" data-filter-group="focus">
           <li class="dropdown-item">
-            <a class="filter"
-              data-filter=""
-              data-active-text="active-focus-filter"
-              data-mixitup-control>all</a>
+            <a class="filter" data-filter="" data-active-text="active-focus-filter" data-mixitup-control>all</a>
           </li>
           {% for focus in site.focuses %}
             <li class="dropdown-item">
-              <a class="filter"
-                data-filter=".{{ focus.title | slugify }}"
-                data-active-text="active-focus-filter"
-                data-mixitup-control>{{ focus.title }}</a>
+              <a class="filter" data-filter=".{{ focus.title | slugify }}" data-active-text="active-focus-filter" data-mixitup-control>{{ focus.title }}</a>
             </li>
           {% endfor %}
         </ul>
@@ -61,7 +57,7 @@
     </div>
   </div>
 </div>
-<hr>
+<hr />
 <div class="row">
   <div class="col-12">
     <div class="alert alert-filters bg-mid fade show" style="display:none;">
