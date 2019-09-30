@@ -3,8 +3,9 @@ layout: team_member
 name: Anjini Mishra
 role_title: 'Officer, Evidence to Action'
 focuses:
-expertise_areas: 
+expertise_areas:
   - using-evidence
 leadership: false
-image:
+image: /uploads/amishra-bw-web.jpg
 ---
+
