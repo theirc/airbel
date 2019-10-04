@@ -43,7 +43,7 @@ milestones:
   - date: 2018-07-01 00:00:00
     title: Scoping exercise to understand problem areas
     link: 'https://rescue.box.com/s/lv12bvv64p92w4n308df7pvl99mi2oe3'
-    link_title: Briefs on each problem area
+    link_title:
     description_markdown: >-
       Eight problem areas arose from various sources, including community-driven
       [Mahali lab](https://medium.com/airbel/mahali/home){: target="_blank"},
