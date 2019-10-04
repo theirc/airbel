@@ -35,7 +35,7 @@ milestones:
   - date: 2019-02-01 00:00:00
     title: Four focus areas selected for further ideation
     link: 'https://rescue.box.com/s/6b6hep76kjuz23273vpu9t1o05h8uwo5'
-    link_title: PowerPoint Presentation on Potential Focus Areas
+    link_title:
     description_markdown: >-
       Of the eight areas in which initial scoping was conducted, four were
       selected: voluntary and spontaneous returns; mental health; urban housing;
