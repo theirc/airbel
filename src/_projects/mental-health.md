@@ -26,7 +26,7 @@ articles:
 milestones:
   - date: 2019-08-01 00:00:00
     title: Design assessment kick-off
-    link:
+    link: 'https://rescue.box.com/s/wpsb3alw08p3v0mk57oz0la8cgzkvq9y'
     link_title:
     description_markdown: >-
       An assessment to better understand user experience of mental health and
