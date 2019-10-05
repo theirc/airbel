@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios'
+import { objectToArray } from '../../common/utils/helpers'
 
 const TeamContext = React.createContext([{}, () => { }]);
 
@@ -45,19 +46,20 @@ const TeamProvider = (props) => {
 
   function filterByString() {
     let matches = state.team.filter((teamMember) => {
+      if (state.filterString.value === 'all') {
+        return true
+      }
       if (state.filterString.value === 'leadership') {
         return teamMember.leadership
       } else {
-        const { focuses = '' } = teamMember
-        return focuses.toLowerCase().includes(state.filterString.value)
+        const expertiseAreas = objectToArray(teamMember.expertise_areas).map(area => area['slug'])
+
+        return expertiseAreas.includes(state.filterString.value)
       }
 
     })
 
-    const matched = matches.length > 0 ? true : false
-    const randomTeam = getRandomTeam()
-
-    setState(state => ({ ...state, filteredTeam: matches, isFiltered: matched, visibleTeam: randomTeam }))
+    setState(state => ({ ...state, filteredTeam: matches, chooseRandomTeam: true }))
   }
 
   function getRandomTeam() {
