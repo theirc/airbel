@@ -8,7 +8,7 @@
   opacity: 0;
   @include transition(right, 0.5s);
   background-color: $white;
-  z-index: 1000;
+  z-index: 0;
   font-size: 14px;
   line-height: 1.4;
   &.active {
@@ -35,7 +35,7 @@
   @include media-breakpoint-up(xl) {
     font-size: 17px;
   }
-  
+
   .close-details {
     position: absolute;
     right: 20px;
@@ -54,7 +54,7 @@
   width: 100%;
   margin-bottom: 75px;
   @include transition(0.5s);
-  @include media-breakpoint-up(md){
+  @include media-breakpoint-up(md) {
     display: flex;
     flex-wrap: nowrap;
     width: 100%;
@@ -111,32 +111,32 @@
       position: absolute;
       top: 0;
       left: 0;
-      &:nth-of-type(1){
+      &:nth-of-type(1) {
         top: 15%;
       }
-      &:nth-of-type(2){
+      &:nth-of-type(2) {
         left: 25%;
         margin-left: 25px;
       }
-      &:nth-of-type(3){
+      &:nth-of-type(3) {
         left: 50%;
         top: 12%;
       }
-      &:nth-of-type(4){
+      &:nth-of-type(4) {
         left: 75%;
       }
-      &:nth-of-type(5){
+      &:nth-of-type(5) {
         top: 50%;
         left: 15%;
       }
-      &:nth-of-type(6){
+      &:nth-of-type(6) {
         left: 60%;
         top: 55%;
       }
-      &:nth-of-type(7){
+      &:nth-of-type(7) {
         top: 75%;
       }
-      &:nth-of-type(8){
+      &:nth-of-type(8) {
         top: 70%;
         left: 34%;
       }
@@ -145,75 +145,75 @@
   &.layout-ver-2 {
     .team-item {
       @include media-breakpoint-up(md) {
-        &:nth-of-type(1){
+        &:nth-of-type(1) {
           top: 0;
         }
-        &:nth-of-type(2){
+        &:nth-of-type(2) {
           left: 22%;
           top: 10%;
           margin-left: 25px;
         }
-        &:nth-of-type(3){
+        &:nth-of-type(3) {
           left: 50%;
           top: 14%;
         }
-        &:nth-of-type(4){
+        &:nth-of-type(4) {
           left: 73%;
           top: 2%;
         }
-        &:nth-of-type(5){
+        &:nth-of-type(5) {
           top: 42%;
           left: 15%;
         }
-        &:nth-of-type(6){
+        &:nth-of-type(6) {
           left: 62%;
           top: 58%;
         }
-        &:nth-of-type(7){
+        &:nth-of-type(7) {
           top: 75%;
         }
-        &:nth-of-type(8){
+        &:nth-of-type(8) {
           top: 66%;
           left: 34%;
         }
-      }  
+      }
     }
   }
   &.layout-ver-3 {
     .team-item {
       @include media-breakpoint-up(md) {
-        &:nth-of-type(1){
+        &:nth-of-type(1) {
           top: 15%;
         }
-        &:nth-of-type(2){
+        &:nth-of-type(2) {
           left: 25%;
           top: 3%;
         }
-        &:nth-of-type(3){
+        &:nth-of-type(3) {
           left: 49%;
           top: 19%;
         }
-        &:nth-of-type(4){
+        &:nth-of-type(4) {
           left: 73%;
           top: 2%;
         }
-        &:nth-of-type(5){
+        &:nth-of-type(5) {
           top: 52%;
           left: 15%;
         }
-        &:nth-of-type(6){
+        &:nth-of-type(6) {
           left: 62%;
           top: 52%;
         }
-        &:nth-of-type(7){
+        &:nth-of-type(7) {
           top: 75%;
           left: 5%;
         }
-        &:nth-of-type(8){
+        &:nth-of-type(8) {
           top: 66%;
           left: 41%;
         }
-      }  
+      }
     }
   }
 }
