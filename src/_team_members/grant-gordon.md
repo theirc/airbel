@@ -4,7 +4,8 @@ name: Grant Gordon
 role_title: 'Director, Innovation Strategy'
 focuses:
 expertise_areas:
-leadership: false
+  - strategy
+leadership: true
 image: /uploads/team/grant.jpg
 ---
 
