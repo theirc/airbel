@@ -39,6 +39,11 @@ articles:
     url: >-
       https://medium.com/airbel/matching-jobs-to-job-seekers-in-jordan-d9c1c8bc00a5
 milestones:
+  - date: 2019-11-01 00:00:00
+    title: Randomized Control Trial concludes
+    link:
+    link_title:
+    description_markdown:
   - date: 2019-09-01 00:00:00
     title: 104 job placements made in the agricultural sector
     link:
@@ -46,11 +51,6 @@ milestones:
     description_markdown: >-
       Efforts to shift toward this agriculture sector proves effective as 104
       people are placed into jobs during the month of September
-  - date: 2019-11-01 00:00:00
-    title: Randomized Control Trial concludes
-    link:
-    link_title:
-    description_markdown:
   - date: 2019-03-01 00:00:00
     title: Exploration of new employment sectors
     link:
