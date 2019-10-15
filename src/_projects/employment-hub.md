@@ -43,7 +43,9 @@ milestones:
     title: Randomized Control Trial concludes
     link:
     link_title:
-    description_markdown:
+    description_markdown: >-
+      The rigorous evaluation conducted at the same time as the project is
+      implemented will come to a conclusion in November.
   - date: 2019-09-01 00:00:00
     title: 104 job placements made in the agricultural sector
     link:
