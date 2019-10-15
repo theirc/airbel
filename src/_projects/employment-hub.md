@@ -39,6 +39,13 @@ articles:
     url: >-
       https://medium.com/airbel/matching-jobs-to-job-seekers-in-jordan-d9c1c8bc00a5
 milestones:
+  - date: 2019-09-01 00:00:00
+    title: 104 job placements made in the agricultural sector
+    link:
+    link_title:
+    description_markdown: >-
+      Efforts to shift toward this agriculture sector proves effective as 104
+      people are placed into jobs during the month of September
   - date: 2019-11-01 00:00:00
     title: Randomized Control Trial concludes
     link:
@@ -164,13 +171,6 @@ milestones:
       Initial work around refugee employment begins with McKinsey and Company.
       This project includes idea generation, evidence review, and firm
       engagement.
-  - date: 2019-09-01 00:00:00
-    title: 104 job placements made in the agricultural sector
-    link:
-    link_title:
-    description_markdown: >-
-      Efforts to shift toward this agriculture sector proves effective as 104
-      people are placed into jobs during the month of September
 ---
 
 When mass displacement leads to mass unemployment, both refugees and vulnerable host populations are affected. &nbsp;Getting refugees into work, and growing the labor market, requires both innovative policy and innovative ideas. In 2016, the Government of Jordan and the international community forged the Jordan Compact, which aims to provide 200,000 employment opportunities to Syrian refugees. One part of the Compact is a set of incentives for employers to hire refugees. To support the Compact and inform the response to future crises, Project Match in Jordan is testing a set of new innovations for matching employers and job seekers.
