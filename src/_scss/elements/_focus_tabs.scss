@@ -23,6 +23,9 @@
   .tab-pane {
     padding: 30px 30px 50px;
     color: $white;
+    @include media-breakpoint-up(lg) {
+      min-height: 530px;
+    }
     .btn {
       position: absolute;
       bottom: 20px;
