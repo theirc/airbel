@@ -9,7 +9,7 @@ title: >-
 featured: false
 evergreen: true
 focuses:
-  - health
+  - empowerment
 description:
 regions:
   - Democratic Republic of Congo
