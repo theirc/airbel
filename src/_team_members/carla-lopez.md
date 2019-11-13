@@ -4,10 +4,10 @@ name: Carla Lopez
 role_title: 'Design Innovation Lead, Health'
 focuses:
   - health
-expertise_areas: 
+expertise_areas:
   - design
 leadership: false
-image: /uploads/team/carla.jpg
+image: /uploads/carla-web.jpg
 ---
 
 Carla’s background is a mash-up of global health, user-centered design, and implementing projects that reach millions of people. She is currently exploring how to work through private sector value chains to deliver micronutrients to last-mile markets and choice-based services to support caregivers to prevent severe acute malnutrition.
