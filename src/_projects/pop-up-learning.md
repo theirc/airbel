@@ -24,7 +24,7 @@ articles:
   - title:
     url:
 milestones:
-  - date: 2019-10-02 00:00:00
+  - date: 2019-11-01 00:00:00
     title: Bangladesh pilot launch
     link:
     link_title:
