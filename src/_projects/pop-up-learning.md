@@ -28,7 +28,10 @@ milestones:
     title: Bangladesh pilot launch
     link:
     link_title:
-    description_markdown:
+    description_markdown: >-
+      The Pop Up Learning pilot launched in Cox’s Bazaar, Bangladesh, aiming to
+      reach 600 kids of all ages. Children will learn on tablets in their homes
+      and in community centers.
   - date: 2019-05-01 00:00:00
     title: Prototyping takes in Bangladesh
     link:
