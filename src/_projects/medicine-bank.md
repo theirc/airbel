@@ -25,13 +25,6 @@ articles:
   - title:
     url:
 milestones:
-  - date: 2019-01-01 00:00:00
-    title: Project is incubated at Shamal Start
-    link:
-    link_title:
-    description_markdown: >-
-      [Shamal Start](http://www.shamalstart.com/) is an EU-funded business
-      incubator in the north of Jordan.
   - date: 2019-05-01 00:00:00
     title: Project wins internal grant
     link:
@@ -39,6 +32,13 @@ milestones:
     description_markdown: >-
       Project acquires funding through the IRC Innovation Fund to begin building
       out a web-based supply chain solution
+  - date: 2019-01-01 00:00:00
+    title: Project is incubated at Shamal Start
+    link:
+    link_title:
+    description_markdown: >-
+      [Shamal Start](http://www.shamalstart.com/) is an EU-funded business
+      incubator in the north of Jordan.
   - date: 2018-09-01 00:00:00
     title: Idea generated in Mahali Lab
     link: 'https://rescue.box.com/s/c1gx6emfywn7uyqpjno9sgtq3boz875x'
