@@ -25,14 +25,13 @@ articles:
   - title:
     url:
 milestones:
-  - date: 2019-05-01 00:00:00
+  - date: 2019-01-01 00:00:00
     title: Project is incubated at Shamal Start
     link:
     link_title:
     description_markdown: >-
       [Shamal Start](http://www.shamalstart.com/) is an EU-funded business
-      incubator in the north of Jordan. It's being created in collaboration with
-      Umniah, a cellular phone company.
+      incubator in the north of Jordan.
   - date: 2019-05-01 00:00:00
     title: Project wins internal grant
     link:
