@@ -29,6 +29,14 @@ articles:
     url: >-
       https://medium.com/airbel/a-move-away-from-camps-requires-a-collaborative-solution-for-housing-655c52817c95
 milestones:
+  - date: 2019-11-01 00:00:00
+    title: Partnership with MIT D-Lab
+    link:
+    link_title:
+    description_markdown: >-
+      MIT’s D-Lab class on human centered design is working with IRC to develop
+      ideas related to portable upgrades for the housing challenges that
+      refugees face.&nbsp;
   - date: 2019-02-01 00:00:00
     title: Four focus areas selected for further ideation
     link: 'https://rescue.box.com/s/6b6hep76kjuz23273vpu9t1o05h8uwo5'
