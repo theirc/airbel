@@ -38,12 +38,12 @@ milestones:
     link_title:
     description_markdown:
   - date: 2018-09-01 00:00:00
-    title: >-
-      Medicine Bank idea formed through Mahali lab's second design sprint on
-      improving healthcare
+    title: Idea incubated in Mahali lab
     link: 'https://rescue.box.com/s/c1gx6emfywn7uyqpjno9sgtq3boz875x'
     link_title:
-    description_markdown:
+    description_markdown: >-
+      The Medicine Bank idea came through Mahali lab's second design sprint on
+      improving healthcare
 ---
 
 Thousands of Syrian refugees and vulnerable Jordanians with chronic illness have limited or no access to the medications they need to live happy, healthy lives. Medicine can be purchased at high cost through pharmacies, or accessed through NGO medicine distributions. However, people must spend time and money to travel to distant distributions, where they navigate long lines and unreliable medicine availability away from their families and livelihoods.&nbsp;
