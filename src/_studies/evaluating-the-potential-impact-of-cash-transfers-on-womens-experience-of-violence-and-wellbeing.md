@@ -3,8 +3,8 @@ layout: study
 start_date: 2016-01-01 00:00:00
 end_date: 2019-01-01 00:00:00
 title: >-
-  Evaluating the Potential Impact of Cash Transfers on Women’s Experience of
-  Violence and Wellbeing
+  Evaluating the potential impact of cash transfers on women’s experience of
+  violence and wellbeing
 featured: false
 evergreen: false
 focuses:
@@ -28,8 +28,17 @@ publications:
     link: >-
       https://www.rescue-uk.org/irc-document/cash-transfers-raqqa-governorate-syria-policy-briefing
     publication_type: Policy Brief
-  - title: Journal article
+  - title: >-
+      Journal Article: Women’s status and qualitative perceptions of a cash
+      assistance programme in Raqqa Governorate, Syria
     link: 'https://www.tandfonline.com/doi/full/10.1080/13552074.2019.1624047'
+    publication_type: Academic
+  - title: >-
+      Journal article: Depressive symptoms among women in Raqqa Governorate,
+      Syria: associations with intimate partner violence, food insecurity, and
+      perceived needs
+    link: >-
+      https://www.cambridge.org/core/journals/global-mental-health/article/depressive-symptoms-among-women-in-raqqa-governorate-syria-associations-with-intimate-partner-violence-food-insecurity-and-perceived-needs/09CDA18D4F4856458EB239BA78896DBE
     publication_type: Academic
 ---
 
