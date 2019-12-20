@@ -24,6 +24,11 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2019-09-01 00:00:00
+    title: Desk reviews and key informant interviews conducted
+    link:
+    link_title:
+    description_markdown:
   - date: 2019-02-01 00:00:00
     title: Four focus areas selected for further ideation
     link: 'https://rescue.box.com/s/6b6hep76kjuz23273vpu9t1o05h8uwo5'
