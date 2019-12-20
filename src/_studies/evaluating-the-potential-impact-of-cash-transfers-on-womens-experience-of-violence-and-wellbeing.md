@@ -4,7 +4,7 @@ start_date: 2016-01-01 00:00:00
 end_date: 2019-01-01 00:00:00
 title: >-
   Evaluating the potential impact of cash transfers on women’s experience of
-  violence and wellbeing
+  violence and wellbeing in Raqqa Governate, Syria
 featured: false
 evergreen: false
 focuses:
@@ -47,3 +47,8 @@ The use of cash has been exponentially increasing in recent years as a mechanism
 This study, as part of DFID’s What Works to Prevent Violence Against Women and Girls research program, sought to explore the experiences of women when a typical humanitarian three-month-unconditional cash transfer was given to a household in an acute emergency.&nbsp; The study was conducted between March 2018 through August 2018 in Raqqa Governorate, Syria, which was selected as it mirrored an acute emergency given recent influxes of internally displaced persons fleeing airstrikes in Raqqa City and the withdrawal of ISIS occupation which offered renewed access to humanitarian organizations. A mixed methods pre-post test with lifeline history interviews was implemented with approximately 500 women.
 
 While we cannot confirm causality, results show that cash was widely appreciated by women and was successful in helping them meet their basic needs, reduce food insecurity, and decrease reliance on negative coping behaviors, like going into debt or begging.&nbsp; But concerning findings also emerged: between baseline and endline, intimate partner violence increased. The results highlight that it is imperative that cash programming be paired with appropriate risk mitigation measures and complementary, behaviorally-informed models need to be developed and tested to magnify the potential positive outcomes of cash for women in humanitarian settings.
+
+> **What Works programme - Syria cash study dataset**
+>
+>
+> The quantitative dataset from this study is available upon request. Please contact&nbsp;[airbel@rescue.org](mailto:airbel@rescue.org){: target="_blank"}&nbsp;to register your interest. Requests are usually processed within 5 working days.
