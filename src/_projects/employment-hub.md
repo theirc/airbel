@@ -44,8 +44,12 @@ milestones:
     link:
     link_title:
     description_markdown: >-
-      The rigorous evaluation conducted at the same time as the project is
-      implemented will come to a conclusion in November.
+      Project Match’s RCT came to a close on November 30. Results are to be
+      finalized from December to February. In this final phase of
+      implementation, the field team will focus on scaling the interventions
+      that our early results indicate were the most impactful, in particular the
+      job search planning tool.&nbsp; There have been 924 total hires over the
+      course of the project thus far.
   - date: 2019-09-01 00:00:00
     title: 104 job placements made in the agricultural sector
     link:
