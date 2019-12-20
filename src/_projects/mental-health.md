@@ -31,8 +31,8 @@ milestones:
       https://urldefense.proofpoint.com/v2/url?u=https-3A__rescue.us5.list-2Dmanage.com_track_click-3Fu-3D7f748acb8a9631e09a2f1bded-26id-3D8363edb751-26e-3D92cc6ba63a&d=DwMFaQ&c=0u3nQZwm2He4OdaqbWh55g&r=43LqJPqK0yXJuKx78wdpRiO_qd3IdBFNHfpo-AakBD4&m=lE7Fi6UDC3MyG1-vPqP8F9q864pclK_Pmp9rXYzoxzA&s=sIFFqXWapavjADEyt9HG9Ug2kvK2K2mdsGB1ZXhvrUY&e=
     link_title:
     description_markdown: >-
-      This month, the mental health team wrapped up the first phase of its work
-      with the development of five initial prototypes. These prototypes aim
+      This month, the mental health team wrapped up the idea generation phase of
+      work with the development of five initial prototypes. These prototypes aim
       to:&nbsp;
 
 
