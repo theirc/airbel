@@ -1,7 +1,7 @@
 ---
 layout: team_member
 name: Sheree Bennett
-role_title: 'Senior Advisor, Research and Evidence'
+role_title: Senior Research and Evidence Advisor
 focuses:
 expertise_areas:
   - using-evidence
