@@ -30,6 +30,10 @@ resources:
   - title: Leveraging Behavioral Science to Improve Employment Outcomes
     description:
     url: 'https://rescue.box.com/s/egfbipc7fuenivnx1wxuge3gb3w3k3l0'
+  - title: How project match leveraged human-centered design and behavioral insights
+    description:
+    url: >-
+      https://urldefense.proofpoint.com/v2/url?u=https-3A__rescue.us5.list-2Dmanage.com_track_click-3Fu-3D7f748acb8a9631e09a2f1bded-26id-3Dafe1814d5a-26e-3D92cc6ba63a&d=DwMFaQ&c=0u3nQZwm2He4OdaqbWh55g&r=43LqJPqK0yXJuKx78wdpRiO_qd3IdBFNHfpo-AakBD4&m=lE7Fi6UDC3MyG1-vPqP8F9q864pclK_Pmp9rXYzoxzA&s=LG7NSsAV-u-P0zvmaVVNKOMhMrc5JpbT4WsKaPB4gvk&e=
 articles:
   - title: >-
       Financial Times - Putting refugees to work: the greatest challenge in 2017
