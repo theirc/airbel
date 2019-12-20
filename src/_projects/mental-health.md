@@ -21,8 +21,9 @@ resources:
     description:
     url:
 articles:
-  - title:
-    url:
+  - title: Breaking down barriers to mental health services in Jordan
+    url: >-
+      https://medium.com/airbel/breaking-down-barriers-to-mental-health-services-in-jordan-89f31c0098a
 milestones:
   - date: 2019-12-01 00:00:00
     title: Five initial prototypes created
