@@ -3,7 +3,7 @@ layout: project
 title: Mental Health
 tagline: Laying mental health foundations to help displaced people rebuild
 status: active
-stage: Generate Solutions
+stage: Prototype
 focuses:
   - health
 geolocation:
@@ -82,6 +82,16 @@ milestones:
     description_markdown: >-
       Work underway to build a team and connect with relevant stakeholders in
       Jordan
+  - date: 2019-10-01 00:00:00
+    title: Key barriers identified
+    link:
+    link_title:
+    description_markdown: >-
+      Patients’ advocacy group and our Community Design Group worked together to
+      identify and prioritize barriers to accessing mental health treatment, as
+      well as some initial ideas for solutions.&nbsp;Some priority challenges
+      identified included: confidentiality, lack of trained service providers,
+      and lack of behavioral therapy services
 ---
 
 A growing body of research points to the outsized impact of mental health issues in the refugee population. Common mental health disorders like anxiety, depression, and post-traumatic stress disorder tend to double during emergencies, and tend to impact the most vulnerably most powerfully. Mental health issues and poverty also form a self-reinforcing cycle which can make it challenging for people to rebuild after facing trauma.
@@ -95,7 +105,7 @@ Some key areas in which support can be provided includes:
 * Focused non-specialized support, such as individual, family or group interventions, and ongoing care through community-based primary health care systems.
 * Specialized services, including clinical mental health care and specialized support for psychiatric disorders and trauma.
 
-There is increasing evidence that “non-specialist workers in primary-care and community settings can deliver mental health care with great effectiveness to a variety of populations.”. Therefore, opportunities for innovation may exist around:
+There is increasing evidence that “non-specialist workers in primary-care and community settings can deliver mental health care with great effectiveness to a variety of populations”. Therefore, opportunities for innovation may exist around:
 
 1. Standardizing outcomes and developing culturally sensitive assessment tools;
 2. Better articulating core principles for integrating mental health in various activities, such as social connections, exercise, and mindfulness; and
