@@ -25,6 +25,14 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2019-03-01 00:00:00
+    title: Handbook for humanitarian organizations under development
+    link:
+    link_title:
+    description_markdown: >-
+      This handbook will help organizations assess their communications plans
+      and evaluate how effectively they are reaching the communities they
+      target.&nbsp;
   - date: 2019-02-01 00:00:00
     title: Four focus areas selected for further ideation
     link: 'https://rescue.box.com/s/6b6hep76kjuz23273vpu9t1o05h8uwo5'
@@ -55,14 +63,6 @@ milestones:
       Two ideas for further exploration have emerged: natural language
       processing and machine learning and how communication spreads through
       community.
-  - date: 2019-03-01 00:00:00
-    title: Handbook for humanitarian organizations under development
-    link:
-    link_title:
-    description_markdown: >-
-      This handbook will help organizations assess their communications plans
-      and evaluate how effectively they are reaching the communities they
-      target.&nbsp;
 ---
 
 Displaced people live in challenging circumstances where accurate information can become difficult to obtain. Strengthening information flows can aid in decision-making and make their circumstances easier to manage.
