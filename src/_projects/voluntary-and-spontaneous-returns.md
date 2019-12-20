@@ -32,7 +32,7 @@ milestones:
   - date: 2019-02-01 00:00:00
     title: Four focus areas selected for further ideation
     link: 'https://rescue.box.com/s/6b6hep76kjuz23273vpu9t1o05h8uwo5'
-    link_title: PowerPoint Presentation on Potential Focus Areas
+    link_title:
     description_markdown: >-
       Of the eight areas in which initial scoping was conducted, four were
       selected: voluntary and spontaneous returns; mental health; urban housing;
@@ -40,7 +40,7 @@ milestones:
   - date: 2018-07-01 00:00:00
     title: Scoping exercise to understand problem areas
     link: 'https://rescue.box.com/s/lv12bvv64p92w4n308df7pvl99mi2oe3'
-    link_title: Briefs on each problem area
+    link_title:
     description_markdown: >-
       Eight problem areas arose from various sources, including community-driven
       [Mahali Lab](https://medium.com/airbel/mahali/home){: target="_blank"},
