@@ -47,6 +47,27 @@ milestones:
 
 
       Testing of these prototypes will begin in the new year.
+  - date: 2019-10-01 00:00:00
+    title: >-
+      Workshops identify and prioritize key barriers and generate potential
+      solutions
+    link:
+    link_title:
+    description_markdown: >-
+      Key barriers to accessing mental health treatment were identified, along
+      with some initial ideas for solutions.&nbsp;Some of the barriers
+      identified as most pressing included:
+
+
+      * lack of trained service providers
+
+      * people’s lack of awareness about mental health issues
+
+      * stigma around mental health issues
+
+      * limited trust in services
+
+      * confidentiality
   - date: 2019-08-01 00:00:00
     title: Design assessment kick-off
     link: 'https://rescue.box.com/s/wpsb3alw08p3v0mk57oz0la8cgzkvq9y'
@@ -82,27 +103,6 @@ milestones:
     description_markdown: >-
       Work underway to build a team and connect with relevant stakeholders in
       Jordan
-  - date: 2019-10-01 00:00:00
-    title: >-
-      Workshops identify and prioritize key barriers and generate potential
-      solutions
-    link:
-    link_title:
-    description_markdown: >-
-      Key barriers to accessing mental health treatment were identified, along
-      with some initial ideas for solutions.&nbsp;Some of the barriers
-      identified as most pressing included:
-
-
-      * lack of trained service providers
-
-      * people’s lack of awareness about mental health issues
-
-      * stigma around mental health issues
-
-      * limited trust in services
-
-      * confidentiality
 ---
 
 A growing body of research points to the outsized impact of mental health issues in the refugee population. Common mental health disorders like anxiety, depression, and post-traumatic stress disorder tend to double during emergencies, and tend to impact the most vulnerably most powerfully. Mental health issues and poverty also form a self-reinforcing cycle which can make it challenging for people to rebuild after facing trauma.
