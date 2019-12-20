@@ -59,6 +59,31 @@ milestones:
     description_markdown: >-
       Work underway to build a team and connect with relevant stakeholders in
       Jordan
+  - date: 2018-07-01 00:00:00
+    title: Five initial prototypes created
+    link:
+    link_title: >-
+      https://urldefense.proofpoint.com/v2/url?u=https-3A__rescue.us5.list-2Dmanage.com_track_click-3Fu-3D7f748acb8a9631e09a2f1bded-26id-3D8363edb751-26e-3D92cc6ba63a&d=DwMFaQ&c=0u3nQZwm2He4OdaqbWh55g&r=43LqJPqK0yXJuKx78wdpRiO_qd3IdBFNHfpo-AakBD4&m=lE7Fi6UDC3MyG1-vPqP8F9q864pclK_Pmp9rXYzoxzA&s=sIFFqXWapavjADEyt9HG9Ug2kvK2K2mdsGB1ZXhvrUY&e=
+    description_markdown: >-
+      This month, the mental health team wrapped up the first phase of its work
+      with the development of five initial prototypes. These prototypes aim
+      to:&nbsp;
+
+
+      1. bridge information gaps;
+
+      2. scale the number of care providers;
+
+      3. integrate mental health service provision into existing business
+      models; and
+
+      4. help people learn to identify mental health needs on their own.
+
+
+      You can find these prototypes
+      [here](https://urldefense.proofpoint.com/v2/url?u=https-3A__rescue.us5.list-2Dmanage.com_track_click-3Fu-3D7f748acb8a9631e09a2f1bded-26id-3D8363edb751-26e-3D92cc6ba63a&amp;d=DwMFaQ&amp;c=0u3nQZwm2He4OdaqbWh55g&amp;r=43LqJPqK0yXJuKx78wdpRiO_qd3IdBFNHfpo-AakBD4&amp;m=lE7Fi6UDC3MyG1-vPqP8F9q864pclK_Pmp9rXYzoxzA&amp;s=sIFFqXWapavjADEyt9HG9Ug2kvK2K2mdsGB1ZXhvrUY&amp;e=).
+      We are looking forward to the next phase of testing some of these in the
+      new year.
 ---
 
 A growing body of research points to the outsized impact of mental health issues in the refugee population. Common mental health disorders like anxiety, depression, and post-traumatic stress disorder tend to double during emergencies, and tend to impact the most vulnerably most powerfully. Mental health issues and poverty also form a self-reinforcing cycle which can make it challenging for people to rebuild after facing trauma.
