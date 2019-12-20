@@ -1,7 +1,7 @@
 ---
 layout: team_member
 name: Jeannie Annan
-role_title: Chief Scientist
+role_title: Chief Research and Innovation Officer
 focuses:
 expertise_areas:
 leadership: true
