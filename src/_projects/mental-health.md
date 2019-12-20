@@ -89,11 +89,9 @@ milestones:
     link:
     link_title:
     description_markdown: >-
-      Patients’ advocacy group, IRC's Community Design Group, the Mental Health
-      and Psychosocial Support Working Group, and other partners identified and
-      prioritized barriers to accessing mental health treatment, as well as some
-      initial ideas for solutions.&nbsp;Some priority challenges identified
-      included:
+      Key barriers to accessing mental health treatment were identified, along
+      with some initial ideas for solutions.&nbsp;Some of the barriers
+      identified as most pressing included:
 
 
       * lack of trained service providers
