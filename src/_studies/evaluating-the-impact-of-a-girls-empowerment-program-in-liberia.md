@@ -32,8 +32,6 @@ publications:
 
 Girl Empower is an innovative program designed to equip girls with the skills and experiences necessary to make healthy, strategic life choices and to stay safe from sexual exploitation and abuse. The Girl Empower program includes mentoring, asset building (life skills, financial literacy, and savings) and caregiver discussion groups.&nbsp; The IRC implemented the intervention in both Liberia and Ethiopia and conducted an impact evaluation in Liberia.&nbsp;
 
-&nbsp;
-
 Girl&nbsp; Empower&nbsp; was implemented&nbsp; in two treatment&nbsp; variations, called “GE”&nbsp; and “GE+”. Both GE and GE+&nbsp; consisted of 1) Girl Empower life&nbsp; skills curriculum, 2) facilitated by&nbsp; young female mentors from the community&nbsp; in safe spaces; 3) Caregiver discussion groups,&nbsp; facilitated by IRC staff; 4) Individual savings start-up for the girls; and 5) Capacity building for local health and psychosocial service providers. In the GE+ variation, the IRC added a participation incentive payment for the girls’ attendance in the program sessions, paid to their parents (conditional cash transfer).&nbsp; This rigorous impact evaluation of the Girl Empower program demonstrated that:
 
 * Adolescent &nbsp; girls in Nimba &nbsp; County, Liberia, are exposed to staggeringly high rates of sexual violence.&nbsp;
