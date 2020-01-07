@@ -46,6 +46,6 @@ Girl&nbsp; Empower&nbsp; was implemented&nbsp; in two treatment&nbsp; variations
 
 * Adolescent girls in Nimba County, Liberia, are exposed to staggeringly high rates of sexual violence.&nbsp;
 * The Girl Empower program filled a need in the community.&nbsp; Attendance rates of girls and their parents, even outside&nbsp; of the group that received the conditional cash transfer, were high over a period of 32 weekly sessions.
-* Girl&nbsp; Empower&nbsp; reduced rates&nbsp; of child marriage,&nbsp; teen pregnancies, and&nbsp; risky sexual behaviors,&nbsp; all of which were sustained&nbsp; one year after the end of the program.
+* Girl Empower reduced rates&nbsp; of child marriage,&nbsp; teen pregnancies, and&nbsp; risky sexual behaviors, all of which were sustained one year after the end of the program.
 * Girl Empower plus the cash incentive for participation (conditional cash transfer) reduced the likelihood of marriage and the number of sexual partners in the past 12 months and increased the sexual abstinence and condom use in the past 12 months by more than 50% compared to Girl Empower alone.
-* Girl&nbsp; Empower&nbsp; equipped adolescent&nbsp; females with important&nbsp; life skills and positively influenced gender attitudes.
+* Girl&nbsp; Empower equipped adolescent females with important life skills and positively influenced gender attitudes.
