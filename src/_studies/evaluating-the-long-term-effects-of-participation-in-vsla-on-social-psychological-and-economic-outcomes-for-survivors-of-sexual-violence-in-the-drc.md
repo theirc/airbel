@@ -2,7 +2,10 @@
 layout: study
 start_date: 2014-01-01 00:00:00
 end_date: 2015-01-01 00:00:00
-title: "Evaluating the Long-Term Effects of Participation in Village Savings and Loans Associations on Social, Psychological, and \_Economic Outcomes \_for \_Survivors \_of \_Sexual Violence in the DRC"
+title: >-
+  Evaluating the Long-Term Effects of Participation in Village Savings and Loans
+  Associations on Social, Psychological, and Economic Outcomes for Survivors of
+  Sexual Violence in the DRC
 featured: false
 evergreen: false
 focuses:
@@ -19,8 +22,15 @@ donors:
     link:
 publications:
   - title: >-
-      Economic, social and mental health impacts of an economic intervention for
-      female sexual violence survivors in Eastern Democratic Republic of Congo
+      Journal: Stigma modifies the association between socialsupport and mental
+      health among sexual violencesurvivors in the Democratic Republic of
+      Congo:implications for practice
+    link:
+    publication_type:
+  - title: >-
+      Journal: Economic, social and mental health impacts of an economic
+      intervention for female sexual violence survivors in Eastern Democratic
+      Republic of Congo
     link: 'https://rescue.box.com/s/ukccnpvmjdqiw0hl90e6amr1kz5dc7s2'
     publication_type: Academic
 ---
