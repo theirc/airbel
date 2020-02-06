@@ -31,7 +31,8 @@ publications:
       Journal: Understanding the menstrual hygiene management challenges facing
       displaced girls and women: findings from qualitative assessments in
       Myanmar and Lebanon
-    link:
+    link: >-
+      https://conflictandhealth.biomedcentral.com/articles/10.1186/s13031-017-0121-1
     publication_type: Academic
   - title: 'Journal: Making the Case for a Female-Friendly Toilet'
     link: 'https://www.mdpi.com/2073-4441/10/9/1193'
