@@ -36,6 +36,9 @@ publications:
   - title: Research Brief | Elrha
     link: 'https://www.elrha.org/project/irc-menstrual-hygiene-call2/'
     publication_type:
+  - title: 'Journal: Making the Case for a Female-Friendly Toilet'
+    link: 'https://www.mdpi.com/2073-4441/10/9/1193'
+    publication_type: Academic
 ---
 
 MHM is a truly cross-sectoral challenge that affects women and girls’ health, protection, and wellbeing. There is a dearth of guidance for humanitarian actors on how to meet menstrual hygiene management needs across sectors in a comprehensive manner during emergencies. The objectives of the study are to develop and describe the implementation of a coordinated response integrating menstrual hygiene management, and to tie the components of the response to measurable outcomes for programming in acute emergencies. A cross-sectoral research team developed a toolkit and defined health and social outcomes for the evaluation of integrated responses.
