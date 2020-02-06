@@ -37,7 +37,7 @@ publications:
     link: 'https://rescue.box.com/s/akl2g3ugwv0ckqbo8y5p5zztz225rdnk'
     publication_type: Research Brief
   - title: >-
-      COMPASS   program: Multi-country study protocol to protect girls from
+      COMPASS program: Multi-country study protocol to protect girls from
       violence in humanitarian settings
     link: 'https://rescue.box.com/s/z7yuinwyfplxlxg18t7dmcgshf05uwet'
     publication_type: Academic
@@ -71,6 +71,17 @@ publications:
       affected female adolescents: a multi-country, cross-sectional study
     link: 'https://rescue.box.com/s/spolnaads27ixnyqzx82kbz82orx35xn'
     publication_type: Academic
+  - title: >-
+      Journal: How gender and violence related norms affect self-esteem among
+      adolescent refugee girls living in Ethiopia.
+    link: >-
+      https://www.cambridge.org/core/journals/global-mental-health/article/how-gender-and-violencerelated-norms-affect-selfesteem-among-adolescent-refugee-girls-living-in-ethiopia/8911BCBA072D18CD26FD4B14515767A0
+    publication_type: Academic
+  - title: >-
+      Journal: The school participation effect: investigating violence and
+      formal education among girls in the Democratic Republic of the Congo
+    link: 'https://www.tandfonline.com/doi/abs/10.1080/03057925.2018.1464384'
+    publication_type:
 ---
 
 Significant&nbsp; gaps persist&nbsp; in the evidence&nbsp; base on the most&nbsp; effective interventions&nbsp; to prevent violence against&nbsp; adolescent girls aged 10–19 years old in humanitarian crisis settings. The COMPASS program (Creating Opportunities &nbsp; through Mentorship, Parental involvement, and Safe Spaces) provides opportunities for girls to gain life skills and build assets to protect against and respond to GBV through mentorship, learning, and peer&nbsp; interaction in safe spaces and is combined with capacity-building activities to improve the ability of service providers and caregivers to address the specific needs of young girls. The feasibility, acceptability, and impact of these activities on reducing violence experienced by young girls were being assessed in Ethiopia, the DRC, and Pakistan.&nbsp;
