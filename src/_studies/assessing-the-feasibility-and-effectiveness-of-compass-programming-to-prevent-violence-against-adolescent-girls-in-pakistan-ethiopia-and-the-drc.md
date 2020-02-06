@@ -82,6 +82,12 @@ publications:
       formal education among girls in the Democratic Republic of the Congo
     link: 'https://www.tandfonline.com/doi/abs/10.1080/03057925.2018.1464384'
     publication_type:
+  - title: >-
+      Report: A Safe Place to Shine - Creating Opportunities and Raising Voices
+      of Adolescent Girls in Humanitarian Settings
+    link: >-
+      https://www.rescue-uk.org/sites/default/files/document/1577/irccompassglobalreport.pdf
+    publication_type:
 ---
 
 Significant&nbsp; gaps persist&nbsp; in the evidence&nbsp; base on the most&nbsp; effective interventions&nbsp; to prevent violence against&nbsp; adolescent girls aged 10–19 years old in humanitarian crisis settings. The COMPASS program (Creating Opportunities &nbsp; through Mentorship, Parental involvement, and Safe Spaces) provides opportunities for girls to gain life skills and build assets to protect against and respond to GBV through mentorship, learning, and peer&nbsp; interaction in safe spaces and is combined with capacity-building activities to improve the ability of service providers and caregivers to address the specific needs of young girls. The feasibility, acceptability, and impact of these activities on reducing violence experienced by young girls were being assessed in Ethiopia, the DRC, and Pakistan.&nbsp;
