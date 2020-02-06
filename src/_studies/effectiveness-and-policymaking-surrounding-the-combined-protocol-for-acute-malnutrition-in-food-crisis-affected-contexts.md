@@ -21,7 +21,7 @@ donors:
     link: >-
       https://www.elrha.org/programme/research-for-health-in-humanitarian-crises/
 publications:
-  - title: Project site
+  - title: Research Brief
     link: >-
       https://www.elrha.org/project/effectiveness-policymaking-surrounding-combined-protocol-treatment-acute-malnutrition-food-crisis-affected-contexts/
     publication_type: Website
