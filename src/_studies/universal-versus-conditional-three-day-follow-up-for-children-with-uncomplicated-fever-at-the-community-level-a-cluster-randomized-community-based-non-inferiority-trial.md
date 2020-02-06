@@ -23,8 +23,8 @@ donors:
   - name: USAID
     link:
 publications:
-  - title:
-    link:
+  - title: Study Protocol
+    link: 'https://rescue.app.box.com/s/1k3ihex7gse4gihnuwc73q3p3hm5pyco'
     publication_type:
 ---
 
