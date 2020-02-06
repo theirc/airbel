@@ -26,13 +26,13 @@ donors:
     link:
 publications:
   - title: >-
-      Girl Empower – A gender transformative mentoring and cash transfer
-      intervention to promote adolescent wellbeing: Impact findings from a
-      cluster-randomized controlled trial in Liberia
+      Journal: Girl Empower – A gender transformative mentoring and cash
+      transfer intervention to promote adolescent wellbeing: Impact findings
+      from a cluster-randomized controlled trial in Liberia
     link: >-
       https://www.sciencedirect.com/science/article/pii/S2352827319300345?via%3Dihub
     publication_type: Academic
-  - title: Girl Empower Impact Evaluation Report
+  - title: Impact Evaluation Report
     link: 'https://www.rescue.org/report/girl-empower-impact-evaluation'
     publication_type: Report
   - title: Video from the field
