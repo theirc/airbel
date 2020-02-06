@@ -38,6 +38,11 @@ publications:
       women’s social and economic empowerment programming
     link: 'https://rescue.box.com/s/fkotj4nn7bjgn4gjyj8n0sbkg9kf6az8'
     publication_type: Academic
+  - title: >-
+      Journal: Differential Impacts of an Intimate Partner Violence
+      PreventionProgram Based on Child Marriage Status in Rural Côte d’Ivoire
+    link:
+    publication_type:
 ---
 
 Building on a study conducted in Burundi, this project evaluated whether participation in a savings group and a discussion group confronting gender&nbsp; norms leads to an increase in women’s individual agency and decision-making ability, and whether those increased capacities will in turn improve their economic independence and decrease intimate partner violence in their homes. The baseline was completed in 2010, and a survey measuring the impacts of the 2010–2011 political conflict on participants in the savings groups was completed in 2011.&nbsp; The study found that pairing a dialogue group that engages couples on household gender dynamics with an economic empowerment program for women was more effective in reducing intimate partner violence in conflict-affected communities in C&ocirc;te d’Ivoire than the economic empowerment program alone.
