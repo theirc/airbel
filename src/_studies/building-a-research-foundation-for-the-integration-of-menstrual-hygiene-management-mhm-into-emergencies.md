@@ -22,8 +22,19 @@ donors:
   - name:
     link:
 publications:
-  - title: elrha
+  - title: >-
+      Journal: Pilot testing and evaluation of a toolkit for menstrual hygiene
+      management in emergencies in three refugee camps in Northwest Tanzania
+    link: 'https://link.springer.com/article/10.1186/s41018-018-0034-7'
+    publication_type: Academic
+  - title: >-
+      Journal: Understanding the menstrual hygiene management challenges facing
+      displaced girls and women: findings from qualitative assessments in
+      Myanmar and Lebanon
     link:
+    publication_type: Academic
+  - title: Research Brief | Elrha
+    link: 'https://www.elrha.org/project/irc-menstrual-hygiene-call2/'
     publication_type:
 ---
 
