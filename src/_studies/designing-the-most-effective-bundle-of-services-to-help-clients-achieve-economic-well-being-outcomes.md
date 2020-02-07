@@ -6,7 +6,7 @@ title: >-
   Designing the most effective bundle of services to help clients achieve
   economic well-being outcomes
 featured: false
-evergreen: false
+evergreen: true
 focuses:
   - economic-wellbeing
 description: >-
