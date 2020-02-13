@@ -1,11 +1,11 @@
 ---
 layout: expertise_area
-title: Project Management
+title: Innovative Finance
 description: >-
-  Running a humanitarian project requires substantial skill and knowledge of key
-  implementation challenges in the field. Strong project management enables us
-  to reach impactful outcomes, stronger research findings, and scalable,
-  life-changing solutions.
+  Global humanitarian budgets are not keeping pace with our clients’ increasing,
+  and increasingly complex, needs. We are designing and testing new approaches
+  to raising finance for our clients, and impactful new ways to use funds
+  before, during and after displacement.
 icon_path: /img/icons/expertise-icon-projmang-white.png
 ---
 
