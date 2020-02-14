@@ -5,7 +5,7 @@ role_title: Chief Research and Innovation Officer
 focuses:
 expertise_areas:
 leadership: true
-image: /uploads/jeannie-bw-web.jpg
+image: /uploads/annan-bw-web.jpg
 ---
 
 Jeannie Annan, PhD, is the IRC’s Chief Research and Innovation Officer, spearheading the agency’s efforts to design, test, and scale life-changing solutions for people affected by conflict and disaster. Jeannie co-founded The Airbel Impact Lab, as part of the IRC’s investment in research and innovation that improves scale and impact.
