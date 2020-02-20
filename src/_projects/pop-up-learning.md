@@ -68,11 +68,13 @@ We are currently piloting autonomous learning with the Rohingya community in Ban
 
 ### How it works
 
-Personalized, adaptive technology serves to enable children with the tools needed to reach their development potential regardless of environmental circumstances. Autonomous learning can:
+Personalized, adaptive technology serves to enable children with the tools needed to reach their development potential regardless of environmental circumstances.
 
-1. Low cost, flexible and mobile technology enables deployments in homes, centers, schools. Learning can happen anywhere, at anytime.
-2. Interactive, engaging and adaptive learning games enable children to learn at their level.
-3. Thoughtful human support guides children through their learning, without the need for academic expertise, which can be difficult to find in crisis contexts.
+Autonomous learning includes:
+
+1. Low cost, flexible and mobile technology which enables deployments in homes, centers, schools. Learning can happen anywhere, at anytime.
+2. Interactive, engaging and adaptive learning games which enable children to learn at their level.
+3. Thoughtful human support which guides children through their learning, without the need for people with academic expertise, which can be difficult to find in crisis contexts.
 
 Pop-Up aims to fill the critical educational gaps in a displaced child’s life, providing some sense of normalcy, continuity and critical foundational skills while formal education is being established. This product will make it possible to rapidly deploy learning programs in emergencies where no formal education is available and in a way that supports an eventual transition to formal schools.
 
