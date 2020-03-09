@@ -19,8 +19,8 @@ donors:
     link: >-
       https://www.usaid.gov/who-we-are/organization/bureaus/bureau-democracy-conflict-and-humanitarian-assistance/office-us
 publications:
-  - title: Final report
-    link: 'https://rescue.box.com/s/qzmtzjgbaqhggriz49j344kt6676iy5d'
+  - title:
+    link:
     publication_type: Report
 ---
 
