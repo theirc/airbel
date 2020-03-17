@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios'
 import { objectToArray } from '../../common/utils/helpers'
+import { getUrlParam } from '../../helpers'
 
 const TeamContext = React.createContext([{}, () => { }]);
 
@@ -12,12 +13,23 @@ const TeamProvider = (props) => {
     chooseRandomTeam: false,
     isFiltered: false,
     filterString: '',
-    selectedTeamMember: null
+    selectedTeamMember: null,
+    urlFilter: ''
   });
+  const { history } = window;
+  const filterString = getUrlParam(`filterString`) || 'all';
+
 
   useEffect(async () => {
     const team = await axios('/data/team.json')
-    setState({ ...state, team: team.data, filteredTeam: team.data, chooseRandomTeam: true })
+    // Show all team with headshots
+    const teamWithHeadshots = team.data.filter(teamMember => {
+      return teamMember.image !== '' ? true : false
+    })
+
+    const filteredTeam = filterByString({ team: teamWithHeadshots, filterString })
+
+    setState({ ...state, team: team.data, filteredTeam: filteredTeam, chooseRandomTeam: true })
 
   }, [])
 
@@ -29,38 +41,34 @@ const TeamProvider = (props) => {
   }, [state.chooseRandomTeam])
 
   useEffect(() => {
-    if (state.filterString === '') {
-      // Show all team with headshots
-      const teamWithHeadshots = state.team.filter(teamMember => {
-        return teamMember.image !== '' ? true : false
-      })
+    const { team, filterString } = state
+    if (filterString) {
+      const filteredTeam = filterByString({ team, filterString })
 
-      setState(state => ({ ...state, filteredTeam: teamWithHeadshots }))
+      history.pushState({}, "", `?filterString=${filterString}`)
 
-    } else {
-      // Show only matching team members
-      filterByString()
+      setState({ ...state, filteredTeam, chooseRandomTeam: true })
     }
+
   }, [state.filterString]);
 
-
-  function filterByString() {
-    let matches = state.team.filter((teamMember) => {
-      if (state.filterString.value === 'all') {
+  function filterByString({ filterString, team }) {
+    let filteredTeam = team.filter((teamMember) => {
+      if (filterString === 'all') {
         return true
       }
-      if (state.filterString.value === 'leadership') {
+      if (filterString === 'leadership') {
         return teamMember.leadership
       } else {
         const expertiseAreas = objectToArray(teamMember.expertise_areas).map(area => area['slug'])
 
-        return expertiseAreas.includes(state.filterString.value)
+        return expertiseAreas.includes(filterString)
       }
-
     })
 
-    setState(state => ({ ...state, filteredTeam: matches, chooseRandomTeam: true }))
+    return filteredTeam
   }
+
 
   function getRandomTeam() {
     const randomTeam = state.filteredTeam.filter(teamMember => {

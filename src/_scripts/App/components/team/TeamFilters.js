@@ -5,6 +5,7 @@ import { TeamContext } from './TeamContext'
 
 const TeamFilters = () => {
   const [state, setState] = useContext(TeamContext)
+
   return (
     <>
       <div className="row">
@@ -29,7 +30,7 @@ const TeamFilters = () => {
             <SelectInput
               name="teamFilter"
               options={groupedTeamOptions}
-              onChange={(option) => setState(state => ({ ...state, filterString: option }))}
+              onChange={({ value: filterString }) => setState(state => ({ ...state, filterString }))}
               placeholder="All..."
               isMulti={false}
             />
