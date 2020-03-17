@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios'
 import { objectToArray } from '../../common/utils/helpers'
-import { getUrlParam } from '../../helpers'
-
+// import { getUrlParam } from '../../helpers'
+const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
 const TeamContext = React.createContext([{}, () => { }]);
 
 const TeamProvider = (props) => {
@@ -17,7 +18,7 @@ const TeamProvider = (props) => {
     urlFilter: ''
   });
   const { history } = window;
-  const filterString = getUrlParam(`filterString`) || 'all';
+  const filterString = urlParams.get('filterString') || 'all';
 
 
   useEffect(async () => {
