@@ -19,15 +19,18 @@ donors:
   - name: OFDA
     link:
 publications:
-  - title: Final report
-    link: 'https://rescue.box.com/s/qzmtzjgbaqhggriz49j344kt6676iy5d'
-    publication_type: Report
   - title: Research brief
     link: 'https://rescue.box.com/s/05c92pbkkcbqkjm8louxpnj8wsccqn9w'
     publication_type:
-  - title: Research annex
+  - title: Final report
+    link: 'https://rescue.box.com/s/qzmtzjgbaqhggriz49j344kt6676iy5d'
+    publication_type: Report
+  - title: Report Annex A
     link: 'https://rescue.box.com/s/gsi1l6w0jwlw4am1mt1i9xybq6ialp94'
     publication_type:
+  - title: Report Annex B
+    link: 'https://rescue.box.com/s/b7vin968ftawinnelv17e4jl90clyaj9'
+    publication_type: Report
 ---
 
 Cash relief is an intervention that has proven to be one of the most effective and well-evidenced tools to help vulnerable people survive and recover in emergencies. With an increase in the use of multipurpose cash grants to help households affected by crises to meet a variety of needs, it is necessary to understand the extent to which cash assistance will be useful in enabling individuals to achieve health outcomes.&nbsp;
