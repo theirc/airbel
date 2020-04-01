@@ -1,7 +1,7 @@
 ---
 layout: team_member
 name: Soha Osman
-role_title:
+role_title: Project Match Research Specialist
 focuses:
   - economic-wellbeing
 expertise_areas:
