@@ -1,7 +1,7 @@
 ---
 layout: team_member
 name: Kayla Hoyer
-role_title: Cost Analysis Officer
+role_title: 'Analyst, Best Use of Resources'
 focuses:
 expertise_areas:
   - cost-efficiency
