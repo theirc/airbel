@@ -1,7 +1,7 @@
 ---
 layout: team_member
 name: Yijun Shen
-role_title: Cost Analysis Officer
+role_title: Cost Analysis Advisor
 focuses:
 expertise_areas:
   - cost-efficiency
