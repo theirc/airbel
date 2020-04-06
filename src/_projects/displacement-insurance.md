@@ -2,7 +2,7 @@
 layout: project
 title: Financing Refugee Crisis Response
 tagline: Exploring new financial instruments to speed up response and save lives
-status: active
+status: graduated
 stage: Generate Solutions
 focuses:
   - other
