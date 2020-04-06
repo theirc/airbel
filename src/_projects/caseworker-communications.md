@@ -4,7 +4,7 @@ title: IRC Connect
 tagline: >-
   Streamlining communication between resettlement caseworkers and newly arrived
   refugees
-status: hidden
+status: graduated
 stage: Pilot
 focuses:
   - empowerment
