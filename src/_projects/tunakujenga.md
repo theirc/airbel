@@ -2,7 +2,7 @@
 layout: project
 title: Tunakujenga
 tagline: Using edu-tainment to support children's social and emotional learning at home
-status: active
+status: graduated
 stage: Pilot
 focuses:
   - education
