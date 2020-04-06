@@ -5,7 +5,7 @@ tagline: >-
   Fortified bouillon cubes that introduce micronutrients into food for children
   at risk of malnutrition
 status: active
-stage: Design Research
+stage: Prototype
 focuses:
   - health
 geolocation:
