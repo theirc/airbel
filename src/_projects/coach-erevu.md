@@ -4,7 +4,7 @@ title: Coach Erevu
 tagline: >-
   Empowering teachers to adopt new behaviors that support children’s learning
   and development.
-status: active
+status: graduated
 stage: Pilot
 focuses:
   - education
