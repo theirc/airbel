@@ -4,7 +4,7 @@ title: Resettlement Revolving Fund
 tagline: >-
   Restructuring the way we finance refugee resettlement to see refugees as an
   investment
-status: active
+status: graduated
 stage: Generate Solutions
 focuses:
   - other
