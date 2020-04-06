@@ -3,7 +3,7 @@ layout: project
 title: Urban Housing
 tagline: Seeking new solutions for host communities and displaced people
 status: active
-stage: Design Research
+stage: Generate Solutions
 focuses:
   - empowerment
 geolocation:
