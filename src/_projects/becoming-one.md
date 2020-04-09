@@ -5,7 +5,7 @@ tagline: >-
   Strengthening relationships through faith leaders to prevent violence against
   women
 status: active
-stage: Rigorous Evaluation
+stage: Scale
 focuses:
   - safety
 geolocation:
@@ -113,10 +113,7 @@ Intimate Partner Violence (IPV) is the most common form of violence against wome
 
 <div class="d-none d-md-block"><img class="img-fluid" src="/uploads/data-graphic-uganda-01.svg" /></div>
 
-<div class="d-block d-md-none"><img class="img-fluid p-4" alt="Partner violence graphic" src="/uploads/graph-01.svg" />
-            <p>In Uganda, <strong>50% of ever-partnered women</strong> aged 15-49 years have experienced intimate partner violence at least once in their lifetime.</p> <img class="img-fluid p-4" alt="Partner violence graphic" src="/uploads/graph-02.svg" />
-            <p>Globally, <strong>35% of women worldwide have experienced either physical and/or sexual violence from an intimate partner.</strong></p>
-          </div>
+<div class="d-block d-md-none"><img class="img-fluid p-4" alt="Partner violence graphic" src="/uploads/graph-01.svg" /><p>In Uganda, <strong>50% of ever-partnered women</strong> aged 15-49 years have experienced intimate partner violence at least once in their lifetime.</p> <img class="img-fluid p-4" alt="Partner violence graphic" src="/uploads/graph-02.svg" /><p>Globally, <strong>35% of women worldwide have experienced either physical and/or sexual violence from an intimate partner.</strong></p></div>
 
 [*\*World Health Organization, 2013*](https://www.who.int/reproductivehealth/publications/violence/9789241564625/en/){: target="_blank"}
 {: .mt-3.mb-0}
@@ -124,23 +121,7 @@ Intimate Partner Violence (IPV) is the most common form of violence against wome
 ### **What makes Becoming One different?**
 {: .mt-5.mb-4}
 
-<div class="row">
-            <div class="col-lg-4">
-              <div class="content text-center"><img class="img-fluid mb-3" src="/uploads/why-different-1.jpg" />
-                <p>It is focused on <strong>prevention not response.</strong></p>
-              </div>
-            </div>
-            <div class="col-lg-4">
-              <div class="content text-center"><img class="img-fluid mb-3" src="/uploads/why-different-2.jpg" />
-                <p>It is focused on <strong>behavioral change rather than changing attitudes.</strong></p>
-              </div>
-            </div>
-            <div class="col-lg-4">
-              <div class="content text-center"><img class="img-fluid mb-3" src="/uploads/why-different-3.jpg" />
-                <p>It uses existing, <strong>already invested systems and messengers to achieve scale and cost efficiency.</strong></p>
-              </div>
-            </div>
-          </div>
+<div class="row"><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" src="/uploads/why-different-1.jpg" /><p>It is focused on <strong>prevention not response.</strong></p></div></div><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" src="/uploads/why-different-2.jpg" /><p>It is focused on <strong>behavioral change rather than changing attitudes.</strong></p></div></div><div class="col-lg-4"><div class="content text-center"><img class="img-fluid mb-3" src="/uploads/why-different-3.jpg" /><p>It uses existing, <strong>already invested systems and messengers to achieve scale and cost efficiency.</strong></p></div></div></div>
 
 ![](/uploads/731c3603.JPG){: .img-fluid}
 
@@ -156,39 +137,16 @@ Our program relies on existing structures that the community appreciates and res
 ### **Content and program assets**
 {: .mt-5.mb-4}
 
-<div class="row align-items-center">
-            <div class="col-lg-8"><img class="img-fluid mb-3 mb-lg-0" src="/uploads/materials-image.jpg" /></div>
-            <div class="col-lg-4"><mark class="bg-primary">&ldquo;It's like there was a scan to get what was most meaningful and needed for the generation&rdquo;</mark>
-              <p>- Christopher, Faith Leader</p>
-            </div>
-          </div>
+<div class="row align-items-center"><div class="col-lg-8"><img class="img-fluid mb-3 mb-lg-0" src="/uploads/materials-image.jpg" /></div><div class="col-lg-4"><mark class="bg-primary">&ldquo;It's like there was a scan to get what was most meaningful and needed for the generation&rdquo;</mark><p>- Christopher, Faith Leader</p></div></div>
 
 ### **Becoming One covers three major themes:**
 {: .mt-5.mb-4}
 
-<div class="row align-items-center mb-3 mb-lg-5">
-            <div class="col-lg-4"><img class="img-fluid mb-3 mb-lg-0" alt="Communication image" src="/uploads/communication.png" /></div>
-            <div class="col-lg-8">
-              <h4><strong>Communication</strong></h4>
-              <p><strong>Good communication skills leads to better communication between partners and reduces conflict related to violence.</strong> Communication skills help increase positive communication between partners, especially on difficult and potentially contentious topics. It helps problem solve, and to regulate their emotions. Successful interventions such as IMAGE and SASA! Included communication skills in their intervention although these components were not specifically evaluated given the intervention included many components. (Jewkes et al.; Abramsky et al.)</p>
-            </div>
-          </div>
+<div class="row align-items-center mb-3 mb-lg-5"><div class="col-lg-4"><img class="img-fluid mb-3 mb-lg-0" alt="Communication image" src="/uploads/communication.png" /></div><div class="col-lg-8"><h4><strong>Communication</strong></h4><p><strong>Good communication skills leads to better communication between partners and reduces conflict related to violence.</strong> Communication skills help increase positive communication between partners, especially on difficult and potentially contentious topics. It helps problem solve, and to regulate their emotions. Successful interventions such as IMAGE and SASA! Included communication skills in their intervention although these components were not specifically evaluated given the intervention included many components. (Jewkes et al.; Abramsky et al.)</p></div></div>
 
-<div class="row align-items-center mb-3 mb-lg-5">
-            <div class="col-lg-4"><img class="img-fluid mb-3 mb-lg-0" alt="Finance image" src="/uploads/finance.png" /></div>
-            <div class="col-lg-8">
-              <h4><strong>Finances</strong></h4>
-              <p><strong>Feminist and Economic theory suggest that increasing female control and access to financial resources could lead to reduced violence by increasing a women&rsquo;s bargaining power in the household.</strong> (Bloch and Rao 2002). In practice, interventions that have sought to increase women&rsquo;s economic empowerment within the household have resulted in reduced violence, particularly when combined with training challenging gender norms. (Vyas and Watts 2009).</p>
-            </div>
-          </div>
+<div class="row align-items-center mb-3 mb-lg-5"><div class="col-lg-4"><img class="img-fluid mb-3 mb-lg-0" alt="Finance image" src="/uploads/finance.png" /></div><div class="col-lg-8"><h4><strong>Finances</strong></h4><p><strong>Feminist and Economic theory suggest that increasing female control and access to financial resources could lead to reduced violence by increasing a women&rsquo;s bargaining power in the household.</strong> (Bloch and Rao 2002). In practice, interventions that have sought to increase women&rsquo;s economic empowerment within the household have resulted in reduced violence, particularly when combined with training challenging gender norms. (Vyas and Watts 2009).</p></div></div>
 
-<div class="row align-items-center mb-3 mb-lg-5">
-            <div class="col-lg-4"><img class="img-fluid mb-3 mb-lg-0" alt="Finance image" src="/uploads/sex.png" /></div>
-            <div class="col-lg-8">
-              <h4><strong>Sexual Pleasure</strong></h4>
-              <p><strong>Interventions which increase sexual knowledge and communication skills may decrease instances of physical and sexual assault</strong> because men and women in these settings often lack the communication skills and specific vocabulary to express sexual desires and experiences (Wood and Jewkes 1997). Several successful structural interventions have included these components in their gender training to reduce IPV. (Jewkes 2008; Pronyk 2006)</p>
-            </div>
-          </div>
+<div class="row align-items-center mb-3 mb-lg-5"><div class="col-lg-4"><img class="img-fluid mb-3 mb-lg-0" alt="Finance image" src="/uploads/sex.png" /></div><div class="col-lg-8"><h4><strong>Sexual Pleasure</strong></h4><p><strong>Interventions which increase sexual knowledge and communication skills may decrease instances of physical and sexual assault</strong> because men and women in these settings often lack the communication skills and specific vocabulary to express sexual desires and experiences (Wood and Jewkes 1997). Several successful structural interventions have included these components in their gender training to reduce IPV. (Jewkes 2008; Pronyk 2006)</p></div></div>
 
 ### **How does it work?**
 {: .mt-5.mb-4}
@@ -204,10 +162,7 @@ We were able to reduce training time and costs by introducing digital training m
 
 Becoming One leverages an already existing and large social network of faith leaders through our partner, [World Vision](https://www.wvi.org/){: target="_blank"}. The program equips church leaders with engaging counseling materials that draws on existing evidence, cognitive behavioral therapy, behavioral science, and Biblical principles to achieve immediate and lasting change.
 
-<div class="p-3">
-            <p class="mb-0"><mark class="bg-primary">&ldquo;I used to think that I would never get anything good from trainings but this training has opened my heart and has changed me to a new person.&rdquo;</mark></p>
-            <p>- Faith Leader</p>
-          </div>
+<div class="p-3"><p class="mb-0"><mark class="bg-primary">&ldquo;I used to think that I would never get anything good from trainings but this training has opened my heart and has changed me to a new person.&rdquo;</mark></p><p>- Faith Leader</p></div>
 
 ![Becoming one image](/uploads/screen-shot-2019-03-19-at-2-35-03-pm.jpg){: .img-fluid}
 
@@ -218,12 +173,7 @@ Couples are given a beautiful, full color couples guide that has contextual and 
 
 The couples guide is an exemplary tool that helps couples remember what they learned and captures the couple’s growth through activities such as writing vows together and organizing actions that make each other feel loved. It is almost entirely illustrated, designed to be used by illiterate users as an informative and interactive workbook.
 
-<div class="p-3">
-            <p class="mb-0"><mark class="bg-primary">&ldquo;The pictures have such a powerful impact on me. I have learned a lot from it. I want to be like the happy couples who look so supportive.&rdquo;</mark></p>
-            <p>- Becoming One participant</p>
-            <p class="mb-0"><mark class="bg-primary">&ldquo;When I compare with the materials of life skills, these equip you in a way that is different.Some pictures even speak for themselves - people understand these more.&rdquo;</mark></p>
-            <p>- Becoming One faith leader</p>
-          </div>
+<div class="p-3"><p class="mb-0"><mark class="bg-primary">&ldquo;The pictures have such a powerful impact on me. I have learned a lot from it. I want to be like the happy couples who look so supportive.&rdquo;</mark></p><p>- Becoming One participant</p><p class="mb-0"><mark class="bg-primary">&ldquo;When I compare with the materials of life skills, these equip you in a way that is different.Some pictures even speak for themselves - people understand these more.&rdquo;</mark></p><p>- Becoming One faith leader</p></div>
 
 ![Becoming one image](/uploads/screen-shot-2019-03-20-at-10-43-18-am.jpg){: .img-fluid}
 
@@ -234,10 +184,7 @@ Couples take what they learned in the group session and put it into practice at 
 
 In the following Becoming One group session, the faith leader takes the group through a discussion of the last week’s home practice and asks the couples to share their experience openly and honestly.
 
-<div class="p-3">
-            <p><mark class="bg-primary">&ldquo;Before the program, we never used to sit and have a decent conversation and he could drink a lot and was never open with his finance. He used to shop all food stuffs even onions but since the program, he has started leaving money for me to buy the food stuffs. We even have peaceful and loving conversation. It is surprising that he has proposed that I should start a small business with his support something that he never agreed to at all before.&rdquo;</mark></p>
-            <p>- Becoming One participant</p>
-          </div>
+<div class="p-3"><p><mark class="bg-primary">&ldquo;Before the program, we never used to sit and have a decent conversation and he could drink a lot and was never open with his finance. He used to shop all food stuffs even onions but since the program, he has started leaving money for me to buy the food stuffs. We even have peaceful and loving conversation. It is surprising that he has proposed that I should start a small business with his support something that he never agreed to at all before.&rdquo;</mark></p><p>- Becoming One participant</p></div>
 
 ### **What’s happening now?**
 {: .mt-5.mb-4}
@@ -248,14 +195,4 @@ To measure the effects, our research partners, [Innovations for Poverty Action](
 
 During the implementation, we are conducting monitoring activities and interviews with faith leaders to understand how the program is implemented in practice.
 
-<div class="row mt-5">
-            <div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-01.jpg" /></div>
-            <div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-02.jpg" /></div>
-            <div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-03.jpg" /></div>
-            <div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-04.jpg" /></div>
-            <div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-05.jpg" /></div>
-            <div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-06.jpg" /></div>
-            <div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-07.jpg" /></div>
-            <div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-08.jpg" /></div>
-            <div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-09.jpg" /></div>
-          </div>
+<div class="row mt-5"><div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-01.jpg" /></div><div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-02.jpg" /></div><div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-03.jpg" /></div><div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-04.jpg" /></div><div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-05.jpg" /></div><div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-06.jpg" /></div><div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-07.jpg" /></div><div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-08.jpg" /></div><div class="col-md-6 col-lg-4"><img class="img-fluid mb-3" alt="Becoming one image" src="/uploads/becoming-one-quote-images-09.jpg" /></div></div>
