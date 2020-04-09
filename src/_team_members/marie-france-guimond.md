@@ -5,7 +5,6 @@ role_title: 'Senior Advisor, Research & Innovation'
 focuses:
   - empowerment
 expertise_areas:
-  - project-management
 leadership: false
 image: /uploads/team/marie.jpg
 ---
