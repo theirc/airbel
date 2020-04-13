@@ -15,10 +15,12 @@ regions:
   - Tanzania
 image:
 partners:
-  - name:
+  - name: World Health Organization (WHO)
+    link:
+  - name: George Washington University
     link:
 donors:
-  - name: elrha
+  - name: Research for Health in Humanitarian Crises (R2HC)
     link:
 publications:
   - title:
