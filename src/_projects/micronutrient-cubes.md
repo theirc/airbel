@@ -26,35 +26,6 @@ articles:
   - title:
     url:
 milestones:
-  - date: 2019-01-01 00:00:00
-    title: >-
-      Second round of inputs from experts in micronutrients, food scientists,
-      funders, bouillon manufacturers, and other food experts.
-    link: 'https://rescue.box.com/s/zbaeyusdyfb1hv95nhhupqcmkwt8ymyh'
-    link_title:
-    description_markdown:
-  - date: 2018-08-01 00:00:00
-    title: >-
-      Interviews with nutrition experts and food scientists, review of existing
-      literature on micronutrient deficiencies.
-    link:
-    link_title:
-    description_markdown:
-  - date: 2017-08-01 00:00:00
-    title: Concept is developed
-    link: 'https://rescue.box.com/s/xmhsj0zdo2gv8xxzkc1o8zidvrbo471p'
-    link_title:
-    description_markdown: >-
-      Concept is developed as part of an overarching idea-generating effort to
-      find ways of reducing severe acute malnutrition.
-  - date: 2017-05-01 00:00:00
-    title: Ethnographic research
-    link: >-
-      https://medium.com/airbel/cracking-the-combination-in-effectively-preventing-malnutrition-f7f87dc4d145
-    link_title:
-    description_markdown: >-
-      Ethnographic research with caregivers and health providers in Liberia,
-      Senegal, and Tanzania as inspiration for ideas on malnutrition prevention.
   - date: 2019-12-01 00:00:00
     title: Ethnography field visit to Kenya
     link:
@@ -87,6 +58,35 @@ milestones:
       * More testing is needed in messaging and packaging
 
       * Value and willingness to pay can best be gauged in a pilot
+  - date: 2019-01-01 00:00:00
+    title: >-
+      Second round of inputs from experts in micronutrients, food scientists,
+      funders, bouillon manufacturers, and other food experts.
+    link: 'https://rescue.box.com/s/zbaeyusdyfb1hv95nhhupqcmkwt8ymyh'
+    link_title:
+    description_markdown:
+  - date: 2018-08-01 00:00:00
+    title: >-
+      Interviews with nutrition experts and food scientists, review of existing
+      literature on micronutrient deficiencies.
+    link:
+    link_title:
+    description_markdown:
+  - date: 2017-08-01 00:00:00
+    title: Concept is developed
+    link: 'https://rescue.box.com/s/xmhsj0zdo2gv8xxzkc1o8zidvrbo471p'
+    link_title:
+    description_markdown: >-
+      Concept is developed as part of an overarching idea-generating effort to
+      find ways of reducing severe acute malnutrition.
+  - date: 2017-05-01 00:00:00
+    title: Ethnographic research
+    link: >-
+      https://medium.com/airbel/cracking-the-combination-in-effectively-preventing-malnutrition-f7f87dc4d145
+    link_title:
+    description_markdown: >-
+      Ethnographic research with caregivers and health providers in Liberia,
+      Senegal, and Tanzania as inspiration for ideas on malnutrition prevention.
 ---
 
 Two billion people are affected by micronutrient deficiencies worldwide, contributing to anemia, loss of eyesight, diarrhea, and disrupted or delayed mental and physical development. One third of those affected are children under the age of five. In some parts of the world, especially those impacted by conflict, it can be difficult or impossible for caregivers to find or afford micronutrient-rich foods like fruit, vegetables, fortified foods, and animal protein.
