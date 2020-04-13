@@ -31,33 +31,15 @@ milestones:
     link:
     link_title:
     description_markdown: >-
-      We conducted visits in urban Nairobi and visited Lodwar and Loima in
-      Turkana County. During this time we met with private sector actors,
-      supermarkets and other sellers of similar products, and caregivers in
-      rural and urban areas.
+      We met with caregivers, retailers, manufacturers, and MNP sachet
+      distributors like health centers in urban Nairobi and rural parts of
+      Turkana County.
 
 
-      Some of our findings include:
-
-
-      * Porridge is an ideal meal for our purposes as most children eat it on a
-      consistent basis
-
-      * Adding our product at the end of porridge preparation (similar to how
-      sugar, salt or oil is added) is the closest existing behavior we can build
-      on.&nbsp;
-
-      * Flavor is a value add to our product
-
-      * Milk is a value add to our product as it is seen as healthy and can be
-      out of reach for many&nbsp;
-
-      * It might be prudent to begin rollout in a big city like Nairobi, and
-      then let word of mouth take the product to outskirts and slowly expand
-
-      * More testing is needed in messaging and packaging
-
-      * Value and willingness to pay can best be gauged in a pilot
+      Through these visits, we prototyped and tested potential product
+      packaging, learned more about how caregivers prepare porridge, key
+      challenges with existing MNP sachets, and what aspects of the product
+      might be valued by its potential customers.
   - date: 2019-01-01 00:00:00
     title: >-
       Second round of inputs from experts in micronutrients, food scientists,
