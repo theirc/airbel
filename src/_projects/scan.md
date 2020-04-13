@@ -36,7 +36,7 @@ milestones:
       On March 13, the SCAN Consortium and Stichting Vluchteling hosted an event
       highlighting the experiences of three INGOs using SCAN to address
       questions about value-for-money in the field, and use SCAN results to
-      inform program decision-making. More than 40 attendees conducted for the
+      inform program decision-making. More than 40 attendees connected for the
       five-hour webinar. Videos from these webinar sessions is available at the
       link.
   - date: 2020-03-01 00:00:00
