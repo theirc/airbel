@@ -67,6 +67,18 @@ milestones:
       programs in Chad, Jordan, Lebanon, Liberia, and Pakistan. Pilots show that
       SCAN enables rigorous analysis in a fraction of the time that it would
       take by hand.
+  - date: 2020-03-13 00:00:00
+    title: SCAN Showcase
+    link: >-
+      https://medium.com/airbel/the-scan-tool-increasing-reach-effectiveness-with-limited-budgets-6cb866c19bb7
+    link_title:
+    description_markdown: >-
+      On March 13, the SCAN Consortium and Stichting Vluchteling hosted an event
+      highlighting the experiences of three INGOs using SCAN to address
+      questions about value-for-money in the field, and use SCAN results to
+      inform program decision-making. More than 40 attendees conducted for the
+      five-hour webinar. Videos from these webinar sessions is available at the
+      link.
 ---
 
 Humanitarian organizations do not routinely use cost data to compare the efficiency or effectiveness of different interventions and delivery models. This is because existing methods to calculate cost-efficiency are inconsistent and time-consuming, creating opportunity for error. And the data that is available cannot be meaningfully compared. As a result, policymakers and practitioners have little data with which to make informed decisions about where money should be spent in a humanitarian response.
