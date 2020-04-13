@@ -26,14 +26,6 @@ articles:
   - title:
     url:
 milestones:
-  - date: 2017-05-01 00:00:00
-    title: Ethnographic research
-    link: >-
-      https://medium.com/airbel/cracking-the-combination-in-effectively-preventing-malnutrition-f7f87dc4d145
-    link_title:
-    description_markdown: >-
-      Ethnographic research with caregivers and health providers in Liberia,
-      Senegal, and Tanzania as inspiration for ideas on malnutrition prevention.
   - date: 2019-01-01 00:00:00
     title: >-
       Second round of inputs from experts in micronutrients, food scientists,
@@ -55,6 +47,46 @@ milestones:
     description_markdown: >-
       Concept is developed as part of an overarching idea-generating effort to
       find ways of reducing severe acute malnutrition.
+  - date: 2017-05-01 00:00:00
+    title: Ethnographic research
+    link: >-
+      https://medium.com/airbel/cracking-the-combination-in-effectively-preventing-malnutrition-f7f87dc4d145
+    link_title:
+    description_markdown: >-
+      Ethnographic research with caregivers and health providers in Liberia,
+      Senegal, and Tanzania as inspiration for ideas on malnutrition prevention.
+  - date: 2019-12-01 00:00:00
+    title: Ethnography field visit to Kenya
+    link:
+    link_title:
+    description_markdown: >-
+      We conducted visits in urban Nairobi and visited Lodwar and Loima in
+      Turkana County. During this time we met with private sector actors,
+      supermarkets and other sellers of similar products, and caregivers in
+      rural and urban areas.
+
+
+      Some of our findings include:
+
+
+      * Porridge is an ideal meal for our purposes as most children eat it on a
+      consistent basis
+
+      * Adding our product at the end of porridge preparation (similar to how
+      sugar, salt or oil is added) is the closest existing behavior we can build
+      on.&nbsp;
+
+      * Flavor is a value add to our product
+
+      * Milk is a value add to our product as it is seen as healthy and can be
+      out of reach for many&nbsp;
+
+      * It might be prudent to begin rollout in a big city like Nairobi, and
+      then let word of mouth take the product to outskirts and slowly expand
+
+      * More testing is needed in messaging and packaging
+
+      * Value and willingness to pay can best be gauged in a pilot
 ---
 
 Two billion people are affected by micronutrient deficiencies worldwide, contributing to anemia, loss of eyesight, diarrhea, and disrupted or delayed mental and physical development. One third of those affected are children under the age of five. In some parts of the world, especially those impacted by conflict, it can be difficult or impossible for caregivers to find or afford micronutrient-rich foods like fruit, vegetables, fortified foods, and animal protein.
