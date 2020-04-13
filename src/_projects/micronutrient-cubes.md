@@ -27,7 +27,7 @@ articles:
     url:
 milestones:
   - date: 2019-12-01 00:00:00
-    title: Ethnography field visit to Kenya
+    title: Ethnography in Kenya
     link:
     link_title:
     description_markdown: >-
