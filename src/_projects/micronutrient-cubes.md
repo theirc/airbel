@@ -1,9 +1,7 @@
 ---
 layout: project
-title: Micronutrient Cubes
-tagline: >-
-  Fortified bouillon cubes that introduce micronutrients into food for children
-  at risk of malnutrition
+title: Micronutrient Condiment
+tagline: Introducing micronutrients into porridge for children at risk of malnutrition
 status: active
 stage: Prototype
 focuses:
@@ -13,10 +11,10 @@ geolocation:
   latitude:
   longitude:
 description: >-
-  A third of the 2 billion people who are micronutrient deficient are children.
-  Many have little access to diverse foods or supplements. By working through
-  private sector supply chains, this product will expand micronutrient access to
-  caregivers in an easy-to-use form that mimics bouillon.
+  Two billion people are affected by micronutrient deficiencies worldwide. One
+  third of them are children. We aim to introduce an affordable product inspired
+  by existing porridge preparation practices for sale in the market to reach
+  children with the micronutrients they need to thrive.
 hero_image: /uploads/microcube-hero.jpg
 featured_image: /uploads/microcube-hero.jpg
 featured_video_url:
@@ -61,8 +59,8 @@ milestones:
 
 Two billion people are affected by micronutrient deficiencies worldwide, contributing to anemia, loss of eyesight, diarrhea, and disrupted or delayed mental and physical development. One third of those affected are children under the age of five. In some parts of the world, especially those impacted by conflict, it can be difficult or impossible for caregivers to find or afford micronutrient-rich foods like fruit, vegetables, fortified foods, and animal protein.
 
-Micronutrient powder (MNP), a white, odorless, tasteless powder, is sometimes distributed freely through health centers or available through socially-marketed products like Sprinkles. These products face major challenges due to limited or irregular availability, and confusion by end users who may not be well informed about how and why to use the powder. This is particularly true in conflict-affected areas where health services are already over-burdened, and therefore cannot provide substantial preventative services or support to caregivers.
+Micronutrient powder (MNP) sachets were developed 20 years ago to address this issue of undernutrition, but uptake has been low. The product, a white, odorless, tasteless powder, is typically found only in health centers or through small-scale subsidized distribution. These products face major challenges due to limited or irregular availability, and confusion by end users who may not be well informed about how and why to use the powder. This is particularly true in conflict-affected areas where health services are already over-burdened, and therefore cannot provide substantial preventative services or support to caregivers.
 
-Bouillon cubes are frequently used in many parts of the world a flavoring base to most foods. Working with bouillon manufacturers, whose products are already part of people’s daily lives, this solution would introduce micronutrient cubes mimicking the shape and use of a bouillon cube. These cube-shaped micronutrient doses would be sold through the existing bouillon supply chain, branded for children 6-24 months, and designed to be added to the pot at the start of cooking a child’s porridge.
+We envision an alternative product that is inspired by existing porridge preparation practices and will be available for sale in the market. Caregivers currently add flavorings like sugar, salt, and margarine to the pot of porridge. A flavorful porridge condiment could be used in place of sugar and other additives. The condiment will contain multiple micronutrients recommended for young children and be sold at an affordable price through local kiosks and market stalls. If successful, this product will be sold under an existing food and beverage brand with deep market penetration and take advantage of their existing supply chain and brand familiarity.
 
-Drawing upon the creativity and resilience of last-mile vendors, introducing micronutrients through the bouillon supply chain could side-step the logistical and monetary challenges faced by humanitarian agencies and ensure better access and uptake by caregivers.
+Not only will this product provide the flavor that caregivers look for in healthy products, it will also be distributed through a sustainable model that market-based and demand-driven.
