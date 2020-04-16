@@ -4,7 +4,7 @@ start_date: 2017-01-01 00:00:00
 end_date: 2019-01-01 00:00:00
 title: Generating Evidence for the Use of Cash Relief for Health Outcomes
 featured: false
-evergreen: true
+evergreen: false
 focuses:
   - economic-wellbeing
 description:
@@ -21,6 +21,10 @@ donors:
 publications:
   - title: Research brief
     link: 'https://rescue.box.com/s/05c92pbkkcbqkjm8louxpnj8wsccqn9w'
+    publication_type:
+  - title: Blog
+    link: >-
+      https://medium.com/airbel/cash-for-health-in-humanitarian-settings-1e9d36090226
     publication_type:
   - title: Final report
     link: 'https://rescue.box.com/s/qzmtzjgbaqhggriz49j344kt6676iy5d'
