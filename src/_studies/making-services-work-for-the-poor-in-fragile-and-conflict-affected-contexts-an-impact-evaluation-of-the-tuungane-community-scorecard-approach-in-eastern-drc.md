@@ -7,7 +7,7 @@ title: >-
   An Impact Evaluation of the Tuungane Community Scorecard Approach in Eastern
   DRC
 featured: false
-evergreen: true
+evergreen: false
 focuses:
   - empowerment
 description:
