@@ -97,6 +97,11 @@ milestones:
     description_markdown: >-
       This represents one of the first big Airbel partnerships with an academic
       institution and design thinking capabilities.
+  - date: 2017-06-01 00:00:00
+    title: Project placed on hold due to COVID-19
+    link:
+    link_title:
+    description_markdown:
 ---
 
 Moving somewhere new is challenging under the best circumstances. It’s especially difficult for refugees, who are driven from their homes by conflict or major threats. Refugee resettlement offers one of the most transformative opportunities to those affected by conflict. When refugees are resettled in the United States, resettlement agencies like the International Rescue Committee determine where to send refugees and caseworkers have played a critical role in helping refugees adapt to new places.
