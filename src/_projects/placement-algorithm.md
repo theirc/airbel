@@ -4,7 +4,7 @@ title: Placement Algorithm
 tagline: >-
   Using machine learning to predict where resettled refugees are likely to
   thrive
-status: active
+status: discontinued
 stage: Generate Solutions
 focuses:
   - empowerment
