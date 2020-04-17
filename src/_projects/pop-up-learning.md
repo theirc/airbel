@@ -30,7 +30,7 @@ milestones:
     link_title:
     description_markdown: >-
       Endline data collection was interrupted due to COVID-19. Enumerators had
-      already collected 50% of data, which is currently being analyzed.
+      already collected 50% of data, allowing for data analysis to commence.
   - date: 2019-11-01 00:00:00
     title: Bangladesh pilot launch
     link: >-
