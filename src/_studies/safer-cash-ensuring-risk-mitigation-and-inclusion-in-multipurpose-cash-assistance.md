@@ -6,7 +6,7 @@ title: >-
   Safer Cash: Ensuring Risk Mitigation and Inclusion in Multipurpose Cash
   Assistance
 featured: false
-evergreen: true
+evergreen: false
 focuses:
   - safety
 description:
