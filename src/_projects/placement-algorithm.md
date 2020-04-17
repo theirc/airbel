@@ -55,7 +55,9 @@ milestones:
     title: Project placed on hold due to COVID-19
     link:
     link_title:
-    description_markdown:
+    description_markdown: >-
+      Given the pressing needs faced by vulnerable populations, this project was
+      placed on hold while we address the COVID-19 outbreak.
   - date: 2018-06-01 00:00:00
     title: Cross-agency partnership established
     link: 'https://rescue.box.com/s/ixpwm8fst35uoo8jxejt8hf2zomxl0dx'
