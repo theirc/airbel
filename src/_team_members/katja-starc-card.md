@@ -6,7 +6,7 @@ focuses:
   - empowerment
 expertise_areas:
 leadership: false
-image:
+image: /uploads/ksc1-bw-web.jpg
 ---
 
 Katja is a Research and Ethics Coordinator and serves as the IRC Institutional Review Board Administrator. She supports the IRC's research portfolio on governance, peacebuilding and urban issues and works closely with the Governance Technical Unit to advance IRC’s governance research priorities. Prior to the current role, Katja worked with the IRC as a New School Zolberg Fellow, exploring the adaptation of humanitarian response to urban contexts and collaboration of humanitarian actors with city governments.
