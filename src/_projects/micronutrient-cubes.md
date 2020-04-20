@@ -31,9 +31,10 @@ milestones:
     link:
     link_title:
     description_markdown: >-
-      We met with caregivers, retailers, manufacturers, and MNP sachet
-      distributors like health centers in urban Nairobi and rural parts of
-      Turkana County.
+      We conducted ethnography in Nairobi and Turkana County. The team consulted
+      with social entrepreneurs in nutrition, private sector agents, kiosk
+      owners, IRC colleagues, and caregivers from Burundian, Somali, and Kenyan
+      backgrounds.
 
 
       Through these visits, we prototyped and tested potential product
