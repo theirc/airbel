@@ -24,7 +24,7 @@ articles:
   - title:
     url:
 milestones:
-  - date: 2018-09-01 00:00:00
+  - date: 2020-03-01 00:00:00
     title: COVID-19 interrupts data collection
     link:
     link_title:
