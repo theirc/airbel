@@ -51,12 +51,13 @@ milestones:
     title: >-
       Workshops identify and prioritize key barriers and generate potential
       solutions
-    link:
+    link: >-
+      https://medium.com/airbel/partnerships-to-develop-new-solutions-to-mental-health-challenges-in-jordan-3961da21af0d
     link_title:
     description_markdown: >-
       Key barriers to accessing mental health treatment were identified, along
-      with some initial ideas for solutions.&nbsp;Some of the barriers
-      identified as most pressing included:
+      with some initial ideas for solutions. Some of the barriers identified as
+      most pressing included:
 
 
       * lack of trained service providers
