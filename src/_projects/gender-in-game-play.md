@@ -92,11 +92,6 @@ milestones:
       of inclusivity and diversity. Understanding how to start these
       conversations across diverse workplace cultures and in the face of myriad
       other work priorities was an open question.&nbsp;
-  - date: 2018-06-01 00:00:00
-    title:
-    link:
-    link_title:
-    description_markdown:
 ---
 
 Gender, power, and culture are familiar lenses used in the aid sector when thinking about programming. However, we don’t consistently turn those lenses on ourselves. The literature is rife with examples of gender bias in recruitment, workplace sexual harassment, and challenges women face in advancement. What is less obvious is how to counteract these issues, particularly in Asian workplaces, where the literature is silent. In recognition of these challenges, the IRC is conducting workshops, and undertaking efforts to roll out new guidance on areas such as hiring, protection, and HR policies.
