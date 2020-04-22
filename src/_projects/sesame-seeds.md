@@ -3,7 +3,7 @@ layout: project
 title: Ahlan Simsim
 tagline: Teaching the world’s most vulnerable children
 status: active
-stage: Rigorous Evaluation
+stage: Scale
 focuses:
   - education
 geolocation:
