@@ -51,7 +51,7 @@ articles:
     url: >-
       https://qz.com/1183013/researchers-developed-an-algorithm-to-place-refugees-where-theyre-most-likely-to-find-work/
 milestones:
-  - date: 2017-06-01 00:00:00
+  - date: 2019-04-01 00:00:00
     title: Project placed on hold due to COVID-19
     link:
     link_title:
