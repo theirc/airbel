@@ -2,7 +2,7 @@
 layout: project
 title: Transforming Treatment for Acute Malnutrition
 tagline: Transforming the way acute malnutrition is treated to save lives and cost
-status: active
+status: hidden
 stage: Scale
 focuses:
   - health
