@@ -53,7 +53,7 @@ milestones:
       voluntary returns, information flows, healthcare service delivery, and
       smart humanitarianism. IRC-Zolberg Fellows and IRC staff carried out desk
       research along with discussions with community members.
-  - date: 2018-07-01 00:00:00
+  - date: 2019-07-01 00:00:00
     title: Ideation workshops held
     link:
     link_title:
