@@ -3,7 +3,7 @@ layout: project
 title: EmpaTeach
 tagline: Helping teachers to end physical violence in schools
 status: active
-stage: Scale
+stage: Rigorous Evaluation
 focuses:
   - education
 geolocation:
