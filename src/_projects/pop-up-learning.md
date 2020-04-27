@@ -37,7 +37,7 @@ milestones:
       https://docs.google.com/document/d/1c64NHs-rg4EJth-B_dx-CxBHacjbJ5rBM5PCYewRPeI/edit?usp=sharing
     link_title:
     description_markdown: >-
-      The Pop Up Learning pilot launched in Cox’s Bazaar, Bangladesh, aiming to
+      The Pop-Up Learning pilot launched in Cox’s Bazaar, Bangladesh, aiming to
       reach 600 kids of all ages. Children will learn on tablets in their homes
       and in community centers.
   - date: 2019-05-01 00:00:00
@@ -62,11 +62,6 @@ milestones:
     description_markdown: >-
       The feasibility study concluded that Cox’s Bazar, Bangladesh met the
       conditions to serve as a site to prototype Pop-Up Learning.
-  - date: 2018-09-01 00:00:00
-    title:
-    link:
-    link_title:
-    description_markdown:
 ---
 
 33 million children are displaced from their homes because of humanitarian crises. Almost 40% of those children do not have access to formal education. Between funding gaps, political challenges, and poor-to-nonexistent access to educators, it can take months or years for a child to receive adequate education. During this period in a displaced child’s life, education is critical to reducing trauma and stress, creating stability, and generating positive norms around going to school.
