@@ -94,4 +94,4 @@ With the support of donors and the help of our partners, [Imagine Worldwide](htt
 
 &nbsp;
 
-##### Pop-Up is a finalist in Fast Company's [2020 World Changing Ideas](https://www.fastcompany.com/90492126/world-changing-ideas-awards-2020-education-finalists-and-honorable-mentions).
+**Pop-Up is a finalist in Fast Company's [2020 World Changing Ideas](https://www.fastcompany.com/90492126/world-changing-ideas-awards-2020-education-finalists-and-honorable-mentions). **
