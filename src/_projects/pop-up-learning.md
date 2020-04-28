@@ -24,6 +24,16 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2018-09-01 00:00:00
+    title: Pop-Up is a finalist in Fast Company's 2020 World Changing Ideas.
+    link: >-
+      https://www.fastcompany.com/90492126/world-changing-ideas-awards-2020-education-finalists-and-honorable-mentions
+    link_title:
+    description_markdown: >-
+      Pop-Up Learning is a finalist in the Educationcategory. World Changing
+      Ideas is one of Fast Company’s major annual awards programs and is focused
+      on social good, seeking to elevate finished products and brave concepts
+      that make the world better.
   - date: 2020-03-01 00:00:00
     title: COVID-19 interrupts data collection
     link:
@@ -91,7 +101,3 @@ Pop-Up aims to fill the critical educational gaps in a displaced child’s life,
 ### What's next
 
 With the support of donors and the help of our partners, [Imagine Worldwide](https://www.imagineworldwide.org/), [Can’t Wait to Learn](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.warchildholland.org_projects_cant-2Dwait-2Dto-2Dlearn_&amp;d=DwMFaQ&amp;c=0u3nQZwm2He4OdaqbWh55g&amp;r=LoozSyaReSx37TRSMbnPARp7j2JYcZmWKlTKd8g87bc&amp;m=ZblkrGoYIKMXwwDsLceT9X8_dnLEZm4qpteTxu9sSyQ&amp;s=NMGx_FQmapXDzFGKK2DA7ttP3zo7-9qt2L1z-5J43U8&amp;e=){: target="_blank"} (War Child), and [Kitkit School](http://www.enuma.com/kitkitschool/){: target="_blank"} (Enuma), we will be testing, adapting, and implementing different delivery models in Bangladesh, with the Rohingya community; in Tanzania, with refugees from Burundi and DRC; and in Niger with refugees from Mali and Nigeria. We are on the cusp of scaling these solutions to serve 125,000 children affected by crisis, helping to lay the groundwork for its global adoption.
-
-&nbsp;
-
-**Pop-Up is a finalist in Fast Company's [2020 World Changing Ideas](https://www.fastcompany.com/90492126/world-changing-ideas-awards-2020-education-finalists-and-honorable-mentions). **
