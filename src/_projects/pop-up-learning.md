@@ -24,7 +24,7 @@ articles:
   - title:
     url:
 milestones:
-  - date: 2018-09-01 00:00:00
+  - date: 2020-04-28 00:00:00
     title: Pop-Up is a finalist in Fast Company's 2020 World Changing Ideas.
     link: >-
       https://www.fastcompany.com/90492126/world-changing-ideas-awards-2020-education-finalists-and-honorable-mentions
