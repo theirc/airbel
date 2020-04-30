@@ -34,7 +34,7 @@
     "bootstrap": "^4.1.0",
     "formik": "^2.1.4",
     "formik-effect": "^1.2.0",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.15",
     "lodash.template": "^4.5.0",
     "mapbox-gl": "^1.8.1",
