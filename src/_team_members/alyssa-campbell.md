@@ -6,7 +6,7 @@ focuses:
 expertise_areas:
   - using-evidence
 leadership: false
-image:
+image: /uploads/alyssa-web.jpg
 ---
 
 Alyssa Campbell is the Evidence to Action Manager with the Airbel Impact Lab. She is responsible for researching, synthesizing and communicating evidence across the IRC’s research priority areas to help inform programmatic decision-making. Alyssa holds a MSc in Urban Planning from the London School of Economics (LSE), a Bachelor of Arts (BA) in Law, Politics and History from Sciences Po Paris, and has completed graduate coursework in Data Analytics and Applied Social Research at the City University of New York (CUNY).
