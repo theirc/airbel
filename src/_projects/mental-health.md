@@ -25,6 +25,18 @@ articles:
     url: >-
       https://medium.com/airbel/breaking-down-barriers-to-mental-health-services-in-jordan-89f31c0098a
 milestones:
+  - date: 2020-04-01 00:00:00
+    title: >-
+      In response to COVID-19 in Jordan, we are fast-tracking the testing of the
+      InforMH prototype.
+    link: 'https://rescue.box.com/s/pde48q0jekk2b6gi2j96e561rmbhojja'
+    link_title:
+    description_markdown: >-
+      InforMH is a digital-first campaign to inform people in Jordan on how to
+      access mental health care and reduce the stigma against it. The prototype
+      will develop engaging online and offline materials which promote mental
+      health literacy and provide information on how to access care through
+      popular social platforms such as Facebook and WhatsApp.
   - date: 2019-12-01 00:00:00
     title: Five initial prototypes created
     link: >-
