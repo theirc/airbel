@@ -2,7 +2,9 @@
 layout: study
 start_date: 2017-01-01 00:00:00
 end_date: 2019-01-01 00:00:00
-title: Generating Evidence for the Use of Cash Relief for Health Outcomes
+title: >-
+  Generating Evidence for the Use of Cash Relief for Health Outcomes in Pakistan
+  and Cameroon
 featured: false
 evergreen: false
 focuses:
