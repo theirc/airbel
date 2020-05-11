@@ -34,4 +34,4 @@ Adequate lighting in communal areas or lighting for individual use is currently 
 
 This pre- and post-test mixed methods evaluation documented the use and benefits of handheld solar lights among females aged 14 and older to mitigate the risks for violence in internally displaced person camps, and to improve their sense of safety in Port-au-Prince, Haiti (n=754).&nbsp;
 
-Evaluation results were used to improve the IRCs handheld solar light program and inform decisions about how to sustain and improve the use of handheld solar lights in that population.
+The evaluation indicated that women and girls used the solar lights regularly; however, the lights do not address their most commonly held fears (e.g., physical violence, gunshots). The solar lights addressed a clear need for women and girls: access to a consistent portable lighting source. This, as well as durability and retention rates, could be a reason for investing in future distributions of this kind. Evaluation results were used to improve the IRCs handheld solar light program and inform decisions about how to sustain and improve the use of handheld solar lights in that population.
