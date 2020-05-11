@@ -15,8 +15,8 @@ description: >-
   third of them are children. We aim to introduce an affordable product inspired
   by existing porridge preparation practices for sale in the market to reach
   children with the micronutrients they need to thrive.
-hero_image: /uploads/microcube-hero.jpg
-featured_image: /uploads/microcube-hero.jpg
+hero_image: /uploads/micronutrient-hero.jpg
+featured_image: /uploads/micronutrient-featured.jpg
 featured_video_url:
 resources:
   - title:
