@@ -3,7 +3,7 @@ layout: study
 start_date: 2015-01-01 00:00:00
 end_date: 2017-01-01 00:00:00
 title: >-
-  Impact and embedded process evaluation of the IRC’s "Fifth Child" community
+  Impact and embedded process evaluation of the IRC’s Fifth Child community
   engagement strategy aimed at increasing immunization coverage
 featured: false
 evergreen: false
