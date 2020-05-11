@@ -3,7 +3,7 @@ layout: project
 title: Defining and driving innovative finance
 tagline: Designing new financing solutions for people affected by conflict
 status: active
-stage: Design Research
+stage: Generate Solutions
 focuses:
   - other
 geolocation:
