@@ -39,6 +39,11 @@ milestones:
       definition of innovative finance and mapped existing financing
       innovations. Findings from the exercise were shared with partners and are
       available on request ahead of publication later in 2020.
+  - date: 2019-10-01 00:00:00
+    title: Project start
+    link:
+    link_title:
+    description_markdown:
 ---
 
 More than 500 million people live in a setting of fragility, conflict or violence; and by 2030, almost 350 million people will live in extreme poverty in these settings, constituting two-thirds of the extreme poor worldwide. Yet the financing deficit for people affected by violent conflict is growing, and what humanitarian finance is available tends to be short-term, fragmented, and slow to react when conflict erupts. Despite years of hype, the potential of new financing approaches for people affected by violent conflict remains largely unfulfilled.
