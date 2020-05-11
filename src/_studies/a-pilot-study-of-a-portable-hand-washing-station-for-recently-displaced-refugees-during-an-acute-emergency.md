@@ -3,8 +3,8 @@ layout: study
 start_date: 2012-01-01 00:00:00
 end_date: 2012-01-01 00:00:00
 title: >-
-  A pilot study of a portable hand-washing station for recently displaced
-  refugees during an acute emergency
+  Pilot study of a portable hand-washing station for recently displaced refugees
+  during an acute emergency
 featured: false
 evergreen: false
 focuses:
