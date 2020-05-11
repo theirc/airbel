@@ -15,8 +15,8 @@ description: >-
   aspirations. Airbel is designing and testing new approaches to raising
   finance, and impactful new ways to use funds before, during and after conflict
   episodes.
-hero_image:
-featured_image:
+hero_image: /uploads/innovative-finance-hero.jpeg
+featured_image: /uploads/20190406zimbabwe-blaqframe-cycloneidai-118.jpg
 featured_video_url:
 resources:
   - title:
