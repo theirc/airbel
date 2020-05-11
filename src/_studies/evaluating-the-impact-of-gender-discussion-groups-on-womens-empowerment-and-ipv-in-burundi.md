@@ -3,8 +3,8 @@ layout: study
 start_date: 2008-01-01 00:00:00
 end_date: 2008-01-01 00:00:00
 title: >-
-  Evaluating the Impact of Gender Discussion Groups on Women’s Empowerment and
-  Intimate Partner Violence in Burundi
+  Evaluating the impact of gender discussion groups on women’s empowerment and
+  intimate partner violence
 featured: false
 evergreen: false
 focuses:
@@ -32,4 +32,8 @@ publications:
     publication_type: Research Brief
 ---
 
-Evidence suggests that economic empowerment combined with programming that challenges gender inequalities and prevailing ideas on masculinity leads to a decrease in levels of partner violence, but there is a gap in our understanding of what particular programming elements are required to achieve this goal. The IRC established Village Savings and Loans Associations (VSLAs) as a pilot initiative in Burundi to increase women’s access to financial resources and&nbsp; randomly selected half of the members of each VSLA to receive an additional “treatment” in the form of gender discussion groups. The discussion groups attempted to encourage women and their spouses to develop progressive attitudes about communication, negotiation, and household decision-making. Results of the evaluation show that adding the discussion series resulted in a significant reduction in the incidence of partner violence. The discussion&nbsp; series also positively affected attitudes towards violence against women and brought about relatively significant and positive changes in household decision-making and negotiation between couples.
+Evidence suggests that economic empowerment combined with programming that challenges gender inequalities and prevailing ideas on masculinity leads to a decrease in levels of partner violence, but there is a gap in our understanding of what particular programming elements are required to achieve this goal.
+
+The IRC established Village Savings and Loans Associations (VSLAs) as a pilot initiative in Burundi to increase women’s access to financial resources and&nbsp; randomly selected half of the members of each VSLA to receive an additional “treatment” in the form of gender discussion groups. The discussion groups attempted to encourage women and their spouses to develop progressive attitudes about communication, negotiation, and household decision-making.
+
+Results of the evaluation show that adding the discussion series resulted in a significant reduction in the incidence of partner violence. The discussion series also positively affected attitudes towards violence against women and brought about relatively significant and positive changes in household decision-making and negotiation between couples.
