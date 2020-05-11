@@ -26,11 +26,6 @@ articles:
   - title:
     url:
 milestones:
-  - date:
-    title:
-    link:
-    link_title:
-    description_markdown:
   - date: 2020-05-01 00:00:00
     title: Innovative finance landscaping exercise complete
     link:
