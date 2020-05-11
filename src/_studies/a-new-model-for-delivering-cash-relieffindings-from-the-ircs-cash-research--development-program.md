@@ -3,8 +3,8 @@ layout: study
 start_date: 2015-01-01 00:00:00
 end_date: 2016-01-01 00:00:00
 title: >-
-  A New Model for Delivering Cash Relief–Findings from the IRC’s Cash Research &
-  Development Program
+  A new model for delivering cash relief – Findings from the IRC’s Cash Research
+  & Development Program
 featured: false
 evergreen: false
 focuses:
