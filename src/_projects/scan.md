@@ -23,6 +23,9 @@ resources:
   - title: SCAN 2.0 Flipbook
     description:
     url: 'https://rescue.box.com/s/17r5sr3nuaaxwl2dv63fdtokrcrrqtsw'
+  - title: 'Case Study: Jordan'
+    description:
+    url: 'https://rescue.box.com/s/nojvcvse4koccidmlh54czhouu1g7v3w'
 articles:
   - title:
     url:
