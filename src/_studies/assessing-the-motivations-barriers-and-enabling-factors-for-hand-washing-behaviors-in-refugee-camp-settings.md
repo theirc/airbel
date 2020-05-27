@@ -3,8 +3,8 @@ layout: study
 start_date: 2010-01-01 00:00:00
 end_date: 2011-01-01 00:00:00
 title: >-
-  Assessing the Motivations, Barriers, and Enabling Factors for Hand Washing
-  Behaviors in Refugee Camp Settings
+  Assessing the motivations, barriers, and enabling factors for hand washing
+  behaviors in refugee camp settings
 featured: false
 evergreen: false
 focuses:
