@@ -3,8 +3,8 @@ layout: study
 start_date: 2010-01-01 00:00:00
 end_date: 2013-01-01 00:00:00
 title: >-
-  Assessing the Relative Effectiveness of Different Programs to Offset the
-  Learning Costs Associated with Adoption of New Agricultural Technology in
+  Assessing the relative effectiveness of different programs to offset the
+  learning costs associated with adoption of new agricultural technology in
   Sierra Leone
 featured: false
 evergreen: false
