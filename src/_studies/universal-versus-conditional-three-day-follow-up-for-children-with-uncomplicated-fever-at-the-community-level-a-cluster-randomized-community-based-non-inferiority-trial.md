@@ -3,9 +3,9 @@ layout: study
 start_date: 2015-01-01 00:00:00
 end_date: 2017-01-01 00:00:00
 title: >-
-  Universal versus Conditional Three-Day Follow-Up for Children with
-  Uncomplicated Fever at the Community Level: A Cluster-Randomized,
-  Community-Based, Non-Inferiority Trial
+  Universal versus conditional three-day follow-up for children with
+  uncomplicated fever at the community level: A cluster-randomized,
+  community-based, non-inferiority trial
 featured: false
 evergreen: false
 focuses:
