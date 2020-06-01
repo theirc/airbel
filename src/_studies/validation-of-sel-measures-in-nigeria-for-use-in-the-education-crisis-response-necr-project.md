@@ -3,8 +3,8 @@ layout: study
 start_date: 2017-01-01 00:00:00
 end_date: 2017-01-01 00:00:00
 title: >-
-  Validation of Social-Emotional Learning Measures in Nigeria for Use in the
-  Education Crisis Response Project
+  Validation of social-emotional learning measures in Nigeria for use in the
+  Education Crisis Response project
 featured: false
 evergreen: false
 focuses:
@@ -25,7 +25,7 @@ publications:
     publication_type:
 ---
 
-We identified measures of social-emotional learning (SEL) that could be used to evaluate changes in students’ SEL competencies in the context of the Education Crisis Response project in Nigeria. A&nbsp;series of analyses were conducted to collect evidence of validity and reliability for:
+We identified measures of social-emotional learning (SEL) that could be used to evaluate changes in students’ SEL competencies in the context of the Education Crisis Response project in Nigeria (NECR). A series of analyses were conducted to collect evidence of validity and reliability for:
 
 1. The Social Competence Scale (teacher report)
 2. The Moods and Feelings Questionnaire (student report)
