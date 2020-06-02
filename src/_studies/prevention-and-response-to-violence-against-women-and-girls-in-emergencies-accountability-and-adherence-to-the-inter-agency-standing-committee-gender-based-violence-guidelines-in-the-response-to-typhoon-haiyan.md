@@ -3,9 +3,9 @@ layout: study
 start_date: 2014-01-01 00:00:00
 end_date: 2015-01-01 00:00:00
 title: >-
-  Prevention and Response to Violence Against Women and Girls in Emergencies:
-  Accountability and Adherence to the Inter-Agency Standing Committee
-  Gender-Based Violence Guidelines in the Response to Typhoon Haiyan
+  Prevention and response to violence against women and girls in emergencies:
+  accountability and adherence to the inter-agency standing committee
+  gender-based violence guidelines in the response to Typhoon Haiyan
 featured: false
 evergreen: false
 focuses:
