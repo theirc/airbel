@@ -3,8 +3,8 @@ layout: study
 start_date: 2017-01-01 00:00:00
 end_date: 2021-01-01 00:00:00
 title: >-
-  PRO-Jeunes: Boosting (Self-) Employment for Youth in Ivory Coast and the
-  Impact of Socio-Emotional Skills Training, Information and Norms
+  Pro-Jeunes: Boosting (self-) employment for youth in Ivory Coast and the
+  impact of socio-emotional skills training, information and norms
 featured: false
 evergreen: true
 focuses:
