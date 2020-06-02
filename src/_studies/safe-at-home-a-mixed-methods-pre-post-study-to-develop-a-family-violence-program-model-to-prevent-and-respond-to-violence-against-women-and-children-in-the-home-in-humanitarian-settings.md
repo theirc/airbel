@@ -3,9 +3,9 @@ layout: study
 start_date: 2017-01-01 00:00:00
 end_date: 2021-01-01 00:00:00
 title: >-
-  Safe at Home: A Mixed-Methods, Pre-Post Study to Develop a Family Violence
-  Program Model to Prevent and Respond to Violence against Women and Children in
-  the Home in Humanitarian Settings
+  Safe at home: A mixed-methods, pre-post study to develop a family violence
+  program model to prevent and respond to violence against women and children in
+  the home in humanitarian settings
 featured: false
 evergreen: true
 focuses:
