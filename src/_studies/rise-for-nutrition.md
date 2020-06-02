@@ -10,10 +10,9 @@ focuses:
 description: >-
   The RISE study will build on this evidence by positioning the IRC to lead a
   coalition of other implementing agencies who will operationally test the
-  integration of treatment of uncomplicated SAM (severe acute malnutrition) with
-  their own ICCM (integrated community case management) programs, share
-  experiences, and consider necessary revisions to bring the protocol and
-  toolkit to scale.
+  integration of treatment of uncomplicated severe acute malnutrition with their
+  own integrated community case management programs, share experiences, and
+  consider necessary revisions to bring the protocol and toolkit to scale.
 regions:
   - Kenya
   - Malawi
@@ -37,7 +36,7 @@ publications:
     publication_type:
 ---
 
-The RISE for Nutrition study is a follow-on study to the&nbsp;[IRC’s work in South Sudan](https://tall-salute.cloudvent.net/studies/effectiveness-of-a-simplified-protocol-for-community-health-workers-to-treat-severe-acute-malnutrition-sam-in-an-emergency-prone-setting/). The RISE study will build on this evidence by positioning the IRC to lead a coalition of other implementing agencies who will operationally test the integration of treatment of uncomplicated severe acute malnutrition with their own integrated community case management programs, share experiences, and consider necessary revisions to bring the protocol and toolkit to scale. IRC will provide technical support to four coalition members to implement four pilot studies in three countries:
+The RISE for Nutrition study is a follow-on study to the&nbsp;[IRC’s work in South Sudan](https://tall-salute.cloudvent.net/studies/effectiveness-of-a-simplified-protocol-for-community-health-workers-to-treat-severe-acute-malnutrition-sam-in-an-emergency-prone-setting/). The RISE study will build on this evidence by positioning the IRC to lead a coalition of other implementing agencies who will operationally test the integration of treatment of uncomplicated severe acute malnutrition with their own integrated community case management programs, share experiences, and consider necessary revisions to bring the protocol and toolkit to scale. The IRC will provide technical support to four coalition members to implement four pilot studies in three countries:
 
 * Kenya: Action Against Hunger and Save the Children
 * Malawi: Concern Worldwide
