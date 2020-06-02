@@ -3,8 +3,8 @@ layout: study
 start_date: 2015-09-14 00:00:00
 end_date: 2017-09-14 00:00:00
 title: >-
-  Participatory Development in Fragile and Conflict-Affected Contexts: The Five
-  Year Follow up of the Tuungane Phase I and the Evaluation of Tuungane Phase II
+  Participatory development in fragile and conflict-affected contexts: The five
+  year follow up of the Tuungane Phase I and the evaluation of Tuungane Phase II
   in Eastern DRC
 featured: false
 evergreen: false
@@ -42,9 +42,9 @@ publications:
     publication_type:
 ---
 
-Community-Driven Reconstruction (CDR) is a widely applied and growing form of intervention that takes a bottom-up approach to designing and implementing development projects. It seeks to engage community members, encourage deliberation, build social capital, foster more successful project implementation, and ultimately align projects to the needs and preferences of the communities that they are meant to serve. There is a growing body of impact evaluations that find mixed results on these scores. Yet, there is a paucity of long-run assessments of the effectiveness of CDR programs, even while CDR programs ultimately seek to foster long-term sustainable development.
+Community-Driven Reconstruction (CDR) is a widely applied and growing form of intervention that takes a bottom-up approach to designing and implementing development projects. It seeks to engage community members, encourage deliberation, build social capital, foster more successful project implementation, and ultimately align projects to the needs and preferences of the communities that they are meant to serve. There is a growing body of impact evaluations that find mixed results on these scores. Yet, there is a paucity of long-run assessments of the effectiveness of Community-Driven Reconstruction programs, even while these programs ultimately seek to foster long-term sustainable development.
 
-This impact evaluation was designed to assess the long-term effects of the Tuungane program’s phases 1 and 2 (2007–2014), a large-scale CDR program implemented jointly by the IRC and CARE International in over 1,000 communities in eastern DRC. The evaluation found that Tuungane phase 1, five years after the conclusion of program, had a positive impact on the quality of primary schools and health facilities, and on the presence of material and supplies in these facilities. However, the evaluation found no evidence that the program had an effect on other dimensions of service provision: capacity, staff quality, quality of administration, community participation, service cost or utilization. There was no evidence of improved health, education or economic outcome indicators.
+This impact evaluation was designed to assess the long-term effects of the Tuungane program’s phases 1 and 2 (2007–2014), a large-scale Community-Driven Reconstruction program implemented jointly by the IRC and CARE International in over 1,000 communities in eastern DRC. The evaluation found that Tuungane phase 1, five years after the conclusion of program, had a positive impact on the quality of primary schools and health facilities, and on the presence of material and supplies in these facilities. However, the evaluation found no evidence that the program had an effect on other dimensions of service provision: capacity, staff quality, quality of administration, community participation, service cost or utilization. There was no evidence of improved health, education or economic outcome indicators.
 
 Moreover, the evidence does not suggest that Tuungane 1 led to improvements in women’s empowerment and implies that the imposition of gender parity requirements is not an effective way to strengthen the position of women in this context.
 
