@@ -3,9 +3,9 @@ layout: study
 start_date: 2019-01-01 00:00:00
 end_date: 2022-01-01 00:00:00
 title: >-
-  Safe and Sound in Humanitarian Settings: Empowerment Counseling Intervention
-  Delivered in Antenatal Care for Pregnant Women and Girls Affected by Intimate
-  Partner Violence in a Refugee Camp in Tanzania
+  Safe and sound in humanitarian settings: Empowerment counseling intervention
+  delivered in antenatal care for pregnant women and girls affected by intimate
+  partner violence in a refugee camp in Tanzania
 featured: false
 evergreen: true
 focuses:
