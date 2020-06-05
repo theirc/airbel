@@ -28,7 +28,8 @@ articles:
 milestones:
   - date: 2019-12-01 00:00:00
     title: Ethnography in Kenya
-    link:
+    link: >-
+      https://medium.com/airbel/preventing-micronutrient-deficiencies-in-children-through-their-porridge-ba343c26b039
     link_title:
     description_markdown: >-
       We conducted ethnography in Nairobi and Turkana County. The team consulted
