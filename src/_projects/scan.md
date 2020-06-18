@@ -27,8 +27,11 @@ resources:
     description:
     url: 'https://rescue.box.com/s/nojvcvse4koccidmlh54czhouu1g7v3w'
 articles:
-  - title:
-    url:
+  - title: >-
+      Report: A WIN-WIN: Multi-year flexible funding is better for people and
+      better value for donors
+    url: >-
+      https://www.rescue.org/report/win-win-multi-year-flexible-funding-better-people-and-better-value-donors-0?edme=true
 milestones:
   - date: 2020-03-13 00:00:00
     title: SCAN Showcase
