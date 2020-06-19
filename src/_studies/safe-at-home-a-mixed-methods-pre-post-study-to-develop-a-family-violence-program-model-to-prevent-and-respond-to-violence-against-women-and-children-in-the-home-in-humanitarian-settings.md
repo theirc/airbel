@@ -29,6 +29,12 @@ publications:
     link: >-
       https://journals.sagepub.com/doi/abs/10.1177/0886260520922358?journalCode=jiva
     publication_type: Academic
+  - title: >-
+      Disability status and violence against women in the home in North Kivu,
+      Democratic Republic of Congo
+    link: >-
+      https://www.tandfonline.com/eprint/BGEFNNKZI4MCNK6XMHU3/full?target=10.1080/17441692.2020.1741661
+    publication_type: Academic
 ---
 
 To date, the humanitarian community has largely focused on intimate partner violence and child maltreatment via separate and distinct interventions and strategies. While standalone programming can be effective, the effects of each type of programming can be magnified on other forms of violence in the home through a family violence approach. To fill this gap, the IRC conducted formative research in two countries, the Democratic Republic of Congo (DRC) and Myanmar. The aim was to understand the factors that enable intimate partner violence against women, as well as the abuse, neglect and exploitation of children and other vulnerable household members, and how they are interrelated.
