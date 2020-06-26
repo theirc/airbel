@@ -21,9 +21,9 @@ donors:
   - name: DFID
     link:
 publications:
-  - title:
-    link:
-    publication_type:
+  - title: Research Brief
+    link: 'https://rescue.box.com/s/zedwfa9dbz6d8rfvyebdsk6ae97wg3rq'
+    publication_type: Research Brief
 ---
 
 To respond to the economic, social and educational barriers that have kept many poor rural Congolese girls from school, the IRC, in consortium with Catholic Relief Services (CRS) and Save the Children International (SCI), received funding from the UK Department for International Development’s (DFID) Girls’ Education Challenge Fund (GEC) to implement the Valorisation de la Scolarisation de la Fille (VasYFille\!) project in 400 schools of five provinces in the DRC from 2013-2017. The project’s goal was to ensure that 66,303 marginalized girls across the targeted provinces stay in school and that 44,662 girls demonstrate improved learning outcomes.&nbsp;
