@@ -4,7 +4,7 @@ start_date: 2019-01-01 00:00:00
 end_date: 2023-01-01 00:00:00
 title: Leave No Girl Behind - Evaluation of EAGER in Sierra Leone
 featured: false
-evergreen: false
+evergreen: true
 focuses:
   - education
 description:
