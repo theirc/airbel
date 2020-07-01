@@ -92,7 +92,7 @@ Thorough subgroup analyses identify that beneficiaries face several important ba
 
 Transformative programming will likely be needed to increase the proportion of males actively supporting girls for EAGER participants to succeed in the program, especially given the high percentage of girls who are married and/or who have children. EAGER will also need to closely scrutinize its transition plan as it develops for gender transformative opportunities.
 
-**Outcome 1: Learning **
+**Outcome 1: Learning**
 
 * **Literacy:** Three distinct groups of beneficiaries emerge in terms of literacy skills: 1) 40 percent could not read any letters, 2) 35 percent achieved letter recognition but could not read or comprehend proficiently, and 3) 25 percent who could not read proficiently but succeeded with the majority of the easy comprehension questions.
 * **Numeracy:** On average, all test-takers performed equally or slightly better on the real-world settings items. Girls who had never attended school performed significantly better (9 percentage points) on real-world problems while girls who had attended school performed only slightly better (3 percentage points).
