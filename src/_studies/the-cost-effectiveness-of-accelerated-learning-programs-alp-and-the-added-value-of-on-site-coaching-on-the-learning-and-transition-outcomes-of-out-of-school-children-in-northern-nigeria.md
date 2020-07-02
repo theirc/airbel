@@ -21,8 +21,11 @@ donors:
   - name: DFID
     link:
 publications:
-  - title:
-    link:
+  - title: Endline Research Brief
+    link: 'https://rescue.box.com/s/gjlz6o7e2sqlgb2bfaca4rzwmul4ozya'
+    publication_type:
+  - title: Baseline Research Brief
+    link: 'https://rescue.box.com/s/f3e5acrfdiy3r5uh0ejij7x29xtbqcp8'
     publication_type:
 ---
 
