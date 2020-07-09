@@ -15,8 +15,7 @@ geolocation:
 description: >-
   The current malnutrition treatment is inaccessible for 4 out of 5 acutely
   malnourished children globally. A new combined approach is simpler, less
-  expensive, & offers more comprehensive treatment, with the potential to reach
-  more children at scale.
+  expensive, & offers more comprehensive treatment.
 hero_image: /uploads/compas-hero.jpeg
 featured_image: /uploads/compas-featured-img.jpeg
 featured_video_url:
