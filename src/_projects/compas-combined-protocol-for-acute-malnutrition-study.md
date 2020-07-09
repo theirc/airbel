@@ -4,7 +4,7 @@ title: 'ComPAS: Combined Protocol for Acute Malnutrition Study'
 tagline: >-
   Simplifying the way acute malnutrition is treated to save lives & improve
   coverage through cost savings
-status: hidden
+status: active
 stage: Scale
 focuses:
   - health
@@ -13,10 +13,10 @@ geolocation:
   latitude:
   longitude:
 description: >-
-  The current malnutrition treatment is inaccessible for 4 out of 5 children who
-  suffer from acute malnutrition globally. A new combined approach is simpler,
-  less expensive, and offers more comprehensive treatment, reaching more
-  children at scale.
+  The current malnutrition treatment is inaccessible for 4 out of 5 acutely
+  malnourished children globally. A new combined approach is simpler, less
+  expensive, & offers more comprehensive treatment, with the potential to reach
+  more children at scale.
 hero_image: /uploads/compas-hero.jpeg
 featured_image: /uploads/compas-featured-img.jpeg
 featured_video_url:
@@ -98,7 +98,12 @@ milestones:
       controlled research study in Kenya and South Sudan to test a combined
       protocol to treat children with Severe Acute Malnutrition (SAM) and
       Moderate Acute Malnutrition (MAM).
-  - date: 2017-05-01 00:00:00
+  - date: 2015-10-01 00:00:00
+    title: ComPAS receives funding from CIFF (Children’s Investment Fund Foundation)
+    link:
+    link_title:
+    description_markdown:
+  - date: 2015-05-01 00:00:00
     title: End secondary data analysis of Stage 1 of ComPAS
     link: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230452'
     link_title:
@@ -118,6 +123,13 @@ milestones:
       secondary data analysis of 10,000 acutely malnourished children to propose
       a new optimized dosage of Ready-to-Use Therapeutic Food (RUTF) to treat
       Severe Acute Malnutrition (SAM) and Moderate Acute Malnutrition (MAM).
+  - date: 2014-10-01 00:00:00
+    title: >-
+      ComPAS receives initial funding from OFDA (Office of Foreign Disaster
+      Assistance)
+    link:
+    link_title:
+    description_markdown:
 ---
 
 Globally, [approximately 50 million children](https://data.unicef.org/resources/jme-report-2020/){: target="_blank"} suffer from acute malnutrition, including nearly 18 million in conflict and crisis-affected contexts. A cure exists – a simple package of peanut-based paste, delivered through daily doses over a few months – but the system to deliver it is broken, making treatment inaccessible for 4 out of 5 children globally. The IRC, in partnership with Action Against Hunger and the London School of Hygiene and Tropical Medicine, have developed a new approach that offers the promise of simpler, less expensive, and more comprehensive treatment.
