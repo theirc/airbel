@@ -64,7 +64,7 @@ milestones:
     link_title:
     description_markdown: >-
       The simplified protocol achieved a child recovery rate of 98% for children
-      with Severe Acute Malnutrition.
+      with severe acute malnutrition.
   - date: 2018-03-01 00:00:00
     title: Begin stakeholder perspectives study
     link:
