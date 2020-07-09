@@ -35,6 +35,23 @@ milestones:
       U.N. recommends a package of care including simplified protocol and
       empowering community health workers for nutrition programs affected by
       COVID-19.
+  - date: 2019-08-01 00:00:00
+    title: Begin operational pilot in Chad
+    link:
+    link_title:
+    description_markdown: >-
+      Pilot begins in Chad as part of the large-scale, multi-country pilot
+      endorsed by UNICEF, WFP, and ECHO started in December 2018.
+  - date: 2018-12-01 00:00:00
+    title: Begin operational pilot in Mali
+    link:
+    link_title:
+    description_markdown: >-
+      UNICEF, WFP, and ECHO endorse the combined protocol for further
+      exploration and unite to fund and organize a large-scale, multi-country
+      pilot (beginning in Mali) of the combined, simplified protocol.
+      Preliminary results demonstrate safety, feasibility, and
+      cost-effectiveness of these approaches.
   - date: 2018-08-01 00:00:00
     title: End of randomized control trial in Kenya and South Sudan
     link: >-
