@@ -38,7 +38,7 @@ milestones:
       COVID-19.
   - date: 2018-08-01 00:00:00
     title: End of randomized control trial in Kenya and South Sudan
-    link: 'https://doi.org/10.1371/journal.pmed.1003192'
+    link:
     link_title:
     description_markdown: >-
       Results from Kenya and South Sudan demonstrated that the combined protocol
