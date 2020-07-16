@@ -10,7 +10,7 @@ focuses:
 description:
 regions:
   - Kenya
-  - South Sudan
+  - Southern Sudan
 image:
 partners:
   - name: Action Against Hunger USA
