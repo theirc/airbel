@@ -24,9 +24,6 @@ donors:
   - name: UKAID/DFID
     link:
 publications:
-  - title:
-    link:
-    publication_type:
   - title: Baseline Research Brief
     link: 'https://rescue.box.com/s/wp3hn8el2jilvhufo7537w2mikfi6uac'
     publication_type: Research Brief
