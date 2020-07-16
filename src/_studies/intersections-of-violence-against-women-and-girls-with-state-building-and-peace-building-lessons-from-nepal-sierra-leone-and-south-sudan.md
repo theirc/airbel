@@ -18,7 +18,7 @@ description: >-
   three  countries.
 regions:
   - Nepal
-  - South Sudan
+  - Southern Sudan
   - Sierra Leone
 image:
 partners:
