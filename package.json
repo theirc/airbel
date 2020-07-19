@@ -35,7 +35,7 @@
     "formik": "^2.1.4",
     "formik-effect": "^1.2.0",
     "jquery": "^3.2.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "lodash.template": "^4.5.0",
     "mapbox-gl": "^1.8.1",
     "mixitup": "^3.3.0",
