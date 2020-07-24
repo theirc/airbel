@@ -53,16 +53,6 @@ milestones:
       pilot (beginning in Mali) of the combined, simplified protocol.
       Preliminary results demonstrate safety, feasibility, and
       cost-effectiveness of these approaches.
-  - date: 2018-08-01 00:00:00
-    title: End of randomized control trial in Kenya and South Sudan
-    link: >-
-      https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003192
-    link_title:
-    description_markdown: >-
-      Results from Kenya and South Sudan demonstrated that the combined protocol
-      is not only successful at recovering children with both SAM and MAM to
-      full health, but reduces the burden on families as well costs to
-      providers.
   - date: 2018-07-01 00:00:00
     title: Complete stakeholder perspectives study
     link: 'https://onlinelibrary.wiley.com/doi/full/10.1111/mcn.12920'
