@@ -21,12 +21,31 @@ donors:
   - name: Swedish International Development Agency (SIDA)
     link:
 publications:
-  - title:
-    link:
+  - title: Baseline Theory-based Evaluation
+    link: 'https://rescue.box.com/s/es3ed9yw8cq58k3htej5gvqc1jhbh6hn'
+    publication_type: Report
+  - title: 'Case Study: Positive Peace'
+    link: 'https://rescue.box.com/s/es3ed9yw8cq58k3htej5gvqc1jhbh6hn'
+    publication_type: Case Study
+  - title: 'Case Study: Sustainability'
+    link: 'https://rescue.box.com/s/v4x0sqplvqvf4u8ut4lit1inn64x3eif'
+    publication_type: Case Study
+  - title: 'Case Study: Women''s Empowerment'
+    link: 'https://rescue.box.com/s/a1oxufpyrswqmvzhgbaku2mwakn2kr4l'
+    publication_type: Case Study
+  - title: >-
+      Forced Migration Review: Community-level conflict prevention and peace
+      building in DRC and Somalia
+    link: 'https://www.fmreview.org/return/osofisan-keen'
+    publication_type:
+  - title: >-
+      Video: Localizing Sustaining Peace? Partnerships for Community-driven
+      'Positive Peace'
+    link: 'https://www.youtube.com/watch?v=pH8Svi_QNjQ'
     publication_type:
 ---
 
-Violent conflicts have created a weak protective environment for communities in Somalia and the Democratic Republic of Congo (DRC). The IRC in partnership with the Benadar Regional Administration in Mogadishu, Somalia and the Commission Dioc&eacute;saine pour la Justice et la Paix in Tanganyika province, DRC is seeking to implement a comprehensive program aimed at preventing violent conflict and supporting peace and state building processes and human security.
+Violent conflicts have created a weak protective environment for communities in Somalia and the Democratic Republic of Congo (DRC). The IRC in partnership with the Benadar Regional Administration in Mogadishu, Somalia and the Commission Diocésaine pour la Justice et la Paix in Tanganyika province, DRC is seeking to implement a comprehensive program aimed at preventing violent conflict and supporting peace and state building processes and human security.
 
 The program is designed to promote communities’ ability to participate in group dialogue as part of a process that provides them with increased access to services, while also enhancing the local government’s ability to engage with communities and support their needs, including response capacities to effectively mitigate and manage conflicts. In Somalia, the program focuses on access to, and capacities of, justice systems in Benadir Region (Mogadishu). In the DRC, the program will focus on conflict-affected Bantu and Twa communities by supporting increased access to equitable healthcare services in Tanganyia province.&nbsp;
 
