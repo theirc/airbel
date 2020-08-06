@@ -17,9 +17,9 @@ hero_image: /uploads/hero-popup-1.jpg
 featured_image: /uploads/img-20180905-130117.jpg
 featured_video_url:
 resources:
-  - title:
+  - title: Pop-Up Learning Pilot Report
     description:
-    url:
+    url: 'https://rescue.box.com/s/ktp667flns0vg6e7i27hn0pzwlt8ngoe'
 articles:
   - title:
     url:
@@ -80,7 +80,7 @@ milestones:
 
 With thoughtful facilitation and the best autonomous learning software, we can improve education access and quality in emergency settings. Within weeks of crisis onset and at a low cost-per-child, Pop-Up Learning aims to deliver locally-relevant, tablet-based learning that fosters emotional support, literacy and numeracy for primary school-aged learners. Pop-Up adapts to the varying needs of displaced children around the world, including different educational levels and languages.
 
-We are currently piloting autonomous learning with the Rohingya community in Bangladesh, where over 380,000 Rohyinga children don’t have access to learning opportunities.
+We have already completed an autonomous learning pilot with the Rohingya community in Bangladesh, where over 380,000 Rohyinga children don’t have access to learning opportunities.
 
 &nbsp;
 
