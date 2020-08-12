@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Pop-Up Learning
+title: Pop-Up Learning Bangladesh
 tagline: Giving access to learning for children fleeing violence
 status: active
 stage: Pilot
