@@ -28,6 +28,25 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2020-09-01 00:00:00
+    title: Begin distribution of tablets
+    link:
+    link_title:
+    description_markdown: >-
+      Begin a small and targeted distribution of 250 tablets to corresponding
+      households. During this period, we also will:
+
+
+      * Develop research tools for household surveys and experience interviews
+
+      * Conduct IRC staff interviews to better understand procurement,
+      distribution, and deployment.
+
+      * Administer household surveys
+
+      * Conduct in-depth household interviews
+
+      * Adapt program design based on research
   - date: 2020-07-01 00:00:00
     title: 'Project kickoff, program design, and iteration'
     link:
