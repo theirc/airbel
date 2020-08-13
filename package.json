@@ -22,7 +22,7 @@
     "@cloudcannon/suite": "^2.0.0-rc5",
     "babel-loader": "^8.0.6",
     "gulp": "^4.0.0",
-    "serialize-javascript": "^3.0.0",
+    "serialize-javascript": "^3.1.0",
     "webpack": "^4.37.0",
     "webpack-cli": "^3.3.6",
     "webpack-dev-middleware": "^3.7.0",
