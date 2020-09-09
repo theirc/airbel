@@ -43,6 +43,11 @@ publications:
       'Positive Peace'
     link: 'https://www.youtube.com/watch?v=pH8Svi_QNjQ'
     publication_type:
+  - title: >-
+      Localizing Sustaining peace? Partnerships for Community-driven ‘Positive
+      Peace’
+    link: 'https://rescue.box.com/s/1r82lj2y9lxvo63yig7nnbmt2oneqwwy'
+    publication_type: Report
 ---
 
 Violent conflicts have created a weak protective environment for communities in Somalia and the Democratic Republic of Congo (DRC). The IRC in partnership with the Benadar Regional Administration in Mogadishu, Somalia and the Commission Diocésaine pour la Justice et la Paix in Tanganyika province, DRC is seeking to implement a comprehensive program aimed at preventing violent conflict and supporting peace and state building processes and human security.
