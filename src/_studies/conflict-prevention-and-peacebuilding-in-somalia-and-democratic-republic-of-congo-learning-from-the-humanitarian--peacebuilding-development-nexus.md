@@ -44,9 +44,14 @@ publications:
     link: 'https://www.youtube.com/watch?v=pH8Svi_QNjQ'
     publication_type:
   - title: >-
-      Localizing Sustaining peace? Partnerships for Community-driven ‘Positive
-      Peace’
+      Question and Answer - Localizing Sustaining peace? Partnerships for
+      Community-driven ‘Positive Peace’
     link: 'https://rescue.box.com/s/1r82lj2y9lxvo63yig7nnbmt2oneqwwy'
+    publication_type: Report
+  - title: >-
+      Session Report - Localizing   sustaining   peace?   Partnerships   for  
+      community-driven “positive peace”
+    link: 'https://rescue.box.com/s/zf7h0y6ppn5ukoxe5kv0ltigajfudjqe'
     publication_type: Report
 ---
 
