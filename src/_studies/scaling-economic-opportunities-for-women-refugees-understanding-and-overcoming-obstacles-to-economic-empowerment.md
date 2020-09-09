@@ -26,19 +26,19 @@ donors:
   - name:
     link:
 publications:
-  - title: What does an economically empowered woman look like?
-    link: >-
-      https://medium.com/airbel/ircs-commitment-to-narrowing-the-gender-gap-1edc5991615c
-    publication_type:
+  - title: Cross-Country Overview
+    link: 'https://rescue.box.com/s/u1s5qayyc2gjua5z0g79quj0czn5ss4p'
+    publication_type: Report
   - title: 'Case Study: Germany'
     link: 'https://rescue.box.com/s/mkv7wasq3lmwcrdakqfn98k9ar63nkds'
     publication_type: Case Study
   - title: 'Case Study: Niger'
     link: 'https://rescue.box.com/s/8so6estuopkbmz42wltln93oqvpbz1lg'
     publication_type: Case Study
-  - title: Cross-Country Overview
-    link: 'https://rescue.box.com/s/u1s5qayyc2gjua5z0g79quj0czn5ss4p'
-    publication_type: Report
+  - title: What does an economically empowered woman look like?
+    link: >-
+      https://medium.com/airbel/ircs-commitment-to-narrowing-the-gender-gap-1edc5991615c
+    publication_type:
 ---
 
 Research and the IRC’s own experience in delivering livelihoods programs, have shown that when refugees are economically engaged, they are able to contribute to the economy as employers, employees, and consumers, resulting in a multiplier effect in their communities. However, a few key problems remain in taking employment initiatives for refugees to scale. Notable among these is the fact that women, despite making up half of the global refugee population, have far less&nbsp; engagement in workforce development initiatives. For instance, in Jordan, approximately 129,000 work permits were issued to Syrian refugees between January 2016 and December 2018, only 4% of which were issued to women ([Ministry of Labour Syrian Refugee Unit – Monthly Progress Report, December 2018](https://reliefweb.int/sites/reliefweb.int/files/resources/67760.pdf)). Similarly, data from Germany indicates that both in the short and the long term the number of refugee women participating in the labor market is lower than the number of refugee men ([Brücker et al., 2019](http://doku.iab.de/kurzber/2019/kb0319.pdf); [Salikutluk, Giesecke & Kroh, 2016](https://www.diw.de/documents/publikationen/73/diw_01.c.541803.de/16-35-5.pdf)). When refugee women are participating in the labor market, they are often engaged in lower paying jobs as compared to refugee men or German women ([BMFSJ, 2018](https://www.bmfsfj.de/blob/133056/54db6e8e2978650e927dbcea22d70ac6/monitor-familienforschung-ausgabe-40-so-gelingt-der-berufseinstieg-von-gefluechteten-muettern-data.pdf)). This pattern is common across refugee contexts and can often be explained by the particular constraints that refugee women face due to discriminatory laws and social norms, unpaid care and domestic work, access to childcare and real or perceived security constraints.
