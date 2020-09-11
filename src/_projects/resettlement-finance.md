@@ -5,7 +5,7 @@ tagline: >-
   Restructuring the way we finance refugee resettlement to see refugees as an
   investment
 status: graduated
-stage: Generate Solutions
+stage: Pilot
 focuses:
   - other
 geolocation:
