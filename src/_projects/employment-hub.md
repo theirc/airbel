@@ -3,7 +3,7 @@ layout: project
 title: Match
 tagline: 'Combining data, networks and policy to get refugees into work'
 status: active
-stage: Rigorous Evaluation
+stage: Scale
 focuses:
   - economic-wellbeing
 geolocation:
