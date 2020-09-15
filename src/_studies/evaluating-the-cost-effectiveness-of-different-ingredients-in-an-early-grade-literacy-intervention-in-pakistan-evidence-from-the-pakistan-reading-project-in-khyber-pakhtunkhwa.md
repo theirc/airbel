@@ -25,7 +25,9 @@ publications:
     publication_type:
 ---
 
-The Pakistan Reading Project is an extensive education program in Pakistan aimed at tackling one of the highest child illiteracy&nbsp; rates in the world. The IRC and its partners aim to reach 1.3 million grade one and grade two students across seven provinces in Pakistan to improve reading education and student reading outcomes as measured by the Early Grade Reading Assessment. The IRC is conducting a randomized controlled trial with four treatment arms in the provinces of Khyber Pakhtunkhwa to identify the cost-effectiveness of providing different ingredients of the intervention on teachers’ instructional practices and students’ reading skills, including face-to-face trainings, teacher inquiry groups, and school support visits.
+*The Pakistan Reading Project (PRP) is an extensive education program in Pakistan aimed at tackling one of the highest child illiteracy&nbsp; rates in the world. The IRC and its partners aim to reach 1.3 million grade one and grade two students across seven provinces in Pakistan to improve reading education and student reading outcomes as measured by the Early Grade Reading Assessment. [Learn more.](http://www.pakreading.org.pk/en){: target="_blank" rel="noopener"}*
+
+The IRC is conducting a randomized controlled trial with four treatment arms in the provinces of Khyber Pakhtunkhwa to identify the cost-effectiveness of providing different ingredients of the intervention on teachers’ instructional practices and students’ reading skills, including face-to-face trainings, teacher inquiry groups, and school support visits.
 
 The study will also identify the degree to which implementation factors affect learning outcomes and will collect qualitative data to better explain the results from the impact evaluation.&nbsp;
 
