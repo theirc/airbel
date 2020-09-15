@@ -23,6 +23,8 @@ publications:
     publication_type:
 ---
 
+##### The Pakistan Reading Project (PRP) is an extensive education program in Pakistan aimed at tackling one of the highest child illiteracy&nbsp; rates in the world. The IRC and its partners aim to reach 1.3 million grade one and grade two students across seven provinces in Pakistan to improve reading education and student reading outcomes as measured by the Early Grade Reading Assessment.
+
 PRP conducted a pilot cost-effectiveness study with a sample of 75 teachers in 48 schools and 4 regions of Pakistan. The study aimed to determine how much PRP interventions cost and whether the investments are worth the cost, as shown by the degree to which they led to changes in teachers’ behaviors that are expected to impact students’ reading outcomes. The study included a costing component in the Nowshera district program and a small effectiveness study exploring the effect of four different variations of the program on teachers’ general instructional practices, literacy instruction, and classroom environment.&nbsp;
 
 Results indicate that the overall cost of establishing and operating the PRP model in a cluster of schools within the Nowshera district was $649,129, approximately $3,121 per school and $39 dollars per child. This estimate is highly sensitive to scale because of the presence of district-level fixed costs. With regard to the costs of different components of PRP, the study found that materials cost $41,452, with an average cost of $199 per school and $2 per child. TIGs cost $103,003, with an average cost per school of $495 and $6 per child. Face-to-Face&nbsp;
