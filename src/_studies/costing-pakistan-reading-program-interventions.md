@@ -2,7 +2,7 @@
 layout: study
 start_date: 2016-01-01 00:00:00
 end_date: 2017-01-01 00:00:00
-title: 'Pakistan Reading Project: Costing Interventions'
+title: 'Pakistan Reading Project: Costing interventions'
 featured: false
 evergreen: false
 focuses:
