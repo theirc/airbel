@@ -2,7 +2,9 @@
 layout: study
 start_date: 2016-01-01 00:00:00
 end_date: 2017-01-01 00:00:00
-title: Supporting rural and isolated schools to improve reading
+title: >-
+  Pakistan Reading Project: Supporting rural and isolated schools to improve
+  reading
 featured: false
 evergreen: false
 focuses:
