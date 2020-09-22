@@ -3,7 +3,7 @@ layout: project
 title: Voluntary and Spontaneous Returns
 tagline: Helping displaced people on the long road home
 status: active
-stage: Generate Solutions
+stage: Design Research
 focuses:
   - empowerment
 geolocation:
