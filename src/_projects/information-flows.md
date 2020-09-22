@@ -3,7 +3,7 @@ layout: project
 title: Information Flows
 tagline: 'Getting displaced people the information they need, when they need it'
 status: active
-stage: Generate Solutions
+stage: Design Research
 focuses:
   - empowerment
 geolocation:
