@@ -17,7 +17,7 @@ description: >-
   before, we need solutions that ensure the hardest-to-reach children receive
   quality education. The IRC is delivering a fully remote at-home learning
   solution to out-of-school children in Tanzania.
-hero_image: /uploads/popuptz-hero-1.jpeg
+hero_image: /uploads/popuptz-hero-2.jpg
 featured_image: /uploads/popuptz-featured-1.jpg
 featured_video_url:
 resources:
