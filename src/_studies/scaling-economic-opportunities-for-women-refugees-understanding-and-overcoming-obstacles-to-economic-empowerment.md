@@ -35,6 +35,9 @@ publications:
   - title: 'Case Study: Niger'
     link: 'https://rescue.box.com/s/8so6estuopkbmz42wltln93oqvpbz1lg'
     publication_type: Case Study
+  - title: 'Case Study: Kenya'
+    link: 'https://rescue.box.com/s/rmfd93gvfnmicqlk4kbk4dbtlscfjewx'
+    publication_type: Case Study
   - title: What does an economically empowered woman look like?
     link: >-
       https://medium.com/airbel/ircs-commitment-to-narrowing-the-gender-gap-1edc5991615c
