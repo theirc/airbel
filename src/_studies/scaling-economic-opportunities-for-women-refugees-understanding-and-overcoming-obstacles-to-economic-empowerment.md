@@ -43,7 +43,7 @@ publications:
       https://medium.com/airbel/ircs-commitment-to-narrowing-the-gender-gap-1edc5991615c
     publication_type:
   - title: >-
-      Press Release: ew Research Finds Lack of Access to Adequate Child Care As
+      Press Release: New Research Finds Lack of Access to Adequate Child Care As
       One of the Top Barriers to Economic Empowerment for Refugee Women
     link: >-
       https://www.rescue.org/press-release/new-research-finds-lack-access-adequate-child-care-one-top-barriers-economic
