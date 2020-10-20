@@ -25,8 +25,25 @@ resources:
     description:
     url:
 articles:
-  - title:
-    url:
+  - title: >-
+      Telegraph: A new treatment could revolutionise help for children dying of
+      hunger
+    url: >-
+      https://www.telegraph.co.uk/global-health/climate-and-people/new-treatment-could-revolutionise-help-children-dying-hunger/
+  - title: >-
+      Devex: Streamlined malnutrition treatment is effective and less expensive,
+      study shows
+    url: >-
+      Devex: Streamlined malnutrition treatment is effective and less expensive,
+      study shows
+  - title: 'Fox News Radio: Global Pandemic: Fighting Malnutrition During COVID-19'
+    url: >-
+      https://radio.foxnews.com/2020/07/15/global-pandemic-fighting-malnutrition-during-covid-19/
+  - title: >-
+      Medical Xpress: Streamlining acute malnutrition treatment brings same
+      recovery in children at lower cost
+    url: >-
+      https://medicalxpress.com/news/2020-07-acute-malnutrition-treatment-recovery-children.html
 milestones:
   - date: 2020-03-01 00:00:00
     title: U.N. recommends simplified approach
@@ -53,6 +70,15 @@ milestones:
       pilot (beginning in Mali) of the combined, simplified protocol.
       Preliminary results demonstrate safety, feasibility, and
       cost-effectiveness of these approaches.
+  - date: 2018-08-01 00:00:00
+    title: End of randomized control trial in Kenya and South Sudan
+    link: 'https://doi.org/10.1371/journal.pmed.1003192'
+    link_title:
+    description_markdown: >-
+      Results from Kenya and South Sudan demonstrated that the combined protocol
+      is not only successful at recovering children with both SAM and MAM to
+      full health, but reduces the burden on families as well costs to
+      providers.
   - date: 2018-07-01 00:00:00
     title: Complete stakeholder perspectives study
     link: 'https://onlinelibrary.wiley.com/doi/full/10.1111/mcn.12920'
@@ -141,6 +167,6 @@ Globally, [approximately 50 million children](https://data.unicef.org/resources/
 
 Acute malnutrition is a continuum condition meaning a child’s condition improves or deteriorates continuously along a single spectrum. Under the current system, malnutrition is divided into two categories based on severity and treated with two different products in health facilities that are often too distant for families to access. This divided protocol impacts what kind of treatment children can access, where treatment is available to them, and far too often, whether they can access treatment at all.
 
-This simplified protocol treats all acutely malnourished children with the same food product and in the same place, adjusting dosage based on severity. This approach was found to be as effective at recovering children as the traditional treatment method, and offers significant cost savings. It is also simpler for health workers and ensures children are treated before they deteriorate into the more dangerous form of severe malnutrition.
+This simplified protocol treats all acutely malnourished children with the same food product and in the same place, adjusting dosage based on severity. This approach was found to be [as effective](https://doi.org/10.1371/journal.pmed.1003192){: target="_blank" rel="noopener"} at recovering children as the traditional treatment method, and offers significant cost savings. It is also simpler for health workers and ensures children are treated before they deteriorate into the more dangerous form of severe malnutrition.
 
 *This is one in a suite of solutions the IRC is proposing to create a future in which every malnourished child is treated. Current interventions are overly complex and institutionalized. Our approach empowers families and community health workers to deliver a simplified protocol for treatment with an easy-to-use toolkit. This is a package of care that can be adapted to different contexts, rolled out quickly during times of emergency, and scaled across humanitarian crises.*
