@@ -38,7 +38,7 @@ publications:
   - title: 'Case Study: Kenya'
     link: 'https://rescue.box.com/s/rmfd93gvfnmicqlk4kbk4dbtlscfjewx'
     publication_type: Case Study
-  - title: What does an economically empowered woman look like?
+  - title: 'Blog: What does an economically empowered woman look like?'
     link: >-
       https://medium.com/airbel/ircs-commitment-to-narrowing-the-gender-gap-1edc5991615c
     publication_type:
