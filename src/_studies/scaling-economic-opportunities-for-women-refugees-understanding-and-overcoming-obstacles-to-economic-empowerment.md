@@ -54,7 +54,7 @@ publications:
     link: >-
       https://www.devex.com/news/new-insights-from-displaced-women-reveal-limits-of-one-size-fits-all-employment-approach-98183
     publication_type:
-  - title: 'Case Study: Niger (Français)'
+  - title: 'Case Study: Niger (En Français)'
     link: 'https://rescue.box.com/s/kurjikyt2pef3q9qe25r6illdsd6feis'
     publication_type:
 ---
