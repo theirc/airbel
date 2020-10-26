@@ -16,7 +16,7 @@ description: >-
   gap.
 regions:
   - Colombia
-image:
+image: /uploads/20190815-frios-colomba.jpg
 partners:
   - name:
     link:
