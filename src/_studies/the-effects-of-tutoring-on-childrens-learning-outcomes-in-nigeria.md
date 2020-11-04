@@ -10,7 +10,7 @@ focuses:
 description: >-
   From 2018-2019, the Airbel Impact Lab conducted this Impact Evaluation to
   measure the impact of remedial tutoring on primary school children in
-  conflict-affected settings in Nigeria.  This intervention prioritized the
+  conflict-affected settings in Nigeria. This intervention prioritized the
   development of basic literacy, numeracy and social-emotional learning (SEL)
   skills for low-performing primary school children and children at high risk of
   dropping out.
