@@ -29,9 +29,6 @@ publications:
       Community and Venezuelan Refugee Children
     link: 'https://rescue.box.com/s/vd3ka99pp725alztikxyx79z01ai20ye'
     publication_type: Research Brief
-  - title:
-    link:
-    publication_type:
 ---
 
 Since 2015, the humanitarian crisis in Venezuela has contributed to one of the largest refugee crises in the world. More than [4\.5 million Venezuelans have fled](https://www.unhcr.org/en-us/venezuela-emergency.html){: target="_blank"} their homes and five years into this crisis, the factors driving their displacement show no signs of abating. An [estimated 1.6 million](https://www.unhcr.org/en-us/news/briefing/2020/2/5e3930db4/unhcr-welcomes-colombias-decision-regularize-stay-venezuelans-country.html){: target="_blank"} Venezuelan refugees and migrants currently live in Colombia and about [327,000 of them](https://www.unicef.org/lac/en/press-releases/more-300000-venezuelan-children-colombia-need-humanitarian-assistance-unicef){: target="_blank"} are school-aged children.
