@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Voluntary and Spontaneous Returns
+title: Service Delivery for Mobile Populations
 tagline: Helping displaced people on the long road home
 status: active
 stage: Design Research
