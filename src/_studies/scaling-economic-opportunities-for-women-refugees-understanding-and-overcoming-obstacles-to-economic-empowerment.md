@@ -29,12 +29,21 @@ publications:
   - title: Cross-Country Overview
     link: 'https://rescue.box.com/s/u1s5qayyc2gjua5z0g79quj0czn5ss4p'
     publication_type: Report
+  - title: Cross-Country Overview (Français)
+    link: 'https://rescue.box.com/s/700luldlng18hyrgmajaxisvijkakyc0'
+    publication_type:
   - title: 'Case Study: Germany'
     link: 'https://rescue.box.com/s/mkv7wasq3lmwcrdakqfn98k9ar63nkds'
     publication_type: Case Study
+  - title: 'Case Study: Germany (Deutsch)'
+    link: 'https://rescue.box.com/s/q6tefcy1ssqhj5tpgx9uam8z9uf6a0xc'
+    publication_type:
   - title: 'Case Study: Niger'
     link: 'https://rescue.box.com/s/8so6estuopkbmz42wltln93oqvpbz1lg'
     publication_type: Case Study
+  - title: 'Case Study: Niger (Français)'
+    link: 'https://rescue.box.com/s/kurjikyt2pef3q9qe25r6illdsd6feis'
+    publication_type:
   - title: 'Case Study: Kenya'
     link: 'https://rescue.box.com/s/rmfd93gvfnmicqlk4kbk4dbtlscfjewx'
     publication_type: Case Study
@@ -53,9 +62,6 @@ publications:
       one-size-fits-all employment approach
     link: >-
       https://www.devex.com/news/new-insights-from-displaced-women-reveal-limits-of-one-size-fits-all-employment-approach-98183
-    publication_type:
-  - title: 'Case Study: Niger (En Français)'
-    link: 'https://rescue.box.com/s/kurjikyt2pef3q9qe25r6illdsd6feis'
     publication_type:
 ---
 
