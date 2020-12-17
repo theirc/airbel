@@ -32,6 +32,9 @@ publications:
   - title: Cross-Country Overview (Français)
     link: 'https://rescue.box.com/s/700luldlng18hyrgmajaxisvijkakyc0'
     publication_type:
+  - title: Cross-Country Overview (Deutsch)
+    link: 'https://rescue.box.com/s/qmidl95y3x8jgmkse14mlntnel7tw104'
+    publication_type:
   - title: 'Case Study: Germany'
     link: 'https://rescue.box.com/s/mkv7wasq3lmwcrdakqfn98k9ar63nkds'
     publication_type: Case Study
