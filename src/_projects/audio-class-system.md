@@ -13,7 +13,7 @@ geolocation:
   latitude:
   longitude:
 description:
-hero_image: /uploads/audioclass-hero.jpg
+hero_image: /uploads/audioclass-hero-2.jpg
 featured_image: /uploads/audioclass-featured-1.jpg
 featured_video_url: 'https://www.youtube.com/watch?v=yR3Mrw1oFK0&feature=youtu.be'
 resources:
