@@ -62,7 +62,7 @@ In Colombia where at least [4 million Venezuelans](https://www.unhcr.org/en-us/n
 
 To respond to the crisis, the IRC created an innovative concept called the [Audio-Class System](https://www.sistema-audioclase.com/){: target="_blank" rel="noopener"} (ACS) that can automatically share educational content to any device. The system uses audio as its main educational media because audio can be shared across all devices, be it radio, feature phone, smartphone or tablet. The ACS prototype provides interactive material through the use of gamified learning, automated chatbot interactions, engaging educational audio content, and a teacher dashboard. We believe this platform has the potential to bridge the educational gap by reaching children in rural and urban areas, augmenting access to quality educational materials, and providing interactive learning activities.
 
-**How does it work?*****&nbsp;***
+##### **How does it work?*****&nbsp;***
 
 Audio-Class uses automated systems such as [Interactive Voice Response](https://thenextweb.com/future-of-communications/2015/04/20/enhancing-customer-engagement-with-interactive-voice-response/#gref){: target="_blank" rel="noopener"} (IVR) for feature phones and WhatsApp Chatbots for smartphones to deliver a range of educational content, including literacy, numeracy exercises, and creative storytelling homework. The system defaults to audio to cater to low-to-medium technology devices, instead of high-tech devices, such as computers that need strong internet connection. ACS is designed to meet the needs of children through:&nbsp;
 
@@ -71,7 +71,7 @@ Audio-Class uses automated systems such as [Interactive Voice Response](https://
 * **Automated supportive messaging** that can help caregivers and students, as well as teachers, ensure they are taking care of themselves during these trying times with the use of motivating and uplifting messaging.&nbsp;
 * **Automated lesson delivery that adapts to each device on its own.** Teachers can now spend their time doing what they do best: teaching\! They can follow up with their students and cater to their learning needs by looking at the student dashboard, instead of calling each one by one.&nbsp;
 
-**What’s the potential?**
+##### **What’s the potential?**
 
 Using automated technology, we can dramatically reach more children and actively create valuable at-home educational experiences. We will be designing the foundation of a system that can be used across various education programs, not only in Colombia, but in other countries as well. The system will be able to adapt different educational curriculum, both for formal and informal educational programming and for multiple users such as children, teachers, and caregivers. The Audio-Class System is not a technology-only solution, but is meant to support existing learning instruction such as learning at home after school and increasing engagement during remote learning.
 
