@@ -12,7 +12,12 @@ geolocation:
   region:
   latitude:
   longitude:
-description:
+description: >-
+  In Colombia where at least 4 million Venezuelans have crossed the border to
+  seek refuge, the Colombian education system is struggling to support the
+  unprecedented influx of students.  To respond to the crisis, the IRC created
+  an innovative concept called the Audio-Class System (ACS) that can
+  automatically share educational content to any device.
 hero_image: /uploads/audioclass-hero-2.jpg
 featured_image: /uploads/audioclass-featured-1.jpg
 featured_video_url: 'https://www.youtube.com/watch?v=yR3Mrw1oFK0&feature=youtu.be'
