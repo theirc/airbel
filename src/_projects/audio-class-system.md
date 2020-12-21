@@ -19,7 +19,7 @@ description: >-
   (ACS) that can automatically share educational content to any device.
 hero_image: /uploads/audioclass-hero-2.jpg
 featured_image: /uploads/audioclass-featured-1.jpg
-featured_video_url:
+featured_video_url: 'https://youtu.be/yR3Mrw1oFK0'
 resources:
   - title: Audio-Class Website
     description:
