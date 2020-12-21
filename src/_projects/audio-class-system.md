@@ -19,7 +19,7 @@ description: >-
   (ACS) that can automatically share educational content to any device.
 hero_image: /uploads/audioclass-hero-2.jpg
 featured_image: /uploads/audioclass-featured-1.jpg
-featured_video_url: 'https://youtu.be/yR3Mrw1oFK0'
+featured_video_url:
 resources:
   - title: Audio-Class Website
     description:
@@ -28,21 +28,11 @@ articles:
   - title:
     url:
 milestones:
-  - date: 2020-06-01 00:00:00
-    title: Design Sprint completed
-    link: >-
-      https://medium.com/airbel/innovation-in-times-of-crisis-designing-the-audioclass-system-cb0a0843c4f3
-    link_title:
-    description_markdown: >-
-      * The team completes research, prototypes and tests various ideas. The ACS
-      concept is created and shared across organizations for buy-in.
-  - date: 2020-08-01 00:00:00
-    title: Partnership with Norwegian Refugee Council
+  - date: 2021-03-01 00:00:00
+    title: End of prototype
     link:
     link_title:
-    description_markdown: >-
-      Official partnership between the IRC and the NRC to design and build the
-      Audio-Class System.
+    description_markdown: The system is designed and a foundation is built.&nbsp;
   - date: 2020-12-01 00:00:00
     title: Begin prototyping
     link:
@@ -51,11 +41,21 @@ milestones:
       The team will begin testing and adapting two weeks worth of curriculum
       content with 100 students and 4 teachers in both rural and urban areas of
       Colombia.
-  - date: 2021-03-01 00:00:00
-    title: End of prototype
+  - date: 2020-08-01 00:00:00
+    title: Partnership with Norwegian Refugee Council
     link:
     link_title:
-    description_markdown: The system is designed and a foundation is built.&nbsp;
+    description_markdown: >-
+      Official partnership between the IRC and the NRC to design and build the
+      Audio-Class System.
+  - date: 2020-06-01 00:00:00
+    title: Design Sprint completed
+    link: >-
+      https://medium.com/airbel/innovation-in-times-of-crisis-designing-the-audioclass-system-cb0a0843c4f3
+    link_title:
+    description_markdown: >-
+      * The team completes research, prototypes and tests various ideas. The ACS
+      concept is created and shared across organizations for buy-in.
 ---
 
 In Colombia where at least [4 million Venezuelans](https://www.unhcr.org/en-us/news/press/2019/6/5cfa2a4a4/refugees-migrants-venezuela-top-4-million-unhcr-iom.html){: target="_blank" rel="noopener"} have crossed the border to seek refuge, the Colombian education system is struggling to support the unprecedented influx of students.&nbsp; In 2019 alone, there was a [509% increase](http://www.oas.org/en/iachr/docs/annual/2019/docs/IA2019cap4BVE-en.docx){: target="_blank" rel="noopener"} in school enrollment for Venezuelan students in the country. The COVID-19 pandemic has exacerbated existing problems in the educational system, especially for youth. In Colombia, all in-person education programs have [closed their doors](https://en.unesco.org/covid19/educationresponse){: target="_blank" rel="noopener"} to students since April 2020, and they are not expected to fully reopen until an undisclosed time in&nbsp; 2021. While the Colombian Ministry of Education quickly pivoted and digitized educational content to mitigate learning loss and ensure students are learning in the home, not all students have access to stable internet or laptops to continue their education. Children displaced from their homes and those still living in rural, crisis-affected areas are hit the hardest by the pandemic closures due to their lack of technology access, amplifying the effects of existing learning inequalities. In addition to poor educational outcomes, out-of-school children in Colombia have [increased exposure](https://www.unicef.org/about/annualreport/files/Colombia_2018_COAR.pdf){: target="_blank" rel="noopener"} to recruitment to armed forces, anti-personnel mines, gender-based violence, and exploitation. Existing flexible learning programming in Colombia are faced with the challenge of how to reach this vulnerable student population and keep them engaged.&nbsp;
