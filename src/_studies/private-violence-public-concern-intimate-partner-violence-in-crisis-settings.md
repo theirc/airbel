@@ -11,7 +11,7 @@ description:
 regions:
   - Iraq
   - Kenya
-  - South Sudan
+  - Southern Sudan
 image:
 partners:
   - name: Duke University
