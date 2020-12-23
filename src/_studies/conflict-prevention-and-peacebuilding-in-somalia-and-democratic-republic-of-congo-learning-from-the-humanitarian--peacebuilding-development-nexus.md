@@ -6,7 +6,7 @@ title: >-
   Conflict Prevention and Peacebuilding in Somalia and Democratic Republic of
   Congo: Learning from the Humanitarian-Peacebuilding-Development Nexus
 featured: false
-evergreen: true
+evergreen: false
 focuses:
   - empowerment
 description: >-
