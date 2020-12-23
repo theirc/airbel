@@ -7,7 +7,7 @@ title: >-
   on-site coaching on the learning and transition outcomes of out-of-school
   children in northern Nigeria
 featured: false
-evergreen: true
+evergreen: false
 focuses:
   - education
 description: "During two years of intervention, about 20,000 eligible out-of-school children will receive structured instruction in literacy, numeracy, and social-emotional learning.\_Researchers from the IRC are conducting a mixed methods, randomized control trial to evaluate the cost-effectiveness of the program on the learning and transition outcomes."
