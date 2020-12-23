@@ -10,7 +10,7 @@ focuses:
 description:
 regions:
   - Nigeria
-  - South Sudan
+  - Southern Sudan
 image:
 partners:
   - name:
