@@ -6,7 +6,7 @@ focuses:
   - safety
 expertise_areas:
   - design
-leadership: false
+leadership: true
 image: /uploads/team/rachel.jpg
 ---
 
