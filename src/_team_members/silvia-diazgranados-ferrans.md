@@ -6,7 +6,7 @@ focuses:
   - education
 expertise_areas:
   - research
-leadership: false
+leadership: true
 image: /uploads/silvia-web.jpg
 ---
 
