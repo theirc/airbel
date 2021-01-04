@@ -6,7 +6,7 @@ focuses:
   - health
 expertise_areas:
   - research
-leadership: false
+leadership: true
 image: /uploads/jeanette-bailey.jpg
 ---
 
