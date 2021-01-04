@@ -4,7 +4,7 @@ name: Eva Kaplan
 role_title: 'Regional Innovation Director, Middle East'
 focuses:
 expertise_areas:
-leadership: false
+leadership: true
 image: /uploads/team/eva.jpg
 ---
 
