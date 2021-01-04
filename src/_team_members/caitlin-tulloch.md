@@ -5,7 +5,7 @@ role_title: 'Associate Director, Best Use of Resources'
 focuses:
 expertise_areas:
   - cost-efficiency
-leadership: false
+leadership: true
 image: /uploads/team/caitlin.jpg
 ---
 
