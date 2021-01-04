@@ -6,7 +6,7 @@ focuses:
   - safety
 expertise_areas:
   - research
-leadership: false
+leadership: true
 image: /uploads/kathryn-web.jpg
 ---
 
