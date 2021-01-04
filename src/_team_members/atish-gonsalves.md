@@ -5,7 +5,7 @@ role_title: Education Priority Lead
 focuses:
   - education
 expertise_areas:
-leadership: false
+leadership: true
 image: /uploads/atish-web.jpg
 ---
 
