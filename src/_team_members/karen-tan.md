@@ -5,7 +5,7 @@ role_title: Behavioral Insights Lead
 focuses:
 expertise_areas:
   - behavioral-insights
-leadership: false
+leadership: true
 image: /uploads/team/karen.jpg
 ---
 
