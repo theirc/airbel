@@ -22,8 +22,7 @@ donors:
     link:
 publications:
   - title: Safer Cash Toolkit
-    link: >-
-      http://www.cashlearning.org/resources/library/1407-safer-cash-toolkit-english?keywords=&region=all&country=all&year=all&organisation=all&sector=all&modality=all&language=all&payment_method=all&document_type=all&searched=1
+    link: 'https://www.calpnetwork.org/publication/safer-cash-toolkit-english/'
     publication_type:
 ---
 
