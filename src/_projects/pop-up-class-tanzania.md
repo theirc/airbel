@@ -25,19 +25,23 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2020-10-16 00:00:00
+    title: Design Sprint begins
+    link:
+    link_title:
+    description_markdown: >-
+      * The Airbel Impact Lab kicks off a 4-week Design Sprint to design, test,
+      and adapt program components and staff support assets before the launch of
+      the pilot in February, 2021.
   - date: 2020-09-09 00:00:00
     title: Project Set-up phase begins
     link:
     link_title:
     description_markdown: |-
       * Finalize research plans&nbsp;
-
       * Draft and test evaluation tools
-
       * Procure hardware and solar charging set-up&nbsp;
-
       * Receive government and IRB permissions
-
       * Engage schools and communities where the program will take place
   - date: 2020-06-18 00:00:00
     title: Schools re-open and students return to school
@@ -60,8 +64,8 @@ milestones:
     link:
     link_title:
     description_markdown: >-
-      Building on the promise of Pop-Up Learning in Bangladesh, Imagine and the
-      IRC see potential for Autonomous Learning software to be used in
+      * Building on the promise of Pop-Up Learning in Bangladesh, Imagine and
+      the IRC see potential for Autonomous Learning software to be used in
       under-resourced school settings to provide children supplemental learning
       opportunities and to help children who are underperforming.
   - date: 2020-04-23 00:00:00
@@ -72,7 +76,7 @@ milestones:
       https://rescue.app.box.com/file/701632948042?s=ktp667flns0vg6e7i27hn0pzwlt8ngoe
     link_title:
     description_markdown: >-
-      Tablet-based interactive educational content can keep children engaged
+      * Tablet-based interactive educational content can keep children engaged
       while learning foundational academic and SEL skills.
 ---
 
