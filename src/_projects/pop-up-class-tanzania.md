@@ -25,14 +25,19 @@ articles:
   - title:
     url:
 milestones:
-  - date:
-    title:
-    link:
+  - date: 2020-04-23 00:00:00
+    title: >-
+      The Pop-up Learning Bangladesh Pilot Report demonstrates the promise of
+      Autonomous Learning in Crisis Contexts
+    link: >-
+      https://rescue.app.box.com/file/701632948042?s=ktp667flns0vg6e7i27hn0pzwlt8ngoe
     link_title:
-    description_markdown:
+    description_markdown: >-
+      Tablet-based interactive educational content can keep children engaged
+      while learning foundational academic and SEL skills.
 ---
 
-Nyarugusu refugee camp in Tanzania is the third largest refugee camp in the world and currently home to 136,000 refugees. Children in Nyarugusu have access to an IRC-operated school system that delivers Congolese and Burundian national curriculums.&nbsp; However, education in the refugee camps is chronically under-resourced resulting in overburdened teachers, large class sizes, few teaching and learning materials, and the inability to provide targeted support to children who have fallen behind. As a result Nyarugusu Camp primary schools currently experience a 50% drop-out rate for children in grades 1-3 (IRC, 2019). Similarly, Tanzania government schools in the host community surrounding the camp face crowded classrooms and few teaching and learning materials. Without targeted support children are at risk of falling behind and dropping out of school at high rates.&nbsp;
+Nyarugusu refugee camp in Tanzania is the third largest refugee camp in the world and currently home to 136,000 refugees. Children in Nyarugusu have access to an IRC-operated school system that delivers Congolese and Burundian national curriculums.&nbsp; However, education in the refugee camps is chronically under-resourced resulting in overburdened teachers, large class sizes, few teaching and learning materials, and the inability to provide targeted support to children who have fallen behind. As a result Nyarugusu Camp primary schools currently experience a 50% drop-out rate for children in grades 1-3 (IRC, 2019). Similarly, Tanzania government schools in the host community surrounding the camp face crowded classrooms and few teaching and learning materials. Without targeted support, children are at risk of falling behind and dropping out of school at high rates.&nbsp;
 
 Resourcing to date has not enabled the establishment of consistent, targeted interventions to support under-performing children and prevent dropout.&nbsp;&nbsp;
 
