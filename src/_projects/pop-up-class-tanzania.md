@@ -36,7 +36,9 @@ Nyarugusu refugee camp in Tanzania is the third largest refugee camp in the worl
 
 Resourcing to date has not enabled the establishment of consistent, targeted interventions to support under-performing children and prevent dropout.&nbsp;&nbsp;
 
-##### **How it Works**
+&nbsp;
+
+##### How it Works
 
 The IRC, in partnership with [Imagine Worldwide](https://www.imagineworldwide.org/){: target="_blank" rel="noopener"}, is piloting Pop-Up Class, a center-based digital education program that puts personalized game-based learning software in the hands of children who need it the most, enabling them to gain foundational numeracy and literacy skills. The goal of **Pop-Up Class** is to allow children to direct their own learning, learning autonomously and with minimal supervision, navigating the software based on their own skill level and understanding of the academic content.&nbsp;
 
