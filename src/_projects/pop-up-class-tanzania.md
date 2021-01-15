@@ -25,6 +25,45 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2020-09-09 00:00:00
+    title: Project Set-up phase begins
+    link:
+    link_title:
+    description_markdown: |-
+      * Finalize research plans&nbsp;
+
+      * Draft and test evaluation tools
+
+      * Procure hardware and solar charging set-up&nbsp;
+
+      * Receive government and IRB permissions
+
+      * Engage schools and communities where the program will take place
+  - date: 2020-06-18 00:00:00
+    title: Schools re-open and students return to school
+    link:
+    link_title:
+    description_markdown:
+  - date: 2020-05-20 00:00:00
+    title: Project set-up is delayed due to COVID-19 school closures
+    link:
+    link_title:
+    description_markdown: >-
+      * Children in Nyarugusu camp and surrounding Tanzania host communities are
+      out-of-school due to COVID-19.&nbsp;
+
+      * The project launch is delayed from May 2020 to September 2020.
+  - date: 2020-05-20 00:00:00
+    title: >-
+      Imagine Worldwide and the IRC partner to study the impact and
+      cost-effectiveness of Autonomous Learning solutions in crisis contexts
+    link:
+    link_title:
+    description_markdown: >-
+      Building on the promise of Pop-Up Learning in Bangladesh, Imagine and the
+      IRC see potential for Autonomous Learning software to be used in
+      under-resourced school settings to provide children supplemental learning
+      opportunities and to help children who are underperforming.
   - date: 2020-04-23 00:00:00
     title: >-
       The Pop-up Learning Bangladesh Pilot Report demonstrates the promise of
