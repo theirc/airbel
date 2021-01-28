@@ -2,7 +2,7 @@
 layout: study
 start_date: 2018-01-01 00:00:00
 end_date: 2020-01-01 00:00:00
-title: Improving Guidance on Menstrual Hygiene Management
+title: Improving guidance on menstrual hygiene management
 featured: false
 evergreen: true
 focuses:
