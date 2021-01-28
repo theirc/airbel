@@ -2,7 +2,7 @@
 layout: study
 start_date: 2019-01-01 00:00:00
 end_date: 2021-01-01 00:00:00
-title: Financial Integration in Displacement
+title: Financial integration in displacement
 featured: false
 evergreen: true
 focuses:
