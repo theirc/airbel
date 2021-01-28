@@ -3,7 +3,7 @@ layout: study
 start_date: 2018-01-01 00:00:00
 end_date: 2020-01-01 00:00:00
 title: >-
-  Conflict Prevention and Peacebuilding in Somalia and Democratic Republic of
+  Conflict prevention and peacebuilding in Somalia and Democratic Republic of
   Congo: Learning from the Humanitarian-Peacebuilding-Development Nexus
 featured: false
 evergreen: false
