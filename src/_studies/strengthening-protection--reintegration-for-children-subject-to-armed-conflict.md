@@ -6,7 +6,7 @@ title: >-
   Strengthening protection & reintegration for children subject to armed
   conflict
 featured: false
-evergreen: false
+evergreen: true
 focuses:
   - safety
 description:
