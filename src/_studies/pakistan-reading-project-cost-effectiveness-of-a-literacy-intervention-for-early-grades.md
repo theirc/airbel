@@ -5,7 +5,7 @@ end_date: 2020-10-01 00:00:00
 title: >-
   Pakistan Reading Project: Cost-effectiveness of a literacy intervention for
   early grades
-featured: false
+featured: true
 evergreen: false
 focuses:
   - education
