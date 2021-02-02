@@ -34,9 +34,11 @@ In 2013, multiple national level reading assessments in Pakistan showed that too
 
 PRP directly influenced the government to adopt 55 policies through continuous engagement with government stakeholders and targeted dissemination of policy relevant research. PRP also won the 2020 International Prize of the Library of Congress&acute; Literacy Awards for promoting reading in Pakistan.
 
-# Research Studies
+## Research Studies
 
-## The Impact of PRP on the Reading Skills of Early Grade Students
+### &nbsp;
+
+### The Impact of PRP on the Reading Skills of Early Grade Students
 
 The impact of PRP on the reading skills of students in Urdu-medium schools: The IRC conducted a quasi-experimental study to compare the reading outcomes of two cohorts of students in Urdu-medium schools who received the PRP intervention (Cohorts 1 and 2) with the outcomes of a comparison group of schools that had not yet participated in the program (Cohort 3). Findings suggested that PRP had positive and statistically significant effects on students’ reading outcomes. More information can be found [here](https://rescue.box.com/s/m21q8yb94hje6sor1rxafsi8hfejwur5){: target="_blank" rel="noopener"}.
 
@@ -44,6 +46,6 @@ A follow-up study of the impact of PRP on the reading skills of children in Urdu
 
 The IRC also conducted studies to evaluate the impact of PRP in [Sindhi](https://rescue.box.com/s/ikf5c5b5v5m60uqk4jdkh4ls0gl9wgu3){: target="_blank" rel="noopener"} and [Pashto](https://rescue.box.com/s/ixavoyh342ej4qapir1qjbzmbbm31wtc){: target="_blank" rel="noopener"} as well as the provision of PRP interventions through private schools that came under the banner of the [READ Foundation](https://rescue.box.com/s/3zc8xyn3reoslpffv749kjnhdlk8q1mm){: target="_blank" rel="noopener"}. The Pashto and READ Foundation interventions showed positive impacts on all reading outcomes for students. However, the Sindhi study showed mixed results with positive impacts on 4 out of 6 reading outcomes that included oral reading fluency, and negative impacts on familiar word reading.
 
-## The cost-effectiveness of different ingredients of teacher professional development on students’ reading skills
+### The cost-effectiveness of different ingredients of teacher professional development on students’ reading skills
 
 While there is evidence that the PRP model works to improve early grade students’ reading outcomes, the IRC also conducted research to clarify the degree to which different ingredients of the intervention are cost-effective. Specifically,&nbsp; in order to identify the degree to which different ingredients of teachers’ professional development work, for whom, how, under what conditions, and at what financial cost, researchers used a mixed-methods randomized control trial (RCT) with four treatment arms with schools in the KP province. Information about this study can be found [here](https://rescue.box.com/s/7buuxo9l2a4nuqstq0kl6mwklwigk64e){: target="_blank" rel="noopener"}.
