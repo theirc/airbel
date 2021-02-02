@@ -3,7 +3,7 @@ layout: study
 start_date: 2017-09-14 00:00:00
 end_date: 2019-09-14 00:00:00
 title: RISE for Nutrition
-featured: false
+featured: true
 evergreen: false
 focuses:
   - health
