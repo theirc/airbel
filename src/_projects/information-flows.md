@@ -2,7 +2,7 @@
 layout: project
 title: Information Flows
 tagline: 'Getting displaced people the information they need, when they need it'
-status: active
+status: graduated
 stage: Generate Solutions
 focuses:
   - empowerment
