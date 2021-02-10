@@ -4,6 +4,7 @@ name: Seema Shah
 role_title: Regional Research and Strategy Specialist
 focuses:
 expertise_areas:
+  - strategy
 leadership: false
 image: /uploads/team/seema.jpg
 ---
