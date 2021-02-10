@@ -3,7 +3,7 @@ layout: study
 start_date: 2019-09-11 00:00:00
 end_date: 2021-09-15 00:00:00
 title: >-
-  Strengthening protection & reintegration for children (SPARC): Evidence and
+  Strengthening Protection and Reintegration for Children (SPARC): Evidence and
   action for children in armed conflict
 featured: false
 evergreen: true
