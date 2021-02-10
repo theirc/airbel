@@ -5,6 +5,7 @@ role_title: Program Advisor
 focuses:
   - education
 expertise_areas:
+  - design
 leadership: false
 image: /uploads/team/sylvia.jpg
 ---
