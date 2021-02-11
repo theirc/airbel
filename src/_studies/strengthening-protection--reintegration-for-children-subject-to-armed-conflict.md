@@ -27,6 +27,12 @@ publications:
   - title: 'Introduction: Projet “SPARC” (French)'
     link: 'https://rescue.app.box.com/s/67cb1vi3xuhk7w31wx6vvfm42vp7kkdx'
     publication_type: Presentation
+  - title: Research Brief - Central African Republic (EN)
+    link: 'https://rescue.box.com/s/cdcbc888dcqibicosek5i53sxthsnfsk'
+    publication_type:
+  - title: Note de recherche - République centrafricaine (RCA)
+    link: 'https://rescue.box.com/s/2w108abov1cuoxkk0sm2a6ia7j1es4rf'
+    publication_type:
 ---
 
 The recruitment of children into armed groups has serious consequences for children and their families around the world. Since 2013, [between 6,000 and 10,000](https://www.unicef.org/policyanalysis/media_83024.html){: target="_blank" rel="noopener"} children in the Central Africa Republic have been associated with armed groups, and in the Democratic Republic of the Congo, up to [30,000](https://www.hrw.org/news/2012/03/12/child-soldiers-worldwide){: target="_blank" rel="noopener"} children have been used in armed conflict since its outset. While the recruitment of child soldiers is escalating, reintegration of rescued or released children is [very difficult](https://pulitzercenter.org/reporting/child-soldiers-central-african-republic-rise){: target="_blank" rel="noopener"} due to stigma against the children who were associated.&nbsp;
