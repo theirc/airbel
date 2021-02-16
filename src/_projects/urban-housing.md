@@ -29,6 +29,11 @@ articles:
     url: >-
       https://medium.com/airbel/a-move-away-from-camps-requires-a-collaborative-solution-for-housing-655c52817c95
 milestones:
+  - date: 2021-01-01 00:00:00
+    title: Project put on hold due to COVID-19
+    link:
+    link_title:
+    description_markdown:
   - date: 2019-02-01 00:00:00
     title: Four focus areas selected for further ideation
     link: 'https://rescue.box.com/s/6b6hep76kjuz23273vpu9t1o05h8uwo5'
