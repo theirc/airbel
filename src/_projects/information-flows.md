@@ -25,6 +25,15 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2021-01-01 00:00:00
+    title: Information Flows integrated
+    link:
+    link_title:
+    description_markdown: >-
+      Based on our scoping, Information Flows has been integrated across all
+      projects in the Middle East, paying particular attention to identifying
+      and bridging potential gaps between client needs and wants and IRC
+      services.
   - date: 2019-07-01 00:00:00
     title: Ideation workshops held
     link:
