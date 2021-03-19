@@ -103,9 +103,9 @@ milestones:
       help
   - date: 2020-05-01 00:00:00
     title: COVID-19 digital campaign ends
-    link:
-    link_title: >-
+    link: >-
       https://docs.google.com/presentation/d/1xcrMNvFguSKSvVrWy55fqJr5I9jgw1xC48JiLmF4W6k/edit?usp=sharing
+    link_title:
     description_markdown: >-
       Over 3000 people responded to our survey, and the campaign cumulatively
       reached 437k people on Facebook and several hundred people through
