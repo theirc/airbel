@@ -125,7 +125,9 @@ milestones:
       generally comfortable spreading the information we shared to their family
       and friends.
   - date: 2020-04-01 00:00:00
-    title: Begin COVID-19 digital campaign
+    title: >-
+      In response to COVID-19 in Jordan, we are fast-tracking the testing of the
+      InforMH prototype
     link:
     link_title:
     description_markdown: >-
