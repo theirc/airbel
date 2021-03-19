@@ -102,7 +102,7 @@ milestones:
       * Training people to support others can also encourage individuals to seek
       help
   - date: 2020-05-01 00:00:00
-    title: COVID-19 digital campaign ends
+    title: COVID-19 mental health campaign ends
     link: >-
       https://docs.google.com/presentation/d/1xcrMNvFguSKSvVrWy55fqJr5I9jgw1xC48JiLmF4W6k/edit?usp=sharing
     link_title:
