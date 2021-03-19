@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Mental Health
-tagline: Laying mental health foundations to help displaced people rebuild
+title: InforMH
+tagline: Bridging information gaps around mental health issues in Jordan
 status: active
 stage: Prototype
 focuses:
@@ -11,8 +11,8 @@ geolocation:
   latitude: '31.963158'
   longitude: '35.930359'
 description: >-
-  Supporting the mental health needs of displaced people will be crucial to
-  helping them lay the groundwork for future success.
+  Leveraging people’s existing practices to bridge the information and stigma
+  gaps that prevent people from seeking mental health and psychosocial support.
 hero_image: /uploads/20121111-mwinkler-header.JPG
 featured_image: /uploads/20121111-mwinkler-img-0772.JPG
 featured_video_url:
@@ -25,18 +25,121 @@ articles:
     url: >-
       https://medium.com/airbel/breaking-down-barriers-to-mental-health-services-in-jordan-89f31c0098a
 milestones:
-  - date: 2020-04-01 00:00:00
-    title: >-
-      In response to COVID-19 in Jordan, we are fast-tracking the testing of the
-      InforMH prototype.
-    link: 'https://rescue.box.com/s/pde48q0jekk2b6gi2j96e561rmbhojja'
+  - date: 2020-12-01 00:00:00
+    title: Second campaign ends
+    link: >-
+      https://docs.google.com/presentation/d/1OHbox60XlgcIGCux5TOqs2w5poCd7lRue-ztQrJP3mo/edit?usp=sharing
     link_title:
     description_markdown: >-
-      InforMH is a digital-first campaign to inform people in Jordan on how to
-      access mental health care and reduce the stigma against it. The prototype
-      will develop engaging online and offline materials which promote mental
-      health literacy and provide information on how to access care through
-      popular social platforms such as Facebook and WhatsApp.
+      Our Facebook campaign reached people over 1.406 million times in Jordan,
+      and we had a cumulative reach of about 1,900 people on WhatsApp. Over the
+      course of the campaign, 47 posts were shared, including three Facebook
+      Live events facilitated by a mental health & psychosocial support expert.
+      Results show that:&nbsp;
+
+
+      * Posts related to stress and anxiety got much more engagement than posts
+      related to depression
+
+      * Shorter videos delivered by experts were the most successful, with
+      videos discussing somatic symptoms, or physical symptoms, amassing the
+      highest view count&nbsp;
+
+      * The more relatable the content is for the target audience, the more
+      likely they are to engage with the post, underscoring the importance of
+      community-driven content
+  - date: 2020-10-01 00:00:00
+    title: 'Second campaign, “Let’s Talk”, begins'
+    link:
+    link_title:
+    description_markdown: >-
+      This Facebook and WhatsApp campaign is designed to run for a period of
+      five weeks, with each week dedicated to a theme (anxiety, depression,
+      somatic symptoms, types of services, and psychological support to loved
+      ones). Updated elements from the previous iteration of this prototype
+      include:
+
+
+      * **Storytelling at the core.** In our rapid evidence review, we found
+      that [storytelling can be
+      effective](https://journals.sagepub.com/doi/full/10.1177/0890117119825525d#:~:text=Research%20has%20shown%20that%20a,and%20improve%20grades%20in%20students.&amp;text=In%20fact%2C%20one%20study%20revealed,health%20behaviors%2C%20like%20blood%20pressure)
+      in changing health behaviors. We designed several different characters
+      that would resonate with our target audience and used those characters to
+      design and send out 5-7 posts per week.
+
+      * **Behavioral principles**, such as including simple and direct actions
+      and framing content as “helping others” to destigmatize seeking help, were
+      incorporated while designing the campaign content.&nbsp;
+
+      * **Chatbots.** In order to scale, we started using the
+      [Turn.io](https://www.turn.io/) platform to help us create a WhatsApp
+      chatbot to automatically manage hundreds of chats.&nbsp;
+  - date: 2020-09-01 00:00:00
+    title: Engage community members in Jordan for next phase of campaign
+    link:
+    link_title:
+    description_markdown: >-
+      We engage Jordanian community members from Syria, Iraq, Sudan, and Yemen
+      to test and iterate on the content of the next campaign, with the aim of
+      making our content relatable and appropriate in a way that is appealing.
+      This ensures our content would be effective prior to launch and allow us
+      to focus on using our tools to reach as many people as possible.
+  - date: 2020-07-01 00:00:00
+    title: Rapid evidence review on mental health social media campaigns
+    link:
+    link_title: >-
+      https://docs.google.com/document/d/1MmQCS93GyxF9zzliLflyGgZbA_MsOC4O6vy2VKAgEL8/edit?usp=sharing
+    description_markdown: >-
+      We conduct a rapid evidence review on social media campaigns around mental
+      health to compile best practices from similar interventions. A couple of
+      key takeaways include:&nbsp;&nbsp;
+
+
+      * Sharing examples of people successfully seeking help increases trust and
+      promotes help-seeking behaviors. This is especially true for
+      men.&nbsp;&nbsp;
+
+      * Training people to support others can also encourage individuals to seek
+      help
+  - date: 2020-05-01 00:00:00
+    title: COVID-19 digital campaign ends
+    link:
+    link_title: >-
+      https://docs.google.com/presentation/d/1xcrMNvFguSKSvVrWy55fqJr5I9jgw1xC48JiLmF4W6k/edit?usp=sharing
+    description_markdown: >-
+      Over 3000 people responded to our survey, and the campaign cumulatively
+      reached 437k people on Facebook and several hundred people through
+      Whatsapp. Initial findings showed that:
+
+
+      * Sharing timely and relevant information led to high engagement and
+      organic sharing amongst family and friends, even after the ad campaigns
+      concluded.
+
+      * Ensuring two-way communication engagement on social media led to
+      informal information swapping amongst community members, promoting the
+      de-stigmatization of mental health issues and providing a forum for
+      sharing coping-skills.
+
+      * The IRC was trusted as a source of information and our clients were
+      generally comfortable spreading the information we shared to their family
+      and friends.
+  - date: 2020-04-01 00:00:00
+    title: Begin COVID-19 digital campaign
+    link:
+    link_title:
+    description_markdown: >-
+      The Jordanian government imposes a strict lockdown in the wake of
+      COVID-19, and we begin a Facebook and WhatsApp campaign aimed at helping
+      people address mental health needs. The campaign includes an online survey
+      seeking information on how the lockdown is impacting people's wellbeing
+      and what kind of wellbeing-related information they need. The aim of this
+      campaign is to generate engagement and community by encouraging people to
+      share their own wellbeing tips so others like them in similar situations
+      can receive help. The topics covered in this campaign include emergency
+      helplines and peer videos; how to beat boredom; wellbeing tips; sleep
+      hygiene tips; and guidelines for providing psychological first aid to
+      friends and family.
   - date: 2019-12-01 00:00:00
     title: Five initial prototypes created
     link: >-
@@ -118,19 +221,8 @@ milestones:
       Jordan
 ---
 
-A growing body of research points to the outsized impact of mental health issues in the refugee population. Common mental health disorders like anxiety, depression, and post-traumatic stress disorder tend to double during emergencies, and tend to impact the most vulnerably most powerfully. Mental health issues and poverty also form a self-reinforcing cycle which can make it challenging for people to rebuild after facing trauma.
+A growing body of research points to the outsized impact of mental health issues in the refugee population. Common mental health disorders like anxiety, depression, and post-traumatic stress disorder tend to double during emergencies, and tend to impact the most vulnerable most powerfully. Mental health issues and poverty also form a self-reinforcing cycle which can make it challenging for people to rebuild after facing trauma. Mental illness remains a taboo with significant cultural barriers to identifying challenges and seeking care.
 
-Most refugees live in low-income countries, where only 2 percent of health providers are trained in mental health. In Jordan, even prior to the Syria crisis, the WHO estimated that the country faced a shortage of well over 1,000 mental health professionals. Mental illness remains a taboo with significant cultural barriers to identifying challenges and seeking care.
+In March 2019, in response to the spread of the COVID-19 pandemic, the Jordanian government [imposed one of the strictest lockdowns](https://www.theguardian.com/world/2020/mar/24/home-deliveries-humvees-life-under-jordan-harsh-coronavirus-lockdown){: target="_blank" rel="noopener"} in the world, compounding mental health issues for the most vulnerable. In response, the IRC began prototyping a digital campaign, known as InforMH, aimed at bridging information gaps around mental health issues.
 
-Some key areas in which support can be provided includes:
-
-* Basic services and security, including food, shelter and access to clean water.
-* Community and family support, such as family reunification, creation of child friendly spaces, and activation of social networks.
-* Focused non-specialized support, such as individual, family or group interventions, and ongoing care through community-based primary health care systems.
-* Specialized services, including clinical mental health care and specialized support for psychiatric disorders and trauma.
-
-There is increasing evidence that “non-specialist workers in primary-care and community settings can deliver mental health care with great effectiveness to a variety of populations”. Therefore, opportunities for innovation may exist around:
-
-1. Standardizing outcomes and developing culturally sensitive assessment tools;
-2. Better articulating core principles for integrating mental health in various activities, such as social connections, exercise, and mindfulness; and
-3. Developing new business models to incentivize community members to effectively deliver mental health support.
+InforMH works by leveraging people’s social networks, where people often turn when they first experience mental health problems, to deliver messaging around mental health in a way that encourages help-seeking behavior. The purpose behind InforMH is to share and source mental health content that is community driven.&nbsp; This means we lean towards experts from the community, embrace dialogue and responsiveness in a scalable way, and put forward community-driven and -led solutions.
