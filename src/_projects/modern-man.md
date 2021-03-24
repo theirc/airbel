@@ -183,12 +183,12 @@ Most research studies on intimate partner violence (IPV) have addressed ways to 
 
 The Real Man Challenge (RMC) is a 30 day Whatsapp challenge that gives groups of men exclusive access to easy-to-try tips for better communication, better sex, better finances and a better home life. By harnessing the power of communication technology like SMS and WhatsApp, the Real Man Challenge can provide bite-size, engaging content on a daily basis that challenges harmful gender norms that have been shown to lead to violence. The challenge prompts men to practice behaviorally-informed skills that can increase communication, understanding, the importance of sexual consent, shared decision making, and emotional regulation. Real Man Challenge presents multiple identities that participants can relate to, each aligning to one or more of the skills mentioned and emphasizes the importance of respectful and healthy relationships.
 
-# How does it work?
+## How does it work?
 
 The Real Man Challenge (RMC), is a digital challenge-based program delivered by a trusted male host from the community to a group of 10-15 men from his personal network through WhatsApp. Over the course of 30 days, the host shares daily behavioral and skill-building challenges on relationships and household life with the aim of both improving relationship dynamics and reducing violence. Many of the challenges also involve group members’ romantic partners. In addition, the hosts share and moderate group discussions on relevant current events to spur new thinking on gender roles.
 
 During the 30-day-challenge, men will gain useful tools, a support network of men they can turn to, and easy to apply tips, giving them a clear path to positive results at home. Each host shares 2-3 messages every day with his group, as well as open-ended questions and multimedia content to promote further engagement. The WhatsApp intervention goes beyond sharing information by engaging groups of male peers in behavioral challenges and conversations on harmful gender norms that have been shown to lead to violence.
 
-# Our vision
+## Our vision
 
 The strategies and methods developed by the Real Man Challenge incorporate human-centered design, field-wide “best practices,” and research on effective behavior change across a range of outcomes. Through a series of iterative prototyping and programmatic tests, these concepts will be tailored to fit the Latin American context and encourage participation. While this virtual approach to producing behavioral change is well-suited for countries in which the COVID-19 pandemic requires strict measures of social distancing, it is also extremely relevant to a post-COVID world. This project will develop a model that can reach large numbers of men at a modest cost.
