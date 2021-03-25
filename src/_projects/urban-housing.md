@@ -2,7 +2,7 @@
 layout: project
 title: Urban Housing
 tagline: Seeking new solutions for host communities and displaced people
-status: graduated
+status: discontinued
 stage: Design Research
 focuses:
   - empowerment
