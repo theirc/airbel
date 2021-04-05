@@ -9,7 +9,7 @@ stage: Scale
 focuses:
   - health
 geolocation:
-  region:
+  region: 'South Sudan, Kenya, Somalia, Mali, Chad'
   latitude:
   longitude:
 description: >-
