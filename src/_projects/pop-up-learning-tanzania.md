@@ -9,7 +9,7 @@ stage: Prototype
 focuses:
   - education
 geolocation:
-  region:
+  region: Tanzania
   latitude:
   longitude:
 description: >-
