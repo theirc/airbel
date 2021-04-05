@@ -7,7 +7,7 @@ stage: Pilot
 focuses:
   - health
 geolocation:
-  region:
+  region: Kenya
   latitude:
   longitude:
 description: >-
