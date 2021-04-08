@@ -25,8 +25,8 @@ donors:
   - name: USAID
     link: 'https://www.usaid.gov/'
 publications:
-  - title:
-    link:
+  - title: Policy Brief
+    link: 'https://rescue.box.com/s/55a3l6a6p41hh7044sq63ijp1umkko3t'
     publication_type:
 ---
 
