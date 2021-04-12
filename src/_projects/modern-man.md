@@ -3,7 +3,7 @@ layout: project
 title: Real Man Challenge
 tagline: Transforming perceptions of masculinity to prevent violence against women
 status: active
-stage: Scale
+stage: Rigorous Evaluation
 focuses:
   - safety
 geolocation:
