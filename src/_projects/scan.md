@@ -106,4 +106,6 @@ The IRC, together with Mercy Corps, Save the Children, Action Against Hunger Spa
 
 These insights help humanitarian and development actors make use of limited resources in a transparent and effective way.
 
-#### Learn more: [https://www.dioptratool.org/](https://www.dioptratool.org/){: target="_blank" rel="noopener"}
+&nbsp;
+
+### Learn more: [https://www.dioptratool.org/](https://www.dioptratool.org/){: target="_blank" rel="noopener"}
