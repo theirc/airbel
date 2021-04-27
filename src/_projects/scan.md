@@ -28,6 +28,11 @@ resources:
     url: 'https://rescue.box.com/s/nojvcvse4koccidmlh54czhouu1g7v3w'
 articles:
   - title: >-
+      Center for Global Development Highlights Dioptra Tool As Opportunity for
+      USAID to Lead on Evidence-Based Aid
+    url: >-
+      https://www.dioptratool.org/news/cgd-highlights-dioptra-tool-as-opportunity-for-usaid-to-lead-on-evidence-based-aid
+  - title: >-
       Report: A WIN-WIN: Multi-year flexible funding is better for people and
       better value for donors
     url: >-
@@ -101,7 +106,7 @@ The IRC, together with Mercy Corps, Save the Children, Action Against Hunger Spa
 
 These insights help humanitarian and development actors make use of limited resources in a transparent and effective way.
 
-**Learn more: [https://www.dioptratool.org/](https://www.dioptratool.org/){: target="_blank" rel="noopener"} **
+#### Learn more: [https://www.dioptratool.org/](https://www.dioptratool.org/){: target="_blank" rel="noopener"}
 
 &nbsp;
 
