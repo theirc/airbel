@@ -15,8 +15,8 @@ geolocation:
 description: >-
   Dela aims to be an open-source mobile application that connects community
   health workers and their supervisors with a consistent channel of
-  communication, to improve the quality of services delivered through remote
-  supportive supervision.
+  communication, to improve the quality of services delivered through supportive
+  remote supervision.
 hero_image: /uploads/dela-hero.jpeg
 featured_image: /uploads/dela-featured.jpg
 featured_video_url:
@@ -56,6 +56,7 @@ milestones:
       the pandemic (and beyond) and to identify solutions to overcome those
       barriers. The concept for the Dela app came out of this sprint.
 ---
+
 The International Rescue Committee (IRC) [works with a network](https://www.rescue.org/page/our-goals-health){: target="_blank" rel="noopener"} of about 15,000 community health workers in over 25 countries around the world. Community health workers are usually volunteers associated with the local healthcare system. They [bridge the gap between health facility personnel and community members](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-016-4012-y){: target="_blank" rel="noopener"} by fostering credibility through their status in the community. Although they do not have formal training, community health workers are often the first line of defense against preventable child deaths, particularly where formal health facilities are inaccessible.
 
 One systemic issue that poses a challenge in community health programs is the supervision of community health workers. Community health workers are often located long distances from health facilities and operate for long periods of time without their supervisors observing their work. In addition, most supervision visits often focus on administrative matters instead of focusing on practical skills, such as direct observation of sick child consultations and coaching them to improve the quality of care. As a result, they may be unaware of mistakes they are making and these may go unnoticed by their supervisors. The risks of inadequate supervision can lead to misdiagnosis and compromise the treatment of the most common causes of death in children under five: diarrhea, malaria, and pneumonia.
