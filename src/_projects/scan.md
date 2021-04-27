@@ -1,11 +1,11 @@
 ---
 layout: project
-title: SCAN
+title: Dioptra
 tagline: >-
   A multi-agency tool to simplify conducting cost-analyses and increase
   transparency in the sector.
 status: active
-stage: Pilot
+stage: Scale
 focuses:
   - other
 geolocation:
@@ -100,6 +100,8 @@ The IRC, together with Mercy Corps, Save the Children, Action Against Hunger Spa
 3. **Consistently categorizes and calculates costs incurred.** Standardizing the analytical structure and embedding the methodology in an online tool ensures that all analyses will meet common methodological standards, allowing the results to be meaningfully compared.These insights help humanitarian and development actors make use of limited resources in a transparent and effective way.
 
 These insights help humanitarian and development actors make use of limited resources in a transparent and effective way.
+
+**Learn more: [https://www.dioptratool.org/](https://www.dioptratool.org/){: target="_blank" rel="noopener"} **
 
 &nbsp;
 
