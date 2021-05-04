@@ -40,6 +40,9 @@ articles:
       https://medium.com/airbel/matching-jobs-to-job-seekers-in-jordan-d9c1c8bc00a5
   - title: How Project Match leveraged human-centered design and behavioral insights
     url: How Project Match leveraged human-centered design and behavioral insights
+  - title: A data-driven approach to addressing unemployment in Jordan
+    url: >-
+      https://medium.com/airbel/a-recipe-for-success-a-data-driven-approach-to-address-unemployment-in-jordan-15292684a823
 milestones:
   - date: 2019-11-01 00:00:00
     title: Randomized Control Trial concludes
