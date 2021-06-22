@@ -13,11 +13,10 @@ geolocation:
   latitude:
   longitude:
 description: >-
-  COVID-19 has sparked a complex, multifaceted, and likely protracted global
-  humanitarian crisis. The Decision-making During COVID-19 project is a
-  collaboration between the Centre for Disaster Protection the International
-  Rescue Committee (IRC), to test and operationalise crisis risk financing tools
-  in the context of this complex, protracted humanitarian crisis.
+  The Decision-making During COVID-19 project is a collaboration between the
+  Centre for Disaster Protection the International Rescue Committee (IRC), to
+  test and operationalize crisis risk financing tools in the context of this
+  complex, protracted humanitarian crisis.
 hero_image:
 featured_image:
 featured_video_url:
@@ -34,7 +33,7 @@ milestones:
     link: https://rescue.box.com/s/ov0yxie8iewfpf4i6v699oi9rcrld621
     link_title:
     description_markdown: >-
-      The final report summarises key lessons from this collaboration. In
+      The final report summarizes key lessons from this collaboration. In
       addition to the substance, we identified three success factors that
       determined the utility of our analysis.
   - date: 2021-02-01 00:00:00
@@ -42,7 +41,7 @@ milestones:
     link:
     link_title:
     description_markdown: >-
-      * Triggers are the ‘moments that matter’ in a crisis, when funding and
+      Triggers are the ‘moments that matter’ in a crisis, when funding and
       action are needed. Through this project we identified that additional
       funding for IRC operational teams would be needed when (i) COVID-19
       surged; (ii) the policy context changed, including stay-home orders and
@@ -75,4 +74,4 @@ milestones:
       in-country operations.
 ---
 
-Crisis risk financing approaches attempt to identify the risk that funds will be needed in the future and prepare financing in advance. This project is a first step towards developing a practical and pragmatic blueprint for how organisations can systematically re-orient more of their resources and processes towards a state of readiness for future crises.
+COVID-19 has sparked a complex, multifaceted, and likely protracted global humanitarian crisis.&nbsp; Crisis risk financing approaches attempt to identify the risk that funds will be needed in the future and prepare financing in advance. This project is a first step towards developing a practical and pragmatic blueprint for how organizations can systematically re-orient more of their resources and processes towards a state of readiness for future crises.
