@@ -44,7 +44,7 @@ milestones:
     link:
     link_title:
     description_markdown:
-  - date: 2020-07-01 00:00:00
+  - date: 2021-06-01 00:00:00
     title: Final report
     link: https://rescue.box.com/s/metep7r4dg7hc2na0sqq5lb740t5amxp
     link_title:
