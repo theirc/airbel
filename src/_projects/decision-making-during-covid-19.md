@@ -17,7 +17,7 @@ description: >-
   Centre for Disaster Protection the International Rescue Committee (IRC), to
   test and operationalize crisis risk financing tools in the context of this
   complex, protracted humanitarian crisis.
-hero_image: /uploads/01062020-smendoza-colombia--93-crop.jpg
+hero_image: /uploads/01062020-smendoza-colombia--93-crop-web-1.jpg
 featured_image: /uploads/01062020-smendoza-colombia--93-crop-thumbnail.jpg
 featured_video_url:
 resources:
