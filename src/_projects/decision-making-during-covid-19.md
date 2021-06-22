@@ -29,6 +29,14 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2021-03-01 00:00:00
+    title: Project complete
+    link: https://rescue.box.com/s/ov0yxie8iewfpf4i6v699oi9rcrld621
+    link_title:
+    description_markdown: >-
+      The final report summarises key lessons from this collaboration. In
+      addition to the substance, we identified three success factors that
+      determined the utility of our analysis.
   - date: 2021-02-01 00:00:00
     title: Trigger options identified
     link:
@@ -65,15 +73,6 @@ milestones:
       specialists in emergency health, humanitarian financing, logistics and
       supply chains, crisis analysis, preparedness, cost efficiency and
       in-country operations.
-  - date: 2021-03-01 00:00:00
-    title: Project complete
-    link:
-    link_title:
-    description_markdown: >-
-      The final report was completed, reviewed and designed, summarising key
-      lessons from this collaboration. In addition to the substance, we
-      identified three success factors that determined the utility of our
-      analysis. Read our blog on these factors and the final report
-      here.**&nbsp;**
 ---
+
 Crisis risk financing approaches attempt to identify the risk that funds will be needed in the future and prepare financing in advance. This project is a first step towards developing a practical and pragmatic blueprint for how organisations can systematically re-orient more of their resources and processes towards a state of readiness for future crises.
