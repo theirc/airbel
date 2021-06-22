@@ -17,7 +17,7 @@ description: >-
   Centre for Disaster Protection the International Rescue Committee (IRC), to
   test and operationalize crisis risk financing tools in the context of this
   complex, protracted humanitarian crisis.
-hero_image: /uploads/20210521EMbabaziUganda_5598.jpeg
+hero_image: /uploads/20200611-colombia-cucuta-safe-1.jpeg
 featured_image:
 featured_video_url:
 resources:
