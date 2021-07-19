@@ -19,7 +19,7 @@ featured_video_url:
 resources:
   - title: Pop-Up Learning Pilot Report
     description:
-    url: 'https://rescue.box.com/s/ktp667flns0vg6e7i27hn0pzwlt8ngoe'
+    url: https://rescue.box.com/s/807x3ke2cavbu3rpyvv9aixo3b6voz81
 articles:
   - title:
     url:
@@ -67,7 +67,7 @@ milestones:
       interested in participating in the seed investment round.
   - date: 2018-09-01 00:00:00
     title: Pop-Up Learning Feasibility Study in Bangladesh
-    link: 'https://rescue.box.com/s/g8qtqtejqrsdmvnn752buu8czqcli428'
+    link: https://rescue.box.com/s/g8qtqtejqrsdmvnn752buu8czqcli428
     link_title:
     description_markdown: >-
       The feasibility study concluded that Cox’s Bazar, Bangladesh met the
