@@ -28,37 +28,43 @@ donors:
     link:
 publications:
   - title: Baseline Theory-based Evaluation
-    link: 'https://rescue.box.com/s/e1axfoi4utvnjl4ayakk2vss7v39szfw'
+    link: https://rescue.box.com/s/e1axfoi4utvnjl4ayakk2vss7v39szfw
     publication_type: Report
   - title: 'Case Study: Positive Peace'
-    link: 'https://rescue.box.com/s/es3ed9yw8cq58k3htej5gvqc1jhbh6hn'
+    link: https://rescue.box.com/s/es3ed9yw8cq58k3htej5gvqc1jhbh6hn
     publication_type: Case Study
   - title: 'Case Study: Sustainability'
-    link: 'https://rescue.box.com/s/v4x0sqplvqvf4u8ut4lit1inn64x3eif'
+    link: https://rescue.box.com/s/v4x0sqplvqvf4u8ut4lit1inn64x3eif
     publication_type: Case Study
   - title: 'Case Study: Women''s Empowerment'
-    link: 'https://rescue.box.com/s/a1oxufpyrswqmvzhgbaku2mwakn2kr4l'
+    link: https://rescue.box.com/s/a1oxufpyrswqmvzhgbaku2mwakn2kr4l
     publication_type: Case Study
   - title: >-
       Forced Migration Review: Community-level conflict prevention and peace
       building in DRC and Somalia
-    link: 'https://www.fmreview.org/return/osofisan-keen'
+    link: https://www.fmreview.org/return/osofisan-keen
     publication_type:
   - title: >-
       Video: Localizing Sustaining Peace? Partnerships for Community-driven
       'Positive Peace'
-    link: 'https://www.youtube.com/watch?v=pH8Svi_QNjQ'
+    link: https://www.youtube.com/watch?v=pH8Svi_QNjQ
     publication_type:
   - title: >-
       Question and Answer - Localizing Sustaining peace? Partnerships for
       Community-driven ‘Positive Peace’
-    link: 'https://rescue.box.com/s/1r82lj2y9lxvo63yig7nnbmt2oneqwwy'
+    link: https://rescue.box.com/s/1r82lj2y9lxvo63yig7nnbmt2oneqwwy
     publication_type: Report
   - title: >-
       Session Report - Localizing   sustaining   peace?   Partnerships   for  
       community-driven “positive peace”
-    link: 'https://rescue.box.com/s/zf7h0y6ppn5ukoxe5kv0ltigajfudjqe'
+    link: https://rescue.box.com/s/zf7h0y6ppn5ukoxe5kv0ltigajfudjqe
     publication_type: Report
+  - title: 'Success Stories: Democratic Republic of Congo'
+    link: https://rescue.box.com/s/uqspou1h4ih7ybqyci00ta9ww3d81e7a
+    publication_type: Case Study
+  - title: 'Success Stories: Somalia'
+    link: https://rescue.box.com/s/tdkkybl1tpx2hutgxe6c40bc7r1pxa7j
+    publication_type: Case Study
 ---
 
 Violent conflicts have created a weak protective environment for communities in Somalia and the Democratic Republic of Congo (DRC). The IRC, in partnership with the Benadir Regional Administration in Mogadishu, Somalia and the Commission Diocésaine pour la Justice et la Paix in Tanganyika Province, DRC, is seeking to implement a comprehensive program aimed at preventing violent conflict and supporting peace and state building processes and human security.
