@@ -31,13 +31,25 @@ publications:
   - title: Research Brief (English)
     link: https://rescue.box.com/s/qzglj4spofe52k160ntm18m57vyflc4m
     publication_type: Research Brief
+  - title: Research brief (Français)
+    link: https://rescue.box.com/s/74tzx1huaiuk4bxawad5exaegrs6z9zz
+    publication_type: Research Brief
+  - title: 'Research brief (Español) '
+    link: https://rescue.box.com/s/aslkrnkg7u0myzrecz92gqql2n5ys219
+    publication_type: Research Brief
+  - title: Quantitative Tool Guidance (English)
+    link: https://rescue.box.com/s/rljl4ibhuwejynen41a7ohwf89jj5xoj
+    publication_type: Protocol
+  - title: Quantitative Tool Guidance (Français)
+    link: https://rescue.box.com/s/4d6mbnsm1e9f61ti0xojzcwa919o79qx
+    publication_type: Protocol
+  - title: 'Quantitative Tool Guidance (Español) '
+    link: https://rescue.box.com/s/b47gbpf4m38ol4q341n0gqh0rz92bcrj
+    publication_type: Protocol
   - title: Marketlinks Blog Post
     link: >-
       https://www.marketlinks.org/blogs/what-it-doing-markets-developing-tools-and-guidance-understand-and-influence-effects
     publication_type: Website
-  - title: Research brief (Français)
-    link: https://rescue.box.com/s/74tzx1huaiuk4bxawad5exaegrs6z9zz
-    publication_type: Research Brief
 ---
 
 Although there is substantial research on the impact of cash assistance on beneficiary-level outcomes in humanitarian contexts, including on the comparative impacts of cash and vouchers, there is relatively little evidence on the effect of cash and vouchers on markets. Most of the existing research on this topic focuses on indirect economic impact rather than the direct impact at the local market or vendor level. In addition, there are major gaps in knowledge and practice related to humanitarian market support programming, including how businesses cope in crisis contexts and which aspects of market systems should be supported and how.&nbsp;
