@@ -65,6 +65,9 @@ publications:
     link: >-
       https://seepnetwork.org/Blog-Post/A-Tale-of-Two-Vendors-Gender-Roles-and-Entrepreneurship-in-Chad-s-Lake-Region
     publication_type:
+  - title: Market Support Guidance (English)
+    link: https://rescue.box.com/s/th68i6wsberriizp7qhwrpayt1lf6bxe
+    publication_type:
 ---
 
 Although there is substantial research on the impact of cash assistance on beneficiary-level outcomes in humanitarian contexts, including on the comparative impacts of cash and vouchers, there is relatively little evidence on the effect of cash and vouchers on markets. Most of the existing research on this topic focuses on indirect economic impact rather than the direct impact at the local market or vendor level. In addition, there are major gaps in knowledge and practice related to humanitarian market support programming, including how businesses cope in crisis contexts and which aspects of market systems should be supported and how.&nbsp;
