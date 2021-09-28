@@ -50,6 +50,21 @@ publications:
     link: >-
       https://www.marketlinks.org/blogs/what-it-doing-markets-developing-tools-and-guidance-understand-and-influence-effects
     publication_type: Website
+  - title: Supporting Vendors in Crisis (VIDEO)
+    link: https://www.youtube.com/watch?v=7qs2Tlxo2Ns
+    publication_type:
+  - title: >-
+      Making a Measure: Capturing Vendor Business Health in Local Markets
+      (Marketlinks Blogpost)
+    link: >-
+      https://www.marketlinks.org/blogs/making-measure-capturing-vendor-business-health-local-markets
+    publication_type:
+  - title: >-
+      A Tale of Two Vendors: Gender Roles and Entrepreneurship in Chad’s Lake
+      Region (SEEP Blogpost)
+    link: >-
+      https://seepnetwork.org/Blog-Post/A-Tale-of-Two-Vendors-Gender-Roles-and-Entrepreneurship-in-Chad-s-Lake-Region
+    publication_type:
 ---
 
 Although there is substantial research on the impact of cash assistance on beneficiary-level outcomes in humanitarian contexts, including on the comparative impacts of cash and vouchers, there is relatively little evidence on the effect of cash and vouchers on markets. Most of the existing research on this topic focuses on indirect economic impact rather than the direct impact at the local market or vendor level. In addition, there are major gaps in knowledge and practice related to humanitarian market support programming, including how businesses cope in crisis contexts and which aspects of market systems should be supported and how.&nbsp;
