@@ -61,6 +61,12 @@ publications:
   - title: Supporting Vendors in Crisis (VIDEO)
     link: https://www.youtube.com/watch?v=7qs2Tlxo2Ns
     publication_type:
+  - title: Soutenir les vendeurs en situation de crise (VIDEO)
+    link: https://www.youtube.com/watch?v=hd0NArCBAyY
+    publication_type: Presentation
+  - title: Apoyo a los comerciantes en situaciones de crisis (VIDEO)
+    link: https://www.youtube.com/watch?v=LAaU16qlNg4
+    publication_type: Presentation
   - title: >-
       A Tale of Two Vendors: Gender Roles and Entrepreneurship in Chad’s Lake
       Region (SEEP Blogpost)
@@ -82,12 +88,6 @@ publications:
     publication_type: Presentation
   - title: SEEP Conference Webinar
     link: https://vimeo.com/473932546
-    publication_type: Presentation
-  - title: Soutenir les vendeurs en situation de crise (video)
-    link: https://www.youtube.com/watch?v=hd0NArCBAyY
-    publication_type: Presentation
-  - title: Apoyo a los comerciantes en situaciones de crisis (video)
-    link: https://www.youtube.com/watch?v=LAaU16qlNg4
     publication_type: Presentation
 ---
 
