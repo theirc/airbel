@@ -25,9 +25,12 @@ hero_image:
 featured_image:
 featured_video_url:
 resources:
-  - title:
+  - title: EdTech Global Landscape Analysis (report)
     description:
-    url:
+    url: https://rescue.box.com/s/cuvhsseao34myc2kf56e2j1ryrfnh7h9
+  - title: EdTech Open Atlas (wiki)
+    description:
+    url: https://edtechopenatlas.org/
 articles:
   - title:
     url:
@@ -38,6 +41,7 @@ milestones:
     link_title:
     description_markdown:
 ---
+
 **EdTech Global Landscape Analysis: Trends from the present and near future of technology-enabled learning**
 
 The internet and computers have transformed nearly every sector and industry. Education is no different. Millions of hours of free learning videos are now online, many from the world’s most recognizable institutions. Tutors from any corner of the planet are available for hire. For those that don’t want to pay, forums and chats for peer learning can bridge the gap with a bit of extra effort. New interfaces and formats are leading learners through gamified experiences. These services are available as mobile apps, softwares, websites, plugins and even as virtual reality experiences. The list goes on, and grows every day.
