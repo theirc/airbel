@@ -86,7 +86,7 @@ publications:
   - title: Soutenir les vendeurs en situation de crise (video)
     link: https://www.youtube.com/watch?v=hd0NArCBAyY
     publication_type: Presentation
-  - title: Apoyp a los comerciantes en situaciones de crisis (video)
+  - title: Apoyo a los comerciantes en situaciones de crisis (video)
     link: https://www.youtube.com/watch?v=LAaU16qlNg4
     publication_type: Presentation
 ---
