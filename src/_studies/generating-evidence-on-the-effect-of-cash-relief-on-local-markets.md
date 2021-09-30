@@ -37,6 +37,10 @@ publications:
   - title: 'Research brief (Español) '
     link: https://rescue.box.com/s/aslkrnkg7u0myzrecz92gqql2n5ys219
     publication_type: Research Brief
+  - title: Research Brief ( العربية)
+    link: >-
+      https://rescue.app.box.com/file/865346141093?s=q4fg70tybkfw7635v5em6j48v42h1v5a
+    publication_type: Research Brief
   - title: Quantitative Tool Guidance (English)
     link: https://rescue.box.com/s/rljl4ibhuwejynen41a7ohwf89jj5xoj
     publication_type: Protocol
@@ -46,6 +50,10 @@ publications:
   - title: 'Quantitative Tool Guidance (Español) '
     link: https://rescue.box.com/s/b47gbpf4m38ol4q341n0gqh0rz92bcrj
     publication_type: Protocol
+  - title: Quantitative Tool Guidance ( العربية)
+    link: >-
+      https://rescue.app.box.com/file/865343440795?s=xgix1hk75ohi2j46y62pshml3s2vzgwj
+    publication_type: Protocol
   - title: Marketlinks Blog Post
     link: >-
       https://www.marketlinks.org/blogs/what-it-doing-markets-developing-tools-and-guidance-understand-and-influence-effects
@@ -54,20 +62,33 @@ publications:
     link: https://www.youtube.com/watch?v=7qs2Tlxo2Ns
     publication_type:
   - title: >-
-      Making a Measure: Capturing Vendor Business Health in Local Markets
-      (Marketlinks Blogpost)
-    link: >-
-      https://www.marketlinks.org/blogs/making-measure-capturing-vendor-business-health-local-markets
-    publication_type:
-  - title: >-
       A Tale of Two Vendors: Gender Roles and Entrepreneurship in Chad’s Lake
       Region (SEEP Blogpost)
     link: >-
       https://seepnetwork.org/Blog-Post/A-Tale-of-Two-Vendors-Gender-Roles-and-Entrepreneurship-in-Chad-s-Lake-Region
     publication_type:
+  - title: >-
+      Making a Measure: Capturing Vendor Business Health in Local Markets
+      (Marketlinks Blogpost)
+    link: >-
+      https://www.marketlinks.org/blogs/making-measure-capturing-vendor-business-health-local-markets
+    publication_type:
   - title: Market Support Guidance (English)
     link: https://rescue.box.com/s/th68i6wsberriizp7qhwrpayt1lf6bxe
     publication_type:
+  - title: IRC Webinar
+    link: >-
+      https://rescue.app.box.com/file/865402746596?s=0l39hhwy3dpzwovswkxoljzb313w0qco
+    publication_type: Presentation
+  - title: SEEP Conference Webinar
+    link: https://vimeo.com/473932546
+    publication_type: Presentation
+  - title: Soutenir les vendeurs en situation de crise (video)
+    link: https://www.youtube.com/watch?v=hd0NArCBAyY
+    publication_type: Presentation
+  - title: Apoyp a los comerciantes en situaciones de crisis (video)
+    link: https://www.youtube.com/watch?v=LAaU16qlNg4
+    publication_type: Presentation
 ---
 
 Although there is substantial research on the impact of cash assistance on beneficiary-level outcomes in humanitarian contexts, including on the comparative impacts of cash and vouchers, there is relatively little evidence on the effect of cash and vouchers on markets. Most of the existing research on this topic focuses on indirect economic impact rather than the direct impact at the local market or vendor level. In addition, there are major gaps in knowledge and practice related to humanitarian market support programming, including how businesses cope in crisis contexts and which aspects of market systems should be supported and how.&nbsp;
