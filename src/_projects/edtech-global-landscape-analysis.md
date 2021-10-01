@@ -22,7 +22,7 @@ description: >-
   teachers, NGOs, policy & decision makers - to explore what methods and tools
   exist to best assist their education goals.
 hero_image:
-featured_image:
+featured_image: /atlas-screen-shot.png
 featured_video_url:
 resources:
   - title: EdTech Global Landscape Analysis (report)
