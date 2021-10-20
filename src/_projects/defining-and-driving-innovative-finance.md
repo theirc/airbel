@@ -22,6 +22,9 @@ resources:
   - title:
     description:
     url:
+  - title: 'Crisis Risk Financing: A programmatic guide for developing triggers'
+    description:
+    url: https://rescue.box.com/s/s65xtjc23x8u6ao9ldo18awtrqnpmfbq
 articles:
   - title:
     url:
