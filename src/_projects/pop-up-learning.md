@@ -53,15 +53,18 @@ milestones:
       cost and efficiency.&nbsp;
   - date: 2020-04-01 00:00:00
     title: Bangladesh pilot report
-    link: https://rescue.box.com/s/807x3ke2cavbu3rpyvv9aixo3b6voz81
+    link:
     link_title: Resource
     description_markdown: >-
       The results of the Pop-Up Learning pilot study in Bangladesh confirm that
       autonomous learning &nbsp;software is a promising avenue for alternative
       education in crisis settings. However, it requires further investment in
       nimble infrastructure and rigorous research to ensure the model can be
-      deployed quickly at the onset of a crisis, in a cost-effective
-      manner.<br>&nbsp;
+      deployed quickly at the onset of a crisis, in a cost-effective manner.
+
+
+      [Resource](https://rescue.box.com/s/807x3ke2cavbu3rpyvv9aixo3b6voz81){:
+      target="_blank" rel="noopener"}<br>&nbsp;
   - date: 2020-04-28 00:00:00
     title: Pop-Up is a finalist in Fast Company's 2020 World Changing Ideas.
     link: >-
