@@ -53,7 +53,7 @@ milestones:
       cost and efficiency.&nbsp;
   - date: 2020-04-01 00:00:00
     title: Bangladesh pilot report
-    link:
+    link: https://rescue.box.com/s/807x3ke2cavbu3rpyvv9aixo3b6voz81
     link_title: Resource
     description_markdown: >-
       The results of the Pop-Up Learning pilot study in Bangladesh confirm that
