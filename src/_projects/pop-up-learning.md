@@ -3,7 +3,7 @@ layout: project
 title: Pop-Up Learning Bangladesh
 tagline: Giving access to learning for children fleeing violence
 status: active
-stage: Pilot
+stage: Rigorous Evaluation
 focuses:
   - education
 geolocation:
@@ -11,8 +11,8 @@ geolocation:
   latitude: '21.42723'
   longitude: '92.00581'
 description: >-
-  Pop-Up Learning is a computer-assisted learning program, aimed to mobilize
-  quickly and efficiently on the onset of crisis.
+  Pop-Up Learning is a tablet-based computer-assisted learning program, aimed to
+  mobilize quickly and efficiently on the onset of crisis.
 hero_image: /uploads/hero-popup-1.jpg
 featured_image: /uploads/img-20180905-130117.jpg
 featured_video_url:
@@ -72,26 +72,64 @@ milestones:
     description_markdown: >-
       The feasibility study concluded that Cox’s Bazar, Bangladesh met the
       conditions to serve as a site to prototype Pop-Up Learning.
+  - date: 2020-04-01 00:00:00
+    title: Bangladesh pilot report
+    link: https://rescue.box.com/s/807x3ke2cavbu3rpyvv9aixo3b6voz81
+    link_title: Resource
+    description_markdown: >-
+      The results of the Pop-Up Learning pilot study in Bangladesh confirm that
+      autonomous learning &nbsp;software is a promising avenue for alternative
+      education in crisis settings. However, it requires further investment in
+      nimble infrastructure and rigorous research to ensure the model can be
+      deployed quickly at the onset of a crisis, in a cost-effective
+      manner.<br>&nbsp;
+  - date: 2021-08-01 00:00:00
+    title: Kickoff 8-week 're-design' sprint
+    link:
+    link_title:
+    description_markdown: >-
+      The ‘re-design’ will focus on optimizing the Pop-Up Learning model for
+      storing, distribution, charging, connectivity and hardware procurement for
+      cost and efficiency.&nbsp;
+  - date: 2021-11-01 00:00:00
+    title: Kickoff implementation research study in Bangladesh
+    link:
+    link_title:
+    description_markdown: >-
+      The IRC will implement the Pop-Up Learning program for a second time with
+      400 children to confirm the Pop-Up theory of change and prepare for the
+      cost-effectiveness randomized controlled trial.
+  - date: 2022-02-01 00:00:00
+    title: Kickoff randomized controlled trial in Bangladesh
+    link:
+    link_title:
+    description_markdown: >-
+      Working closely with partners, the IRC will implement a cost-effectiveness
+      randomized controlled trial in Bangladesh reaching 400 children with
+      access to supplemental education in literacy, numeracy, socio-emotional
+      learning. The aim of the study will be to understand the impact and
+      cost-effectiveness of the Pop-Up Learning model on literacy, numeracy,
+      social-emotional learning and transition to formal school.
 ---
 
 33 million children are displaced from their homes because of humanitarian crises. Almost 40% of those children do not have access to formal education. Between funding gaps, political challenges, and poor-to-nonexistent access to educators, it can take months or years for a child to receive adequate education. During this period in a displaced child’s life, education is critical to reducing trauma and stress, creating stability, and generating positive norms around going to school.
 
 **Even when in school, children are not learning.&nbsp;**Many leave school without the skills needed to calculate the correct change from a transaction, read a doctor’s instructions, or interpret a political campaign promise—let alone build a fulfilling career or educate future generations.&nbsp;
 
-With thoughtful facilitation and the best autonomous learning software, we can improve education access and quality in emergency settings. Within weeks of crisis onset and at a low cost-per-child, Pop-Up Learning aims to deliver locally-relevant, tablet-based learning that fosters emotional support, literacy and numeracy for primary school-aged learners. Pop-Up adapts to the varying needs of displaced children around the world, including different educational levels and languages.
+With thoughtful facilitation and the best autonomous learning software, we can improve education access and quality in emergency settings. At crisis onset and at a low cost-per-child, Pop-Up Learning aims to deliver locally-relevant, tablet-based learning that supports the acquisition of foundational literacy, numeracy and social-emotional skills for primary school-aged learners. Pop-Up adapts to the varying needs of displaced children around the world, including different educational levels and languages.
 
-We have already completed an autonomous learning pilot with the Rohingya community in Bangladesh, where over 380,000 Rohyinga children don’t have access to learning opportunities.
+We have completed a pilot of the Pop-Up Learning model with the Rohingya community in Bangladesh, where over 380,000 Rohyinga children don’t have access to learning opportunities. We have proven feasibility and desirability of the Pop-Up model and have pre-positioned Pop-Up as the solution to take to scale with local and national partners.
 
 &nbsp;
 
 ### How it works
 
-Personalized, adaptive technology serves to enable children with the tools needed to reach their development potential regardless of environmental circumstances.
+Personalized, adaptive learning software on mobile devices like tablets serves to enable children with the tools needed to reach their development potential regardless of environmental circumstances.
 
 Autonomous learning includes:
 
 1. Low cost, flexible and mobile technology which enables deployments in homes, centers, schools. Learning can happen anywhere, at anytime.
-2. Interactive, engaging and adaptive learning games which enable children to learn at their level.
+2. Interactive, engaging and adaptive learning games which enable children to learn at their level and at their own pace.
 3. Thoughtful human support which guides children through their learning, without the need for people with academic expertise, which can be difficult to find in crisis contexts.
 
 Pop-Up aims to fill the critical educational gaps in a displaced child’s life, providing some sense of normalcy, continuity and critical foundational skills while formal education is being established. This product will make it possible to rapidly deploy learning programs in emergencies where no formal education is available and in a way that supports an eventual transition to formal schools.
@@ -100,4 +138,4 @@ Pop-Up aims to fill the critical educational gaps in a displaced child’s life,
 
 ### What's next
 
-With the support of donors and the help of our partners, [Imagine Worldwide](https://www.imagineworldwide.org/), [Can’t Wait to Learn](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.warchildholland.org_projects_cant-2Dwait-2Dto-2Dlearn_&amp;d=DwMFaQ&amp;c=0u3nQZwm2He4OdaqbWh55g&amp;r=LoozSyaReSx37TRSMbnPARp7j2JYcZmWKlTKd8g87bc&amp;m=ZblkrGoYIKMXwwDsLceT9X8_dnLEZm4qpteTxu9sSyQ&amp;s=NMGx_FQmapXDzFGKK2DA7ttP3zo7-9qt2L1z-5J43U8&amp;e=){: target="_blank"} (War Child), and [Kitkit School](http://www.enuma.com/kitkitschool/){: target="_blank"} (Enuma), we will be testing, adapting, and implementing different delivery models in Bangladesh, with the Rohingya community; in Tanzania, with refugees from Burundi and DRC; and in Niger with refugees from Mali and Nigeria. We are on the cusp of scaling these solutions to serve 125,000 children affected by crisis, helping to lay the groundwork for its global adoption.
+With the critical support of donors and partners - including [Bezos Family Foundation,](https://www.bezosfamilyfoundation.org/){: target="_blank" rel="noopener"} Arnhold Family Foundation, Cartier Foundation, Imagine Worldwide, and Enuma (creators of KitKit School) - we are launching Phase II of Pop-Up Learning in Bangladesh with the aim of developing improved operational models to reach an even greater scale at a lower cost. We will conduct implementation research to further test the Pop-Up Learning model theory of change and prepare for a robust study to better understand impact and cost-effectiveness. The cost-effectiveness randomized controlled trial will help us identify the impact of Pop-Up Learning on key research outcomes like literacy, numeracy, social-emotional learning and transition to formal schools for high-risk displaced children. The implementation research and cost-effectiveness study will reach a combined 800 children in Bangladesh with supplemental education through Pop-Up Learning and lay the groundwork to reach 180,000 refugee children in Bangladesh over the next five years.&nbsp;
