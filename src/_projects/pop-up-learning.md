@@ -24,6 +24,44 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2022-02-01 00:00:00
+    title: Kickoff randomized controlled trial in Bangladesh
+    link:
+    link_title:
+    description_markdown: >-
+      Working closely with partners, the IRC will implement a cost-effectiveness
+      randomized controlled trial in Bangladesh reaching 400 children with
+      access to supplemental education in literacy, numeracy, socio-emotional
+      learning. The aim of the study will be to understand the impact and
+      cost-effectiveness of the Pop-Up Learning model on literacy, numeracy,
+      social-emotional learning and transition to formal school.
+  - date: 2021-11-01 00:00:00
+    title: Kickoff implementation research study in Bangladesh
+    link:
+    link_title:
+    description_markdown: >-
+      The IRC will implement the Pop-Up Learning program for a second time with
+      400 children to confirm the Pop-Up theory of change and prepare for the
+      cost-effectiveness randomized controlled trial.
+  - date: 2021-08-01 00:00:00
+    title: Kickoff 8-week 're-design' sprint
+    link:
+    link_title:
+    description_markdown: >-
+      The ‘re-design’ will focus on optimizing the Pop-Up Learning model for
+      storing, distribution, charging, connectivity and hardware procurement for
+      cost and efficiency.&nbsp;
+  - date: 2020-04-01 00:00:00
+    title: Bangladesh pilot report
+    link: https://rescue.box.com/s/807x3ke2cavbu3rpyvv9aixo3b6voz81
+    link_title: Resource
+    description_markdown: >-
+      The results of the Pop-Up Learning pilot study in Bangladesh confirm that
+      autonomous learning &nbsp;software is a promising avenue for alternative
+      education in crisis settings. However, it requires further investment in
+      nimble infrastructure and rigorous research to ensure the model can be
+      deployed quickly at the onset of a crisis, in a cost-effective
+      manner.<br>&nbsp;
   - date: 2020-04-28 00:00:00
     title: Pop-Up is a finalist in Fast Company's 2020 World Changing Ideas.
     link: >-
@@ -72,44 +110,6 @@ milestones:
     description_markdown: >-
       The feasibility study concluded that Cox’s Bazar, Bangladesh met the
       conditions to serve as a site to prototype Pop-Up Learning.
-  - date: 2020-04-01 00:00:00
-    title: Bangladesh pilot report
-    link: https://rescue.box.com/s/807x3ke2cavbu3rpyvv9aixo3b6voz81
-    link_title: Resource
-    description_markdown: >-
-      The results of the Pop-Up Learning pilot study in Bangladesh confirm that
-      autonomous learning &nbsp;software is a promising avenue for alternative
-      education in crisis settings. However, it requires further investment in
-      nimble infrastructure and rigorous research to ensure the model can be
-      deployed quickly at the onset of a crisis, in a cost-effective
-      manner.<br>&nbsp;
-  - date: 2021-08-01 00:00:00
-    title: Kickoff 8-week 're-design' sprint
-    link:
-    link_title:
-    description_markdown: >-
-      The ‘re-design’ will focus on optimizing the Pop-Up Learning model for
-      storing, distribution, charging, connectivity and hardware procurement for
-      cost and efficiency.&nbsp;
-  - date: 2021-11-01 00:00:00
-    title: Kickoff implementation research study in Bangladesh
-    link:
-    link_title:
-    description_markdown: >-
-      The IRC will implement the Pop-Up Learning program for a second time with
-      400 children to confirm the Pop-Up theory of change and prepare for the
-      cost-effectiveness randomized controlled trial.
-  - date: 2022-02-01 00:00:00
-    title: Kickoff randomized controlled trial in Bangladesh
-    link:
-    link_title:
-    description_markdown: >-
-      Working closely with partners, the IRC will implement a cost-effectiveness
-      randomized controlled trial in Bangladesh reaching 400 children with
-      access to supplemental education in literacy, numeracy, socio-emotional
-      learning. The aim of the study will be to understand the impact and
-      cost-effectiveness of the Pop-Up Learning model on literacy, numeracy,
-      social-emotional learning and transition to formal school.
 ---
 
 33 million children are displaced from their homes because of humanitarian crises. Almost 40% of those children do not have access to formal education. Between funding gaps, political challenges, and poor-to-nonexistent access to educators, it can take months or years for a child to receive adequate education. During this period in a displaced child’s life, education is critical to reducing trauma and stress, creating stability, and generating positive norms around going to school.
