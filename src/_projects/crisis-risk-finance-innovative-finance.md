@@ -18,8 +18,8 @@ description: >-
     organizations can reorient more of their resources and processes to be
     better prepared for, and how the international humanitarian system finances
     response to, complex crises.
-hero_image:
-featured_image:
+hero_image: /uploads/01062020-smendoza-colombia--93.JPG
+featured_image: /uploads/01062020-smendoza-colombia--93.JPG
 featured_video_url:
 resources:
     -
@@ -81,6 +81,7 @@ milestones:
             selection, laying the foundation for further risk-informed
             financing.&nbsp;<br>&nbsp;
 ---
+
 The IRC is a leader in crisis risk financing, generating evidence to support a proactive approach to humanitarian financing. Crisis risk finance seeks to use insurance principles to pre-arrange financing and operational plans before crises erupt, so we can act more quickly and effectively when they do. We see opportunities to prepare financing for natural hazards, public health emergencies and even more complex risks, like conflict and displacement.&nbsp;
 
 Triggers are the foundation of any crisis risk financing framework. In this context, we use ‘trigger’ simply to mean the moments during a crisis in which action and associated funding are required. Good trigger design is about articulating these moments clearly to guide technical analysis and instrumentation. Any funding decision or operational action in a crisis risk financing framework can be linked to foreseen but uncertain events (risks) using triggers. These actions could include the release of financing from donors, insurance instruments, or internal contingency funds to finance operational activities or staff deployments.<br>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<br>Though a trigger-based approach is relatively a new focus, IRC has pioneered rapid response financing for complex humanitarian emergencies for over a decade, for example, through its flagship Crisis Response Fund (CRF) and, more recently, its COVID-19 Central Fund to respond to the COVID-19 pandemic (IRC, 2020). The organization is generating and taking lessons from these rapid response programs to inform the next frontier by using risk analysis to inform financial preparedness and ensuring that funds are deployed in the right place at the right time and for the right purposes.&nbsp;
