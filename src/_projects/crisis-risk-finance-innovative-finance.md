@@ -8,7 +8,7 @@ tagline: >-
 status: active
 stage: Generate Solutions
 focuses:
-    - other
+    - innovative-finance
 geolocation:
     region: Global
     latitude:
@@ -18,7 +18,7 @@ description: >-
     organizations can reorient more of their resources and processes to be
     better prepared for, and how the international humanitarian system finances
     response to, complex crises.
-hero_image: /uploads/01062020-smendoza-colombia--93.JPG
+hero_image: /uploads/01062020-smendoza-colombia--93-1.JPG
 featured_image: /uploads/01062020-smendoza-colombia--93.JPG
 featured_video_url:
 resources:
