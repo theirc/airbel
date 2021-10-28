@@ -5,7 +5,7 @@ tagline: Designing new financing solutions for people affected by conflict
 status: active
 stage: Generate Solutions
 focuses:
-  - other
+  - innovative-finance
 geolocation:
   region:
   latitude:
