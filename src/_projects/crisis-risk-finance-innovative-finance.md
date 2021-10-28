@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Crisis Risk Finance (Innovative Finance)
+title: Crisis Risk Finance
 tagline: >-
     The complex and protracted nature of humanitarian crises calls for an
     adequately dynamic, and long-term approach to humanitarian strategy,
