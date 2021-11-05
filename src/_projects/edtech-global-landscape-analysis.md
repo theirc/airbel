@@ -21,8 +21,8 @@ description: >-
   projects and solutions from around the world. It is a resource for educators -
   teachers, NGOs, policy & decision makers - to explore what methods and tools
   exist to best assist their education goals.
-hero_image:
-featured_image: /atlas-screen-shot.png
+hero_image: /uploads/20130729-ckarsten-youthprogram-seattle-n9a2700.jpg
+featured_image: /uploads/20130729-ckarsten-youthprogram-seattle-n9a2700.jpg
 featured_video_url:
 resources:
   - title: EdTech Global Landscape Analysis (report)
