@@ -29,7 +29,7 @@
     "webpack-hot-middleware": "^2.25.0"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "babel-polyfill": "^6.26.0",
     "bootstrap": "^4.1.0",
     "formik": "^2.1.4",
