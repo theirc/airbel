@@ -27,7 +27,7 @@ donors:
 publications:
   - title: 'Policy Brief: Cohort 1-Cohort 2 vs Cohort 3 Quasi-experimental Study'
     link: https://rescue.box.com/s/55a3l6a6p41hh7044sq63ijp1umkko3t
-    publication_type: Research Brief
+    publication_type: Policy Brief
   - title: >-
       The Cost-Effectiveness of Different Professional Development Packages and
       Ingredients in a Literacy  Intervention: Evidence from the  Pakistan
