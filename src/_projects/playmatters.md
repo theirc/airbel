@@ -9,7 +9,7 @@ stage: Pilot
 focuses:
   - education
 geolocation:
-  region:
+  region: Ethiopia, Tanzania, Uganda
   latitude:
   longitude:
 description: >-
@@ -52,6 +52,7 @@ milestones:
       Behavioral maps on perceptions of and barriers and enablers to Learning
       through Play in our implementation contexts.
 ---
+
 [PlayMatters](https://www.rescue.org/playmatters) (2020-2025) aims to promote Learning through Play (LtP) to improve refugee and host-community children’s holistic learning and development in Ethiopia, Tanzania, and Uganda. PlayMatters is led by the IRC and includes Plan International, War Child Holland, Innovations for Poverty Action, and the Behavioral Insight Team in partnership with the LEGO Foundation. Over a five-year period, PlayMatters will support over 800,000 children ages 3-12+ who have been affected by displacement and trauma. PlayMatters works across four target pillars for its intervention: LtP with educators, LtP with parents and caregivers, LtP in communities, and LtP in education systems. Additionally, PlayMatters integrates the cross-cutting themes of gender, inclusion and protection into its approaches.
 
 **What is Learning through Play?**
