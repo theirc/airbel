@@ -18,7 +18,7 @@ description: >-
   host-community children aged 3-12+ in Ethiopia, Tanzania, and Uganda through
   Learning through Play methodologies. 
 hero_image: /uploads/7-1.jpg
-featured_image:
+featured_image: /uploads/7-1.jpg
 featured_video_url:
 resources:
   - title: PlayMatters Website (forthcoming)
