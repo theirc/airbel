@@ -17,7 +17,7 @@ description: >-
   cultivates holistic learning and wellbeing outcomes for refugee and
   host-community children aged 3-12+ in Ethiopia, Tanzania, and Uganda through
   Learning through Play methodologies. 
-hero_image:
+hero_image: /uploads/7.jpg
 featured_image:
 featured_video_url:
 resources:
