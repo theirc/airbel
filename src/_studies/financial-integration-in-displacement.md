@@ -26,11 +26,32 @@ partners:
     link:
 donors:
   - name: Open Society Foundations
-    link: 'https://www.opensocietyfoundations.org/'
+    link: https://www.opensocietyfoundations.org/
 publications:
-  - title:
-    link:
-    publication_type:
+  - title: Research Pilots Overview
+    link: https://rescue.box.com/s/mv01prgr8l3c7d4oqtm2d7bki9jrgx3m
+    publication_type: Abstract
+  - title: Journeys website
+    link: https://sites.tufts.edu/journeysproject/
+    publication_type: Website
+  - title: Symposium recordings and resources
+    link: https://sites.tufts.edu/journeysproject/find-symposium/
+    publication_type: Website
+  - title: >-
+      Report: COVID-19 and refugees’ economic opportunities, financial services
+      and digital inclusion
+    link: >-
+      https://eu.rescue.org/report/covid-19-and-refugees-economic-opportunities-financial-services-and-digital-inclusion
+    publication_type: Report
+  - title: >-
+      Shifting Perspectives: From Financial Inclusion to Financial Health of
+      Forcibly Displaced Persons (CGAP Blog)
+    link: >-
+      https://www.findevgateway.org/blog/2021/12/shifting-perspectives-financial-inclusion-financial-health-forcibly-displaced-persons
+    publication_type: Website
+  - title: 'Finance in Displacement: Joint Lessons Report'
+    link: https://www.rescue.org/report/finance-displacement-joint-lessons-report
+    publication_type: Report
 ---
 
 By the end of 2017, an estimated 68.5 million people had been forcibly displaced from their homes as a result of conflict or violence. Of these, 25.4 million were registered refugees, 3.1 million were asylum seekers, and nearly 13.4 million are trapped in protracted situations (UNHCR, 2018). Governments and international and domestic aid agencies have been scrambling to handle the influx of displaced populations. Donors, host governments, and other actors have been stretching to meet basic immediate humanitarian needs, but also to build the self-reliance of the newcomers while they are living in displacement.
