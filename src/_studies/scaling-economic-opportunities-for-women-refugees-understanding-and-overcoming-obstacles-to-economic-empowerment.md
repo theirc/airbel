@@ -39,7 +39,7 @@ publications:
     link: https://rescue.box.com/s/mkv7wasq3lmwcrdakqfn98k9ar63nkds
     publication_type: Case Study
   - title: 'Case Study: Germany (Deutsch)'
-    link: https://rescue.box.com/s/q6tefcy1ssqhj5tpgx9uam8z9uf6a0xc
+    link: https://rescue.box.com/s/pyi4nwxqkbhh1tgrj0d8ji5ya4ttsi5e
     publication_type:
   - title: 'Case Study: Niger'
     link: https://rescue.box.com/s/8so6estuopkbmz42wltln93oqvpbz1lg
