@@ -27,6 +27,8 @@ partners:
 donors:
   - name: Open Society Foundations
     link: https://www.opensocietyfoundations.org/
+  - name: BMZ - German Federal Ministry for Economic Cooperation and Development
+    link: https://www.bmz.de/en
 publications:
   - title: Research Pilots Overview
     link: https://rescue.box.com/s/mv01prgr8l3c7d4oqtm2d7bki9jrgx3m
@@ -60,7 +62,7 @@ Although humanitarian organizations have developed a range of programs to suppor
 
 In reality, refugees leave their homes with variable endowments in human capital, financial assets, and social networks. Communities that host refugees have diverse local labor markets and policies around mobility and identity, as well as levels of support and assistance for displaced people. Without a view into the successful and failing financial strategies that different groups of refugees and host communities use, the humanitarian sector does not know how best to strengthen strategies that work. Nor does the sector know how to provide appropriate complements to fill gaps and address key vulnerabilities for these groups.&nbsp;&nbsp;
 
-The Financial Integration in Displacement project aims to fill some of these information gaps and develop a better understanding of the financial lives of refugees to enable policymakers and practitioners to develop and deliver more client responsive programs and policies that have a greater impact on the lives of refugees. In collaboration with Tufts University, the IRC aims to achieve the overall objective by:&nbsp;
+The Financial Integration in Displacement project in Uganda and Mexico aims to fill some of these information gaps and develop a better understanding of the financial lives of refugees to enable policymakers and practitioners to develop and deliver more client responsive programs and policies that have a greater impact on the lives of refugees. In collaboration with Tufts University, the IRC aims to achieve the overall objective by:&nbsp;
 
 1. Filling the information gaps that prevent a deeper understanding of the financial needs and preferences of refugees at various stages of displacement using a variety of research methods
 2. Identifying key policies that allow for successful integration of refugees in some contexts as compared to others and engaging the right set of stakeholders to engage and share learning with, and
