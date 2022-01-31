@@ -21,9 +21,9 @@ hero_image: /uploads/popuptz-hero-2.jpg
 featured_image: /uploads/popuptz-featured-1.jpg
 featured_video_url:
 resources:
-  - title:
+  - title: Final Report
     description:
-    url:
+    url: https://rescue.box.com/s/fubw7s0g5vgjlne6m71jw5p5s7ifrpkk
 articles:
   - title:
     url:
@@ -48,7 +48,7 @@ milestones:
 
       * Adapt program design based on research
   - date: 2020-07-01 00:00:00
-    title: 'Project kickoff, program design, and iteration'
+    title: Project kickoff, program design, and iteration
     link:
     link_title:
     description_markdown: >-
