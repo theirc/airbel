@@ -30,11 +30,13 @@ articles:
 milestones:
   - date: 2021-12-01 00:00:00
     title: Evidence Synthesis of Learning through Play
-    link:
+    link: https://www.playmatters.org/en/publications
     link_title:
     description_markdown: >-
       A review of evidence related to play for children’s education and
-      development in humanitarian and low-resource contexts.​​​​
+      development in humanitarian and low-resource contexts.​​​​ The report can
+      be found [here](https://www.playmatters.org/en/publications){:
+      target="_blank" rel="noopener"}.
   - date: 2021-06-01 00:00:00
     title: >-
       Mapping of Current Learning through Play Practices (Internal PlayMatters
