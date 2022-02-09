@@ -21,7 +21,7 @@ hero_image: /uploads/7-1.jpg
 featured_image: /uploads/7-1.jpg
 featured_video_url:
 resources:
-  - title: PlayMatters Website (forthcoming)
+  - title: PlayMatters Website
     description:
     url: www.playmatters.org
 articles:
