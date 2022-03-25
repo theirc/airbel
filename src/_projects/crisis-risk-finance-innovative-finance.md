@@ -71,8 +71,7 @@ milestones:
         title: >-
             Exploring a role for triggers and risk-informed financing in complex
             crises
-        link: >-
-            https://www.disasterprotection.org/exploring-a-role-for-triggers-risk-informed-financing
+        link: https://rescue.box.com/s/rvj8xot1lt15aq1152q7j6qp04u7nf1p
         link_title:
         description_markdown: >-
             This report is the final output of the IRC-CDP Decision-making
