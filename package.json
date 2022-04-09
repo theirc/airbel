@@ -39,7 +39,7 @@
     "lodash.template": "^4.5.0",
     "mapbox-gl": "^2.0.1",
     "mixitup": "^3.3.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "patch-package": "^6.1.2",
     "popper.js": "^1.14.1",
     "react": "^17.0.1",
