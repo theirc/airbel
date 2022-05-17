@@ -17,19 +17,28 @@ regions:
 image:
 partners:
   - name: Global TIES for Children
-    link: 'https://research.steinhardt.nyu.edu/ihdsc/global-ties/'
+    link: https://research.steinhardt.nyu.edu/ihdsc/global-ties/
 donors:
   - name: Dubai Cares
-    link: 'http://www.dubaicares.ae/en'
+    link: http://www.dubaicares.ae/en
 publications:
-  - title: Niger Impact Report
-    link:
-    publication_type: Report
-  - title: Lebanon  Impact Report
-    link:
-    publication_type: Report
-  - title: Niger Policy Brief
-    link:
+  - title: Literacy and Numeracy Skills of Children in Diffa, Niger
+    link: https://rescue.box.com/s/eigsbpia5wfuo8bh8xlale8ve7q74hgz
+    publication_type: Research Brief
+  - title: >-
+      Improving Outcomes for Syrian Refugee Children: Lessons from
+      Social-Emotional Learning Tutoring Programs in Lebanon
+    link: https://rescue.box.com/s/ueeqbupy0tqjf1vhwrzl5pclevr91qu4
+    publication_type: Policy Brief
+  - title: >-
+      IRC Healing Classrooms Retention Support Programming Improves Syrian
+      Refugee Children's Learning in Lebanon
+    link: https://rescue.box.com/s/o1ddxlonjuxa90s3tx9j5br33nned3ys
+    publication_type: Research Brief
+  - title: >-
+      The Impact of Tutoring Informed by Social-Emotional Learning: An Analysis
+      Across Crisis Contexts
+    link: https://rescue.box.com/s/gj82fnu9hkd4mxbfphr3icye61ag3hzm
     publication_type: Policy Brief
 ---
 

@@ -3,8 +3,8 @@ layout: study
 start_date: 2019-01-01 00:00:00
 end_date: 2021-01-01 00:00:00
 title: >-
-  Investigating and Improving a Community Health Worker-Based Model for
-  Non-Communicable Diseases: Care Among Syrian Refugees in Jordan
+  Investigating and improving a Community Health Worker-based model for
+  non-communicable diseases: Care among Syrian refugees in Jordan
 featured: false
 evergreen: true
 focuses:

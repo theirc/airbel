@@ -3,11 +3,11 @@ layout: project
 title: Micronutrient Condiment
 tagline: Introducing micronutrients into porridge for children at risk of malnutrition
 status: active
-stage: Prototype
+stage: Pilot
 focuses:
   - health
 geolocation:
-  region:
+  region: Kenya
   latitude:
   longitude:
 description: >-

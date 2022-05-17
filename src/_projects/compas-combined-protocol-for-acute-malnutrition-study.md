@@ -9,7 +9,7 @@ stage: Scale
 focuses:
   - health
 geolocation:
-  region:
+  region: 'South Sudan, Kenya, Somalia, Mali, Chad'
   latitude:
   longitude:
 description: >-
@@ -25,6 +25,9 @@ resources:
     description:
     url:
 articles:
+  - title: The IRC’s ambitious plan to scale acute malnutrition treatment
+    url: >-
+      https://medium.com/airbel/the-ircs-ambitious-plan-to-scale-acute-malnutrition-treatment-c303e1d92139
   - title: >-
       Telegraph: A new treatment could revolutionise help for children dying of
       hunger

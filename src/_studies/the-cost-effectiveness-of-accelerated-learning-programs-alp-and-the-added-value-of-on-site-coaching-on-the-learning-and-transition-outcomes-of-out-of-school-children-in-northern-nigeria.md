@@ -22,11 +22,14 @@ donors:
     link:
 publications:
   - title: Endline Research Brief
-    link: 'https://rescue.box.com/s/gjlz6o7e2sqlgb2bfaca4rzwmul4ozya'
+    link: https://rescue.box.com/s/gjlz6o7e2sqlgb2bfaca4rzwmul4ozya
     publication_type:
   - title: Baseline Research Brief
-    link: 'https://rescue.box.com/s/f3e5acrfdiy3r5uh0ejij7x29xtbqcp8'
+    link: https://rescue.box.com/s/f3e5acrfdiy3r5uh0ejij7x29xtbqcp8
     publication_type:
+  - title: Impact Evaluation Report - Cohort 3
+    link: https://rescue.box.com/s/lz41ci24y9ycs4ym0zygeemm6mz8ssa7
+    publication_type: Research Brief
 ---
 
 The Education in Emergencies Nonformal Learning Centers project was funded by the UK Department for International Development to support out-of-school children in the states of Yobe and Borno in Nigeria with their education and psychosocial well-being.

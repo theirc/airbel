@@ -5,7 +5,7 @@ tagline: Designing new financing solutions for people affected by conflict
 status: active
 stage: Generate Solutions
 focuses:
-  - other
+  - innovative-finance
 geolocation:
   region:
   latitude:
@@ -26,6 +26,21 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2021-06-01 00:00:00
+    title: Final report
+    link: https://rescue.box.com/s/metep7r4dg7hc2na0sqq5lb740t5amxp
+    link_title:
+    description_markdown: >-
+      This report is the final output from the Defining and Driving Innovative
+      Finance for Humanitarian Response project. The project was funded by USAID
+      and delivered by the International Rescue Committee’s (IRC) Airbel Impact
+      Lab, and sought to contribute to more efficient and effective financing
+      systems for humanitarian response by (i) mapping the innovative finance
+      landscape, (ii) designing new innovative finance instruments and
+      approaches, and (iii) contributing to the emerging community of practice.
+      Building on recent progress in financing for natural disasters, we focused
+      in this project on innovative finance for people affected by violent
+      conflict.
   - date: 2020-05-01 00:00:00
     title: Innovative finance landscaping exercise complete
     link:

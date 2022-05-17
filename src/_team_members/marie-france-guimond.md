@@ -1,10 +1,10 @@
 ---
 layout: team_member
 name: Marie-France Guimond
-role_title: 'Senior Advisor, Research & Innovation'
+role_title: Senior Advisor, Research & Innovation
 focuses:
-  - empowerment
 expertise_areas:
+  - research
 leadership: false
 image: /uploads/team/marie.jpg
 ---

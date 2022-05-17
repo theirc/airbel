@@ -9,7 +9,7 @@ stage: Design Research
 focuses:
   - economic-wellbeing
 geolocation:
-  region:
+  region: Northwest Syria
   latitude:
   longitude:
 description: >-

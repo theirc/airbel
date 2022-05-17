@@ -9,7 +9,7 @@ stage: Prototype
 focuses:
   - education
 geolocation:
-  region:
+  region: Tanzania
   latitude:
   longitude:
 description: >-
@@ -21,41 +21,76 @@ hero_image: /uploads/popuptz-hero-2.jpg
 featured_image: /uploads/popuptz-featured-1.jpg
 featured_video_url:
 resources:
-  - title:
+  - title: Final Report
     description:
-    url:
+    url: https://rescue.box.com/s/fubw7s0g5vgjlne6m71jw5p5s7ifrpkk
 articles:
   - title:
     url:
 milestones:
+  - date: 2022-01-01 00:00:00
+    title: Pilot findings
+    link: https://rescue.app.box.com/s/fubw7s0g5vgjlne6m71jw5p5s7ifrpkk
+    link_title:
+    description_markdown: >-
+      * Insights from the pilot phase are gathered and synthesized
+
+      * Best practices are created for implementing a project during an
+      emergency situation<br>&nbsp;
+  - date: 2021-12-01 00:00:00
+    title: Pilot phase concludes
+    link:
+    link_title:
+    description_markdown: |-
+      * 40% of tablets from the pilot phase are collected
+      * In-depth household and Pop-Up Teacher interviews are conducted
+  - date: 2021-08-01 00:00:00
+    title: Pilot phase begins
+    link:
+    link_title:
+    description_markdown: >-
+      * 688 tablets are distributed to households reaching 1,239 children
+
+      * Pop-Up Teachers are selected and trained on tablet usage and technology
+      support
+  - date: 2021-07-01 00:00:00
+    title: Design phase concludes
+    link:
+    link_title:
+    description_markdown: >-
+      * Over 90% of tablets from the first round are collected
+
+      * Household surveys are administered, in-depth household interviews are
+      conducted
+
+      * Program design is adapted based on research findings
+  - date: 2021-03-01 00:00:00
+    title: Design phase begins
+    link:
+    link_title:
+    description_markdown: |-
+      * 190 tablets are distributed to households reaching 313 children
+      * Caregivers are trained on tablet usage and care
   - date: 2020-09-01 00:00:00
-    title: Begin distribution of tablets
+    title: Project is delayed
     link:
     link_title:
     description_markdown: >-
-      Begin a small and targeted distribution of 250 tablets to corresponding
-      households. During this period, we also will:
-
-
-      * Develop research tools for household surveys and experience interviews
-
-      * Conduct IRC staff interviews to better understand procurement,
-      distribution, and deployment.
-
-      * Administer household surveys
-
-      * Conduct in-depth household interviews
-
-      * Adapt program design based on research
+      Project is delayed due to staff turnover and challenges with the
+      procurement and delivery of tablets and solar chargers in Tanzania
   - date: 2020-07-01 00:00:00
-    title: 'Project kickoff, program design, and iteration'
+    title: Project kickoff
     link:
     link_title:
     description_markdown: >-
-      We’ve begun to procure tablets, set up and onboard the team, and design
-      and rapidly prototype: sensitization, the distribution model, upskilling
-      on tablets, remote support for technical issues and optimizing usage, and
-      data retrieval.
+      * Procurement of tablets and solar chargers
+
+      * Onboarding the team
+
+      * Adapt Pop-Up program model to an at-home design considering community
+      introduction to the program, tablet distribution and collection model,
+      caregiver tablet training, remote support for technical issues and
+      optimizing usage
 ---
 
 With [a high and ever-changing number of students out of school](https://en.unesco.org/covid19/educationresponse){: target="_blank" rel="noopener"} around the world due to COVID-19, the need for innovative solutions to enable access to quality education is more acute than ever. Distance learning programs have the potential to give children a sense of stability and educational continuity, but they are still very difficult to implement in rural and inaccessible areas of Tanzania and other crisis-affected countries.
