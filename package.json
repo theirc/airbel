@@ -9,24 +9,30 @@
   },
   "scripts": {
     "start": "gulp dev",
-    "scripts": "NODE_ENV=production gulp buildScripts",
-    "postinstall": "patch-package"
+    "dev": "concurrently 'npm:watch-scripts' 'npm:start' ",
+    "watch-scripts": "gulp scripts",
+    "postinstall": "gulp dev:install",
+    "proof": "gulp dev:build && gulp proof",
+    "state": "gulp dev:build && gulp state",
+    "clean": "rimraf dist src/.jekyll-cache"
   },
   "author": "Ocupop",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.5.5",
+    "@babel/plugin-transform-runtime": "^7.14.5",
     "@babel/preset-env": "^7.5.5",
     "@babel/preset-react": "^7.0.0",
     "@babel/register": "^7.4.0",
-    "@cloudcannon/suite": "^2.0.0-rc5",
+    "@cloudcannon/suite": "2.0.2",
     "babel-loader": "^8.0.6",
-    "gulp": "^4.0.0",
+    "concurrently": "^7.2.0",
+    "gulp": "^4.0.2",
+    "rimraf": "^3.0.2",
     "serialize-javascript": "^5.0.1",
-    "webpack": "^5.11.1",
-    "webpack-cli": "^4.3.1",
-    "webpack-dev-middleware": "^4.0.2",
-    "webpack-hot-middleware": "^2.25.0"
+    "webpack": "^5.45.1",
+    "webpack-cli": "^4.7.2",
+    "webpack-stream": "^6.1.2"
   },
   "dependencies": {
     "axios": "^0.21.1",
