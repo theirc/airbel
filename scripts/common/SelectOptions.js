@@ -211,7 +211,6 @@ export const expertiseAreaOptions = [
   { value: "cost-efficiency", label: "Cost-Efficiency" },
   { value: "design", label: "Design" },
   { value: "innovative-finance", label: "Innovative Finance" },
-  { value: "project-management", label: "Project Management" },
   { value: "research", label: "Research" },
   { value: "strategy", label: "Strategy" },
   { value: "using-evidence", label: "Using Evidence" }

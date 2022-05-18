@@ -5,8 +5,7 @@ role_title: Investment Lead
 focuses:
   - innovative-finance
 expertise_areas:
-  - project-management
-  - /expertise-areas/project-management
+  - innovative-finance
 leadership: true
 image: /uploads/ellen-bw.png
 ---
