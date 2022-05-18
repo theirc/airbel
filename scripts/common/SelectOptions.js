@@ -210,7 +210,7 @@ export const expertiseAreaOptions = [
   { value: "behavioral-insights", label: "Behavioral Insights" },
   { value: "cost-efficiency", label: "Cost-Efficiency" },
   { value: "design", label: "Design" },
-  { value: "project-management", label: "Project Management" },
+  { value: "innovative-finance", label: "Innovative Finance" },
   { value: "research", label: "Research" },
   { value: "strategy", label: "Strategy" },
   { value: "using-evidence", label: "Using Evidence" }

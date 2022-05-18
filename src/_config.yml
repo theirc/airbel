@@ -24,11 +24,11 @@ collections:
     layout: project
     permalink: /projects/:path/
   focuses:
-    output: true
+    output: false
     layout: focus
     permalink: /focuses/:title/
   expertise_areas:
-    output: true
+    output: false
     layout: expertise_area
     permalink: /expertise-areas/:title/
   studies:
