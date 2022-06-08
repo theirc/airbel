@@ -6,7 +6,7 @@ title: >-
   Cities at the forefront of conflict and climate migration: Mitigating the
   risks of conflict over urban land and water in fragile contexts
 featured: false
-evergreen: true
+evergreen: false
 focuses:
   - empowerment
 description: >
