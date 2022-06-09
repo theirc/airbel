@@ -51,4 +51,4 @@ Forced migration and displacement are re-shaping cities and countries across the
 
 This study aimed to contribute to improving inclusive and equitable natural resource management in fragile and conflict-affected urban and peri-urban contexts affected by internal migration through enhancing knowledge of how displacement affects the governance of natural resources in these areas and identification of promising approaches in addressing problems that may arise. A literature review was completed along with a participatory comparative case study research in Maiduguri, Nigeria and Bukavu, Democratic Republic of Congo (DRC).
 
-Map of Maiduguri, Nigeria: Google, Maxar Technologies
+Image of Maiduguri, Nigeria: Google, Maxar Technologies
