@@ -54,6 +54,9 @@ publications:
   - title: 'Finance in Displacement: Joint Lessons Report'
     link: https://www.rescue.org/report/finance-displacement-joint-lessons-report
     publication_type: Report
+  - title: 'Brief: Pilot Findings from Yumbe and Kampala'
+    link: https://rescue.box.com/s/m8lamzbg323mhj8lkrebzerxrdrxqsb2
+    publication_type: Research Brief
 ---
 
 By the end of 2017, an estimated 68.5 million people had been forcibly displaced from their homes as a result of conflict or violence. Of these, 25.4 million were registered refugees, 3.1 million were asylum seekers, and nearly 13.4 million are trapped in protracted situations (UNHCR, 2018). Governments and international and domestic aid agencies have been scrambling to handle the influx of displaced populations. Donors, host governments, and other actors have been stretching to meet basic immediate humanitarian needs, but also to build the self-reliance of the newcomers while they are living in displacement.
