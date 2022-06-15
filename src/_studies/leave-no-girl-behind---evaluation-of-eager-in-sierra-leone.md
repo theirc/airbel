@@ -25,8 +25,14 @@ donors:
     link:
 publications:
   - title: Baseline Research Brief
-    link: 'https://rescue.box.com/s/wp3hn8el2jilvhufo7537w2mikfi6uac'
+    link: https://rescue.box.com/s/wp3hn8el2jilvhufo7537w2mikfi6uac
     publication_type: Research Brief
+  - title: EAGER Baseline Evaluation Report
+    link: https://rescue.box.com/s/bb6unkcf2avfup16mtzu0b3a0ovt2tsl
+    publication_type: Report
+  - title: EAGER Midline Evaluation Report
+    link: https://rescue.box.com/s/76j71h19cnht62rwmi7jx5vma68ztdnf
+    publication_type: Report
 ---
 
 The Every Adolescent Girl Empowered and Resilient (EAGER) project is a DFID-funded Girls' Education Challenge (GEC) Leave No Girl Behind (LNGB) project in Sierra Leone. EAGER is implemented by the IRC in partnership with Concern Worldwide (CWW), Restless Development, and BBC Action Media in ten districts across Sierra Leone. The project duration is approximately four years running from February 2019 to January 2023. EAGER targets out-of-school (OOS) adolescent girls aged 13-17 – those who have never attended school or who have dropped out – and lack basic literacy and numeracy skills.
