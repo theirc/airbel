@@ -42,9 +42,12 @@ donors:
   - name: United States Institute of Peace
     link: https://www.usip.org/
 publications:
-  - title:
-    link:
-    publication_type:
+  - title: 'Policy Brief: Cities at the forefront of conflict and climate migration'
+    link: https://rescue.box.com/s/ovd6ernup5kfsy5ys1v5w5id1y6d0164
+    publication_type: Policy Brief
+  - title: 'Full Report: Cities at the forefront of conflict and climate migration'
+    link: https://rescue.box.com/s/g9garjqdgteieqridajkxk5p8lnn58it
+    publication_type: Report
 ---
 
 Forced migration and displacement are re-shaping cities and countries across the globe. More people are displaced by conflict and natural disaster today than at any point in history and the percentage of world population displaced is increasing. Climate change is widely recognized as a contributing and exacerbating factor in migration and in conflict. When people flee, in most instances it is not across borders but rather to closest cities. While much climate change research is focused on the push-factors for displacement, less is known on locations of settlement and the solutions to mitigate negative impacts and harness positive impacts of migration. Cities are at the forefront of responding to climate migration, yet many are ill-prepared and under-researched to manage growing urban populations.&nbsp;
