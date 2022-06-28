@@ -48,6 +48,14 @@ publications:
   - title: 'Full Report: Cities at the forefront of conflict and climate migration'
     link: https://rescue.box.com/s/g9garjqdgteieqridajkxk5p8lnn58it
     publication_type: Report
+  - title: >-
+      Webinar Recording: Cities at the forefront of conflict and climate
+      migration
+    link: https://rescue.box.com/s/f91yru4eaoyy3y928l540qusq4e08y6c
+    publication_type: Presentation
+  - title: 'Webinar Slides: Cities at the forefront of conflict and climate migration'
+    link: https://rescue.box.com/s/c8d2sfiiy2h9avk90nrzjcpnbnpmz2tg
+    publication_type: Presentation
 ---
 
 Forced migration and displacement are re-shaping cities and countries across the globe. More people are displaced by conflict and natural disaster today than at any point in history and the percentage of world population displaced is increasing. Climate change is widely recognized as a contributing and exacerbating factor in migration and in conflict. When people flee, in most instances it is not across borders but rather to closest cities. While much climate change research is focused on the push-factors for displacement, less is known on locations of settlement and the solutions to mitigate negative impacts and harness positive impacts of migration. Cities are at the forefront of responding to climate migration, yet many are ill-prepared and under-researched to manage growing urban populations.&nbsp;
