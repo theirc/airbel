@@ -30,6 +30,9 @@ publications:
     link:
     publication_type:
 ---
+
+The project is led by the International Rescue Committee (IRC) and the EASEL Lab at Harvard University, in partnership with Nigerian educators and government officials in Borno and Yobe states. The overall purpose of the project is to improve learning outcomes for students in Northeast Nigeria. The contextualization and implementation research phases of the project are complete.&nbsp;
+
 ## Why Social Emotional Learning (SEL)?
 
 Social emotional learning (SEL) includes knowledge and skills that enable students to focus attention, demonstrate self-control, resolve conflicts peacefully, understand feelings, and get along with peers. Social and emotional skills are important for success in school and life (Jones, McGarrah, & Kahn, 2019). Research indicates that high-quality SEL programs in school can lead to higher grades, better mental health outcomes, and improved wellbeing for both students and teachers (Durlak et al, 2011; Oliveira et al, 2021). SEL programs can also protect children from some of the negative effects of toxic stress, by helping teachers create a safe and supportive learning environment, and by teaching specific skills and strategies that help children process emotions in healthy ways and build positive relationships (Jones & Kahn, 2017).&nbsp;
