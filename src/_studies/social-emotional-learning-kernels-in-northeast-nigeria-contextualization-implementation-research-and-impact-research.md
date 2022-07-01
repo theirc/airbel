@@ -18,7 +18,7 @@ description: >-
   complete. 
 regions:
   - Nigeria
-image:
+image: /uploads/20210417-152513.jpg
 partners:
   - name: Harvard EASEL
     link:
