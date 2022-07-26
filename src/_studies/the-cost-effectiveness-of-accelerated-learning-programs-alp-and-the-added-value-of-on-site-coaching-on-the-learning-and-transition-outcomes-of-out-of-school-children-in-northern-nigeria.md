@@ -30,7 +30,11 @@ publications:
   - title: Impact Evaluation Report - Cohort 3
     link: https://rescue.box.com/s/lz41ci24y9ycs4ym0zygeemm6mz8ssa7
     publication_type: Research Brief
-  - title: Randomized Controlled Trial Report
+  - title: >-
+      The Cost-Effectiveness of an Accelerated Learning Program on the Literacy,
+      Numeracy and Social-Emotional Learning Outcomes of Out-of-School Children
+      in Northeast Nigeria: Evidence from a Mixed Methods Randomized Controlled
+      Trial
     link: https://www.tandfonline.com/doi/full/10.1080/19345747.2022.2037799
     publication_type: Report
 ---
