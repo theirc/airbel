@@ -30,6 +30,9 @@ publications:
   - title: Impact Evaluation Report - Cohort 3
     link: https://rescue.box.com/s/lz41ci24y9ycs4ym0zygeemm6mz8ssa7
     publication_type: Research Brief
+  - title: Randomized Controlled Trial Report
+    link: https://www.tandfonline.com/doi/full/10.1080/19345747.2022.2037799
+    publication_type: Report
 ---
 
 The Education in Emergencies Nonformal Learning Centers project was funded by the UK Department for International Development to support out-of-school children in the states of Yobe and Borno in Nigeria with their education and psychosocial well-being.
