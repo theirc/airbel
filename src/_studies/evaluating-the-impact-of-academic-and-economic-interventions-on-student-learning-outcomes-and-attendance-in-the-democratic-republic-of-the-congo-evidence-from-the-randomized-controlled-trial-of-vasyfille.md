@@ -22,17 +22,27 @@ donors:
     link:
 publications:
   - title: Research Brief
-    link: 'https://rescue.box.com/s/zedwfa9dbz6d8rfvyebdsk6ae97wg3rq'
+    link: https://rescue.box.com/s/zedwfa9dbz6d8rfvyebdsk6ae97wg3rq
     publication_type: Research Brief
+  - title: >-
+      Let’s Go Girls!: Evaluating the Effectiveness of Tutoring and Scholarships
+      on Primary School Girls’ Attendance and Academic Performance in the
+      Democratic Republic of the Congo 
+    link: https://fire-ojs-ttu.tdl.org/fire/index.php/FIRE/article/view/222
+    publication_type: Report
+  - title: >-
+      Accelerated Learning Programs for out-of-school girls: Their impact on
+      student achievement and traditional school enrollment in the Democratic
+      Republic of Congo
+    link: https://doi.org/10.32865/fire20206225
+    publication_type: Report
 ---
-
 To respond to the economic, social and educational barriers that have kept many poor rural Congolese girls from school, the IRC, in consortium with Catholic Relief Services (CRS) and Save the Children International (SCI), received funding from the UK Department for International Development’s (DFID) Girls’ Education Challenge Fund (GEC) to implement the Valorisation de la Scolarisation de la Fille (VasYFille\!) project in 400 schools of five provinces in the DRC from 2013-2017. The project’s goal was to ensure that 66,303 marginalized girls across the targeted provinces stay in school and that 44,662 girls demonstrate improved learning outcomes.&nbsp;
 
 VasYFille\! developed three interventions to target in-school girls:&nbsp;
 
-1. A school-level intervention that provided professional development opportunities for teachers delivering training modules approved by the Ministry of Education on teaching reading, writing and mathematics, as well as gender-sensitive pedagogy. The program provided school grants to parent-teachers associations to develop school improvement plans that responded to girls’ safety needs in and around schools, such as construction of separate latrines, and conducted information campaigns to promote on-time enrollment, championing the importance of education for boys and girls and combating socio-cultural barriers to girl’s education.&nbsp;
-   1. Scholarships: VasYFille\! invested about 10.5 M USD in scholarships for over 75,000 girls on the basis of financial needs to help them overcome financial barriers to education so they could pay for school fees, uniforms and textbooks.&nbsp;
-2. &nbsp;
+1. A school-level intervention that provided professional development opportunities for teachers delivering training modules approved by the Ministry of Education on teaching reading, writing and mathematics, as well as gender-sensitive pedagogy. The program provided school grants to parent-teachers associations to develop school improvement plans that responded to girls’ safety needs in and around schools, such as construction of separate latrines, and conducted information campaigns to promote on-time enrollment, championing the importance of education for boys and girls and combating socio-cultural barriers to girl’s education.
+2. Scholarships: VasYFille\! invested about 10.5 M USD in scholarships for over 75,000 girls on the basis of financial needs to help them overcome financial barriers to education so they could pay for school fees, uniforms and textbooks.&nbsp;
 3. Tutoring sessions: VasYFille\! invested 3.9 million USD to provide tutoring services for girls in grades 3-6 at risk of dropping out due to academic performance. The program trained approximately 7,000 tutors who reached at least 4th or 5th grade of education, and provided them with relevant materials and a stipend of approximately 25 USD per month to hold tutoring sessions two or three times per week after regular classes.&nbsp;
 
 VasYFille\! also created Accelerated Learning Programs (ALP) for 24,600 formerly out-of-school girls to give them access to quality non-formal education opportunities. The program consisted of a 3 year comprised curriculum, designed to prepare 9-15 year old girls to take a national end-of-year exam which, if passed, would allow them to enroll in secondary school.&nbsp;
