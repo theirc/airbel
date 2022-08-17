@@ -4,7 +4,7 @@ start_date: 2019-01-01 00:00:00
 end_date: 2021-01-01 00:00:00
 title: Financial integration in displacement
 featured: false
-evergreen: true
+evergreen: false
 focuses:
   - economic-wellbeing
 description: >-
@@ -58,7 +58,6 @@ publications:
     link: https://rescue.box.com/s/m8lamzbg323mhj8lkrebzerxrdrxqsb2
     publication_type: Research Brief
 ---
-
 By the end of 2017, an estimated 68.5 million people had been forcibly displaced from their homes as a result of conflict or violence. Of these, 25.4 million were registered refugees, 3.1 million were asylum seekers, and nearly 13.4 million are trapped in protracted situations (UNHCR, 2018). Governments and international and domestic aid agencies have been scrambling to handle the influx of displaced populations. Donors, host governments, and other actors have been stretching to meet basic immediate humanitarian needs, but also to build the self-reliance of the newcomers while they are living in displacement.
 
 Although humanitarian organizations have developed a range of programs to support refugees to address their needs, the humanitarian sector knows very little about the specific experiences and financial strategies that refugees use to stabilize their lives in different stages of displacement. There is a particular gap in understanding how refugees manage their financial lives outside of the aid they receive and after their immediate arrival. The sector further lacks understanding about how refugees financially cope and or/integrate into local economies and societies in the 2-4 years following their arrival.
