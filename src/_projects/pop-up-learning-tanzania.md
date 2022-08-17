@@ -5,7 +5,7 @@ tagline: >-
   Bringing high quality digital learning to the homes of last mile learners
   affected by COVID-19.
 status: active
-stage: Prototype
+stage: Pilot
 focuses:
   - education
 geolocation:
@@ -92,7 +92,6 @@ milestones:
       caregiver tablet training, remote support for technical issues and
       optimizing usage
 ---
-
 With [a high and ever-changing number of students out of school](https://en.unesco.org/covid19/educationresponse){: target="_blank" rel="noopener"} around the world due to COVID-19, the need for innovative solutions to enable access to quality education is more acute than ever. Distance learning programs have the potential to give children a sense of stability and educational continuity, but they are still very difficult to implement in rural and inaccessible areas of Tanzania and other crisis-affected countries.
 
 The IRC, in partnership with [Imagine Worldwide](https://www.imagineworldwide.org/){: target="_blank" rel="noopener"} and [onebillion](https://onebillion.org/onecourse/app/){: target="_blank" rel="noopener"}, is implementing Pop-Up Learning in Tanzania, a fully remote digital learning program where children learn at home on a tablet using child-friendly learning software available. The software is adaptive, meaning it is designed so that children can pick-up a tablet, take a short quiz, and immediately begin learning at their level. The software works offline and can only be used for educational activities. Remote support is provided to caregivers to resolve technical issues and messages informed by behavioral science increase usage of the tablet at home. The tablets, called *onetab*, were also created by onebillion and are designed to be easy to use and prevent breakage and come with a solar charger that allows the tablet to be charged anywhere. The project aims to reach 1,000 homes and approximately 3,000 children in the Kigoma district of Tanzania.
