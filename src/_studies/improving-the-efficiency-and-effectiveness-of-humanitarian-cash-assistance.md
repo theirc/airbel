@@ -4,7 +4,7 @@ start_date: 2020-11-01 00:00:00
 end_date: 2020-12-01 00:00:00
 title: Improving the efficiency and effectiveness of humanitarian cash assistance
 featured: false
-evergreen: true
+evergreen: false
 focuses:
   - economic-wellbeing
 description: >-
@@ -27,7 +27,6 @@ publications:
     link: https://rescue.box.com/s/goo4yhgurdy1rthakru24yw8e9kg2hgh
     publication_type: Report
 ---
-
 The IRC has been providing life-saving support to conflict-affected communities in [Yemen since 2012](https://www.rescue.org/country/yemen){: target="_blank"}, and is currently delivering health, protection, nutrition, food security, and WASH (Water, Sanitation and Hygiene) services. Currently, the IRC has a cash assistance program in five villages in the Khanfer district of the Abyan Governorate of Yemen. Khanfer is one of the worst affected districts by the crisis, and the most recent Integrated Food Security Phase Classification [(IPC) analysis estimates](http://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1151858/){: target="_blank"} that people in Abyan would be experiencing catastrophic food conditions without humanitarian food assistance.
 
 While cash assistance as a means to manage immediate food needs is now well established, its potential to simultaneously support longer-term outcomes has not yet been harnessed. Notably, two of the most beneficial and potentially game-changing characteristics of cash assistance—its fungibility (adaptability) and ability to potentially alleviate a scarcity mindset by reducing financial scarcity—are not fully leveraged in current cash delivery models. Furthermore, there is little examination of whether key economic behaviors, such as investing in productive assets or a business or putting money towards savings, can be influenced if introduced at a point in time that coincides with a cash injection. We hypothesize that simple innovations in how cash assistance is designed could unlock the potential to achieve longer lasting impact in programs addressing basic needs.
