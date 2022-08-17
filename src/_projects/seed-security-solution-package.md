@@ -17,7 +17,7 @@ description: >-
   and peer-learning to identify and multiply high-yielding and climate-adapted
   seed varieties, increase seed quality and availability, and ultimately enhance
   the resilience of agricultural livelihoods in crisis-affected contexts.
-hero_image: /uploads/20180812-lhastert-nes-erd-14-1.jpg
+hero_image: /uploads/20180812-lhastert-nes-erd-14-1---edited.png
 featured_image: /uploads/20180812-lhastert-nes-erd-14-1.jpg
 featured_video_url:
 resources:
@@ -47,7 +47,7 @@ milestones:
     title: Design Sprint in Northeast Syria
     link: >-
       https://docs.google.com/presentation/d/1cL_6Rvd2OtFcd3RH7zO04g24iTuigdjjbcpMXz-TSNM/edit?usp=sharing
-    link_title: Draft Solution Package
+    link_title:
     description_markdown: >-
       * We identified Northeast Syria as the first context in which to generate
       a solution.
