@@ -38,7 +38,7 @@ publications:
     link:
     publication_type:
 ---
-Education Research in Conflict and Protracted Crisis (ERICC) is a three-year Education in Emergencies research programme funded by the British Foreign, Commonwealth and Development Office (FCDO) and comprised of four main components:
+Education Research in Conflict and Protracted Crisis (ERICC) is a three-year Education in Emergencies (EiE) research programme funded by the British Foreign, Commonwealth and Development Office (FCDO) and comprised of four main components:
 
 1) Research on the most effective approaches to education in conflict and protracted crisis,
 
@@ -54,4 +54,4 @@ ERICC seeks to conduct rigorous research on what works, for whom, when, and at w
 
 To ensure that research responds to the acute needs of learners, the overarching research methodology begins with country scans - detailed evidence reviews and advisory committee workshops over the course of six months to identify key gaps and needs in education systems. These country scans will guide co-construction of full country research plans and will be iteratively reviewed with updated information in order to ensure that research remains relevant.
 
-Starting in the second year of the programme, ERICC will leverage early learnings from research agenda creation to initiate operational support activities in FCDO focal countries, including providing technical support to country offices undertaking Education in Emergencies (EiE) programmes, and releasing calls for proposals for complementary ERICC research projects to be undertaken by researchers, institutions, and organizations operating in crisis contexts. These mechanisms are designed to expand ERICC’s reach within and outside of focal countries and regions and grow the overall body of research and researchers in the EiE field.
+Starting in the second year of the programme, ERICC will leverage early learnings from research agenda creation to initiate operational support activities in FCDO focal countries, including providing technical support to country offices undertaking EiE programmes, and releasing calls for proposals for complementary ERICC research projects to be undertaken by researchers, institutions, and organizations operating in crisis contexts. These mechanisms are designed to expand ERICC’s reach within and outside of focal countries and regions and grow the overall body of research and researchers in the EiE field.
