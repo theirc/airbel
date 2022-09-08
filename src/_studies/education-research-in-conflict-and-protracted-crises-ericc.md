@@ -15,6 +15,7 @@ regions:
   - Nigeria
   - South Sudan
   - Syria
+  - Lebanon
 image: /uploads/20191215-hnowrose-bangladesh-14-edited.jpg
 partners:
   - name: Centre for Lebanese Studies
@@ -29,6 +30,8 @@ partners:
     link: https://odi.org/en/
   - name: Queen Rania Foundation
     link: https://www.qrf.org/en
+  - name: Osman Consulting
+    link: https://www.osmanconsulting.co.uk/
 donors:
   - name: FCDO
     link: >-
