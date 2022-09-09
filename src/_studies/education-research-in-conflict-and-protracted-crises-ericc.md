@@ -10,12 +10,12 @@ focuses:
 description:
 regions:
   - Bangladesh
+  - Lebanon
   - Jordan
   - Myanmar
   - Nigeria
   - South Sudan
   - Syria
-  - Lebanon
 image: /uploads/20191215-hnowrose-bangladesh-14-edited.jpg
 partners:
   - name: Centre for Lebanese Studies
@@ -26,12 +26,12 @@ partners:
     link: https://www.forcierconsulting.com/
   - name: NYU Global TIES for Children
     link: https://steinhardt.nyu.edu/ihdsc/global-ties
-  - name: 'Overseas Development Institute (ODI) '
+  - name: Osman Consulting
+    link: https://www.osmanconsulting.co.uk/
+  - name: ODI
     link: https://odi.org/en/
   - name: Queen Rania Foundation
     link: https://www.qrf.org/en
-  - name: Osman Consulting
-    link: https://www.osmanconsulting.co.uk/
 donors:
   - name: FCDO
     link: >-
