@@ -26,10 +26,10 @@ partners:
     link: https://www.forcierconsulting.com/
   - name: NYU Global TIES for Children
     link: https://steinhardt.nyu.edu/ihdsc/global-ties
-  - name: Osman Consulting
-    link: https://www.osmanconsulting.co.uk/
   - name: ODI
     link: https://odi.org/en/
+  - name: Osman Consulting
+    link: https://www.osmanconsulting.co.uk/
   - name: Queen Rania Foundation
     link: https://www.qrf.org/en
 donors:
