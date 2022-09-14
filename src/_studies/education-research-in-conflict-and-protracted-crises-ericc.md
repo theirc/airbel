@@ -1,7 +1,7 @@
 ---
 layout: study
 start_date: 2021-01-01 00:00:00
-end_date: 2025-12-31 00:00:00
+end_date: 2024-12-31 00:00:00
 title: Education Research in Conflict and Protracted Crises (ERICC)
 featured: false
 evergreen: true
@@ -51,7 +51,7 @@ Education Research in Conflict and Protracted Crisis (ERICC) is a three-year Edu
 
 4) Knowledge Systems Strengthening
 
-The IRC leads the ERICC Research Programme Consortium (RPC), comprised of IRC and seven of the world’s leading research organizations focused on education in crisis and conflict settings, which is tasked with delivering Components 1 & 2 of the programme in seven FCDO focal countries and contexts — namely Bangladesh, Jordan, Lebanon, Myanmar, Nigeria, and South Sudan. The ERICC RPC will coordinate closely with the leads for components 3 & 4.
+The IRC leads the ERICC Research Programme Consortium (RPC), comprised of IRC and seven of the world’s leading research organizations focused on education in crisis and conflict settings, which is tasked with delivering Components 1 & 2 of the programme in seven FCDO focal countries and contexts — namely Bangladesh, Jordan, Lebanon, Myanmar, Nigeria, South Sudan, and Syria. The ERICC RPC will coordinate closely with the leads for components 3 & 4.
 
 ERICC seeks to conduct rigorous research on what works, for whom, when, and at what cost in all ERICC focal contexts in order to present specific recommendations to positively impact Education policy and practice.
 
