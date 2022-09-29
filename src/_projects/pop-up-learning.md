@@ -20,6 +20,11 @@ resources:
   - title: Pop-Up Learning Pilot Report
     description:
     url: https://rescue.box.com/s/807x3ke2cavbu3rpyvv9aixo3b6voz81
+  - title: >-
+      Baseline Brief: The State of Learning for Rohingya Refugee Children
+      Affected by Displacement and Crisis in Bangladesh
+    description:
+    url: https://rescue.box.com/s/rrvlgf1xujm2f5rm5me18rxulk9k8vpt
 articles:
   - title:
     url:
@@ -110,7 +115,6 @@ milestones:
       The feasibility study concluded that Cox’s Bazar, Bangladesh met the
       conditions to serve as a site to prototype Pop-Up Learning.
 ---
-
 33 million children are displaced from their homes because of humanitarian crises. Almost 40% of those children do not have access to formal education. Between funding gaps, political challenges, and poor-to-nonexistent access to educators, it can take months or years for a child to receive adequate education. During this period in a displaced child’s life, education is critical to reducing trauma and stress, creating stability, and generating positive norms around going to school.
 
 **Even when in school, children are not learning.&nbsp;**Many leave school without the skills needed to calculate the correct change from a transaction, read a doctor’s instructions, or interpret a political campaign promise—let alone build a fulfilling career or educate future generations.&nbsp;
