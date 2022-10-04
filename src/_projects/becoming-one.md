@@ -24,7 +24,17 @@ featured_video_url:
 resources:
   - title: Preventing Intimate Partner Violence at the IRC
     description:
-    url: 'https://rescue.box.com/s/pykc20v38asrul9djxdgvxtfygoehbm3'
+    url: https://rescue.box.com/s/pykc20v38asrul9djxdgvxtfygoehbm3
+  - title: Protection Cost-Effectiveness Brief - Becoming One
+    description:
+    url: https://rescue.box.com/s/q4k2xgvo84w1xhuup2rxhiuxlyu230y3
+  - title: Protection Scenario Analysis - Couples Counseling
+    description:
+    url: https://rescue.box.com/s/ypt9toijew0vn6oos3xd8yr4p8xtvesd
+  - title: Ingredients List - Becoming One, Uganda
+    description:
+    url: >-
+      https://rescue.app.box.com/file/1028522271383?s=mdqkvbk6byy8p4sai9ho6ajalskioeoq
 articles:
   - title: A Designer’s Experiment with Rigorous Research
     url: >-
@@ -65,8 +75,8 @@ milestones:
       And worked out the costing and scale analysis to bring our program to
       life.
   - date: 2017-10-01 00:00:00
-    title: 'Gulu, Uganda. Feasibility and Acceptability Pilot'
-    link: 'https://rescue.box.com/s/pq7wptmop8d72wzra1krjj72431nn336'
+    title: Gulu, Uganda. Feasibility and Acceptability Pilot
+    link: https://rescue.box.com/s/pq7wptmop8d72wzra1krjj72431nn336
     link_title:
     description_markdown: Ran a successful 8 week pilot with 35 faith leaders and over 350 couples
   - date: 2017-06-01 00:00:00
@@ -77,7 +87,7 @@ milestones:
       We began production of our new content including videos, faith leader,
       couples guides and all other relevant assets for the program.
   - date: 2017-05-01 00:00:00
-    title: 'Airbel, IPA, and World Vision launch official partnership'
+    title: Airbel, IPA, and World Vision launch official partnership
     link: >-
       https://medium.com/airbel/field-notes-gaining-clarity-in-premaritial-counseling-through-prototyping-38bfed667310
     link_title:
@@ -93,7 +103,7 @@ milestones:
       for a scalable and sustainable successful intervention.
   - date: 2017-02-01 00:00:00
     title: Prototyping with faith leaders
-    link: 'https://rescue.box.com/s/4hgx1an8pjl1peq3st6nuxlgk7cw12tr'
+    link: https://rescue.box.com/s/4hgx1an8pjl1peq3st6nuxlgk7cw12tr
     link_title:
     description_markdown: >-
       We created prototypes and tested them with users including, family
@@ -106,7 +116,6 @@ milestones:
       We conducted extensive research in Liberia to understand our users and
       current prevention methods
 ---
-
 Our process began by understanding the magnitude of the problem and how communities were solving it for themselves.
 
 Intimate Partner Violence (IPV) is the most common form of violence against women.
