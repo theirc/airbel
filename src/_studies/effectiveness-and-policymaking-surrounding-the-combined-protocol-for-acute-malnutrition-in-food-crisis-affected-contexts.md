@@ -28,16 +28,18 @@ publications:
   - title: >-
       Summary Results: Testing an adapted severe acute malnutrition treatment
       protocol in Somalia
-    link: 'https://www.ennonline.net/fex/60/treatmentprotocolsomalia'
+    link: https://www.ennonline.net/fex/60/treatmentprotocolsomalia
     publication_type: Research Brief
   - title: >-
       Summary of Results: Factors affecting decision-making on use of
       combined/simplified acute malnutrition protocols in Niger, north-east
       Nigeria, Somalia and South Sudan
-    link: 'https://www.ennonline.net/fex/60/acutemalnutritionprotocols'
+    link: https://www.ennonline.net/fex/60/acutemalnutritionprotocols
     publication_type: Research Brief
+  - title: Health Scenario Analysis - Nutrition At Scale
+    link: https://rescue.box.com/s/05do8vk7hv43sba06itzmxhtv8xo9ac7
+    publication_type:
 ---
-
 The combined protocol for acute malnutrition simplifies the existing treatment protocol of community-based management of acute malnutrition (CMAM) by 1) treating severe acute malnutrition (SAM) and moderate acute malnutrition (MAM) as one condition on a spectrum, 2) providing one product for treatment (ready-to- use therapeutic food, RUTF), 3) diagnosing children on mid-arm circumference and oedema, and 4) simplifying the dosage protocol (two RUTF sachets/day for MUAC &lt;115mm, one RUTF sachet/day for MUAC 115-&lt;125mm). While this is a protocol endorsed by the World Food Program (WFP) in emergency contexts, there is limited evidence on its effectiveness and a lack of understanding of the barriers to adoption in crisis-affected contexts.&nbsp;
 
 The objectives of the study are to: 1) determine if severely acutely malnourished children (6-59 months) treated under the combined protocol meet the Sphere minimum standard of 75% recovery rate in a nutrition clinic in Karaan District, Somalia, 2) document the clinical staff’s perspectives on ease, workload, and effectiveness of implementing the combined protocol compared to the CMAM protocol, and 3) conduct policy analysis on use of the combined protocol in four different food-crisis affected contexts to describe how the protocol was presented regarding its benefits, requirements for implementation, and boundaries. This analysis will be conducted ultimately to understand requirements for adaptation and adoption of the protocol. Summary of results are available for the [prospective cohort study](https://www.ennonline.net/fex/60/treatmentprotocolsomalia) and the [policy study](https://www.ennonline.net/fex/60/acutemalnutritionprotocols).&nbsp;
