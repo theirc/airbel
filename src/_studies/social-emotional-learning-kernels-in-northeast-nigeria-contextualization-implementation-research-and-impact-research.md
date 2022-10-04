@@ -26,11 +26,11 @@ donors:
   - name: USAID-DIV
     link:
 publications:
-  - title:
-    link:
+  - title: Education Scenario Analysis - SEL Kernels
+    link: >-
+      https://rescue.app.box.com/file/1027553381813?s=je5fe0300roma52jj9fg3p8cy8og7gzj
     publication_type:
 ---
-
 The project is led by the International Rescue Committee (IRC) and the EASEL Lab at Harvard University, in partnership with Nigerian educators and government officials in Borno and Yobe states. The overall purpose of the project is to improve learning outcomes for students in Northeast Nigeria. The contextualization and implementation research phases of the project are complete.&nbsp;
 
 ## Why Social Emotional Learning (SEL)?
