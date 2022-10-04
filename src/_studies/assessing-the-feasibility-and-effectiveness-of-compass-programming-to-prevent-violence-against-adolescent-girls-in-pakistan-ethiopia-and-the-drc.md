@@ -26,18 +26,18 @@ donors:
     link:
 publications:
   - title: Research Brief - Democratic Republic of Congo
-    link: 'https://rescue.box.com/s/gfshu1ar05xolcl68s358qzj0968mxts'
+    link: https://rescue.box.com/s/gfshu1ar05xolcl68s358qzj0968mxts
     publication_type: Research Brief
   - title: Research Brief - Ethiopia
-    link: 'https://rescue.box.com/s/xm36d7wdxhgbd62o87usd5zn8pxr0rxh'
+    link: https://rescue.box.com/s/xm36d7wdxhgbd62o87usd5zn8pxr0rxh
     publication_type: Research Brief
   - title: Research Brief - Pakistan
-    link: 'https://rescue.box.com/s/akl2g3ugwv0ckqbo8y5p5zztz225rdnk'
+    link: https://rescue.box.com/s/akl2g3ugwv0ckqbo8y5p5zztz225rdnk
     publication_type: Research Brief
   - title: >-
       COMPASS program: Multi-country study protocol to protect girls from
       violence in humanitarian settings
-    link: 'https://rescue.box.com/s/z7yuinwyfplxlxg18t7dmcgshf05uwet'
+    link: https://rescue.box.com/s/z7yuinwyfplxlxg18t7dmcgshf05uwet
     publication_type: Academic
   - title: >-
       Implementation of Audio-computer assisted self-interview (ACASI) among
@@ -57,17 +57,17 @@ publications:
       against girls in South Kivu, Democratic Republic of Congo;* (8) How
       narratives of fear shape girls’ participation in community life in two
       conflict-affected populations
-    link: 'https://rescue.box.com/s/x9qyqyyahei7plr1yi0gv3ov8mkwx0cq'
+    link: https://rescue.box.com/s/x9qyqyyahei7plr1yi0gv3ov8mkwx0cq
     publication_type: Academic
   - title: >-
       Disclosure bias for group versus individual reporting of violence amongst
       conflict-affected adolescent girls in DRC and Ethiopia;
-    link: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174741'
+    link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174741
     publication_type: Academic
   - title: >-
       Prevalence and associated risk factors of violence against conflict-
       affected female adolescents: a multi-country, cross-sectional study
-    link: 'https://rescue.box.com/s/spolnaads27ixnyqzx82kbz82orx35xn'
+    link: https://rescue.box.com/s/spolnaads27ixnyqzx82kbz82orx35xn
     publication_type: Academic
   - title: >-
       Journal: How gender and violence related norms affect self-esteem among
@@ -78,7 +78,7 @@ publications:
   - title: >-
       Journal: The school participation effect: investigating violence and
       formal education among girls in the Democratic Republic of the Congo
-    link: 'https://www.tandfonline.com/doi/abs/10.1080/03057925.2018.1464384'
+    link: https://www.tandfonline.com/doi/abs/10.1080/03057925.2018.1464384
     publication_type:
   - title: >-
       Report: A Safe Place to Shine - Creating Opportunities and Raising Voices
@@ -86,8 +86,15 @@ publications:
     link: >-
       https://www.rescue-uk.org/sites/default/files/document/1577/irccompassglobalreport.pdf
     publication_type:
+  - title: Ingredients List - Compass DRC
+    link: >-
+      https://rescue.app.box.com/file/1028519976287?s=l9hycg73k0ydfm6mp9lyr3ntjo5ycapy
+    publication_type:
+  - title: Ingredients List - Compass Ethiopia
+    link: >-
+      https://rescue.app.box.com/file/1028515229413?s=h7iyi3gad0rq1ol7ez383pmog2xu8d3p
+    publication_type:
 ---
-
 Significant gaps persist in the evidence base on the most effective interventions&nbsp; to prevent violence against adolescent girls aged 10–19 years old in humanitarian crisis settings. The Creating Opportunities through Mentorship, Parental involvement, and Safe Spaces (COMPASS) program provides opportunities for girls to gain life skills and build assets to protect against and respond to gender-based violence (GBV) through mentorship, learning, and peer interaction in safe spaces, and is combined with capacity-building activities to improve the ability of service providers and caregivers to address the specific needs of young girls. The feasibility, acceptability, and impact of these activities on reducing violence experienced by young girls were assessed in Ethiopia, the DRC, and Pakistan.&nbsp;
 
 Approximately 900 girls in the DRC and their caregivers, as well as nearly 1,000 girls in Ethiopia were interviewed as part of two independent cluster-randomized&nbsp; controlled trials. The primary outcome was sexual violence while secondary outcomes included family violence, early marriage, positive relationships, and gender norms. More than 200 girls participated in a pre-and post-test in Pakistan, which centered on feasibility and acceptability. Specific research questions included:
