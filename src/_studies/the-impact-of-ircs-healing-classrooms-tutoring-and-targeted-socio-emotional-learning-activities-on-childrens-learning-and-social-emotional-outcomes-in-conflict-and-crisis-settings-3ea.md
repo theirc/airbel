@@ -40,8 +40,19 @@ publications:
       Across Crisis Contexts
     link: https://rescue.box.com/s/gj82fnu9hkd4mxbfphr3icye61ag3hzm
     publication_type: Policy Brief
+  - title: Ingredients List - 3EA Niger
+    link: >-
+      https://rescue.app.box.com/file/1028511260247?s=4nqv8h83uu5i1ctszzv7rrfs6gk1ly7b
+    publication_type:
+  - title: Ingredients List - 3EA Lebanon Y1
+    link: >-
+      https://rescue.app.box.com/file/1028522347780?s=3gde8wxyopkb25x51u6qcgg0lxwkhuup
+    publication_type:
+  - title: 3EA Lebanon Y2
+    link: >-
+      https://rescue.app.box.com/file/1028521879847?s=na6rjq53fbi03xuyu0kba8cpmpsbq28b
+    publication_type:
 ---
-
 Education in Emergencies: Evidence for Action (3EA) aimed to have a catalytic effect on the education in emergencies sector, enabling global education actors to ensure that children in crisis-affected settings attend safe and predictable schools and gain the reading, math, and social-emotional skills they need to thrive and succeed in school and life. The initiative brought the ‘Learning in a Healing Classroom’ approach as a base package to more than 8,000 children in Lebanon and Niger. It also included a three-part research agenda including measurement research, implementation research, and evaluation research to i) quantify the improved performance, ii) assess implementation fidelity, and iii) determine which interventions were most effective to achieve children’s literacy, numeracy, and social-emotional learning outcomes.&nbsp;
 
 Two low-intensity targeted interventions were rigorously tested:
