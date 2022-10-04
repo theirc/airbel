@@ -34,8 +34,11 @@ publications:
       Reading Project
     link: https://rescue.box.com/s/yc07mkup94kxjtoxj8gohsb0r3cs02wv
     publication_type: Research Brief
+  - title: Ingredients List - Pakistan Reading Project
+    link: >-
+      https://rescue.app.box.com/file/1028519161138?s=8hxo6st5zunxwomff127jq1xyjfacr6g
+    publication_type:
 ---
-
 In 2013, multiple national level reading assessments in Pakistan showed that too many students were not learning to read. According to the [2013 ASER](http://aserpakistan.org/document/aser/2013/reports/national/ASER_National_Report_2013.pdf){: target="_blank" rel="noopener"}, 49% of third grade children could read complete sentences in their language of instruction (Urdu, Pashto and Sindhi); and 45% of grade five children could not read a grade two level story. The USAID-funded Pakistan Reading Project (PRP) was created by USAID and the Government of Pakistan (GOP) to address the reading deficit in Pakistani schools. PRP aimed to improve students’ Urdu and Sindhi reading skills in grades 1 and 2, and through pilot interventions, improve reading in Pashto. An estimated 1.7 million students were reached by this program, which was implemented over the course of seven years through a cohort approach in the provinces/regions of Azad Jammu and Kashmir (AJK), Balochistan, Gilgit Baltistan (GB), Sindh, Islamabad Capital Territory (ICT), Khyber Pakhtunkhwa (KPK) including Newly Merged Districts (NMD), previously known as the Federally Administered Tribal Areas (FATA).
 
 PRP directly influenced the government to adopt 55 policies through continuous engagement with government stakeholders and targeted dissemination of policy relevant research. PRP also won the 2020 International Prize of the Library of Congress&acute; Literacy Awards for promoting reading in Pakistan.
