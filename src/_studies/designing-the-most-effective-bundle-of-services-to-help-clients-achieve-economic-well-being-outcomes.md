@@ -20,7 +20,7 @@ regions:
 image:
 partners:
   - name: Georgetown University
-    link: 'https://gui2de.georgetown.edu/'
+    link: https://gui2de.georgetown.edu/
 donors:
   - name: BlackRock
     link:
@@ -29,8 +29,11 @@ publications:
     link: >-
       https://medium.com/airbel/designing-the-most-effective-bundle-of-services-to-help-clients-achieve-economic-well-being-e20e9d4a4174
     publication_type:
+  - title: Ingredients List - BILLY Kenya
+    link: >-
+      https://rescue.app.box.com/file/1028505017562?s=whse0czpwr543x1daqopyd3hvfqdgjq3
+    publication_type:
 ---
-
 For refugees and vulnerable people around the world, finding a stable income is a priority so they can support their families. In prolonged crises, the need for sustainable livelihoods is even more pressing. Refugees in particular face challenges in accessing opportunities in the labor market, including legal barriers, language obstacles, and limited networks. Without access to safe and decent work, people are unable to thrive and contribute to local economies. In the IRC's economic recovery and development programming, we aim to support people to establish sustainable livelihoods. However, we often face three key challenges:
 
 1. We have some rigorous evidence on program approaches that work in certain contexts, but often not specific evidence on what works for refugees and other vulnerable populations in humanitarian settings
