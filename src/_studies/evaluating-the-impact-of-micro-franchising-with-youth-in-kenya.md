@@ -23,8 +23,13 @@ donors:
     link:
 publications:
   - title: Working paper
-    link: 'https://rescue.box.com/s/xbtcsrzdnfscqk6zwopq1rd4qcoq246c'
+    link: https://rescue.box.com/s/xbtcsrzdnfscqk6zwopq1rd4qcoq246c
     publication_type: Report
+  - title: Livelihoods Cost-Effectiveness Brief- GEM
+    link: https://rescue.box.com/s/os1094qo7d8lvyxdvhpmr4wqgttssvre
+    publication_type:
+  - title: Ingredients List - GEM Kenya
+    link: https://rescue.box.com/s/swtzz7dwhlq5nxtg90u0fowil0y0azjs
+    publication_type:
 ---
-
 Microfinance—offering tiny loans to poor borrowers so that they can start small enterprises—has recently attracted attention as a revolutionary way to harness the market to reduce poverty. In spite of microfinance’s broad popularity in recent years, the empirical evidence is mixed at best. In assessing the impact of micro-franchising, the IRC’s aim was to test both its overall efficacy and to determine whether it is a more effective youth livelihood development strategy than more common microfinance interventions. At the level of the youth participating in the program, the goal was not only to measure the impact of the micro-franchising program, but also to identify the obstacles which prevented youth from starting successful micro-enterprises—or finding employment or franchising opportunities with businesses facing unmet demand—in the absence of the intervention. At endline in Year 1, the treatment group had a higher level of savings and labor income than the comparison group. However, neither difference is statistically significant given the relatively small sample size and non-compliance issues.
