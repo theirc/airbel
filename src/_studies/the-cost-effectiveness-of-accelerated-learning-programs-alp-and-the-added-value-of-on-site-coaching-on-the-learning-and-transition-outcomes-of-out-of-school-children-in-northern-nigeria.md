@@ -37,8 +37,19 @@ publications:
       Trial
     link: https://www.tandfonline.com/doi/full/10.1080/19345747.2022.2037799
     publication_type: Report
+  - title: Education Cost-Effectiveness Brief - ALP & Coaching
+    link: >-
+      https://rescue.app.box.com/file/1027550812827?s=quscvvnjeogzq9rv3u3eeqbvokcbzk2p
+    publication_type:
+  - title: Ingredients List - ALP Nigeria
+    link: >-
+      https://rescue.app.box.com/file/1028522040988?s=smvrl6r2ypvzg09f0qkoj6k8mklyl130
+    publication_type:
+  - title: Ingredients List - Coaching Nigeria
+    link: >-
+      https://rescue.app.box.com/file/1028516383301?s=ybvbonzskik0znbwgwyz0fhnvtylvnpt
+    publication_type:
 ---
-
 The Education in Emergencies Nonformal Learning Centers project was funded by the UK Department for International Development to support out-of-school children in the states of Yobe and Borno in Nigeria with their education and psychosocial well-being.
 
 The IRC and Creative provided out-of-school children between the ages of 9-14 with quality learning opportunities to develop basic literacy and numeracy skills, heal from the traumatic effects of displacement and violence, and transition into formal schools. During two years of intervention, about 20,000 eligible out-of-school children received structured instruction in literacy, numeracy, and social-emotional learning.&nbsp;
