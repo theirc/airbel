@@ -24,9 +24,6 @@ donors:
   - name: Pfizer
     link:
 publications:
-  - title:
-    link:
-    publication_type:
   - title: Health Cost-Effectiveness Brief - Fifth Child
     link: >-
       https://rescue.app.box.com/file/1027547717185?s=rg9fegh9jhf2t44zybhbdo3xpldmtq3c
