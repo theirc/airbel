@@ -36,10 +36,10 @@ milestones:
     link:
     link_title:
     description_markdown: >-
-      * We are currently in the process of launching a 12-month pilot of the
-      solution package during which we will directly work with 30 expert farmers
-      in seed testing activities and 100 farmers in seed multiplication
-      activities in Trbaspiyah and Ar Raqqa.
+      * As of October 2022 we are launching a 12-month pilot of the solution
+      package during which we will directly work with 30 expert farmers in seed
+      testing activities and 100 farmers in seed multiplication activities in
+      Trbaspiyah and Ar Raqqa.
 
       * We will embed a series of behavioral experiments in the pilot to ensure
       participant uptake and follow through and to enhance women’s participation
