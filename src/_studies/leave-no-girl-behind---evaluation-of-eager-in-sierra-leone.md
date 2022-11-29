@@ -33,7 +33,7 @@ publications:
   - title: EAGER Midline Evaluation Report
     link: https://rescue.box.com/s/76j71h19cnht62rwmi7jx5vma68ztdnf
     publication_type: Report
-  - title: Eager Scenario Analysis - External Brief
+  - title: EAGER Scenario Analysis - External Brief
     link: https://rescue.box.com/s/tmtrg53c7wlnoyd0otqdmjfr63skusvu
     publication_type: Research Brief
 ---
