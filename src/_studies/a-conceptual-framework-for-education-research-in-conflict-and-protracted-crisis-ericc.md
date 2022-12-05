@@ -38,8 +38,6 @@ partners:
     link: https://www.osmanconsulting.co.uk/
   - name: Queen Rania Foundation
     link: https://www.qrf.org/en
-  - name:
-    link:
 donors:
   - name: UK Aid
     link: https://www.ukaiddirect.org/
