@@ -63,6 +63,8 @@ The ERICC conceptual framework is built around identifying, examining, and suppo
 
 This working paper was co-authored by Ha Yeon Kim, Carly Tubbs Dolan and J. Lawrence Aber of NYU Global TIES for Children and of the ERICC Research Programme Consortium, and the conceptual framework is intended to evolve and be revised and refined through engagement with various experts, stakeholders, and research partners, as well as application and use in ongoing research.
 
-**View the ERICC conceptual framework here and interact with the the self-guided graph below:** [https://figshare.com/articles/preprint/A\_Conceptual\_Framework\_for\_Education\_Research\_in\_Conflict\_and\_Protracted\_Crisis\_ERICC\_/21438093](https://figshare.com/articles/preprint/A_Conceptual_Framework_for_Education_Research_in_Conflict_and_Protracted_Crisis_ERICC_/21438093)
+**[View the ERICC conceptual framework here](https://figshare.com/articles/preprint/A_Conceptual_Framework_for_Education_Research_in_Conflict_and_Protracted_Crisis_ERICC_/21438093) and interact with the the self-guided graph below:**&nbsp;
+
+&nbsp;
 
 &nbsp;
