@@ -24,6 +24,14 @@ resources:
   - title: PlayMatters Website
     description:
     url: www.playmatters.org
+  - title: 'Evidence Review '
+    description: >-
+      A review of evidence related to play for children’s education and
+      development in humanitarian and low-resource contexts.
+    url: https://rescue.box.com/s/zxf48f4z06tej2i1hrjit8wdqkb4qwot
+  - title: Research Agenda
+    description:
+    url: https://rescue.box.com/s/ztqkaj7n9ux6xkga40phs1snrott49qr
 articles:
   - title:
     url:
@@ -54,7 +62,6 @@ milestones:
       Behavioral maps on perceptions of and barriers and enablers to Learning
       through Play in our implementation contexts.
 ---
-
 [PlayMatters](https://www.rescue.org/playmatters) (2020-2025) aims to promote Learning through Play (LtP) to improve refugee and host-community children’s holistic learning and development in Ethiopia, Tanzania, and Uganda. PlayMatters is led by the IRC and includes Plan International, War Child Holland, Innovations for Poverty Action, and the Behavioral Insight Team in partnership with the LEGO Foundation. Over a five-year period, PlayMatters will support over 800,000 children ages 3-12+ who have been affected by displacement and trauma. PlayMatters works across four target pillars for its intervention: LtP with educators, LtP with parents and caregivers, LtP in communities, and LtP in education systems. Additionally, PlayMatters integrates the cross-cutting themes of gender, inclusion and protection into its approaches.
 
 **What is Learning through Play?**
