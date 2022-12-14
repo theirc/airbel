@@ -25,9 +25,7 @@ resources:
     description:
     url: www.playmatters.org
   - title: 'Evidence Review '
-    description: >-
-      A review of evidence related to play for children’s education and
-      development in humanitarian and low-resource contexts.
+    description:
     url: https://rescue.box.com/s/zxf48f4z06tej2i1hrjit8wdqkb4qwot
   - title: Research Agenda
     description:
