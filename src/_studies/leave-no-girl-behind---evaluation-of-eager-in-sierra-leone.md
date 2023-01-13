@@ -39,6 +39,12 @@ publications:
   - title: EAGER Endline Report
     link: https://rescue.box.com/s/85bvc9ecgubp9lfr2rc9l5leq9gi1391
     publication_type: Research Brief
+  - title: >-
+      Al Jazeera Opinion: Lessons from Sierra Leone: How to get girls back to
+      school
+    link: >-
+      https://www.aljazeera.com/opinions/2022/12/15/sierra-leone-can-teach-the-world-how-to-get-girls-back-to-school
+    publication_type: Website
 ---
 EAGER&nbsp; (Every&nbsp; Adolescent&nbsp; Girl&nbsp; Empowered&nbsp; and&nbsp; Resilient)&nbsp; is&nbsp; a&nbsp; 4-year&nbsp; education&nbsp; and&nbsp; empowerment&nbsp; project&nbsp; designed&nbsp; for&nbsp; out-of-school&nbsp; (OOS)&nbsp; adolescent&nbsp; girls&nbsp; ages&nbsp; 13-19 (13-17 Cohort 1, 2019-2021, and 13-19 Cohort 2, 2022)&nbsp; who&nbsp; have&nbsp; missed&nbsp; out&nbsp; on&nbsp; formal&nbsp; learning&nbsp; opportunities &nbsp; Through&nbsp; a&nbsp; consortium&nbsp; of&nbsp; four&nbsp; partners&nbsp; (the&nbsp; International&nbsp; Rescue&nbsp; Committee, Concern Worldwide, Restless Development, and BBC Media Action) operating in 10 districts of Sierra Leone, EAGER staff and community-based volunteers work together to&nbsp; deliver&nbsp; functional&nbsp; Literacy,&nbsp; Numeracy,&nbsp; Financial&nbsp; Literacy,&nbsp; and&nbsp; Life&nbsp; Skills&nbsp; sessions&nbsp; for&nbsp; girls.&nbsp; Girls attend this Learning Programme for 30 weeks in female-only Safe Spaces and Learning Centres.
 
