@@ -34,7 +34,7 @@ publications:
     link: https://rescue.box.com/s/76j71h19cnht62rwmi7jx5vma68ztdnf
     publication_type: Report
   - title: EAGER Scenario Analysis - External Brief
-    link: https://rescue.box.com/s/tmtrg53c7wlnoyd0otqdmjfr63skusvu
+    link: https://rescue.box.com/s/qd6v37kfdowbcl5zfgmol65rjw7tk8me
     publication_type: Research Brief
   - title: EAGER Endline Report
     link: https://rescue.box.com/s/85bvc9ecgubp9lfr2rc9l5leq9gi1391
@@ -59,5 +59,3 @@ Through a cycle of two successive cohorts of girls, EAGER has worked directly wi
 The&nbsp; EAGER&nbsp; Baseline&nbsp; Evaluation&nbsp; confirmed&nbsp; that&nbsp; 45%&nbsp; of&nbsp; the&nbsp; girls&nbsp; enrolled&nbsp; had&nbsp; never&nbsp; attended&nbsp; school,&nbsp; and&nbsp; 45%&nbsp; had&nbsp; dropped&nbsp; out&nbsp; early&nbsp; without&nbsp; learning&nbsp; functional&nbsp; reading&nbsp; and&nbsp; writing &nbsp; Many&nbsp; were&nbsp; already&nbsp; married&nbsp; (44%)&nbsp; and/or&nbsp; already&nbsp; had the responsibilities of caring for their own children (58%).&nbsp; Heavy&nbsp; chore&nbsp; burdens&nbsp; were&nbsp; noted&nbsp; to&nbsp; isolate&nbsp; girls&nbsp; from&nbsp; their&nbsp; peers,&nbsp; and&nbsp; access&nbsp; to&nbsp; information,&nbsp; resources,&nbsp; services,&nbsp; and&nbsp; opportunities was limited by literacy and financial constraints as well as the gender norms that limit girls’ self-determination in &nbsp;their&nbsp; homes&nbsp; and&nbsp; communities.
 
 The project was designed to address these multiple barriers to participation and learning, and to create accessible opportunities &nbsp; and &nbsp; supportive &nbsp; spaces &nbsp; for &nbsp; girls &nbsp; to &nbsp; build &nbsp; practical and empowering skills.&nbsp; These&nbsp; skills&nbsp; were&nbsp; tailored&nbsp; to the girls’ context and daily lives so they could be practiced and&nbsp; used&nbsp; to&nbsp; create&nbsp; positive&nbsp; changes&nbsp; for&nbsp; themselves,&nbsp; their&nbsp; families,&nbsp; and&nbsp; communities &nbsp; Following&nbsp; a&nbsp; socio-ecological&nbsp; model,&nbsp; the&nbsp; project&nbsp; aims&nbsp; to&nbsp; empower&nbsp; OOS&nbsp; adolescent&nbsp; girls&nbsp; on&nbsp; a&nbsp; personal&nbsp; level&nbsp; while&nbsp; strengthening&nbsp; the&nbsp; support&nbsp; systems&nbsp; around&nbsp; them&nbsp; through&nbsp; increased&nbsp; awareness&nbsp; and&nbsp; opportunities&nbsp; for&nbsp; collective&nbsp; action.
-
-&nbsp;
