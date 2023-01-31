@@ -5,7 +5,6 @@ role_title: Education Research and Innovation Manager
 focuses:
   - education
 expertise_areas:
-  - using-evidence
   - design
   - research
 leadership: false
