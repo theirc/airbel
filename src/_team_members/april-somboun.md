@@ -9,7 +9,7 @@ expertise_areas:
   - design
   - research
 leadership: false
-image: /uploads/aprilfinal.jpeg
+image: /uploads/aprilfinal-1.jpeg
 ---
 April Somboun is the Education Research and Innovation Manager at the Airbel Impact Lab. Based in New York City, she is supporting the implementation of projects across the portfolio of education Global Research and Innovation Priorities (GRIP) to reach last-mile children, parents, and caregivers, providing them with quality and sustainable education solutions.
 
