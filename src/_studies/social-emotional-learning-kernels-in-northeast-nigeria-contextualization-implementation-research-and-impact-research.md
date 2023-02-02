@@ -33,7 +33,10 @@ publications:
   - title: Findings from a Pilot Study of SEL Kernels in Northeast Nigeria
     link: https://rescue.box.com/s/alxphggiwun8rkwr2mj3f5704esboeo9
     publication_type: Policy Brief
-  - title: International Journal of Environmental Research and Public Health
+  - title: >-
+      Innovations in Social and Emotional Learning Research and Practice:
+      Building from Evidence and Applying Behavioral Insights to the Design of a
+      Social and Emotional Learning Intervention in Northeast Nigeria
     link: https://pubmed.ncbi.nlm.nih.gov/34299848/
     publication_type: Academic
 ---
