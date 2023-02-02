@@ -33,6 +33,9 @@ publications:
   - title: Findings from a Pilot Study of SEL Kernels in Northeast Nigeria
     link: https://rescue.box.com/s/alxphggiwun8rkwr2mj3f5704esboeo9
     publication_type: Policy Brief
+  - title: International Journal of Environmental Research and Public Health
+    link: https://pubmed.ncbi.nlm.nih.gov/34299848/
+    publication_type: Academic
 ---
 The project is led by the International Rescue Committee (IRC) and the EASEL Lab at Harvard University, in partnership with Nigerian educators and government officials in Borno and Yobe states. The overall purpose of the project is to improve learning outcomes for students in Northeast Nigeria. The contextualization and implementation research phases of the project are complete.&nbsp;
 
