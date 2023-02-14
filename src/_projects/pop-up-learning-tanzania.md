@@ -24,6 +24,9 @@ resources:
   - title: Final Report
     description:
     url: https://rescue.box.com/s/fubw7s0g5vgjlne6m71jw5p5s7ifrpkk
+  - title: 'IRC Pop-Up Learning Website '
+    description:
+    url: https://www.ircpopuplearning.org/
 articles:
   - title:
     url:
