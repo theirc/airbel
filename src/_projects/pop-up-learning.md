@@ -25,6 +25,9 @@ resources:
       Affected by Displacement and Crisis in Bangladesh
     description:
     url: https://rescue.box.com/s/rrvlgf1xujm2f5rm5me18rxulk9k8vpt
+  - title: IRC Pop-Up Learning
+    description:
+    url: https://www.ircpopuplearning.org/
 articles:
   - title:
     url:
@@ -123,8 +126,6 @@ With thoughtful facilitation and the best autonomous learning software, we can i
 
 We have completed a pilot of the Pop-Up Learning model with the Rohingya community in Bangladesh, where over 380,000 Rohyinga children don’t have access to learning opportunities. We have proven feasibility and desirability of the Pop-Up model and have pre-positioned Pop-Up as the solution to take to scale with local and national partners.
 
-&nbsp;
-
 ### How it works
 
 Personalized, adaptive learning software on mobile devices like tablets serves to enable children with the tools needed to reach their development potential regardless of environmental circumstances.
@@ -136,8 +137,6 @@ Autonomous learning includes:
 3. Thoughtful human support which guides children through their learning, without the need for people with academic expertise, which can be difficult to find in crisis contexts.
 
 Pop-Up aims to fill the critical educational gaps in a displaced child’s life, providing some sense of normalcy, continuity and critical foundational skills while formal education is being established. This product will make it possible to rapidly deploy learning programs in emergencies where no formal education is available and in a way that supports an eventual transition to formal schools.
-
-&nbsp;
 
 ### What's next
 
