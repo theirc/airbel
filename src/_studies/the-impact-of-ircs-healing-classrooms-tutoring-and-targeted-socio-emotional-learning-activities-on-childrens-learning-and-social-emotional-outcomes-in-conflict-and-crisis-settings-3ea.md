@@ -18,6 +18,9 @@ image:
 partners:
   - name: Global TIES for Children
     link: https://research.steinhardt.nyu.edu/ihdsc/global-ties/
+  - name: 'Education in Emergencies: Evidence for Action (3EA)'
+    link: >-
+      https://steinhardt.nyu.edu/ihdsc/global-ties/research/primary-and-middle-education/education-emergencies-evidence-action-3ea
 donors:
   - name: Dubai Cares
     link: http://www.dubaicares.ae/en
