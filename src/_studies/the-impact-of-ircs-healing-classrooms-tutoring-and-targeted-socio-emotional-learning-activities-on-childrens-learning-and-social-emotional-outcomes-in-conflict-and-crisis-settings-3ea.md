@@ -52,6 +52,23 @@ publications:
     link: >-
       https://rescue.app.box.com/file/1028521879847?s=na6rjq53fbi03xuyu0kba8cpmpsbq28b
     publication_type:
+  - title: >-
+      Measuring the dosage of brief and skill-targeted social-emotional learning
+      (SEL) activities in humanitarian settings
+    link: https://www.frontiersin.org/articles/10.3389/fpsyg.2022.973184/full
+    publication_type: Research Brief
+  - title: >-
+      Testing the Impact of a Skill-Targeted Social and Emotional Learning
+      Curriculum and Its Variation by Pre- and Postmigration Conflict
+      Experiences: A Cluster Randomized Trial With Syrian Refugee Children in
+      Lebanon
+    link: https://psycnet.apa.org/fulltext/2023-32491-001.html
+    publication_type: Research Brief
+  - title: >-
+      Remedial Programming and Skill-Targeted SEL in Low-Income and
+      Crisis-Affected Contexts: Experimental Evidence From Niger
+    link: https://www.tandfonline.com/doi/full/10.1080/19345747.2022.2139785
+    publication_type: Research Brief
 ---
 Education in Emergencies: Evidence for Action (3EA) aimed to have a catalytic effect on the education in emergencies sector, enabling global education actors to ensure that children in crisis-affected settings attend safe and predictable schools and gain the reading, math, and social-emotional skills they need to thrive and succeed in school and life. The initiative brought the ‘Learning in a Healing Classroom’ approach as a base package to more than 8,000 children in Lebanon and Niger. It also included a three-part research agenda including measurement research, implementation research, and evaluation research to i) quantify the improved performance, ii) assess implementation fidelity, and iii) determine which interventions were most effective to achieve children’s literacy, numeracy, and social-emotional learning outcomes.&nbsp;
 
