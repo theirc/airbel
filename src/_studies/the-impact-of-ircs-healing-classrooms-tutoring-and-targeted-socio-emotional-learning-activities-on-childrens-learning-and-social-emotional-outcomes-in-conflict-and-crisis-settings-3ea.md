@@ -3,9 +3,8 @@ layout: study
 start_date: 2016-01-01 00:00:00
 end_date: 2018-01-01 00:00:00
 title: >-
-  The impact of IRC’s healing classrooms, tutoring, and targeted socio-emotional
-  learning activities on children’s learning and social-emotional outcomes in
-  conflict and crisis settings (3EA)
+  Education in Emergencies: Evidence for Action (3EA) in Lebanon, Niger and
+  Sierra Leone
 featured: false
 evergreen: false
 focuses:
