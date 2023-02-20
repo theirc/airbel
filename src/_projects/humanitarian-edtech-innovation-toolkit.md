@@ -56,8 +56,8 @@ These existing innovations are expected to be identified among innovators from o
 The IRC Toolkit delivers the following value in effective innovation strategy:
 
 * Provides a methodology for testing and implementing an existing EdTech innovation towards meeting the goals of your organization
-* Describes a process for identifying the ‘lowest hanging apple’ - interventions where EdTech can bring significant improvements to the learning process at an appropriate cost
+* Describes a process for identifying EdTech interventions that can bring significant improvements to the learning process at an appropriate cost
 * Offers prompts and procedures for developing partnerships with for-profit EdTech companies offering an innovative application
 * Provides guidelines for incubating and piloting an EdTech intervention through iterative scaling stages with graduation criteria for continuing to the next stage
-* Identifies most cutting-edge EdTech trends today as an example of innovation landscaping practice
+* Identifies the latest EdTech trends as an example of innovation landscaping practice
 * Suggests best practices in piloting courses, including engaging with stakeholders, onboarding schools for initiative, content refinement and documentation of impact
