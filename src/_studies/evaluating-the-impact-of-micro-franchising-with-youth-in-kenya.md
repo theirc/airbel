@@ -31,5 +31,8 @@ publications:
   - title: Ingredients List - GEM Kenya
     link: https://rescue.box.com/s/swtzz7dwhlq5nxtg90u0fowil0y0azjs
     publication_type:
+  - title: Coût-Efficacité Bien-Etre Economique – GEM (FR)
+    link: https://rescue.box.com/s/k3nuiugnv7lo5dp2l4k4p1n411i7vrnf
+    publication_type:
 ---
 Microfinance—offering tiny loans to poor borrowers so that they can start small enterprises—has recently attracted attention as a revolutionary way to harness the market to reduce poverty. In spite of microfinance’s broad popularity in recent years, the empirical evidence is mixed at best. In assessing the impact of micro-franchising, the IRC’s aim was to test both its overall efficacy and to determine whether it is a more effective youth livelihood development strategy than more common microfinance interventions. At the level of the youth participating in the program, the goal was not only to measure the impact of the micro-franchising program, but also to identify the obstacles which prevented youth from starting successful micro-enterprises—or finding employment or franchising opportunities with businesses facing unmet demand—in the absence of the intervention. At endline in Year 1, the treatment group had a higher level of savings and labor income than the comparison group. However, neither difference is statistically significant given the relatively small sample size and non-compliance issues.
