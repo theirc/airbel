@@ -25,10 +25,6 @@ resources:
   - title: IRC Pop-Up Learning
     description:
     url: https://www.ircpopuplearning.org/
-  - title: Pop-Up Class Program Guide
-    description:
-    url: >-
-      https://docs.google.com/presentation/d/1AfTgBI8s60Uw9Jhxpsr4AhclipPVgLPUVTRFzja6faA/edit#slide=id.p
 articles:
   - title:
     url:
