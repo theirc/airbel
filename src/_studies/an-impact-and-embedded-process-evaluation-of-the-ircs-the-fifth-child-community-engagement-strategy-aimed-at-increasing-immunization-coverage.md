@@ -32,6 +32,9 @@ publications:
     link: >-
       https://rescue.app.box.com/file/1028511946110?s=lmibpa3f3z257jkvgtf361y1v6ezoxyc
     publication_type:
+  - title: Coût-Efficacité Santé – Fifth Child (FR)
+    link: https://rescue.box.com/s/6czprit5lqpjju42q7brb6samx8izzol
+    publication_type: Report
 ---
 The purpose of this study was to evaluate IRC’s “Fifth Child” strategy on community engagement in defaulter-tracing and outreach planning, implementation, and monitored strategy as a potential solution to address stagnating immunization coverage in remote areas.
 
