@@ -44,6 +44,9 @@ publications:
   - title: Ingredient List - Girl Empower Liberia
     link: https://rescue.box.com/s/3br5dks8rmwb7cdch1ehhllim7fclwo2
     publication_type:
+  - title: Coût-Efficacité Protection – Girl Empower (FR)
+    link: https://rescue.box.com/s/jzjh1p1wka24b2to6i5arvpfsj798yb1
+    publication_type:
 ---
 Girl Empower is an innovative program designed to equip girls with the skills and experiences necessary to make healthy, strategic life choices and to stay safe from sexual exploitation and abuse. The Girl Empower program includes mentoring, asset building (life skills, financial literacy, and savings) and caregiver discussion groups.&nbsp; The IRC implemented the intervention in both Liberia and Ethiopia and conducted an impact evaluation in Liberia.&nbsp;
 
