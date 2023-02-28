@@ -39,7 +39,7 @@ publications:
     publication_type:
   - title: Coût-Efficacité Protection – Sisters of Success (FR)
     link: https://rescue.box.com/s/29zck334ww2g1d18bciua7nexn1arcu2
-    publication_type:
+    publication_type: Report
 ---
 The&nbsp; Sisters&nbsp; of Success&nbsp; program is designed&nbsp; to support girls’ transition into adolescence and adulthood and takes place in Monrovia, Liberia. The program recruits and matches individual girls aged 12-15 with mentors.&nbsp; Sisters of Success mentors and mentees then meet 30 times during the course of 18 months. The impact of the program is being evaluated using the randomized control trial methodology.
 
