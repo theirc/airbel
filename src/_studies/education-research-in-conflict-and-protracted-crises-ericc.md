@@ -39,7 +39,7 @@ donors:
 publications:
   - title: >-
       Preventing a Lost Generation in Ukraine: Recommendations for Supporting
-      Education inEmergency Humanitarian Response
+      Education in Emergency Humanitarian Response
     link: >-
       https://figshare.com/articles/preprint/Preventing_a_Lost_Generation_in_Ukraine_Recommendations_for_Supporting_Education_in_Emergency_Humanitarian_Response/20292042
     publication_type: Policy Brief
