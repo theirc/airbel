@@ -37,6 +37,12 @@ donors:
     link: >-
       https://www.gov.uk/government/organisations/foreign-commonwealth-development-office
 publications:
+  - title: >-
+      Preventing aLost Generation in Ukraine: Recommendations for Supporting
+      Education inEmergency Humanitarian Response
+    link: >-
+      https://figshare.com/articles/preprint/Preventing_a_Lost_Generation_in_Ukraine_Recommendations_for_Supporting_Education_in_Emergency_Humanitarian_Response/20292042
+    publication_type: Policy Brief
   - title:
     link:
     publication_type:
