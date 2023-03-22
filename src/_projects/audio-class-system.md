@@ -19,11 +19,11 @@ description: >-
   (ACS) that can automatically share educational content to any device.
 hero_image: /uploads/audioclass-hero-2.jpg
 featured_image: /uploads/audioclass-featured-1.jpg
-featured_video_url: 'https://youtu.be/yR3Mrw1oFK0'
+featured_video_url: https://youtu.be/yR3Mrw1oFK0
 resources:
   - title: Audio-Class Website
     description:
-    url: 'https://www.sistema-audioclase.com/'
+    url: https://www.sistema-audioclase.com/
 articles:
   - title:
     url:
@@ -57,7 +57,6 @@ milestones:
       * The team completes research, prototypes and tests various ideas. The ACS
       concept is created and shared across organizations for buy-in.
 ---
-
 In Colombia where at least [4 million Venezuelans](https://www.unhcr.org/en-us/news/press/2019/6/5cfa2a4a4/refugees-migrants-venezuela-top-4-million-unhcr-iom.html){: target="_blank" rel="noopener"} have crossed the border to seek refuge, the Colombian education system is struggling to support the unprecedented influx of students.&nbsp; In 2019 alone, there was a [509% increase](http://www.oas.org/en/iachr/docs/annual/2019/docs/IA2019cap4BVE-en.docx){: target="_blank" rel="noopener"} in school enrollment for Venezuelan students in the country. The COVID-19 pandemic has exacerbated existing problems in the educational system, especially for youth. In Colombia, all in-person education programs have [closed their doors](https://en.unesco.org/covid19/educationresponse){: target="_blank" rel="noopener"} to students since April 2020, and they are not expected to fully reopen until an undisclosed time in 2021. While the Colombian Ministry of Education quickly pivoted and digitized educational content to mitigate learning loss and ensure students are learning in the home, not all students have access to stable internet or laptops to continue their education. Children displaced from their homes and those still living in rural, crisis-affected areas are hit the hardest by the pandemic closures due to their lack of technology access, amplifying the effects of existing learning inequalities. In addition to poor educational outcomes, out-of-school children in Colombia have [increased exposure](https://www.unicef.org/about/annualreport/files/Colombia_2018_COAR.pdf){: target="_blank" rel="noopener"} to recruitment to armed forces, anti-personnel mines, gender-based violence, and exploitation. Existing flexible learning programming in Colombia are faced with the challenge of how to reach this vulnerable student population and keep them engaged.&nbsp;
 
 To respond to the crisis, the IRC created an innovative concept called the [Audio-Class System](https://www.sistema-audioclase.com/){: target="_blank" rel="noopener"} (ACS) that can automatically share educational content to any device. The system uses audio as its main educational media because audio can be shared across all devices, be it radio, feature phone, smartphone or tablet. The ACS prototype provides interactive material through the use of gamified learning, automated chatbot interactions, engaging educational audio content, and a teacher dashboard. We believe this platform has the potential to bridge the educational gap by reaching children in rural and urban areas, augmenting access to quality educational materials, and providing interactive learning activities.
@@ -69,7 +68,7 @@ Audio-Class uses automated systems such as [Interactive Voice Response](https://
 * **Creating interactive learning content that provides instant feedback.** If a student is stuck or selects the wrong answer to a question, the system can reply with more information, guidance, and support. Using the dashboard, teachers can review and send customized feedback to each student, improving the important teacher-student learning relationship.
 * **Sharing content that is motivating and exciting.** The system is gamified and able to track points based on responses. We use audio storytelling to create educational content that is entertaining where children might have no internet, cable television or other forms of amusement while inside.&nbsp;
 * **Automated supportive messaging** that can help caregivers and students, as well as teachers, ensure they are taking care of themselves during these trying times with the use of motivating and uplifting messaging.&nbsp;
-* **Automated lesson delivery that adapts to each device on its own.** Teachers can now spend their time doing what they do best: teaching\! They can follow up with their students and cater to their learning needs by looking at the student dashboard, instead of calling each one by one.&nbsp;
+* **Automated lesson delivery that adapts to each device on its own.** Teachers can now spend their time doing what they do best: teaching! They can follow up with their students and cater to their learning needs by looking at the student dashboard, instead of calling each one by one.&nbsp;
 
 ##### **What’s the potential?**
 
