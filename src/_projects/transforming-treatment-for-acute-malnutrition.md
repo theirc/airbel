@@ -27,13 +27,14 @@ articles:
     url:
 milestones:
   - date: 2020-12-31 00:00:00
-    title: ''
+    title: >-
+      We published research in peer-reviewed journals, contributing to our
+      evidence base.
     link:
     link_title:
     description_markdown: >-
-      We published research in peer-reviewed journals, contributing to our
-      evidence base. We shared the outcomes from our randomized controlled trial
-      (RCT) on the simplified protocol in&nbsp;[PLOS
+      We shared the outcomes from our randomized controlled trial (RCT) on the
+      simplified protocol in&nbsp;[PLOS
       One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245477){:
       target="_blank"}&nbsp;and&nbsp;[PLOS
       Medicine](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003192){:
