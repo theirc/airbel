@@ -26,6 +26,20 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2020-12-31 00:00:00
+    title: ''
+    link:
+    link_title:
+    description_markdown: >-
+      We published research in peer-reviewed journals, contributing to our
+      evidence base. We shared the outcomes from our randomized controlled trial
+      (RCT) on the simplified protocol in&nbsp;[PLOS
+      One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245477){:
+      target="_blank"}&nbsp;and&nbsp;[PLOS
+      Medicine](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003192){:
+      target="_blank"}. These findings validate the safety, feasibility, and
+      cost-effectiveness of our approaches, and support our national and global
+      advocacy.
   - date: 2019-07-01 00:00:00
     title: UN issues joint statement on wasting
     link: >-
@@ -96,20 +110,6 @@ milestones:
     link:
     link_title:
     description_markdown:
-  - date: 2020-12-31 00:00:00
-    title: ''
-    link:
-    link_title:
-    description_markdown: >-
-      We published research in peer-reviewed journals, contributing to our
-      evidence base. We shared the outcomes from our randomized controlled trial
-      (RCT) on the simplified protocol in&nbsp;[PLOS
-      One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245477){:
-      target="_blank"}&nbsp;and&nbsp;[PLOS
-      Medicine](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003192){:
-      target="_blank"}. These findings validate the safety, feasibility, and
-      cost-effectiveness of our approaches, and support our national and global
-      advocacy.
 ---
 Acute malnutrition is a continuum condition meaning a child’s condition improves or deteriorates continuously along a single spectrum. Today, children suffering from acute malnutrition are divided into two different categories based on the severity of their illness: severe acute malnutrition (SAM) and moderate acute malnutrition (MAM).&nbsp; This impacts what kind of treatment they access, where treatment is available to them, and far too often, whether they can access treatment at all.&nbsp;
 
