@@ -26,6 +26,20 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2023-03-01 00:00:00
+    title: >-
+      we have now treated over 100,000 children with the simplified protocol
+      across multiple countries, building a strong evidence base on
+      effectiveness and cost-effectiveness of simplified approaches in many
+      contexts. 
+    link:
+    link_title:
+    description_markdown: >-
+      We will be combining our database - which has detailed, patient-level
+      data, with those from our partner organizations, Action Against Hunger and
+      Save the Children, this year. By combining data, we'll be able to conduct
+      rapid analyses on the simplified protocol to answer new research questions
+      and support policymakers.
   - date: 2022-11-01 00:00:00
     title: >-
       We published an effectiveness study from our operational research Mali in
