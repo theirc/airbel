@@ -26,6 +26,14 @@ articles:
   - title:
     url:
 milestones:
+  - date: 2021-01-01 00:00:00
+    title: "We developed a UNICEF partnership to scale up simplified\_approaches and are now leading a consortium of our team,\_Action Against Hunger, and Save the Children"
+    link:
+    link_title:
+    description_markdown: >-
+      This represents the first time UNICEF invested in simplified approaches
+      and concretely supported uptake through needed technical assistance,
+      evidence generation, implementation, and innovation.
   - date: 2020-12-31 00:00:00
     title: >-
       We published research in peer-reviewed journals, contributing to our
