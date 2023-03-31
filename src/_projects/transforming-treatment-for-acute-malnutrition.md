@@ -28,7 +28,7 @@ articles:
 milestones:
   - date: 2023-03-01 00:00:00
     title: >-
-      we have now treated over 100,000 children with the simplified protocol
+      We have now treated over 100,000 children with the simplified protocol
       across multiple countries, building a strong evidence base on
       effectiveness and cost-effectiveness of simplified approaches in many
       contexts. 
