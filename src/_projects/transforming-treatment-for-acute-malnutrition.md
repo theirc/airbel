@@ -42,21 +42,21 @@ milestones:
       and support policymakers.
   - date: 2022-11-01 00:00:00
     title: >-
-      We published an effectiveness study from our operational research Mali in
+      Published an  effectiveness study from our operational research Mali in
       Nutrients, a peer-reviewed journal
     link: https://www.mdpi.com/2072-6643/14/22/4923
     link_title:
     description_markdown: >-
       This study reviewed results from over 27,000 patients treated with the
       simplified protocol since 2018. The results were very strong. We
-      demonstrated that the simplified protocol is highly effective -- patients
+      demonstrated that the simplified protocol is highly effective – patients
       had an overall recovery rate of 92%, a mean length of stay (the amount of
       time in treatment) of 40 days, and a mean RUTF consumption of 62 sachets.
       We also demonstrated that Community Health Worker (CHW) delivery of
       treatment is just as effective as care in a health facility, and makes
-      treatment more accessible -- CHWs recovered patients at a 94% rate.
+      treatment more accessible – CHWs recovered patients at a 94% rate.
   - date: 2021-01-01 00:00:00
-    title: "We developed a UNICEF partnership to scale up simplified\_approaches and are now leading a consortium of our team,\_Action Against Hunger, and Save the Children"
+    title: "Developed a UNICEF partnership to scale up simplified\_approaches and are now leading a consortium of our team,\_Action Against Hunger, and Save the Children"
     link:
     link_title:
     description_markdown: >-
@@ -65,7 +65,7 @@ milestones:
       evidence generation, implementation, and innovation.
   - date: 2020-12-31 00:00:00
     title: >-
-      We published research in peer-reviewed journals, contributing to our
+      Published  research in peer-reviewed journals, contributing to our
       evidence base.
     link:
     link_title:
