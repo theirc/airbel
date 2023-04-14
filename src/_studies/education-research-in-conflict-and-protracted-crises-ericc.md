@@ -18,6 +18,8 @@ regions:
   - Syria
 image: /uploads/20191215-hnowrose-bangladesh-14-edited.jpg
 partners:
+  - name: Oxford Policy Management
+    link: https://www.opml.co.uk/our-locations/nigeria
   - name: Centre for Lebanese Studies
     link: https://lebanesestudies.com/
   - name: Common Heritage Foundation
@@ -30,8 +32,6 @@ partners:
     link: https://www.osmanconsulting.co.uk/
   - name: Queen Rania Foundation
     link: https://www.qrf.org/en
-  - name: Oxford Policy Management
-    link: https://www.opml.co.uk/our-locations/nigeria
 donors:
   - name: FCDO
     link: >-
