@@ -24,19 +24,25 @@ partners:
     link: https://commonheritagefoundation.org/
   - name: Forcier Consulting
     link: https://www.forcierconsulting.com/
-  - name: NYU Global TIES for Children
-    link: https://steinhardt.nyu.edu/ihdsc/global-ties
   - name: ODI
     link: https://odi.org/en/
   - name: Osman Consulting
     link: https://www.osmanconsulting.co.uk/
   - name: Queen Rania Foundation
     link: https://www.qrf.org/en
+  - name: Oxford Policy Management
+    link: https://www.opml.co.uk/our-locations/nigeria
 donors:
   - name: FCDO
     link: >-
       https://www.gov.uk/government/organisations/foreign-commonwealth-development-office
 publications:
+  - title: >-
+      A Conceptual Framework for Education Research in Conflict and Protracted
+      Crisis (ERICC)
+    link: >-
+      https://airbel.rescue.org/studies/a-conceptual-framework-for-education-research-in-conflict-and-protracted-crisis-ericc/
+    publication_type: ''
   - title: >-
       Preventing a Lost Generation in Ukraine: Recommendations for Supporting
       Education in Emergency Humanitarian Response
