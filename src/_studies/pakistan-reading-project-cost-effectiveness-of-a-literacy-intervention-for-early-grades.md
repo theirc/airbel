@@ -38,14 +38,17 @@ publications:
     link: >-
       https://rescue.app.box.com/file/1028519161138?s=8hxo6st5zunxwomff127jq1xyjfacr6g
     publication_type:
+  - title: Education Cost-Effectiveness Brief – Pakistan Reading Project
+    link: https://rescue.app.box.com/s/e6e6novhe4v64jkwl2uqx137nf5aec05
+    publication_type:
 ---
 In 2013, multiple national level reading assessments in Pakistan showed that too many students were not learning to read. According to the [2013 ASER](http://aserpakistan.org/document/aser/2013/reports/national/ASER_National_Report_2013.pdf){: target="_blank" rel="noopener"}, 49% of third grade children could read complete sentences in their language of instruction (Urdu, Pashto and Sindhi); and 45% of grade five children could not read a grade two level story. The USAID-funded Pakistan Reading Project (PRP) was created by USAID and the Government of Pakistan (GOP) to address the reading deficit in Pakistani schools. PRP aimed to improve students’ Urdu and Sindhi reading skills in grades 1 and 2, and through pilot interventions, improve reading in Pashto. An estimated 1.7 million students were reached by this program, which was implemented over the course of seven years through a cohort approach in the provinces/regions of Azad Jammu and Kashmir (AJK), Balochistan, Gilgit Baltistan (GB), Sindh, Islamabad Capital Territory (ICT), Khyber Pakhtunkhwa (KPK) including Newly Merged Districts (NMD), previously known as the Federally Administered Tribal Areas (FATA).
 
-PRP directly influenced the government to adopt 55 policies through continuous engagement with government stakeholders and targeted dissemination of policy relevant research. PRP also won the 2020 International Prize of the Library of Congress&acute; Literacy Awards for promoting reading in Pakistan.
+PRP directly influenced the government to adopt 55 policies through continuous engagement with government stakeholders and targeted dissemination of policy relevant research. PRP also won the 2020 International Prize of the Library of Congress´ Literacy Awards for promoting reading in Pakistan.
 
 ## Research Studies
 
-### &nbsp;
+###
 
 ### The Impact of PRP on the Reading Skills of Early Grade Students
 
@@ -54,8 +57,6 @@ The impact of PRP on the reading skills of students in Urdu-medium schools: The 
 A follow-up study of the impact of PRP on the reading skills of children in Urdu-medium schools determined that PRP continued to have positive effects, even after PRP reduced the intensity of the professional development supports provided to teachers who had already completed two years of participation in the program. More information can be found [here](https://rescue.box.com/s/s5oee8psoyxv71ddhr5721uwpulaw55s){: target="_blank" rel="noopener"}.
 
 The IRC also conducted studies to evaluate the impact of PRP in [Sindhi](https://rescue.box.com/s/ikf5c5b5v5m60uqk4jdkh4ls0gl9wgu3){: target="_blank" rel="noopener"} and [Pashto](https://rescue.box.com/s/ixavoyh342ej4qapir1qjbzmbbm31wtc){: target="_blank" rel="noopener"} as well as the provision of PRP interventions through private schools that came under the banner of the [READ Foundation](https://rescue.box.com/s/3zc8xyn3reoslpffv749kjnhdlk8q1mm){: target="_blank" rel="noopener"}. The Pashto and READ Foundation interventions showed positive impacts on all reading outcomes for students. However, the Sindhi study showed mixed results with positive impacts on 4 out of 6 reading outcomes that included oral reading fluency, and negative impacts on familiar word reading.
-
-&nbsp;
 
 ### The cost-effectiveness of different ingredients of teacher professional development on students’ reading skills
 
