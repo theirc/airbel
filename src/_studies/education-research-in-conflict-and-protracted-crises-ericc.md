@@ -18,8 +18,6 @@ regions:
   - Syria
 image: /uploads/20191215-hnowrose-bangladesh-14-edited.jpg
 partners:
-  - name: Oxford Policy Management
-    link: https://www.opml.co.uk/our-locations/nigeria
   - name: Centre for Lebanese Studies
     link: https://lebanesestudies.com/
   - name: Common Heritage Foundation
@@ -30,6 +28,8 @@ partners:
     link: https://odi.org/en/
   - name: Osman Consulting
     link: https://www.osmanconsulting.co.uk/
+  - name: Oxford Policy Management
+    link: https://www.opml.co.uk/our-locations/nigeria
   - name: Queen Rania Foundation
     link: https://www.qrf.org/en
 donors:
@@ -50,7 +50,7 @@ publications:
       https://figshare.com/articles/preprint/Preventing_a_Lost_Generation_in_Ukraine_Recommendations_for_Supporting_Education_in_Emergency_Humanitarian_Response/20292042
     publication_type: Policy Brief
 ---
-Education Research in Conflict and Protracted Crisis (ERICC) is a three-year Education in Emergencies (EiE) research programme funded by the British Foreign, Commonwealth and Development Office (FCDO) and comprised of four main components:
+Education Research in Conflict and Protracted Crisis (ERICC) is a three-year Education in Emergencies (EiE) research programme funded by the British Foreign, Commonwealth and Development Office (FCDO). Countries in focus include Bangladesh (Cox's Bazar), Jordan, Lebanon, Myanmar, Nigeria, South Sudan and Syria, and the programme is comprised of four main components:
 
 1) Research on the most effective approaches to education in conflict and protracted crisis,
 
@@ -60,10 +60,16 @@ Education Research in Conflict and Protracted Crisis (ERICC) is a three-year Edu
 
 4) Knowledge Systems Strengthening
 
-The IRC leads the ERICC Research Programme Consortium (RPC), comprised of IRC and seven of the world’s leading research organizations focused on education in crisis and conflict settings, which is tasked with delivering Components 1 & 2 of the programme in seven FCDO focal countries and contexts — namely Bangladesh, Jordan, Lebanon, Myanmar, Nigeria, South Sudan, and Syria. The ERICC RPC will coordinate closely with the leads for components 3 & 4.
+Components 1 & 2 will be delivered by the ERICC Research Programme Consortium (RPC), who will coordinate closely with the leads for components 3 & 4.&nbsp;
 
-ERICC seeks to conduct rigorous research on what works, for whom, when, and at what cost in all ERICC focal contexts in order to present specific recommendations to positively impact Education policy and practice.
+The ERICC RPC is led by the International Rescue Committee (IRC) and expert partners include Centre for Lebanese Studies, Common Heritage Foundation, Forcier Consulting, ODI, Osman Consulting, and Queen Rania Foundation. During ERICC's inception period, NYU-TIES provided research leadership, developed the original ERICC Conceptual Framework and contributed to early research agenda development.&nbsp;
 
-To ensure that research responds to the acute needs of learners, the overarching research methodology begins with country scans - detailed evidence reviews and advisory committee workshops over the course of six months to identify key gaps and needs in education systems. These country scans will guide co-construction of full country research plans and will be iteratively reviewed with updated information in order to ensure that research remains relevant.
+The RPC conducts rigorous research on what works, for whom, when, and at what cost in all ERICC focal contexts in order to present specific recommendations to positively impact Education policy and practice.
 
-Starting in the second year of the programme, ERICC will leverage early learnings from research agenda creation to initiate operational support activities in FCDO focal countries, including providing technical support to country offices undertaking EiE programmes, and releasing calls for proposals for complementary ERICC research projects to be undertaken by researchers, institutions, and organizations operating in crisis contexts. These mechanisms are designed to expand ERICC’s reach within and outside of focal countries and regions and grow the overall body of research and researchers in the EiE field.
+The ERICC conceptual framework ([**link**](https://airbel.rescue.org/studies/a-conceptual-framework-for-education-research-in-conflict-and-protracted-crisis-ericc/){: target="_blank"}) identifies, examines, and supports four drivers of learning and development in contexts of conflict and protracted crisis: access, quality, continuity, and coherence for access, quality, and continuity. These drivers are defined as necessary for precipitating improvements in equity and achievement in holistic learning and developmental outcomes that are vital for children in conflict and protracted crisis settings, to fully engage in economic, political, and social activities in modern society such as foundational literacy and numeracy, as well as, social and emotional learning outcomes and physical and mental health.
+
+To ensure that research responds to the acute needs of learners, the overarching research methodology begins with country scans - detailed evidence reviews and advisory committee workshops over to identify key gaps and needs in education systems. These country scans then guide co-construction of full country research plans and will be iteratively reviewed with updated information in order to ensure that research remains relevant.
+
+ERICC will leverage early learnings from research agenda creation to initiate operational support activities in FCDO focal countries, including providing technical support to country offices undertaking EiE programmes, and releasing calls for proposals for complementary ERICC research projects to be undertaken by researchers, institutions, and organizations operating in crisis contexts. These mechanisms are designed to expand ERICC’s reach within and outside of focal countries and regions and grow the overall body of research and researchers in the EiE field.
+
+To learn more about ERICC's work during its inception phase in 2022, download and review the ERICC Inception Report [here](https://rescue.box.com/s/wfok2frnel8mbwf5cmiaulyjec3wrrvj){: target="_blank" rel="noopener"}
