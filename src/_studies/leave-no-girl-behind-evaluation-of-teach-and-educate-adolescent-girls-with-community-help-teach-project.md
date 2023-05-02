@@ -25,8 +25,33 @@ donors:
     link: >-
       https://www.gov.uk/government/organisations/foreign-commonwealth-development-office
 publications:
-  - title:
-    link:
+  - title: TEACH Baseline Evaluation Report
+    link: >-
+      https://girlseducationchallenge.org/media/pzhfaeqq/teach-lngb-baseline-evaluation.pdf
+    publication_type: Report
+  - title: 'TEACH Midline Evaluation Report '
+    link: https://rescue.box.com/s/y3k2x8xeprnd0ztds3gtu4v60s8sc8li
+    publication_type:
+  - title: TEACH Endline Evaluation Report
+    link: >-
+      https://girlseducationchallenge.org/media/jzpaxj4f/16feb2023_irc_teach_endline_evaluation_report_website.pdf
+    publication_type:
+  - title: 'IRC Tracer Study-TEACH Project Balochistan '
+    link: https://rescue.app.box.com/s/90zt3d0h8cnp017l1itmtbh2etxn7c8b
+    publication_type:
+  - title: Follow-up tracer study
+    link: https://rescue.box.com/s/svmnldffixjubspv4zwsnhuy69abhoc1
+    publication_type:
+  - title: >-
+      Alternate education Delivery Platforms for hard-to-reach areas of
+      Balochistan
+    link: https://rescue.box.com/s/apvu01twg8d465eem5gyvvavi4mr9mpq
+    publication_type:
+  - title: Role of Awareness in Decisions about Girl’s Education
+    link: https://rescue.box.com/s/5ynii8x4s65j4bv5jr0sw9kgv16omqim
+    publication_type:
+  - title: Gender Transformation with livelihood interventions of TEACH project
+    link: https://rescue.box.com/s/zuib43tv1a8z1ueb2ky8wy9sx5oz037m
     publication_type:
 ---
 Teach and Educate Adolescent Girls with Community Help (TEACH), was a 4-year project which targeted 29,000 highly marginalized and out-of-school (OOS) girls aged 10 to 19 years in five deprived districts namely Chaghi, Nushki, Pishin, Killa Abdullah and Kharan, in Balochistan province, Pakistan. The project offered two age-appropriate intervention streams; LEARN stream which aimed at improving learning outcomes through an accelerated learning program (ALP)&nbsp; and enabling the transition to formal or non-formal education for girls aged 10-14 years, and the EARN stream which was an employment-oriented/skills-based approach that aimed at impacting older girls (15-19 years) with market-relevant skills, and life skills, hence, enabling their transition into employment/self-employment.
