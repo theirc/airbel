@@ -16,9 +16,14 @@ image:
 partners:
   - name: Balochistan Education Foundation
     link: https://www.bef.org.pk/
+  - name: Tameer e Khalq Foundation
+    link: https://www.tameerekhalaq.org/
+  - name: Developments in Literacy
+    link: https://www.dil.org/
 donors:
-  - name:
-    link:
+  - name: Foreign, Commonwealth & Development Office (FCDO), UK Gov
+    link: >-
+      https://www.gov.uk/government/organisations/foreign-commonwealth-development-office
 publications:
   - title:
     link:
