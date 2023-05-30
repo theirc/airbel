@@ -65,6 +65,4 @@ This working paper was co-authored by Ha Yeon Kim, Carly Tubbs Dolan and J. Lawr
 
 **[View the ERICC conceptual framework here](https://figshare.com/articles/preprint/A_Conceptual_Framework_for_Education_Research_in_Conflict_and_Protracted_Crisis_ERICC_/21438093) and interact with the the self-guided graph below:**&nbsp;
 
-[![](/uploads/screenshot-2022-12-14-093126-1.png){: width="784" height="334"}](https://view.genial.ly/635c02d38a3dbf0019b0111d/interactive-content-ericc-icf-or-published){: target="_blank" rel="noopener"}
-
-&nbsp;
+[![](/uploads/screenshot-2022-12-14-093126-1.png){: width="784" height="334"}](https://view.genial.ly/635c02d38a3dbf0019b0111d/interactive-content-ericc-icf-or-published){: target="_blank"}

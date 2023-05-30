@@ -49,6 +49,9 @@ publications:
     link: >-
       https://figshare.com/articles/preprint/Preventing_a_Lost_Generation_in_Ukraine_Recommendations_for_Supporting_Education_in_Emergency_Humanitarian_Response/20292042
     publication_type: Policy Brief
+  - title: Inception Report
+    link: https://rescue.box.com/s/wfok2frnel8mbwf5cmiaulyjec3wrrvj
+    publication_type: Report
 ---
 Education Research in Conflict and Protracted Crisis (ERICC) is a three-year Education in Emergencies (EiE) research programme funded by the British Foreign, Commonwealth and Development Office (FCDO). Countries in focus include Bangladesh (Cox's Bazar), Jordan, Lebanon, Myanmar, Nigeria, South Sudan and Syria, and the programme is comprised of four main components:
 
@@ -72,4 +75,4 @@ To ensure that research responds to the acute needs of learners, the overarching
 
 ERICC will leverage early learnings from research agenda creation to initiate operational support activities in FCDO focal countries, including providing technical support to country offices undertaking EiE programmes, and releasing calls for proposals for complementary ERICC research projects to be undertaken by researchers, institutions, and organizations operating in crisis contexts. These mechanisms are designed to expand ERICC’s reach within and outside of focal countries and regions and grow the overall body of research and researchers in the EiE field.
 
-To learn more about ERICC's work during its inception phase in 2022, download and review the ERICC Inception Report [here](https://rescue.box.com/s/wfok2frnel8mbwf5cmiaulyjec3wrrvj){: target="_blank" rel="noopener"}
+To learn more about ERICC's work during its inception phase in 2022, download and review the ERICC Inception Report [here](https://rescue.box.com/s/wfok2frnel8mbwf5cmiaulyjec3wrrvj){: target="_blank"}
