@@ -57,7 +57,7 @@ Education Research in Conflict and Protracted Crisis (ERICC) is a three-year Edu
 
 1) Research on the most effective approaches to education in conflict and protracted crisis,
 
-2) In-Country Operational Support,
+2) In-Country Operational Support
 
 3) Promoting research uptake across FCDO and the international community, and
 
