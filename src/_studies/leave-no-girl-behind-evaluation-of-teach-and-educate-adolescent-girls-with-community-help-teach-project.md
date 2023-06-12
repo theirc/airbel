@@ -12,7 +12,7 @@ focuses:
 description:
 regions:
   - Pakistan
-image:
+image: /uploads/teach-header-image.jpg
 partners:
   - name: Balochistan Education Foundation
     link: https://www.bef.org.pk/
