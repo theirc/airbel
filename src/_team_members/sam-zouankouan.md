@@ -6,7 +6,7 @@ focuses:
   - economic-wellbeing
 expertise_areas:
 leadership: false
-image: /uploads/bio-pic-2-sz.jpg
+image: /uploads/bio-pic-2-sz-modified.jpg
 ---
 Samantha (Sam) Zouankouan is the Project Manager - Climate Research & Innovation at International Rescue Committee.
 
