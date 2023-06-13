@@ -30,17 +30,20 @@ publications:
       https://girlseducationchallenge.org/media/pzhfaeqq/teach-lngb-baseline-evaluation.pdf
     publication_type: Report
   - title: 'TEACH Midline Evaluation Report '
-    link: https://rescue.box.com/s/y3k2x8xeprnd0ztds3gtu4v60s8sc8li
+    link: >-
+      https://rescue.app.box.com/file/1205945031482?s=7g92yb1jbbocea8qtmu8kbv3pxqfqe1t
     publication_type:
   - title: TEACH Endline Evaluation Report
     link: >-
       https://girlseducationchallenge.org/media/jzpaxj4f/16feb2023_irc_teach_endline_evaluation_report_website.pdf
     publication_type:
   - title: 'IRC Tracer Study-TEACH Project Balochistan '
-    link: https://rescue.app.box.com/s/90zt3d0h8cnp017l1itmtbh2etxn7c8b
+    link: >-
+      https://rescue.app.box.com/file/1182587641075?s=g6y77ph16wqnegprs344fi473q14df94
     publication_type:
   - title: Follow-up tracer study
-    link: https://rescue.box.com/s/svmnldffixjubspv4zwsnhuy69abhoc1
+    link: >-
+      https://rescue.app.box.com/file/1173009293546?s=4cc1ev2asru8z6w0mei8qhgkwo55ddg1
     publication_type:
   - title: "Alternate education Delivery Platforms for hard-to-reach areas of Balochistan ○\t"
     link: https://rescue.box.com/s/d18zcqyec72get04bj5oiig27m6c6g4o
@@ -74,7 +77,7 @@ At [midline](https://rescue.box.com/s/7g92yb1jbbocea8qtmu8kbv3pxqfqe1t), there w
 
 * **Tracer Studies**
 
-We also conducted a mixed method [First Tracer study](https://rescue.box.com/s/g6y77ph16wqnegprs344fi473q14df94) and a [follow-up Tracer study](https://rescue.box.com/s/4cc1ev2asru8z6w0mei8qhgkwo55ddg1){: target="_blank" rel="noopener"}to assess the effectiveness and impact created by the EARN component of TEACH’s project on employment, income generation outcomes, and empowerment. The girls who completed the EARN interventions package felt ‘moderately empowered’ and reported that the training toolkits and the business grants were very effective in enhancing their skills, increasing their clientage, improving their efficiency, and increasing their income. The tracer studies also demonstrated that adolescent girls were better off self-employed than working on salary and wages, with 95% and 71% (first and follow-up studies respectively) of the girls in the TEACH Earn program successfully transitioning into self-employment and earning 50% and 93% higher income (first and follow-up studies respectively), than what they would have earned if they were employed.
+We also conducted a mixed method [First Tracer study](https://rescue.box.com/s/g6y77ph16wqnegprs344fi473q14df94) and a [follow-up Tracer study](https://rescue.box.com/s/4cc1ev2asru8z6w0mei8qhgkwo55ddg1){: target="_blank"}to assess the effectiveness and impact created by the EARN component of TEACH’s project on employment, income generation outcomes, and empowerment. The girls who completed the EARN interventions package felt ‘moderately empowered’ and reported that the training toolkits and the business grants were very effective in enhancing their skills, increasing their clientage, improving their efficiency, and increasing their income. The tracer studies also demonstrated that adolescent girls were better off self-employed than working on salary and wages, with 95% and 71% (first and follow-up studies respectively) of the girls in the TEACH Earn program successfully transitioning into self-employment and earning 50% and 93% higher income (first and follow-up studies respectively), than what they would have earned if they were employed.
 
 * **Alternate Education Delivery Platforms for Hard-to-Reach Areas of Balochistan&nbsp;**
 
