@@ -54,9 +54,6 @@ publications:
   - title: Gender Transformation with livelihood interventions of TEACH project
     link: https://rescue.box.com/s/ehtx0tykkjkyk4o1bs4abluvdb1hf0cd
     publication_type:
-  - title: 'Girl’s Education In Balochistan: Role Of Public Awareness Campaign'
-    link: https://journalppw.com/index.php/jpsp/article/view/16596/10547
-    publication_type:
   - title: >-
       Journal of Positive School Psychology: Girl’s Education In Balochistan:
       Role Of Public Awareness Campaign
