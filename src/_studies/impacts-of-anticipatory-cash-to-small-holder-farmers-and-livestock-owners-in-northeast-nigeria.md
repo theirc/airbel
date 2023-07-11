@@ -29,6 +29,10 @@ publications:
   - title: AEA RCT Registry – Andam, K. et al. 2022
     link: https://www.socialscienceregistry.org/trials/9652
     publication_type: Research Brief
+  - title: 'Cost Effectiveness Brief: Anticipatory Cash'
+    link: >-
+      https://www.rescue.org/report/livelihoods-cost-effectiveness-brief-anticipatory-cash
+    publication_type: Research Brief
 ---
 With funding from Google.org, the IRC is working with the International Food Policy Research Institute (IFPRI) and the Center for Disaster Protection to pilot and evaluate the use of early warning systems &anticipatory cash as a method to protect agro-pastoral livelihoods that are threatened by an increasing occurrence of severe flooding in the Northeastern state of Adamawa, Nigeria. Our central hypothesis is that when climate-vulnerable communities have timely access to information and the financial and social resources to act upon that information, they will avoid negative coping strategies and build more diversified and climate resilient livelihoods.
 
