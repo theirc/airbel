@@ -22,9 +22,12 @@ resources:
       on climate resilience in Northeast Nigeria
     description:
     url: https://rescue.app.box.com/s/17e0avdz5uzoal1gkr7v92i44zc563o0
-articles:
-  - title: '“Technical Working Paper – Balana et al., 2023”? '
+  - title: Technical Working Paper – Balana et al., 2023
+    description:
     url: https://ebrary.ifpri.org/digital/collection/p15738coll2/id/136812
+articles:
+  - title: ''
+    url: ''
 milestones:
   - date:
     title:
