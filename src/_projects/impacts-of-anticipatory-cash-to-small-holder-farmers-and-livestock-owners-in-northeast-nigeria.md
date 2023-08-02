@@ -21,8 +21,8 @@ resources:
     description:
     url:
 articles:
-  - title:
-    url:
+  - title: '“Technical Working Paper – Balana et al., 2023”? '
+    url: https://ebrary.ifpri.org/digital/collection/p15738coll2/id/136812
 milestones:
   - date:
     title:
