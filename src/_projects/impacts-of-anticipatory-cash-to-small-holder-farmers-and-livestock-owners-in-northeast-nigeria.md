@@ -17,9 +17,11 @@ hero_image:
 featured_image:
 featured_video_url:
 resources:
-  - title:
+  - title: >-
+      Acting Before Disaster Strikes: The impacts of anticipatory cash transfers
+      on climate resilience in Northeast Nigeria
     description:
-    url:
+    url: https://rescue.app.box.com/s/17e0avdz5uzoal1gkr7v92i44zc563o0
 articles:
   - title: '“Technical Working Paper – Balana et al., 2023”? '
     url: https://ebrary.ifpri.org/digital/collection/p15738coll2/id/136812
