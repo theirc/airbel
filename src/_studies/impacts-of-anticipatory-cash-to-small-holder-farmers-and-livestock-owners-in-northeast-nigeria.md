@@ -33,6 +33,14 @@ publications:
     link: >-
       https://www.rescue.org/report/livelihoods-cost-effectiveness-brief-anticipatory-cash
     publication_type: Research Brief
+  - title: >-
+      Acting Before Disaster Strikes: The impacts of anticipatory cash transfers
+      on climate resilience in Northeast Nigeria
+    link: https://rescue.app.box.com/s/17e0avdz5uzoal1gkr7v92i44zc563o0
+    publication_type: Research Brief
+  - title: Technical Working Paper – Balana et al., 2023
+    link: 'https://doi.org/10.2499/p15738coll2.136812 '
+    publication_type: Report
 ---
 With funding from Google.org, the IRC is working with the International Food Policy Research Institute (IFPRI) and the Center for Disaster Protection to pilot and evaluate the use of early warning systems &anticipatory cash as a method to protect agro-pastoral livelihoods that are threatened by an increasing occurrence of severe flooding in the Northeastern state of Adamawa, Nigeria. Our central hypothesis is that when climate-vulnerable communities have timely access to information and the financial and social resources to act upon that information, they will avoid negative coping strategies and build more diversified and climate resilient livelihoods.
 
