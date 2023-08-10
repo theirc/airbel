@@ -30,8 +30,7 @@ publications:
     link: https://www.socialscienceregistry.org/trials/9652
     publication_type: Research Brief
   - title: 'Cost Effectiveness Brief: Anticipatory Cash'
-    link: >-
-      https://www.rescue.org/report/livelihoods-cost-effectiveness-brief-anticipatory-cash
+    link: https://rescue.box.com/s/d50zph9g8wh869grmwdlmb3ujx2786kn
     publication_type: Research Brief
   - title: >-
       Acting Before Disaster Strikes: The impacts of anticipatory cash transfers
