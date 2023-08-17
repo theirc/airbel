@@ -1,7 +1,7 @@
 ---
 layout: team_member
 name: Suvi Kangas
-role_title: Senior Nutrition Research Coordinator
+role_title: Senior Nutrition Researcher
 focuses:
   - health
 expertise_areas:
@@ -9,7 +9,4 @@ expertise_areas:
 leadership: false
 image: /uploads/suvi-photo-2018-2.jpg
 ---
-
-Suvi is a Senior Nutrition Research Coordinator at the IRC overseeing an operational research project on the optimization of wasting treatment in the West and Central Africa region. The research portfolio that Suvi currently coordinates includes a simplified protocol pilot program, a relapse study and a Family Middle Upper Arm Circumference (MUAC) qualitative study in Mali and an operational pilot on Family MUAC effectiveness in Chad.
-
-Suvi is a Nutritionist (MSc, PhD) with experience working in the private and NGO sector on the treatment and prevention of wasting. After graduating with a Masters in Nutrition Science from the University of Helsinki, she joined Nutriset to work in the research and development of nutritional products to treat and prevent malnutrition. This included leading projects aiming at revising the RUTF contents to better match the nutritional needs of recovering children. Then she joined Action Against Hunger to lead a research study looking at the RUTF dosing and whether it could be safely reduced during treatment of severe acute malnutrition. She has published three papers on the results of this randomized control trial and wrote her PhD on the topic in collaboration with the University of Copenhagen.&nbsp;
+Dr. Suvi Kangas, MSc PhD is a Senior Nutrition Researcher at IRC with 10 years of experience working both in the field and at the central level designing and implementing research projects aiming at optimizing malnutrition treatment. She has extensive experience in designing and conducting rigorous research studies and production of evidence in the form of peer-reviewed articles. The research portfolio that Suvi currently supports includes operational pilots implementing the simplified protocol in various contexts, RCTs aiming at optimizing the simplified protocol and more generally the malnutrition treatment as well as exploratory research to inform guidance on optimization of treatment. Suvi is coordinating the production of different evidence pieces and oversees new research design and implementation within the Malnutrition GRIP.&nbsp;
