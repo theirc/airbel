@@ -130,7 +130,7 @@ The ERICC RPC is led by the International Rescue Committee (IRC), and expert par
 
 
 
-**ERICC publications**
+### **ERICC publications**
 
 At the end if ERICC’s inception year the RPC published the[ERICC Inception Report](https://rescue.app.box.com/s/wfok2frnel8mbwf5cmiaulyjec3wrrvj) in March 2023. The report provides an overview of the consortium, the ERICC theory of change, the [ERICC Conceptual Framework](https://airbel.rescue.org/studies/a-conceptual-framework-for-education-research-in-conflict-and-protracted-crisis-ericc/), process for developing country research agendas and more. You can also read the consortium’s conceptual framework developed by NYU Global TIES for Children during the Inception Period here, and interact with the [ERICC Conceptual Framework - interactive version](https://view.genial.ly/635c02d38a3dbf0019b0111d/interactive-content-ericc-icf-or-published).&nbsp;
 
