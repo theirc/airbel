@@ -95,8 +95,6 @@ As a part of ERICC’s Cohort 1 countries’ portfolio — including Cox’s Baz
 
 ###
 
-###
-
 ### **About ERICC**
 
 **Education Research in Conflict and Protracted Crisis (ERICC)** is a three-year Education in Emergencies (EiE) research programme funded by the British Foreign, Commonwealth and Development Office (FCDO). Countries in focus include Bangladesh (Cox’s Bazar), Jordan, Lebanon, Myanmar, Nigeria, South Sudan and Syria, and the programme is comprised of four main components:
