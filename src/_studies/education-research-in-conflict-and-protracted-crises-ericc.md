@@ -55,6 +55,30 @@ publications:
   - title: 'ERICC Factsheet: Cox''s Bazar'
     link: https://rescue.box.com/s/gxk82s1vejdkvbjgf46kqolprjm8k3qx
     publication_type: Report
+  - title: >-
+      From Evidence to practice: The case of education in an emergency context –
+      Cox’s Bazar
+    link: >-
+      https://figshare.com/articles/online_resource/_b_Working_Paper_ERICC_Evidence_Review_From_evidence_to_practice_The_case_of_education_in_an_emergency_context_Cox_s_Bazar_b_/24218965
+    publication_type: Case Study
+  - title: ERICC Research Agenda for Cox’s Bazar, Bangladesh
+    link: >-
+      https://figshare.com/articles/online_resource/ERICC_Working_Paper_ERICC_Research_Agenda_for_Cox_s_Bazar_Bangladesh/24213105
+    publication_type: Research Brief
+  - title: >-
+      Taking stock in Jordan: The evidence landscape and gaps in Jordan’s
+      educational response to the Syrian refugee crisis
+    link: >-
+      https://figshare.com/articles/online_resource/_b_Working_Paper_ERICC_Evidence_Review_Taking_stock_in_Jordan_The_evidence_landscape_and_gaps_in_Jordan_s_educational_response_to_the_Syrian_refugee_crisis_b_/24230992
+    publication_type: Policy Brief
+  - title: ERICC Research Agenda for Jordan
+    link: >-
+      https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24219025
+    publication_type: Research Brief
+  - title: ERICC Research Agenda for Nigeria
+    link: >-
+      https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24231028
+    publication_type: Research Brief
 ---
 Education Research in Conflict and Protracted Crisis (ERICC) is a three-year Education in Emergencies (EiE) research programme funded by the British Foreign, Commonwealth and Development Office (FCDO). Countries in focus include Bangladesh (Cox's Bazar), Jordan, Lebanon, Myanmar, Nigeria, South Sudan and Syria, and the programme is comprised of four main components:
 
