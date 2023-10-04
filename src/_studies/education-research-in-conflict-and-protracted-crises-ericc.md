@@ -88,12 +88,10 @@ As a part of ERICC’s Cohort 1 countries’ portfolio — including Cox’s Baz
 * [ERICC Research Agenda for Cox’s Bazar, Bangladesh](https://figshare.com/articles/online_resource/ERICC_Working_Paper_ERICC_Research_Agenda_for_Cox_s_Bazar_Bangladesh/24213105)
 * [Taking stock in Jordan: The evidence landscape and gaps in Jordan’s educational response to the Syrian refugee crisis](https://figshare.com/articles/online_resource/_b_Working_Paper_ERICC_Evidence_Review_Taking_stock_in_Jordan_The_evidence_landscape_and_gaps_in_Jordan_s_educational_response_to_the_Syrian_refugee_crisis_b_/24230992)&nbsp;
 * [ERICC Research Agenda for Jordan](https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24219025)
-* The Evidence for Improving Education in Conflict-affected Areas of Nigeria
+* [The Evidence for Improving Education in Conflict-affected Areas of Nigeria](https://figshare.com/articles/online_resource/_b_Working_Paper_ERICC_Evidence_Review_in_Nigeria_The_evidence_for_improving_education_in_conflict-affected_areas_of_Nigeria_and_existing_gaps_b_/24231040)
 * [ERICC Research Agenda for Nigeria](https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24231028)
 
-
-
-###
+\###
 
 ### **About ERICC**
 
@@ -131,11 +129,9 @@ As a part of ERICC’s Cohort 1 countries — including Cox’s Bazar - Banglade
 * **Cox’s Bazar:**
   * [From evidence to practice: The case of education in an emergency context – Cox’s Bazar](https://figshare.com/articles/online_resource/_b_Working_Paper_ERICC_Evidence_Review_From_evidence_to_practice_The_case_of_education_in_an_emergency_context_Cox_s_Bazar_b_/24218965)
   * [ERICC Research Agenda for Cox’s Bazar, Bangladesh](https://figshare.com/articles/online_resource/ERICC_Working_Paper_ERICC_Research_Agenda_for_Cox_s_Bazar_Bangladesh/24213105)
-
 * **Jordan:**
   * [Taking stock in Jordan: The evidence landscape and gaps in Jordan’s educational response to the Syrian refugee crisis](https://figshare.com/articles/online_resource/_b_Working_Paper_ERICC_Evidence_Review_Taking_stock_in_Jordan_The_evidence_landscape_and_gaps_in_Jordan_s_educational_response_to_the_Syrian_refugee_crisis_b_/24230992)&nbsp;
   * [ERICC Research Agenda for Jordan](https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24219025)
-
 * **Nigeria:**
   * The Evidence for Improving Education in Conflict-affected Areas of Nigeria
   * [ERICC Research Agenda for Nigeria](https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24231028)
