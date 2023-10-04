@@ -89,9 +89,9 @@ As a part of ERICC’s Cohort 1 countries’ portfolio — including Cox’s Baz
 * [Taking stock in Jordan: The evidence landscape and gaps in Jordan’s educational response to the Syrian refugee crisis](https://figshare.com/articles/online_resource/_b_Working_Paper_ERICC_Evidence_Review_Taking_stock_in_Jordan_The_evidence_landscape_and_gaps_in_Jordan_s_educational_response_to_the_Syrian_refugee_crisis_b_/24230992)&nbsp;
 * [ERICC Research Agenda for Jordan](https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24219025)
 * The Evidence for Improving Education in Conflict-affected Areas of Nigeria
-* [ERICC Research Agenda for Nigeria](https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24231028)<br>
+* [ERICC Research Agenda for Nigeria](https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24231028)
 
-###
+
 
 ### **About ERICC**
 
