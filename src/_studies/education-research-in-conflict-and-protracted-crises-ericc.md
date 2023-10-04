@@ -91,6 +91,12 @@ As a part of ERICC’s Cohort 1 countries’ portfolio — including Cox’s Baz
 * The Evidence for Improving Education in Conflict-affected Areas of Nigeria
 * [ERICC Research Agenda for Nigeria](https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24231028)<br>
 
+###
+
+###
+
+###
+
 ### **About ERICC**
 
 **Education Research in Conflict and Protracted Crisis (ERICC)** is a three-year Education in Emergencies (EiE) research programme funded by the British Foreign, Commonwealth and Development Office (FCDO). Countries in focus include Bangladesh (Cox’s Bazar), Jordan, Lebanon, Myanmar, Nigeria, South Sudan and Syria, and the programme is comprised of four main components:
