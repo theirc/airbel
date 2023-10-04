@@ -80,7 +80,20 @@ publications:
       https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24231028
     publication_type: Research Brief
 ---
-Education Research in Conflict and Protracted Crisis (ERICC) is a three-year Education in Emergencies (EiE) research programme funded by the British Foreign, Commonwealth and Development Office (FCDO). Countries in focus include Bangladesh (Cox's Bazar), Jordan, Lebanon, Myanmar, Nigeria, South Sudan and Syria, and the programme is comprised of four main components:
+#### **News**
+
+As a part of ERICC’s Cohort 1 countries’ portfolio — including Cox’s Bazar - Bangladesh, Jordan and Nigeria — here are the latest publications:
+
+* [From evidence to practice: The case of education in an emergency context – Cox’s Bazar](https://figshare.com/articles/online_resource/_b_Working_Paper_ERICC_Evidence_Review_From_evidence_to_practice_The_case_of_education_in_an_emergency_context_Cox_s_Bazar_b_/24218965)
+* [ERICC Research Agenda for Cox’s Bazar, Bangladesh](https://figshare.com/articles/online_resource/ERICC_Working_Paper_ERICC_Research_Agenda_for_Cox_s_Bazar_Bangladesh/24213105)
+* [Taking stock in Jordan: The evidence landscape and gaps in Jordan’s educational response to the Syrian refugee crisis](https://figshare.com/articles/online_resource/_b_Working_Paper_ERICC_Evidence_Review_Taking_stock_in_Jordan_The_evidence_landscape_and_gaps_in_Jordan_s_educational_response_to_the_Syrian_refugee_crisis_b_/24230992)&nbsp;
+* [ERICC Research Agenda for Jordan](https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24219025)
+* The Evidence for Improving Education in Conflict-affected Areas of Nigeria
+* [ERICC Research Agenda for Nigeria](https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24231028)
+
+#### **About ERICC**
+
+**Education Research in Conflict and Protracted Crisis (ERICC)** is a three-year Education in Emergencies (EiE) research programme funded by the British Foreign, Commonwealth and Development Office (FCDO). Countries in focus include Bangladesh (Cox’s Bazar), Jordan, Lebanon, Myanmar, Nigeria, South Sudan and Syria, and the programme is comprised of four main components:
 
 1) Research on the most effective approaches to education in conflict and protracted crisis,
 
@@ -90,16 +103,52 @@ Education Research in Conflict and Protracted Crisis (ERICC) is a three-year Edu
 
 4) Knowledge Systems Strengthening
 
-Components 1 & 2 will be delivered by the ERICC Research Programme Consortium (RPC), who will coordinate closely with the leads for components 3 & 4.&nbsp;
+**The ERICC consortium and approach to research**
 
-The ERICC RPC is led by the International Rescue Committee (IRC) and expert partners include Centre for Lebanese Studies, Common Heritage Foundation, Forcier Consulting, ODI, Osman Consulting, and Queen Rania Foundation. During ERICC's inception period, NYU-TIES provided research leadership, developed the original ERICC Conceptual Framework and contributed to early research agenda development.&nbsp;
+Leading ERICC components 1 & 2, and coordinating closely with leads for components 3 & 4, is the **ERICC Research Programme Consortium (RPC)**, a global research and learning partnership that strives to transform education policy and practice in conflict and protracted crisis around the world — ultimately to help improve holistic outcomes for children — through building a global hub for rigorous, context-relevant and actionable evidence base.&nbsp;
 
-The RPC conducts rigorous research on what works, for whom, when, and at what cost in all ERICC focal contexts in order to present specific recommendations to positively impact Education policy and practice.
+ERICC RPC seeks to identify the most effective approaches for improving access, quality, and continuity of education to support sustainable and coherent education systems and holistic learning and development of children in conflict and crisis. ERICC aims to bridge research, practice, and policy with accessible and actionable knowledge, at local, national, regional and global levels, through co-construction of research and collaborative partnerships.
 
-The ERICC conceptual framework ([link](https://airbel.rescue.org/studies/a-conceptual-framework-for-education-research-in-conflict-and-protracted-crisis-ericc/){: target="_blank"}) identifies, examines, and supports four drivers of learning and development in contexts of conflict and protracted crisis: access, quality, continuity, and coherence for access, quality, and continuity. These drivers are defined as necessary for precipitating improvements in equity and achievement in holistic learning and developmental outcomes that are vital for children in conflict and protracted crisis settings, to fully engage in economic, political, and social activities in modern society such as foundational literacy and numeracy, as well as, social and emotional learning outcomes and physical and mental health.
+The ERICC RPC is led by the International Rescue Committee (IRC), and expert partners include Centre for Lebanese Studies, Common Heritage Foundation, Forcier Consulting, ODI, Osman Consulting, and Queen Rania Foundation. During ERICC’s inception period, NYU-TIES provided research leadership, developed the original [ERICC Conceptual Framework](https://airbel.rescue.org/studies/a-conceptual-framework-for-education-research-in-conflict-and-protracted-crisis-ericc/) and contributed to early research agenda development.&nbsp;
 
-To ensure that research responds to the acute needs of learners, the overarching research methodology begins with country scans - detailed evidence reviews and advisory committee workshops over to identify key gaps and needs in education systems. These country scans then guide co-construction of full country research plans and will be iteratively reviewed with updated information in order to ensure that research remains relevant.
+**ERICC RPC is committed to four primary principles for conducting rigorous research:**
 
-ERICC will leverage early learnings from research agenda creation to initiate operational support activities in FCDO focal countries, including providing technical support to country offices undertaking EiE programmes, and releasing calls for proposals for complementary ERICC research projects to be undertaken by researchers, institutions, and organizations operating in crisis contexts. These mechanisms are designed to expand ERICC’s reach within and outside of focal countries and regions and grow the overall body of research and researchers in the EiE field.
+* Having developed and using [ERICC Conceptual Framework](https://airbel.rescue.org/studies/a-conceptual-framework-for-education-research-in-conflict-and-protracted-crisis-ericc/) to conduct systematic evidence reviews, evidence building and evidence based decision-making
+* Developing contextual understandings of the Political Economy of Education of different conflict and crises settings
+* A co-constructive approach to building research agendas through stakeholder engagement from the start for evidence use and evidence uptake
+* Applying a research methods framework to build evidence in a systematic and rigorous way
 
-To learn more about ERICC's work during its inception phase in 2022, download and review the ERICC Inception Report [here](https://rescue.box.com/s/wfok2frnel8mbwf5cmiaulyjec3wrrvj){: target="_blank"}
+**ERICC publications**
+
+At the end if ERICC’s inception year the RPC published the[ERICC Inception Report](https://rescue.app.box.com/s/wfok2frnel8mbwf5cmiaulyjec3wrrvj) in March 2023. The report provides an overview of the consortium, the ERICC theory of change, the [ERICC Conceptual Framework](https://airbel.rescue.org/studies/a-conceptual-framework-for-education-research-in-conflict-and-protracted-crisis-ericc/), process for developing country research agendas and more. You can also read the consortium’s conceptual framework developed by NYU Global TIES for Children during the Inception Period here, and interact with the [ERICC Conceptual Framework - interactive version](https://view.genial.ly/635c02d38a3dbf0019b0111d/interactive-content-ericc-icf-or-published).&nbsp;
+
+As a part of ERICC’s Cohort 1 countries — including Cox’s Bazar - Bangladesh, Jordan and Nigeria — the ERICC RPC has also just published the following publications:
+
+* **Cox’s Bazar:**
+  * [From evidence to practice: The case of education in an emergency context – Cox’s Bazar](https://figshare.com/articles/online_resource/_b_Working_Paper_ERICC_Evidence_Review_From_evidence_to_practice_The_case_of_education_in_an_emergency_context_Cox_s_Bazar_b_/24218965)
+  * [ERICC Research Agenda for Cox’s Bazar, Bangladesh](https://figshare.com/articles/online_resource/ERICC_Working_Paper_ERICC_Research_Agenda_for_Cox_s_Bazar_Bangladesh/24213105)
+
+* **Jordan:**
+  * [Taking stock in Jordan: The evidence landscape and gaps in Jordan’s educational response to the Syrian refugee crisis](https://figshare.com/articles/online_resource/_b_Working_Paper_ERICC_Evidence_Review_Taking_stock_in_Jordan_The_evidence_landscape_and_gaps_in_Jordan_s_educational_response_to_the_Syrian_refugee_crisis_b_/24230992)&nbsp;
+  * [ERICC Research Agenda for Jordan](https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24219025)
+
+* **Nigeria:**
+  * The Evidence for Improving Education in Conflict-affected Areas of Nigeria
+  * [ERICC Research Agenda for Nigeria](https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24231028)
+
+Also soon to be published:
+
+* Cox’s Bazar - Bangladesh Data Review
+* Jordan Data Review
+* Nigeria Data Review
+* South Sudan Evidence Review
+* South Sudan Data Review
+* Syria Evidence Review
+* Syria Data Review
+* Global Evidence Review
+* Global Research Agenda Overview
+* Global Data Systems Synthesis
+* Country Study Concept Notes
+* Political Economy Analyses
+
+And much more, **stay tuned!**&nbsp;
