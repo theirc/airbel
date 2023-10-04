@@ -111,8 +111,6 @@ As a part of ERICC’s Cohort 1 countries’ portfolio — including Cox’s Baz
 
 4) Knowledge Systems Strengthening
 
-###
-
 ### **The ERICC consortium and approach to research**
 
 Leading ERICC components 1 & 2, and coordinating closely with leads for components 3 & 4, is the **ERICC Research Programme Consortium (RPC)**, a global research and learning partnership that strives to transform education policy and practice in conflict and protracted crisis around the world — ultimately to help improve holistic outcomes for children — through building a global hub for rigorous, context-relevant and actionable evidence base.&nbsp;
