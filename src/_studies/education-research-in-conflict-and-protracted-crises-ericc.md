@@ -75,6 +75,12 @@ publications:
     link: >-
       https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24219025
     publication_type: Research Brief
+  - title: >-
+      The Evidence for improving education in conflict-affected areas of Nigeria
+      and existing gaps
+    link: >-
+      https://figshare.com/articles/online_resource/_b_Working_Paper_ERICC_Evidence_Review_in_Nigeria_The_evidence_for_improving_education_in_conflict-affected_areas_of_Nigeria_and_existing_gaps_b_/24231040
+    publication_type: Research Brief
   - title: ERICC Research Agenda for Nigeria
     link: >-
       https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24231028
@@ -91,7 +97,7 @@ As a part of ERICC’s Cohort 1 countries’ portfolio — including Cox’s Baz
 * [The Evidence for Improving Education in Conflict-affected Areas of Nigeria](https://figshare.com/articles/online_resource/_b_Working_Paper_ERICC_Evidence_Review_in_Nigeria_The_evidence_for_improving_education_in_conflict-affected_areas_of_Nigeria_and_existing_gaps_b_/24231040)
 * [ERICC Research Agenda for Nigeria](https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24231028)
 
-\###
+
 
 ### **About ERICC**
 
@@ -105,7 +111,9 @@ As a part of ERICC’s Cohort 1 countries’ portfolio — including Cox’s Baz
 
 4) Knowledge Systems Strengthening
 
-**The ERICC consortium and approach to research**
+###
+
+### **The ERICC consortium and approach to research**
 
 Leading ERICC components 1 & 2, and coordinating closely with leads for components 3 & 4, is the **ERICC Research Programme Consortium (RPC)**, a global research and learning partnership that strives to transform education policy and practice in conflict and protracted crisis around the world — ultimately to help improve holistic outcomes for children — through building a global hub for rigorous, context-relevant and actionable evidence base.&nbsp;
 
@@ -120,7 +128,9 @@ The ERICC RPC is led by the International Rescue Committee (IRC), and expert par
 * A co-constructive approach to building research agendas through stakeholder engagement from the start for evidence use and evidence uptake
 * Applying a research methods framework to build evidence in a systematic and rigorous way
 
-**ERICC publications**
+###
+
+### **ERICC publications**
 
 At the end if ERICC’s inception year the RPC published the[ERICC Inception Report](https://rescue.app.box.com/s/wfok2frnel8mbwf5cmiaulyjec3wrrvj) in March 2023. The report provides an overview of the consortium, the ERICC theory of change, the [ERICC Conceptual Framework](https://airbel.rescue.org/studies/a-conceptual-framework-for-education-research-in-conflict-and-protracted-crisis-ericc/), process for developing country research agendas and more. You can also read the consortium’s conceptual framework developed by NYU Global TIES for Children during the Inception Period here, and interact with the [ERICC Conceptual Framework - interactive version](https://view.genial.ly/635c02d38a3dbf0019b0111d/interactive-content-ericc-icf-or-published).&nbsp;
 
@@ -133,18 +143,18 @@ As a part of ERICC’s Cohort 1 countries — including Cox’s Bazar - Banglade
   * [Taking stock in Jordan: The evidence landscape and gaps in Jordan’s educational response to the Syrian refugee crisis](https://figshare.com/articles/online_resource/_b_Working_Paper_ERICC_Evidence_Review_Taking_stock_in_Jordan_The_evidence_landscape_and_gaps_in_Jordan_s_educational_response_to_the_Syrian_refugee_crisis_b_/24230992)&nbsp;
   * [ERICC Research Agenda for Jordan](https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24219025)
 * **Nigeria:**
-  * The Evidence for Improving Education in Conflict-affected Areas of Nigeria
+  * [The Evidence for Improving Education in Conflict-affected Areas of Nigeria and existing gaps](https://figshare.com/articles/online_resource/_b_Working_Paper_ERICC_Evidence_Review_in_Nigeria_The_evidence_for_improving_education_in_conflict-affected_areas_of_Nigeria_and_existing_gaps_b_/24231040)
   * [ERICC Research Agenda for Nigeria](https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24231028)
 
 Also soon to be published:
 
-* Cox’s Bazar - Bangladesh Data Review
-* Jordan Data Review
-* Nigeria Data Review
+* Cox’s Bazar - Bangladesh Data Systems Review
+* Jordan Data Systems Review
+* Nigeria Data Systems Review
 * South Sudan Evidence Review
-* South Sudan Data Review
+* South Sudan Data Systems Review
 * Syria Evidence Review
-* Syria Data Review
+* Syria Data Systems Review
 * Global Evidence Review
 * Global Research Agenda Overview
 * Global Data Systems Synthesis
