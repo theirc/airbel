@@ -97,8 +97,6 @@ As a part of ERICC’s Cohort 1 countries’ portfolio — including Cox’s Baz
 * [The Evidence for Improving Education in Conflict-affected Areas of Nigeria](https://figshare.com/articles/online_resource/_b_Working_Paper_ERICC_Evidence_Review_in_Nigeria_The_evidence_for_improving_education_in_conflict-affected_areas_of_Nigeria_and_existing_gaps_b_/24231040)
 * [ERICC Research Agenda for Nigeria](https://figshare.com/articles/online_resource/_b_ERICC_Working_Paper_ERICC_Research_Agenda_for_Jordan_b_/24231028)
 
-
-
 ### **About ERICC**
 
 **Education Research in Conflict and Protracted Crisis (ERICC)** is a three-year Education in Emergencies (EiE) research programme funded by the British Foreign, Commonwealth and Development Office (FCDO). Countries in focus include Bangladesh (Cox’s Bazar), Jordan, Lebanon, Myanmar, Nigeria, South Sudan and Syria, and the programme is comprised of four main components:
@@ -117,7 +115,7 @@ Leading ERICC components 1 & 2, and coordinating closely with leads for componen
 
 ERICC RPC seeks to identify the most effective approaches for improving access, quality, and continuity of education to support sustainable and coherent education systems and holistic learning and development of children in conflict and crisis. ERICC aims to bridge research, practice, and policy with accessible and actionable knowledge, at local, national, regional and global levels, through co-construction of research and collaborative partnerships.
 
-The ERICC RPC is led by the International Rescue Committee (IRC), and expert partners include Centre for Lebanese Studies, Common Heritage Foundation, Forcier Consulting, ODI, Osman Consulting, and Queen Rania Foundation. During ERICC’s inception period, NYU-TIES provided research leadership, developed the original [ERICC Conceptual Framework](https://airbel.rescue.org/studies/a-conceptual-framework-for-education-research-in-conflict-and-protracted-crisis-ericc/) and contributed to early research agenda development.&nbsp;
+The ERICC RPC is led by the International Rescue Committee (IRC), and expert partners include Centre for Lebanese Studies, Common Heritage Foundation, Forcier Consulting, ODI, Osman Consulting, Oxford Policy Management, and Queen Rania Foundation. During ERICC’s inception period, NYU-TIES provided research leadership, developed the original [ERICC Conceptual Framework](https://airbel.rescue.org/studies/a-conceptual-framework-for-education-research-in-conflict-and-protracted-crisis-ericc/) and contributed to early research agenda development.&nbsp;
 
 **ERICC RPC is committed to four primary principles for conducting rigorous research:**
 
@@ -126,11 +124,11 @@ The ERICC RPC is led by the International Rescue Committee (IRC), and expert par
 * A co-constructive approach to building research agendas through stakeholder engagement from the start for evidence use and evidence uptake
 * Applying a research methods framework to build evidence in a systematic and rigorous way
 
-
-
 ### **ERICC publications**
 
-At the end if ERICC’s inception year the RPC published the[ERICC Inception Report](https://rescue.app.box.com/s/wfok2frnel8mbwf5cmiaulyjec3wrrvj) in March 2023. The report provides an overview of the consortium, the ERICC theory of change, the [ERICC Conceptual Framework](https://airbel.rescue.org/studies/a-conceptual-framework-for-education-research-in-conflict-and-protracted-crisis-ericc/), process for developing country research agendas and more. You can also read the consortium’s conceptual framework developed by NYU Global TIES for Children during the Inception Period here, and interact with the [ERICC Conceptual Framework - interactive version](https://view.genial.ly/635c02d38a3dbf0019b0111d/interactive-content-ericc-icf-or-published).&nbsp;
+At the end if ERICC’s inception year the RPC published the[ERICC Inception Report](https://rescue.app.box.com/s/wfok2frnel8mbwf5cmiaulyjec3wrrvj) in March 2023. The report provides an overview of the consortium, the ERICC theory of change, the ERICC Conceptual Framework, process for developing country research agendas and much more.&nbsp;
+
+Read the [ERICC Conceptual Framework](https://airbel.rescue.org/studies/a-conceptual-framework-for-education-research-in-conflict-and-protracted-crisis-ericc/) developed by NYU Global TIES for Children during the Inception Period, and interact with the [ERICC Conceptual Framework - interactive version](https://view.genial.ly/635c02d38a3dbf0019b0111d/interactive-content-ericc-icf-or-published).
 
 As a part of ERICC’s Cohort 1 countries — including Cox’s Bazar - Bangladesh, Jordan and Nigeria — the ERICC RPC has also just published the following publications:
 
@@ -160,3 +158,39 @@ Also soon to be published:
 * Political Economy Analyses
 
 And much more, **stay tuned!**&nbsp;
+
+### ERICC Leadership<br>
+
+**ERICC Research Programme Consortium Leadership**
+
+Marie-France Guimond, ERICC Programme Director<br>Silvia-Diazgranados Ferráns, ERICC Research Co-Director
+
+**ERICC Technical & Advisory Board**<br><br>Larry Aber<br>Co-director, NYU-TIES School for Children
+
+Modupe Adefeso-Olateju<br>Managing Director, TEP Centre
+
+Michelle Brown<br>Global Education Cluster Coordinator
+
+Thomas Dreesen<br>\}Education Research Manager, UNICEF Innocenti
+
+Sarah Dryden Peterson<br>Associate Professor, Director, REACH, Harvard University
+
+David Evans<br>Senior Fellow, CGD
+
+Loise Gichuhi<br>Education Economist and EiE Expert, University of Nairobi
+
+Emma Gremley<br>Senior Director, Education Technical Unit, IRC
+
+Sarah Kabay<br>Education Program Director, Innovations for Poverty Action
+
+Graham Lang<br>Chief of Education, ECW
+
+Rebecca Telford<br>Education Section Chief, UNHCR
+
+Tejendra Pherali<br>Professor of Education, Conflict and Peace, UCL
+
+Anna-Maria Tammi<br>Technical Lead, GPE Education in Emergencies CAFS
+
+Leonard Wantchekon<br>Professor, Princeton University
+
+Nina Weisenhorn<br>Deputy Director, Office of Social Services, USAID/Afghanistan
