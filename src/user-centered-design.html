@@ -1,7 +1,38 @@
 ---
 layout: default
 title: User Centered Design
+tagline: Lorem ipsum
+description: Lorem ipsum
+hero_image: https://airbel.rescue.org/uploads/7-1.jpg?_cchid=78d2ac9685fb83bd35a4573a8eb6b20e
 ---
+
+{% if page.hero_image %}
+<div class="bg-image aspect-wide" style="background-image: url({{ page.hero_image | default: site.placeholders.hero }})"></div>
+{% else %}
+<div class="bg-image aspect-border bg-dark"></div>
+{% endif %}
+
+<section class="bg-single-plus bg-right bg-no-repeat py-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="content pb-0">
+          <h1 class="bordered-heading bordered-blue h2">
+            {{ page.title }}
+          </h1>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-lg-8">
+        <div class="content pt-0">
+          <p><mark class="bg-primary">{{ page.tagline }}</mark></p>
+          {{ page.description }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 <section class="bg-plus bg-right bg-no-repeat">
   <div class="container">
@@ -9,7 +40,7 @@ title: User Centered Design
       <div class="col">
         <div class="content">
           <div class="editable">
-            <h1 class="h2">User Centered Design<br />at the Airbel Impact Lab</h1>
+            <h2>User Centered Design<br />at the Airbel Impact Lab</h2>
             <p>We are a team of design-thinkers and strategists, developing new solutions that address big humanitarian challenges.</p>
           </div>
         </div>
