@@ -126,7 +126,7 @@ The ERICC RPC is led by the International Rescue Committee (IRC), and expert par
 
 ### **ERICC publications**
 
-At the end if ERICC’s inception year the RPC published the[ERICC Inception Report](https://rescue.app.box.com/s/wfok2frnel8mbwf5cmiaulyjec3wrrvj) in March 2023. The report provides an overview of the consortium, the ERICC theory of change, the ERICC Conceptual Framework, process for developing country research agendas and much more.&nbsp;
+At the end of ERICC’s inception year the RPC published the&nbsp;[ERICC Inception Report](https://rescue.app.box.com/s/wfok2frnel8mbwf5cmiaulyjec3wrrvj) in March 2023. The report provides an overview of the consortium, the ERICC theory of change, the ERICC Conceptual Framework, process for developing country research agendas and much more.&nbsp;
 
 Read the [ERICC Conceptual Framework](https://airbel.rescue.org/studies/a-conceptual-framework-for-education-research-in-conflict-and-protracted-crisis-ericc/) developed by NYU Global TIES for Children during the Inception Period, and interact with the [ERICC Conceptual Framework - interactive version](https://view.genial.ly/635c02d38a3dbf0019b0111d/interactive-content-ericc-icf-or-published).
 
@@ -159,21 +159,19 @@ Also soon to be published:
 
 And much more, **stay tuned!**&nbsp;
 
-### ERICC Leadership<br>
-
-
+### ERICC Leadership
 
 **ERICC Research Programme Consortium Leadership**
 
-Marie-France Guimond, ERICC Programme Director<br>Silvia-Diazgranados Ferráns, ERICC Research Co-Director
+To be announced, ERICC Research Co-Director&nbsp;<br>Silvia Diazgranados Ferráns, ERICC Research Co-Director (IRC)<br>Marie-France Guimond, ERICC Programme Director (IRC)<br>Oladele Akogun, ERICC Research Director - Nigeria & South Sudan (IRC)&nbsp;<br>Robert Palmer, ERICC Research Director - Jordan (QRF)<br>To be announced, ERICC Research Director - Bangladesh & Myanmar<br>Cathrine Brun, ERICC Research Director - Lebanon (CLS)<br>To be announced, ERICC Research Director - Syria&nbsp;<br>Tim Kelsall, ERICC Senior Policy Lead (ODI)<br>Maku Obuobi, ERICC Deputy Director & Fund Manager (IRC)
 
-**ERICC Technical & Advisory Board**<br><br>Larry Aber<br>Co-director, NYU-TIES School for Children
+**ERICC Technical & Advisory Board**<br><br>Larry Aber<br>Co-director, NYU Global TIES for Children
 
-Modupe Adefeso-Olateju<br>Managing Director, TEP Centre
+Modupe Adefeso-Olateju<br>Managing Director, TEP Centre<br><br>Friedrich Affolter<br>Global Education Cluster Co-Coordinator
 
-Michelle Brown<br>Global Education Cluster Coordinator
+Michelle Brown<br>Global Education Cluster Co-Coordinator
 
-Thomas Dreesen<br>\}Education Research Manager, UNICEF Innocenti
+Thomas Dreesen<br>Education Research Manager, UNICEF Innocenti
 
 Sarah Dryden Peterson<br>Associate Professor, Director, REACH, Harvard University
 
@@ -185,13 +183,13 @@ Emma Gremley<br>Senior Director, Education Technical Unit, IRC
 
 Sarah Kabay<br>Education Program Director, Innovations for Poverty Action
 
-Graham Lang<br>Chief of Education, ECW
+Graham Lang<br>Chief of Education, Education Cannot Wait
 
 Rebecca Telford<br>Education Section Chief, UNHCR
 
 Tejendra Pherali<br>Professor of Education, Conflict and Peace, UCL
 
-Anna-Maria Tammi<br>Technical Lead, GPE Education in Emergencies CAFS
+Anna-Maria Tammi<br>Technical Lead, Education in Emergencies - Conflict-Affected Fragile States, Global Partnership for Education Technical Lead, GPE Education in Emergencies CAFS
 
 Leonard Wantchekon<br>Professor, Princeton University
 
