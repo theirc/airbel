@@ -159,7 +159,7 @@ Also soon to be published:
 
 And much more, **stay tuned!**&nbsp;
 
-### ERICC Leadership
+### ERICC Leadership<br>
 
 **ERICC Research Programme Consortium Leadership**
 
